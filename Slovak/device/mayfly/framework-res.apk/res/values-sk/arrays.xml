@@ -6,16 +6,6 @@
         <item>Iné</item>
         <item>Vlastné</item>
     </string-array>
-    <array name="face_acquired_vendor" />
-    <array name="face_error_vendor" />
-    <array name="fingerprint_acquired_vendor" />
-    <array name="fingerprint_error_vendor" />
-    <string-array name="imAddressTypes">
-        <item>Domov</item>
-        <item>Práca</item>
-        <item>Iné</item>
-        <item>Vlastné</item>
-    </string-array>
     <string-array name="imProtocols">
         <item>AIM</item>
         <item>Windows Live</item>
@@ -25,13 +15,6 @@
         <item>Google Talk</item>
         <item>ICQ</item>
         <item>Jabber</item>
-    </string-array>
-    <string-array name="network_switch_type_name">
-        <item>mobilné dáta</item>
-        <item>Wi‑Fi</item>
-        <item>Bluetooth</item>
-        <item>Ethernet</item>
-        <item>VPN</item>
     </string-array>
     <string-array name="organizationTypes">
         <item>Práca</item>
@@ -53,6 +36,23 @@
         <item>Práca</item>
         <item>Iné</item>
         <item>Vlastné</item>
+    </string-array>
+    <array name="face_acquired_vendor" />
+    <array name="face_error_vendor" />
+    <array name="fingerprint_acquired_vendor" />
+    <array name="fingerprint_error_vendor" />
+    <string-array name="imAddressTypes">
+        <item>Domov</item>
+        <item>Práca</item>
+        <item>Iné</item>
+        <item>Vlastné</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>mobilné dáta</item>
+        <item>Wi‑Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
     </string-array>
     <string-array name="wfcOperatorErrorAlertMessages">
         <item>Ak chcete volať a odosielať správy prostredníctvom siete Wi‑Fi, kontaktujte najskôr svojho operátora v súvislosti s nastavením tejto služby. Potom opäť zapnite v Nastaveniach volanie cez Wi‑Fi. (Kód chyby: %1$s)</item>
