@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="btn_cancel_msg">Odmietnuť</string>
+    <string name="btn_ok_msg">Opakované budenie</string>
+    <string name="msg_battery_low_temperature">Teplota batérie je príliš nízka. Odpojte nabíjačku!</string>
+    <string name="msg_battery_over_temperature">Batéria je prehriatia, vyberte ju!</string>
+    <string name="msg_battery_over_voltage">Batéria má prepätie, vyberte ju!</string>
+    <string name="msg_charger_over_voltage">Nabíjačka vytvára prepätie, odpojte ju!</string>
+    <string name="msg_over_current_protection">Batéria nie je chránená proti nadprúdu, vyberte ju!</string>
+    <string name="msg_safety_timer_timeout">Doba nabíjania je príliš dlhá, odpojte nabíjačku!</string>
+    <string name="title_battery_low_temperature">Teplota slabej batérie</string>
+    <string name="title_battery_over_temperature">Prehriata batéria</string>
+    <string name="title_battery_over_voltage">Prepätie batérie</string>
+    <string name="title_charger_over_voltage">Prepätie nabíjačky</string>
+    <string name="title_over_current_protection">Nadprúdová ochrana</string>
+    <string name="title_safety_timer_timeout">Doba prebitia</string>
+</resources>

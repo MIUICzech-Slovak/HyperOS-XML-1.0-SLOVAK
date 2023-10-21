@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Muž</item>
+        <item>Žena</item>
+    </string-array>
+    <string-array name="common_week_array">
+        <item>Ne</item>
+        <item>Po</item>
+        <item>Ut</item>
+        <item>St</item>
+        <item>Št</item>
+        <item>Pia</item>
+        <item>So</item>
+    </string-array>
+    <string-array name="date_week">
+        <item>Pondelok</item>
+        <item>Utorok</item>
+        <item>Streda</item>
+        <item>Štvrtok</item>
+        <item>Piatok</item>
+        <item>Sobota</item>
+        <item>Nedeľa</item>
+    </string-array>
+    <string-array name="date_week_simple">
+        <item>P</item>
+        <item>U</item>
+        <item>S</item>
+        <item>Š</item>
+        <item>P</item>
+        <item>S</item>
+        <item>N</item>
+    </string-array>
+    <string-array name="date_week_simple1">
+        <item>P</item>
+        <item>U</item>
+        <item>S</item>
+        <item>Š</item>
+        <item>P</item>
+        <item>S</item>
+        <item>N</item>
+    </string-array>
+    <string-array name="device_settings_common_every_week_array">
+        <item>Každú nedeľu</item>
+        <item>Každý pondelok</item>
+        <item>Každý utorok</item>
+        <item>Každú stredu</item>
+        <item>Každý štvrtok</item>
+        <item>Každý piatok</item>
+        <item>Každú sobotu</item>
+    </string-array>
+    <string-array name="device_settings_date_week">
+        <item>Po</item>
+        <item>Ut</item>
+        <item>St</item>
+        <item>Št</item>
+        <item>Pia</item>
+        <item>So</item>
+        <item>Ne</item>
+    </string-array>
+    <string-array name="device_settings_date_week_simple1">
+        <item>Po</item>
+        <item>Ut</item>
+        <item>St</item>
+        <item>Št</item>
+        <item>Pia</item>
+        <item>So</item>
+        <item>Ne</item>
+    </string-array>
+    <string-array name="device_settings_reminder_period_array">
+        <item>Jednorázová udalosť</item>
+        <item>Denne</item>
+        <item>Týždenne</item>
+        <item>mesačne</item>
+        <item>Ročne</item>
+        <item>Vlastné</item>
+    </string-array>
+    <string-array name="device_settings_unlock_phone_distance_list">
+        <item>Veľmi blízko</item>
+        <item>Blízko</item>
+        <item>Ďaleko</item>
+    </string-array>
+    <string-array name="health_blood_pressure_repeat_mode_mild_abnormal_array">
+        <item>Po, St, Pi</item>
+        <item>Ut, Št, So</item>
+        <item>St, Pi, Ne</item>
+    </string-array>
+    <string-array name="health_blood_pressure_repeat_mode_week_array">
+        <item>Po</item>
+        <item>Ut</item>
+        <item>St</item>
+        <item>Št</item>
+        <item>Pia</item>
+        <item>So</item>
+        <item>Ne</item>
+    </string-array>
+    <string-array name="health_deep_shallow_sleep_guide_descriptions">
+        <item>Keď spíte, položte si telefón vedľa seba, aby ste mohli sledovať pohyby tela a vytvárať štatistiky spánkového cyklu.</item>
+        <item>"Ak chcete získať presné štatistiky, položte telefón vedľa vankúša alebo pod vankúš a uistite sa, že nie je od tela vzdialený viac ako 50 cm."</item>
+        <item>Keď je nastavený plán večierky, váš spánok sa bude sledovať automaticky.</item>
+        <item>Sledovanie spánku spotrebuje len asi 1 % batérie za noc.</item>
+    </string-array>
+    <string-array name="health_deep_shallow_sleep_guide_titles">
+        <item>Sledujte svoj spánok</item>
+        <item>Položte telefón vedľa vankúša</item>
+        <item>Generovať štatistiky automaticky</item>
+        <item>Nízka spotreba energie</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_daily_sleep_arr">
+        <item>Pre efektívnejšie nabitie energie by popoludňajší šlofík nemal presiahnuť 30 minút.</item>
+        <item>Skúste sa zamerať na správnu spánkovú hygienu.</item>
+        <item>Zdriemnutie na 10 až 20 minút môže prebudiť unavenú myseľ.</item>
+        <item>Krátke zdriemnutie pred 13:30 vám pomôže nabiť stratenú energiu.</item>
+        <item>Krátke zdriemnutie vám pomôže nabiť stratenú energiu.</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_long_sleep_arr">
+        <item>Dostatok spánku. Väčšina dospelých potrebuje 7 až 9 hodín spánku.</item>
+        <item>Dostatok spánku. Udržujte pravidelný spánkový režim.</item>
+        <item>Dostatok spánku. Len tak ďalej!</item>
+        <item>Veľmi krátky spánok. Väčšina dospelých potrebuje 7 až 9 hodín spánku.</item>
+        <item>Viac ako priemerné množstvo spánku. Väčšina dospelých potrebuje 7 až 9 hodín spánku.</item>
+        <item>Dostatok hlbokého spánku. Hlboký spánok pomáha posilniť vašu pamäť.</item>
+        <item>Dostatok hlbokého spánku má pozitívny vplyv na vašu imunitu.</item>
+        <item>Vyššie ako priemerné množstvo hlbokého spánku. Venujte viac pozornosti svojmu zdraviu.</item>
+        <item>Malé množstvo hlbokého spánku. Skúste si počas dňa zacvičiť, nie však tesne pred spaním.</item>
+        <item>Malé množstvo hlbokého spánku. Skúste sa pred spaním uvoľniť a relaxovať.</item>
+        <item>Malé množstvo hlbokého spánku. Vyhnite sa kofeínovým nápojom tesne pred spaním.</item>
+        <item>Skúste chodiť spať pred 23:00.</item>
+        <item>Neskoré zaspanie. Pozmeňte svoj spánkový režim.</item>
+        <item>Neskoré zaspanie. Pamätajte na pravidelný spánkový režim.</item>
+        <item>Časté ponocovanie sa vám môže vypomstiť na vašom zdraví.</item>
+        <item>Vyšší ako priemerný počet prebudení. Uistite sa, že je vaša spálňa zatemnená.</item>
+        <item>Pár prebudení počas noci. Uistite sa, že je vaša spálňa počas spánku tichá.</item>
+        <item>Pár prebudení počas noci. Uistite sa, že je vaša spálňa počas spánku tichá a zatemnená.</item>
+        <item>Dostatočné množstvo REM fázy. REM fáza môže pozitívne ovplyvniť vašu kreatívnosť a schopnosť riešenia problémov.</item>
+        <item>Dostatočné množstvo REM fázy. Vaša myseľ a telo je oddýchnuté, pripravené na nový deň.</item>
+        <item>Nedostatočné množstvo REM fázy. Skúste si počas dňa zacvičiť, nie však tesne pred spaním.</item>
+        <item>Nedostatočné množstvo REM fázy. Choďte dnes spať skôr.</item>
+        <item>Vyššie ako priemerné množstvo REM fázy. Pred spaním skúste viac relaxovať.</item>
+        <item>Vyššie ako priemerné množstvo REM fázy. Pamätajte na pravidelný spánkový režim.</item>
+        <item>Dostatok ľahkého spánku má pozitívny vplyv na vašu kreativitu.</item>
+        <item>Dostatok ľahkého spánku môže pomôcť pri znižovaní miery stresu.</item>
+        <item>Vyššie ako priemerné množstvo ľahkého spánku. Pred spaním skúste viac relaxovať.</item>
+        <item>Pre energickejšie rána skúste chodiť spať pred polnocou.</item>
+        <item>Pre energickejšie rána skúste chodiť spať pred polnocou.</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_monthly_sleep_arr">
+        <item>Dostatočné množstvo spánku a pravidelný spánkový režim sú základom. Len tak ďalej!</item>
+        <item>Dostatočné množstvo spánku, ale mierne nepravidelný spánkový režim. Zamerajte sa na pravidelný čas zaspávania a budenia.</item>
+        <item>Dostatočné množstvo spánku, ale nepravidelný spánkový režim. Zamerajte sa na pravidelný čas zaspávania a budenia a držte sa ho.</item>
+        <item>Dostatočné množstvo spánku a pravidelný spánkový režim. Vyhnite sa kofeínovým nápojom tesne pred spaním.</item>
+        <item>Dostatočné množstvo spánku, ale mierne nepravidelný spánkový režim. Pred spaním skúste viac relaxovať.</item>
+        <item>Dostatočné množstvo spánku, ale nepravidelný spánkový režim. Uistite sa, že je vaša spálňa počas spánku tichá a zatemnená.</item>
+        <item>Vyššie ako priemerné množstvo spánku a pravidelný spánkový režim. Skúste sa zamerať na správnu spánkovú hygienu.</item>
+        <item>Vyššie ako priemerné množstvo spánku, ale mierne nepravidelný spánkový režim. Ak sa cítite unavení, upravte svoj čas zaspávania a vstávania.</item>
+        <item>Vyššie ako priemerné množstvo spánku, ale nepravidelný spánkový režim. Zamerajte sa na pravidelný čas zaspávania a vstávania.</item>
+        <item>Nepravidelný spánok. Vytvorte si spánkový plán a držte sa ho.</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_stage_arr">
+        <item>Žiadne dáta</item>
+        <item>Dostačujúce</item>
+        <item>Priemerný</item>
+        <item>Dobrý</item>
+        <item>Výborný</item>
+        <item>Žiadne dáta</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_weekly_sleep_arr">
+        <item>Dostatočné množstvo spánku a pravidelný spánkový režim sú základom. Len tak ďalej!</item>
+        <item>Dostatočné množstvo spánku, ale mierne nepravidelný spánkový režim. Zamerajte sa na pravidelný čas zaspávania a budenia.</item>
+        <item>Dostatočné množstvo spánku, ale nepravidelný spánkový režim. Zamerajte sa na pravidelný čas zaspávania a budenia a držte sa ho.</item>
+        <item>Dostatočné množstvo spánku a pravidelný spánkový režim. Vyhnite sa kofeínovým nápojom tesne pred spaním.</item>
+        <item>Dostatočné množstvo spánku, ale mierne nepravidelný spánkový režim. Pred spaním skúste viac relaxovať.</item>
+        <item>Dostatočné množstvo spánku, ale nepravidelný spánkový režim. Uistite sa, že je vaša spálňa počas spánku tichá a zatemnená.</item>
+        <item>Vyššie ako priemerné množstvo spánku a pravidelný spánkový režim. Skúste sa zamerať na správnu spánkovú hygienu.</item>
+        <item>Vyššie ako priemerné množstvo spánku, ale mierne nepravidelný spánkový režim. Ak sa cítite unavení, upravte svoj čas zaspávania a vstávania.</item>
+        <item>Vyššie ako priemerné množstvo spánku, ale nepravidelný spánkový režim. Zamerajte sa na pravidelný čas zaspávania a vstávania.</item>
+        <item>Nepravidelný spánok. Vytvorte si spánkový plán a držte sa ho.</item>
+    </string-array>
+    <string-array name="health_sleep_snore_guide_descriptions">
+        <item>Počas spánku sa bude nahrávať zvuk. Strojové učenie umožňuje Xiaomi Fitness detekovať chrápanie, hovorenie a hlasné zvuky a ukladať nahrávky do vášho telefónu.</item>
+        <item>Mikrofón sa bude zapínať a vypínať podľa vášho plánu večierky.</item>
+        <item>Pred odchodom do postele sa uistite, že je váš telefón dostatočne nabitý. Slabá batéria môže prerušiť nahrávanie zvuku.</item>
+    </string-array>
+    <string-array name="health_sleep_snore_guide_titles">
+        <item>Nahrávať zvuk pomocou mikrofónu</item>
+        <item>Detect sounds automatically</item>
+        <item>Keep your phone charged</item>
+    </string-array>
+    <string-array name="settingitem_date_week">
+        <item>Po</item>
+        <item>Ut</item>
+        <item>St</item>
+        <item>Št</item>
+        <item>Pia</item>
+        <item>So</item>
+        <item>Ne</item>
+    </string-array>
+    <string-array name="settingitem_date_week_simple">
+        <item>P</item>
+        <item>U</item>
+        <item>S</item>
+        <item>Š</item>
+        <item>P</item>
+        <item>S</item>
+        <item>N</item>
+    </string-array>
+    <string-array name="settingitem_date_week_simple1">
+        <item>Po</item>
+        <item>Ut</item>
+        <item>St</item>
+        <item>Št</item>
+        <item>Pia</item>
+        <item>So</item>
+        <item>Ne</item>
+    </string-array>
+    <string-array name="userinfo_contact_relation_array">
+        <item>Nenastavené</item>
+        <item>Rodič</item>
+        <item>Sestra</item>
+        <item>Brat</item>
+        <item>Manžel(-ka)</item>
+        <item>Priateľ(-kyne)</item>
+        <item>Kamarát(-ka)</item>
+        <item>Spolupracovník</item>
+        <item>Spolužiak</item>
+        <item>Dieťa</item>
+        <item>Partner (práca)</item>
+        <item>Asistent</item>
+        <item>Nadriadený</item>
+        <item>Spolubývajúci</item>
+        <item>Lekár</item>
+        <item>Člen rodiny</item>
+        <item>Učiteľ</item>
+        <item>Opatrovateľ(ka)</item>
+        <item>Opatrovník</item>
+        <item>Sociálny pracovník</item>
+        <item>Škola</item>
+        <item>Škôlka</item>
+        <item>Iné</item>
+    </string-array>
+    <string-array name="userinfo_gender_array">
+        <item>Nenastavené</item>
+        <item>Muž</item>
+        <item>Žena</item>
+    </string-array>
+    <string-array name="userinfo_normal_blood_array">
+        <item>Nenastavené</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="userinfo_rh_blood_array">
+        <item>Nenastavené</item>
+        <item>Negatívne</item>
+        <item>Pozitívne</item>
+    </string-array>
+    <string-array name="userinfo_yes_no_array">
+        <item>Nenastavené</item>
+        <item>Áno</item>
+        <item>Nie</item>
+    </string-array>
+    <string-array name="week_label">
+        <item>N</item>
+        <item>P</item>
+        <item>U</item>
+        <item>S</item>
+        <item>Š</item>
+        <item>P</item>
+        <item>S</item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+    <plurals name="alert_dialog_exit_ecm_without_data_restriction_hint">
+        <item quantity="other">"Telefón bude v režime tiesňového spätného volania %s minút.
+Chcete tento režim ukončiť?"</item>
+        <item quantity="one">"Telefón bude v režime tiesňového spätného volania %s minútu.
+Chcete tento režim ukončiť?"</item>
+        <item quantity="few">"Telefón bude v režime tiesňového spätného volania %s minúty.
+Chcete tento režim ukončiť?"</item>
+        <item quantity="many">"Telefón bude v režime tiesňového spätného volania %s minúty.
+Chcete tento režim ukončiť?"</item>
+    </plurals>
+</resources>

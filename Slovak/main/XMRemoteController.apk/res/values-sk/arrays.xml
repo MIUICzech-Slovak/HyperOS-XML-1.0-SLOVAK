@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Chladenie</item>
+        <item>Kúrenie</item>
+        <item>Odvlhčovanie</item>
+        <item>Ventilátor</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Prístroj môžete spárovať len s Xiaomi TV, Xiaomi Box a ďalšími Android zariadeniami pomocou Wi-Fi.</item>
+        <item>Uistite sa, že ste vybrali správny A/C model v procese párovania. Postupujte podľa pokynov v zariadení, kým sa párovanie nedokončí.</item>
+        <item>Nie. V súčasnosti môžete používať ako IR diaľkové Xiaomi 4, Xiaomi 4c a Redmi Note 2.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Ned.</item>
+        <item>Pon.</item>
+        <item>Uto.</item>
+        <item>Str.</item>
+        <item>Štv.</item>
+        <item>Pia.</item>
+        <item>Sob.</item>
+    </string-array>
+    <string-array name="question">
+        <item>Prečo môj telefón stále hľadá bezdrôtové prístroje?</item>
+        <item>Prečo môžem len zapnuť moje A/C, ale nie vypnúť?</item>
+        <item>Môžem použiť Xiaomi 3, Xiaomi 2 a Redmi ako IR diaľkové?</item>
+    </string-array>
+</resources>

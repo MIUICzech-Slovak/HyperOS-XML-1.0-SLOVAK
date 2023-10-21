@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<resources>
+    <string-array name="contact_entries">
+        <item>Meno</item>
+        <item>Prezývka</item>
+        <item>Telefón</item>
+        <item>E-mail</item>
+        <item>Spoločnosť</item>
+        <item>IM</item>
+        <item>SIP Číslo</item>
+        <item>Narodeniny</item>
+        <item>WWW</item>
+        <item>Adresa</item>
+        <item>Poznámka</item>
+        <item>Vzťah</item>
+    </string-array>
+    <string-array name="entries_date_type">
+        <item>Zobraziť čas prijatia</item>
+        <item>Zobraziť čas odoslania</item>
+    </string-array>
+    <string-array name="entries_mms_validity_period">
+        <item>Maximum</item>
+        <item>Dva dni</item>
+    </string-array>
+    <string-array name="entries_sms_validity_period">
+        <item>Nenastavené</item>
+        <item>1 hodinu</item>
+        <item>6 hodín</item>
+        <item>12 hodín</item>
+        <item>1 deň</item>
+        <item>Maximum</item>
+    </string-array>
+    <string-array name="prefEntries_ringtone_repeat">
+        <item>1 krát</item>
+        <item>2 krát</item>
+        <item>3 krát</item>
+        <item>5 krát</item>
+        <item>10 krát</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Vždy</item>
+        <item>Len v tichom režime</item>
+        <item>Nikdy</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>Pomocou MMS</item>
+        <item>Pomocou Cloud MMS</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>Pomocou SMS</item>
+        <item>Pomocou Cloud SMS</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 sekunda</item>
+        <item>2 sekundy</item>
+        <item>3 sekundy</item>
+        <item>4 sekundy</item>
+        <item>5 sekúnd</item>
+        <item>6 sekúnd</item>
+        <item>7 sekúnd</item>
+        <item>8 sekúnd</item>
+        <item>9 sekúnd</item>
+        <item>10 sekúnd</item>
+        <item>Ostatné...</item>
+    </string-array>
+    <string-array name="wild_msg_sync_options">
+        <item>Synchr. všetky SMS</item>
+        <item>Synchr. SMS z vybraných SIM kariet</item>
+    </string-array>
+</resources>

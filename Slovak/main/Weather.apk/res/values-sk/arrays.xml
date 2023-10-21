@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<resources>
+    <string-array name="hot_city">
+        <item>Bratislava</item>
+        <item>Košice</item>
+        <item>Prešov</item>
+        <item>Žilina</item>
+        <item>Banská Bystrica</item>
+        <item>Humenné</item>
+        <item>Pezinok</item>
+        <item>Poprad</item>
+        <item>Trebišov</item>
+        <item>Stropkov</item>
+        <item>Štrbské pleso</item>
+        <item>Lučenec</item>
+        <item>Chopok</item>
+        <item>Prievidza</item>
+        <item>Dudince</item>
+        <item>Nitra</item>
+        <item>Trnava</item>
+        <item>Piešťany</item>
+        <item>Hurbanovo</item>
+        <item>Lomnický stit</item>
+        <item>Sliač</item>
+        <item>Telgárt</item>
+        <item>Liptovský Mikuláš</item>
+    </string-array>
+    <string-array name="indices_car_wash">
+        <item>Vhodné</item>
+        <item>Nevhodné</item>
+    </string-array>
+    <string-array name="indices_sport">
+        <item>Vhodné</item>
+        <item>Nevhodné</item>
+    </string-array>
+    <string-array name="indices_uv_level">
+        <item>Nízky</item>
+        <item>Stredný</item>
+        <item>Silný</item>
+    </string-array>
+    <string-array name="minute_rain_array">
+        <item>Hustý</item>
+        <item>Stredný</item>
+        <item>Jemný</item>
+    </string-array>
+    <string-array name="moon_desc">
+        <item>Nov</item>
+        <item>Dorastajúci kosáčik</item>
+        <item>Prvá štvrť</item>
+        <item>Dorastajúci Mesiac</item>
+        <item>Spln</item>
+        <item>Cúvajúci mesiac</item>
+        <item>Posledná štvrť</item>
+        <item>Ubúdajúci kosáčik</item>
+        <item>Zatmenie</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Nízky</item>
+        <item>Mierny</item>
+        <item>Stredný</item>
+        <item>Vysoký</item>
+        <item>Veľmi vysoký</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Jasno</item>
+        <item>Oblačno</item>
+        <item>Zamračené</item>
+        <item>Hmlisto</item>
+        <item>Búrka</item>
+        <item>Lejak</item>
+        <item>Búrka</item>
+        <item>Búrka</item>
+        <item>Dážď</item>
+        <item>Lejak</item>
+        <item>Dážď</item>
+        <item>Jemný Dážď</item>
+        <item>Dážď so snehom</item>
+        <item>Snehová búrka</item>
+        <item>Sneženie</item>
+        <item>Sneženie</item>
+        <item>Sneženie</item>
+        <item>Sneženie</item>
+        <item>Piesková búrka</item>
+        <item>Piesková búrka</item>
+        <item>Piesková búrka</item>
+        <item>Veterno</item>
+        <item>Krupobitie</item>
+        <item>Prach</item>
+        <item>Hmla</item>
+        <item>Mrznúci dážď</item>
+        <item></item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>S</item>
+        <item>SV</item>
+        <item>V</item>
+        <item>JV</item>
+        <item>J</item>
+        <item>JZ</item>
+        <item>Z</item>
+        <item>SZ</item>
+    </string-array>
+    <string-array name="wind_direction_simple">
+        <item>S</item>
+        <item>SV</item>
+        <item>V</item>
+        <item>JV</item>
+        <item>J</item>
+        <item>JZ</item>
+        <item>Z</item>
+        <item>SZ</item>
+    </string-array>
+    <string-array name="wind_unit_detail">
+        <item>Beaufortova stupnica</item>
+        <item>Kilometre za hodinu (km/h)</item>
+        <item>Metre za sekundu (m/s)</item>
+        <item>Míle za hodinu (mph)</item>
+        <item>Uzly (kn)</item>
+    </string-array>
+    <string-array name="wind_unit_replace">
+        <item>Sila %1$s</item>
+        <item>%1$s km/h</item>
+        <item>%1$s m/s</item>
+        <item>%1$s mph</item>
+        <item>%1$s kn</item>
+    </string-array>
+</resources>

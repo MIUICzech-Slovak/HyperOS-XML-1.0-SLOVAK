@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="colorfulmusic_coeffs">
+        <item>Mierné</item>
+        <item>Úroveň 1</item>
+        <item>Úroveň 2</item>
+        <item>Úroveň 3</item>
+        <item>Úroveň 4</item>
+        <item>Úroveň 5</item>
+        <item>Úroveň 6</item>
+        <item>Úroveň 7</item>
+        <item>Extrém</item>
+    </string-array>
+    <string-array name="colorfulmusic_midimage">
+        <item>Mierné</item>
+        <item>Úroveň 1</item>
+        <item>Úroveň 2</item>
+        <item>Úroveň 3</item>
+        <item>Úroveň 4</item>
+        <item>Úroveň 5</item>
+        <item>Úroveň 6</item>
+        <item>Úroveň 7</item>
+        <item>Úroveň 8</item>
+        <item>Úroveň 9</item>
+        <item>Extrém</item>
+    </string-array>
+    <string-array name="compatible_mode">
+        <item>Normálny</item>
+        <item>Kompatibilný</item>
+    </string-array>
+    <string-array name="cure_crossfeed">
+        <item>Mierné</item>
+        <item>Stredné</item>
+        <item>Extrém</item>
+    </string-array>
+    <string-array name="drvinst_prefer">
+        <item>Super kvalita zvuku</item>
+        <item>Vysoká kvalita zvuku</item>
+        <item>Úspora energie</item>
+    </string-array>
+    <string-array name="dynamicsystem_bass">
+        <item>0 Percent</item>
+        <item>1 Percento</item>
+        <item>2 Percenta</item>
+        <item>3 Percenta</item>
+        <item>4 Percenta</item>
+        <item>5 Percent</item>
+        <item>6 Percent</item>
+        <item>7 Percent</item>
+        <item>8 Percent</item>
+        <item>9 Percent</item>
+        <item>10 Percent</item>
+        <item>12 Percent</item>
+        <item>14 Percent</item>
+        <item>16 Percent</item>
+        <item>18 Percent</item>
+        <item>20 Percent</item>
+        <item>22 Percent</item>
+        <item>24 Percent</item>
+        <item>26 Percent</item>
+        <item>28 Percent</item>
+        <item>30 Percent</item>
+        <item>33 Percent</item>
+        <item>36 Percent</item>
+        <item>40 Percent</item>
+        <item>45 Percent</item>
+        <item>50 Percent</item>
+        <item>55 Percent</item>
+        <item>60 Percent</item>
+        <item>70 Percent</item>
+        <item>80 Percent</item>
+        <item>90 Percent</item>
+        <item>100 Percent</item>
+    </string-array>
+    <string-array name="dynamicsystem_outputs">
+        <item>Extrémne slúchadla(v2)</item>
+        <item>High-end slúchadla(v2)</item>
+        <item>Bežné slúchadla(v2)</item>
+        <item>Low-end slúchadla(v2)</item>
+        <item>Bežné špunty(v2)</item>
+        <item>Extrémne slúchadla(v1)</item>
+        <item>High-end slúchadla(v1)</item>
+        <item>Bežné slúchadlá(v1)</item>
+        <item>Bežné špunty(v1)</item>
+        <item>Apple</item>
+        <item>Monster</item>
+        <item>Moto</item>
+        <item>Philips</item>
+        <item>SHP2000</item>
+        <item>SHP9000</item>
+        <item>Neznámy typ I</item>
+        <item>Neznámy typ II</item>
+        <item>Neznámy typ III</item>
+        <item>Neznámy typ IV</item>
+    </string-array>
+    <string-array name="playbackgain_ratio">
+        <item>Mierné</item>
+        <item>Stredné</item>
+        <item>Extrém</item>
+    </string-array>
+    <string-array name="ui_prefer">
+        <item>Začiatočník</item>
+        <item>Pokročilý</item>
+        <item>Expert</item>
+    </string-array>
+    <string-array name="vbass_mode">
+        <item>Prirodzené Basy</item>
+        <item>Čisté Basy+</item>
+        <item>Subwoofer</item>
+    </string-array>
+    <string-array name="vclarity_boost">
+        <item>Predvolené</item>
+        <item>3.5 dB</item>
+        <item>6.0 dB</item>
+        <item>8.0 dB</item>
+        <item>10.0 dB</item>
+        <item>11.0 dB</item>
+        <item>12.0 dB</item>
+        <item>13.0 dB</item>
+        <item>14.0 dB</item>
+        <item>14.8 dB</item>
+    </string-array>
+    <string-array name="vclarity_mode">
+        <item>Prirodzené</item>
+        <item>OZone+</item>
+        <item>XHiFi</item>
+    </string-array>
+</resources>

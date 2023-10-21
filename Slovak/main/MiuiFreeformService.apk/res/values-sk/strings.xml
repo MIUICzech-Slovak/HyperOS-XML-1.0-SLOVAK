@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="app_name">Plávajúce okná</string>
+    <string name="bottom_bar_smallwindow_drag_text">Potiahnite tu pre pripnutie</string>
+    <string name="bottom_bar_smallwindow_text">Pustite pre pripnutie</string>
+    <string name="contentDescription">Presúvanie okna</string>
+    <string name="freeform_demo_back">Späť</string>
+    <string name="freeform_demo_final_over">Hotovo</string>
+    <string name="freeform_demo_final_restart">Znova</string>
+    <string name="freeform_demo_final_title">Ste pripravený!</string>
+    <string name="freeform_demo_go_on">Ďalej</string>
+    <string name="freeform_demo_next_tutorial">Ďalej</string>
+    <string name="freeform_demo_previous_tutorial">Späť</string>
+    <string name="freeform_demo_title_finish">Super!</string>
+    <string name="freeform_demo_title_skip">Preskočiť</string>
+    <string name="freeform_guide_to_sidehide_summary">Rýchlo potiahnite okno za panel akcií k okraju obrazovky</string>
+    <string name="freeform_guide_to_sidehide_title">Skrytie plávajúcich okien</string>
+    <string name="freeform_slide_to_small_freeform">Potiahnite pre zmenšenie</string>
+    <string name="freeform_slide_to_small_freeform_summary">Stlačte a potiahnite do lišty plávajúceho okna v pravom hornom rohu</string>
+    <string name="fullscreen_slide_to_small_freeform">Minimalizovať aplikáciu</string>
+    <string name="fullscreen_slide_to_small_freeform_summary">Potiahnite prstom z dolnej časti obrazovky do pravého horného rohu</string>
+    <string name="fullscreen_slide_to_small_freeform_summary_squarehot">Potiahnite zo spodu k hornej hrane displeja</string>
+    <string name="how_to_close_or_fullscreen_freeform">Zatvorenie plávajúceho okna alebo prepnutie na celý displej</string>
+    <string name="how_to_drop_down_to_fullscreen">Prepnúť na celý displej</string>
+    <string name="how_to_drop_down_to_fullscreen_summary">Stlačte a podržte, potom potiahnite nadol lištu plávajúceho okna</string>
+    <string name="how_to_hang_freeform">Minimalizovanie plávajúceho okna</string>
+    <string name="how_to_hang_to_small_freeform">Minimalizovať plávajúce okno</string>
+    <string name="how_to_hang_to_small_freeform_summary">Potiahnite plávajúce okno do rohu displeja</string>
+    <string name="how_to_move_freeform">Presúvanie plávajúceho okna</string>
+    <string name="how_to_move_freeform_window">Presúvanie plávajúceho okna</string>
+    <string name="how_to_move_freeform_window_summary">Stlačte a podržte lištu plávajúceho okna pre jeho presunutie</string>
+    <string name="how_to_notification_drop_down">Otvoriť plávajúce okno</string>
+    <string name="how_to_notification_drop_down_summary">Stlačte a podržte, potom potiahnite nadol lištu upozornenia</string>
+    <string name="how_to_open_freeform">Otvorenie upozornenia v plávajúcom okne</string>
+    <string name="how_to_slide_up_to_close">Zatvoriť plávajúce okno</string>
+    <string name="how_to_slide_up_to_close_summary">Potiahnite nahor lištu plávajúceho okna</string>
+    <string name="how_to_use_freeform">Ako používať plávajúce okná</string>
+    <string name="multi_window_cvw">Plávajúce okno</string>
+    <string name="multi_window_cvw_summary">Presunutím rohu prepnite na plávajúce okno a upravte jeho veľkosť</string>
+    <string name="multi_window_cvw_summary_global">Presunutím rohu prepnite na plávajúce okno a upravte jeho veľkosť</string>
+</resources>

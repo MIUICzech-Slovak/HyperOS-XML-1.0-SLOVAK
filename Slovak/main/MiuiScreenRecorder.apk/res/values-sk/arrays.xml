@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="screenrecorder_settings_orientation">
+        <item>Auto</item>
+        <item>Na výšku</item>
+        <item>Na šírku</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_sound">
+        <item>Bez zvuku</item>
+        <item>Zvuk z mikrofónu</item>
+        <item>Systémové zvuky</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_storage_location">
+        <item>Interné úložisko</item>
+        <item>Externé úložisko</item>
+    </string-array>
+</resources>

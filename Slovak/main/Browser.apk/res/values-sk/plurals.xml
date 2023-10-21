@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<resources>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">Blokovaných: %d</item>
+        <item quantity="one">Blokovaných: %d</item>
+    </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">Zhody: %d</item>
+        <item quantity="one">Zhody: %d</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">Posledných %d dní</item>
+        <item quantity="one">Včera</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d z %2$d</item>
+        <item quantity="one">1 zhoda</item>
+    </plurals>
+    <plurals name="nav_screen_incognito_time">
+        <item quantity="other">O %d sekundy bude vytvorená nová karta</item>
+        <item quantity="one">O %d sekundu bude vytvorená nová karta</item>
+    </plurals>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">Vybrané: %1$d</item>
+        <item quantity="one">Vybrané: %1$d</item>
+    </plurals>
+    <plurals name="video_download_clear_info">
+        <item quantity="other">Videá (%1$d) vymazané.</item>
+        <item quantity="one">Videá (%1$d) vymazané.</item>
+    </plurals>
+    <plurals name="video_download_clear_prompt">
+        <item quantity="other">Vymazať videá (%1$d)?</item>
+        <item quantity="one">Vymazať videá (%1$d)?</item>
+    </plurals>
+    <plurals name="video_history_clear_info">
+        <item quantity="other">Vymazané (%1$d) z histórie.</item>
+        <item quantity="one">Vymazané (%1$d) z histórie.</item>
+    </plurals>
+    <plurals name="video_history_clear_prompt">
+        <item quantity="other">Vymazať (%1$d) z histórie?</item>
+        <item quantity="one">Vymazať (%1$d) z histórie?</item>
+    </plurals>
+    <plurals name="video_subtitle_last_message">
+        <item quantity="other">Ostáva %dmin</item>
+        <item quantity="one">Ostáva 1min</item>
+    </plurals>
+    <plurals name="webview_last_num_days">
+        <item quantity="other">Posledných %d dní</item>
+        <item quantity="one">Včera</item>
+    </plurals>
+    <plurals name="webview_matches_found">
+        <item quantity="other">%1$d z %2$d</item>
+        <item quantity="one">1 zhoda</item>
+    </plurals>
+</resources>

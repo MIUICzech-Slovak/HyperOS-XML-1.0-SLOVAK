@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_mirror">
+        <item>Zrkadlenie telefónu</item>
+        <item>Pripojenie &amp; zdieľanie/Zrkadlenie telefónu</item>
+        <item>Screen Combo;Multiscreen;Screen mirroring;PC;Computer</item>
+    </string-array>
+    <string-array name="settings_tips_message">
+        <item>"1. Vypnite mobilný hotspot, Xiaomi Share, alebo vysielanie na vašom telefóne.
+2. Vypnite Wi-Fi na oboch zariadeniach.
+3. Držte váš telefón v blízkosti PC."</item>
+        <item>Váš PC používa Bluetooth pre rozpoznanie mobilného zariadenia ktoré bolo predtým pripojené. Skontrolujte či máte zapnuté Bluetooth na telefóne.</item>
+        <item>Mobilné zariadenia nemôžu synchronizovať dáta ak majú uzamknutý displej.</item>
+        <item>"1. Vybrané Xiaomi telefóny s Android Q alebo R podporujú Zrkadlenie telefónu.
+2. Pre používanie Zrkadlenia telefónu nainštalujte Xiaomi Smart Share na vašom PC."</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>Nie je možné sa pripojiť pomocou QR kódu?</item>
+        <item>Nie je možné nájsť váš telefón cez PC?</item>
+        <item>Nie je možné uzamknúť váš telefón?</item>
+        <item>Kompatibilita</item>
+    </string-array>
+</resources>

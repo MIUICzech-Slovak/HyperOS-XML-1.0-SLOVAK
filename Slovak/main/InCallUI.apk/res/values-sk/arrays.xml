@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cdma_system_select_choices">
+        <item>Len domáce</item>
+        <item>Automaticky</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Normálne</item>
+        <item>Dlhé</item>
+    </string-array>
+    <string-array name="ims_call_types">
+        <item>Hlas</item>
+        <item>Video</item>
+    </string-array>
+</resources>

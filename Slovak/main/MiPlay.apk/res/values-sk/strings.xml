@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="app_name">MiPlay</string>
+    <string name="cancel">Zrušiť</string>
+    <string name="enable_wifi_btn">Povoliť</string>
+    <string name="enable_wifi_message">Povoľte Wi-Fi pre vyhľadávanie zariadení v blízkosti.</string>
+    <string name="enable_wifi_title">Povoliť Wi-Fi</string>
+    <string name="media_feature_projection">Zrkadliť obrazovku</string>
+    <string name="media_route_controller_disconnect">Odpojiť</string>
+    <string name="media_status_error">Chyba</string>
+    <string name="media_status_started">Pripojené</string>
+    <string name="media_status_starting">Pripájanie...</string>
+    <string name="media_status_stopped">Zastavené</string>
+    <string name="media_status_stopping">Zastavovanie...</string>
+    <string name="noti_projection_status_desc_on">Zrkadlenie obrazovky je zap.</string>
+    <string name="noti_projection_status_title">MiPlay Bezdrôtový Displej</string>
+    <string name="prjection_title">Bezdrôtový displej</string>
+    <string name="search_for_devices">Obnoviť</string>
+    <string name="wifi_display_autonomous_go">Povoliť automatické spustenie</string>
+    <string name="wifi_display_certification_heading">Certifikácia</string>
+    <string name="wifi_display_details">Nastavenie displeja</string>
+    <string name="wifi_display_enable_menu_item">Povoliť vzdialený displej</string>
+    <string name="wifi_display_listen_channel">Počúvať kanál</string>
+    <string name="wifi_display_listen_mode">Povoliť naslúchací režim</string>
+    <string name="wifi_display_no_devices_found">Nenašli sa žiadne zariadenia v blízkosti.</string>
+    <string name="wifi_display_operating_channel">Prevádzkový kanál</string>
+    <string name="wifi_display_options_done">Hotovo</string>
+    <string name="wifi_display_options_forget">Zabudnúť</string>
+    <string name="wifi_display_options_name">Názov</string>
+    <string name="wifi_display_options_title">Nastavenie bezdrôtového displeja</string>
+    <string name="wifi_display_pause">Zastaviť</string>
+    <string name="wifi_display_resume">Obnoviť</string>
+    <string name="wifi_display_session_info">Info o relácií</string>
+    <string name="wifi_display_settings_title">Cast</string>
+    <string name="wifi_display_status_connected">Pripojené</string>
+    <string name="wifi_display_status_connecting">Pripájanie</string>
+    <string name="wifi_display_status_in_use">Používa sa</string>
+    <string name="wifi_display_status_not_available">Nedostupné</string>
+    <string name="wifi_display_wps_config">WPS nastavenie</string>
+</resources>

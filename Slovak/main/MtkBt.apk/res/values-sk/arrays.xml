@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bluetooth_ftp_client_file_operations">
+        <item>Získať</item>
+        <item>Odstrániť</item>
+    </string-array>
+    <string-array name="bluetooth_ftp_client_folder_operations">
+        <item>Otvoriť</item>
+        <item>Odstrániť</item>
+    </string-array>
+    <string-array name="bluetooth_ftp_server_permission_entries">
+        <item>Iba na čítanie</item>
+        <item>Úplná kontrola</item>
+    </string-array>
+    <string-array name="bt_bpp_entry_error">
+        <item>žiadna chyba</item>
+        <item>Nepodarilo sa vytvoriť súbor v-card</item>
+        <item>Nepodporovaný formát obrazu</item>
+    </string-array>
+    <string-array name="bt_bpp_orientations">
+        <item>Na výšku</item>
+        <item>Na šírku</item>
+        <item>reverzný - na šírku</item>
+        <item>reverzný - na výšku</item>
+        <item>neznámy</item>
+        <item>neznámy</item>
+        <item>neznámy</item>
+        <item>neznámy</item>
+    </string-array>
+    <string-array name="bt_bpp_qualitys">
+        <item>Štandardný</item>
+        <item>Návrh</item>
+        <item>Vysoký</item>
+        <item>Neznámy</item>
+        <item>Neznámy</item>
+        <item>Neznámy</item>
+        <item>Neznámy</item>
+        <item>Neznámy</item>
+    </string-array>
+    <string-array name="bt_bpp_sidesettings">
+        <item>Jednostranný</item>
+        <item>Obojstranný dlhý okraj</item>
+        <item>Obojstranný krátky okraj</item>
+        <item>Neznámy</item>
+        <item>Neznámy</item>
+        <item>Neznámy</item>
+        <item>Neznámy</item>
+        <item>Neznámy</item>
+    </string-array>
+    <string-array name="bt_prxm_link_loss_level_entries">
+        <item>Žiadne upozornenie</item>
+        <item>Mierne upozornenie</item>
+        <item>Dôrazné upozornenie</item>
+    </string-array>
+    <string-array name="bt_prxm_path_loss_level_entries">
+        <item>Žiadne upozornenie</item>
+        <item>Mierne upozornenie</item>
+        <item>Dôrazné upozornenie</item>
+    </string-array>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="activity_not_found">Nenašla sa žiadna apl. na dokončenie tejto akcie</string>
+    <string name="back_to_message_list">Zálohovať zoznam správ</string>
+    <string name="confirm_delete_all_conversations">Vymazať všetky konverzácie?</string>
+    <string name="confirm_delete_conversation">Vymazať celú konverzáciu?</string>
+    <string name="confirm_delete_group_message">Vymazať skupinové správy?</string>
+    <string name="confirm_delete_locked_message">Vymazať täto uzamknutä správu?</string>
+    <string name="confirm_delete_message">Vymazať túto správu?</string>
+    <string name="confirm_dialog_locked_title">Vymazať uzamknutú správu?</string>
+    <string name="confirm_dialog_title">Vymazať?</string>
+    <string name="copy_message_text">Kopírovať</string>
+    <string name="copy_message_text_success">Text skopírovaný</string>
+    <string name="delete">Vymazať</string>
+    <string name="delete_message">Vymazať</string>
+    <string name="from_label">"Od: "</string>
+    <string name="menu_forward">Preposlať</string>
+    <string name="menu_lock">Obľúbená</string>
+    <string name="menu_unlock">Obľúbená</string>
+    <string name="message_details_title">Podrobnosti o správe</string>
+    <string name="message_type_label">"Typ: "</string>
+    <string name="received_label">"Prijaté: "</string>
+    <string name="sent_label">"Odoslané: "</string>
+    <string name="sms_card_partner_label">"SMS operátor: "</string>
+    <string name="sms_card_teddy_mobile">Teddy Mobile</string>
+    <string name="text_message">Textová správa</string>
+    <string name="view_message_details">Zobraziť podrobnosti</string>
+</resources>

@@ -1,0 +1,151 @@
+{
+    "versionCode": "1",
+    "quicklinks": {
+        "data": [
+            {
+                "movable": true,
+                "deletable": false,
+                "recommend": false,
+                "site": {
+                    "stid": 377,
+                    "title": "Google",
+                    "url": "http://www.google.com/",
+                    "thumb": "http://f3.market.mi-img.com/download/Browser/4e27c49d-8d25-4757-80c5-172ad10d0a7a",
+                    "hash": "3d4953a9"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 670,
+                    "title": "xiaomimobile.cz",
+                    "url": "http://www.xiaomimobile.cz/",
+                    "thumb": "http://f5.market.mi-img.com/download/Browser/f4be9517-5420-4f6e-8694-3604987b32d6",
+                    "hash": "16a67f7c"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 131,
+                    "title": "Zoznam zmien MIUI",
+                    "url": "http://www.miuios.cz/miui-changelog",
+                    "thumb": "http://f2.market.mi-img.com/download/Browser/2e5183bd-0da2-475f-9434-2e1e2bb253ec",
+                    "hash": "c22a9d1f"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 325,
+                    "title": "AndroidNEWS.sk",
+                    "url": "http://www.androidnews.sk/",
+                    "thumb": "http://f1.market.mi-img.com/download/Browser/b4f8b57a-41d1-484d-9443-cee14e642b74",
+                    "hash": "685d6a4a"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 354,
+                    "title": "MIUI CZECH&SLOVAK",
+                    "url": "http://miuios.cz/",
+                    "thumb": "http://f3.market.mi-img.com/download/Browser/5ebbf3b4-a2e2-4743-9eaa-41e14375fc1a",
+                    "hash": "195aab13"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 97,
+                    "title": "HarekTrade",
+                    "url": "http://harektrade.cz/",
+                    "thumb": "http://f2.market.mi-img.com/download/Browser/4dc424d0-a0bf-4dd5-9bd4-606f65f71584",
+                    "hash": "46d0e481"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 89,
+                    "title": "Google+ MIUI CZECH&SLOVAK",
+                    "url": "https://plus.google.com/b/112639661139919214988/112639661139919214988/posts/",
+                    "thumb": "http://f5.market.mi-img.com/download/Browser/decda944-abbb-4c98-bffd-44be8b24c522",
+                    "hash": "eb768613"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 336,
+                    "title": "Mi.eu",
+                    "url": "http://xiaomi.eu/",
+                    "thumb": "http://f2.market.mi-img.com/download/Browser/ba07eaa0-a2da-4c9e-a48a-d4a62839ce68",
+                    "hash": "c865dd5c"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 112,
+                    "title": "Twitter @MIUICzech",
+                    "url": "https://twitter.com/MIUICzech/",
+                    "thumb": "http://f1.market.mi-img.com/download/Browser/888b1733-0d9e-4e5d-9e6a-102fb6bec69f",
+                    "hash": "db0055ee"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 428,
+                    "title": "iBuyGou.com",
+                    "url": "http://www.ibuygou.com/",
+                    "thumb": "http://f2.market.mi-img.com/download/Browser/65f3a2ad-63c5-427a-9aed-606e2adb98d2",
+                    "hash": "ab50ce70"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 143,
+                    "title": "SmartMania",
+                    "url": "http://smartmania.cz/",
+                    "thumb": "http://f3.market.mi-img.com/download/Browser/4f4229dc-4072-4069-804f-2b37dcbeb894",
+                    "hash": "05608055"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 359,
+                    "title": "Facebook MIUI CZECH&SLOVAK",
+                    "url": "https://www.facebook.com/MiuiCzechSlovakXiaomi/",
+                    "thumb": "http://f3.market.mi-img.com/download/Browser/49f1a4a3-646e-4023-9544-5da4028fd8c0",
+                    "hash": "d58ca4e0"
+                }
+            }
+        ]
+    }
+}

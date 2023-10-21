@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_wallpapers_message">
+        <item quantity="other">Odstrániť %1$d tapiet?</item>
+        <item quantity="one">Odstrániť %1$d tapetu?</item>
+        <item quantity="few">Odstrániť %1$d tapety?</item>
+        <item quantity="many">Odstrániť %1$d tapety?</item>
+    </plurals>
+    <plurals name="editing_mode_title">
+        <item quantity="other">Vybraných %1$d položiek</item>
+        <item quantity="one">Vybraná %1$d položka</item>
+        <item quantity="few">Vybrané %1$d položky</item>
+        <item quantity="many">Vybranej %1$d položky</item>
+    </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Spojte aspoň %d bodov</item>
+        <item quantity="one">Spojte aspoň %d bod</item>
+        <item quantity="few">Spojte aspoň %d body</item>
+        <item quantity="many">Spojte aspoň %d bodu</item>
+    </plurals>
+    <plurals name="pa_sms_hour_suffix">
+        <item quantity="other">Za %d hodín</item>
+        <item quantity="one">Za %d hodinu</item>
+        <item quantity="few">Za %d hodiny</item>
+        <item quantity="many">Za %d hodiny</item>
+    </plurals>
+    <plurals name="pa_sms_minute_suffix">
+        <item quantity="other">Za %d minút</item>
+        <item quantity="one">Za %d minútu</item>
+        <item quantity="few">Za %d minúty</item>
+        <item quantity="many">Za %d minúty</item>
+    </plurals>
+    <plurals name="pa_sms_title_hours">
+        <item quantity="other">%d hodín</item>
+        <item quantity="one">%d hodina</item>
+        <item quantity="few">%d hodiny</item>
+        <item quantity="many">%d hodiny</item>
+    </plurals>
+    <plurals name="pa_sms_title_minutes">
+        <item quantity="other">%d minút</item>
+        <item quantity="one">%d minúta</item>
+        <item quantity="few">%d minúty</item>
+        <item quantity="many">%d minúty</item>
+    </plurals>
+    <plurals name="pa_time_hour_ago">
+        <item quantity="other">pred %d hodinami</item>
+        <item quantity="one">pred %d hodinou</item>
+        <item quantity="few">pred %d hodinami</item>
+        <item quantity="many">pred %d hodinou</item>
+    </plurals>
+    <plurals name="pa_time_minute_ago">
+        <item quantity="other">pred %d minútami</item>
+        <item quantity="one">pred %d minútou</item>
+        <item quantity="few">pred %d minútami</item>
+        <item quantity="many">pred %d minútou</item>
+    </plurals>
+    <plurals name="scroll_tip_format_when_announce_accessibility">
+        <item quantity="other">Stránka %1$d, %2$d aplikácií.</item>
+        <item quantity="one">Stránka %1$d, %2$d aplikácia.</item>
+        <item quantity="few">Stránka %1$d, %2$d aplikácie.</item>
+        <item quantity="many">Stránka %1$d, %2$d aplikácie.</item>
+    </plurals>
+    <plurals name="shortcuts_menu_description">
+        <item quantity="other">%1$d odkazov</item>
+        <item quantity="one">%1$d odkaz</item>
+        <item quantity="few">%1$d odkazy</item>
+        <item quantity="many">%1$d odkazu</item>
+    </plurals>
+    <plurals name="shortcuts_menu_with_notifications_description">
+        <item quantity="other"> a %1$d upozornení</item>
+        <item quantity="one"> a %1$d upozornenie</item>
+        <item quantity="few"> a %1$d upozornenia</item>
+        <item quantity="many"> a %1$d upozornenia</item>
+    </plurals>
+    <plurals name="uninstall_dialog_title_multi_format">
+        <item quantity="other">Odinštalovať %1$d aplikácií?</item>
+        <item quantity="one">Odinštalovať %1$d aplikáciu?</item>
+        <item quantity="few">Odinštalovať %1$d aplikácie?</item>
+        <item quantity="many">Odinštalovať %1$d aplikácie?</item>
+    </plurals>
+    <plurals name="uninstall_result_multi_failed">
+        <item quantity="other">Nie je možné odinštalovať %1$d aplikácií</item>
+        <item quantity="one">Nie je možné odinštalovať %1$d aplikáciu</item>
+        <item quantity="few">Nie je možné odinštalovať %1$d aplikácie</item>
+        <item quantity="many">Nie je možné odinštalovať %1$d aplikácie</item>
+    </plurals>
+    <plurals name="uninstall_result_multi_succeeded">
+        <item quantity="other">Odinštalovaných %1$d aplikácií</item>
+        <item quantity="one">Odinštalovaná %1$d aplikácia</item>
+        <item quantity="few">Odinštalované %1$d aplikácie</item>
+        <item quantity="many">Odinštalovanej %1$d aplikácie</item>
+    </plurals>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="calendar_lable">Kalendár:</string>
+    <string name="cancel">Zrušiť</string>
+    <string name="date_lable">Dátum:</string>
+    <string name="done">Hotovo</string>
+    <string name="give_up">Prerušiť</string>
+    <string name="import_button">Importovať</string>
+    <string name="import_complete">Importovanie je dokončené</string>
+    <string name="import_message">Chcete importovať # do kalendára?</string>
+    <string name="import_title">Importovať udalosť z kalendára</string>
+    <string name="import_to">Importovať do</string>
+    <string name="import_vcs_failed">Udalosť sa neporadilo importovať.</string>
+    <string name="importing">Importujem...</string>
+    <string name="loading">Prebieha načítavanie…</string>
+    <string name="no_access_toast">Konto sa nenašlo. Najskôr pridajte konto</string>
+    <string name="no_calendars_found">Toto konto nepodporuje synchronizáciu kalendára, alebo posledná synchronizácie ešte neskončila.</string>
+    <string name="no_syncable_calendars">Nemožno importovať</string>
+    <string name="not_support_multi_events">Súbor s viacerými udalosťami nie je podporovaný.</string>
+    <string name="null_name">Žiadne</string>
+    <string name="open">Otvoriť</string>
+    <string name="open_calendar_failed">Kalendár nie je k dispozícii.</string>
+    <string name="progresszero">0%</string>
+    <string name="retry">Skúsiť znova</string>
+    <string name="title_lable">Názov:</string>
+</resources>

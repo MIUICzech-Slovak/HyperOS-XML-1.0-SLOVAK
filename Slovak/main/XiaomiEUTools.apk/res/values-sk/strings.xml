@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="about">"XiaomiEU Tools v1.0."</string>
+    <string name="app_name">Nástroje</string>
+    <string name="btn_cancel">Zrušiť</string>
+    <string name="btn_next">Ďalej</string>
+    <string name="carousel_desc">Tapeta na zamykacej obrazovke</string>
+    <string name="carousel_title">Denná tapeta</string>
+    <string name="dialog_desc">Fow now you can only choose to use switch through desktop icon, picking pattern will FC.</string>
+    <string name="dialog_title">UPOZORNENIE</string>
+    <string name="domain_desc">Assign urls to apps</string>
+    <string name="domain_title">Domain links</string>
+    <string name="dpi_desc">Rozšírené nastavenia rozlíšenia a veľkosti ovládacích prvkov.</string>
+    <string name="dpi_title">Nastavenie DPI</string>
+    <string name="hardware_test">Skontrolujte stav zariadenia</string>
+    <string name="hardware_title">Hardware test</string>
+    <string name="oreo_desc">JEdnoduchá hra od Google skrytá v Android Oreo.</string>
+    <string name="oreo_title">Oreo Hra</string>
+    <string name="power_desc">Šetrenie batérie</string>
+    <string name="power_title">Výkon</string>
+    <string name="ram_desc">Memory usage statistics that allows you to track which process eats your RAM the most.</string>
+    <string name="ram_title">Využitie RAM</string>
+    <string name="search_menu_title">Vyhľadať</string>
+    <string name="space_desc">Vytvorte druhý profil v zariadení</string>
+    <string name="space_title">Druhý profil</string>
+    <string name="theme_desc">Customize device look</string>
+    <string name="theme_title">Témy</string>
+    <string name="tools">Nástroje %1$s</string>
+</resources>

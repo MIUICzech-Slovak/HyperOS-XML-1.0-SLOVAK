@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="privacy_dialog_runtime_permission_desc">
+        <item>Na prihlásenie pomocou účtu Mi</item>
+        <item>Na zobrazenie ukážky, nahrávanie, sťahovanie a synchronizáciu súborov</item>
+    </string-array>
+    <string-array name="privacy_dialog_runtime_permission_desc_with_phone_state">
+        <item>Na prihlásenie pomocou účtu Mi</item>
+        <item>Na zobrazenie ukážky, nahrávanie, sťahovanie a synchronizáciu súborov</item>
+        <item>Na zistenie dostupných aktualizácií</item>
+    </string-array>
+</resources>

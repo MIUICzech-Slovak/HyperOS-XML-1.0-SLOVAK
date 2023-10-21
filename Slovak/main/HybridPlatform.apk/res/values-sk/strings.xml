@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="abc_action_bar_home_description">Prejsť na plochu</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Prejsť hore</string>
+    <string name="abc_action_menu_overflow_description">Ďalšie možnosti</string>
+    <string name="abc_action_mode_done">Hotovo</string>
+    <string name="abc_activity_chooser_view_see_all">Zobraziť všetko</string>
+    <string name="abc_activitychooserview_choose_application">Zvoľte aplikáciu</string>
+    <string name="abc_capital_off">Vypnuté</string>
+    <string name="abc_capital_on">Zapnuté</string>
+    <string name="abc_search_hint">Vyhľadať…</string>
+    <string name="abc_searchview_description_clear">Vymazať dopyt</string>
+    <string name="abc_searchview_description_query">Vyhľadávací dopyt</string>
+    <string name="abc_searchview_description_search">Hľadať</string>
+    <string name="abc_searchview_description_submit">Odoslať dopyt</string>
+    <string name="abc_searchview_description_voice">Hlasové vyhľadávanie</string>
+    <string name="abc_shareactionprovider_share_with">Zdieľať pomocou</string>
+    <string name="abc_shareactionprovider_share_with_application">Zdieľať pomocou %s</string>
+    <string name="abc_toolbar_collapse_description">Zbaliť</string>
+    <string name="app_name">hybrid</string>
+    <string name="dlg_shortcut_cancel">Nie</string>
+    <string name="dlg_shortcut_message">Chcete vytvoriť odkaz pre %1$s?</string>
+    <string name="dlg_shortcut_ok">Áno</string>
+    <string name="dlg_shortcut_silent">Viac sa nepýtať</string>
+    <string name="dlg_shortcut_title">Vytvoriť odkaz</string>
+    <string name="fail_message">Sťahovanie aplikácie zlyhalo</string>
+    <string name="js_exception_button_continue">Pokračovať</string>
+    <string name="js_exception_button_quit">Ukončiť</string>
+    <string name="js_exception_title">JS Exception</string>
+    <string name="loading_message">Apl. sa načítava</string>
+    <string name="loading_slogan">Bez inštalácie | Menej prenesených dát | Priame služby</string>
+    <string name="permission_dialog_allow">Povoliť</string>
+    <string name="permission_dialog_block">Blokovať</string>
+    <string name="permission_dialog_message">%1$s chce %2$s.</string>
+    <string name="permission_location_desc">"použiť vašu polohu"</string>
+    <string name="permission_record_audio_desc">nahrávať zvuk</string>
+    <string name="pick_name">Pick</string>
+    <string name="search_menu_title">Vyhľadávanie</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="webview_loading">Načítavanie...</string>
+</resources>

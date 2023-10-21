@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="app_label">Vyhľadávanie v Nastaveniach</string>
+    <string name="application_desc">Aplikácia</string>
+    <string name="search_label">Nastavenia</string>
+    <string name="settings_description">Nastavenia</string>
+</resources>

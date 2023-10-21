@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="about_text">"***ViPER4Android*** 
+ 
+'libv4a_xx_xx.so' je kernel programu ViPER4Android. 
+Copyright © 2006-2016, vipercn.com. Všetky práva vyhradené. 
+Bez oficiálneho povolenia je komerčné použitie zakázané. 
+Oficiálne fórum: http://vipersaudio.com/blog/ 
+ 
+'ViPER4Android.apk' je ovládací panel programu ViPER4Android. 
+Založený na časti kódu DSPManagera z Cyanogenmodu. 
+Veľká vďaka pre Zhuhang@XDA, M4570D0N@github, xLaMbChOpSx@github, bboa@github 
+ 
+Verzia %1$s (FX), Kódové meno “Beautiful”. 
+"</string>
+    <string name="about_title">Nápoveda a informácie</string>
+    <string name="app_name">ViPER FX</string>
+    <string name="audio_effects">Audio Efekty</string>
+    <string name="bluetooth_title">Bluetooth zariadenie</string>
+    <string name="dialog_colorfulmusic">Vybrať úroveň</string>
+    <string name="dialog_colorfulmusic_mi">Vybrať úroveň</string>
+    <string name="dialog_cure_crossfeed">Vybrať úroveň</string>
+    <string name="dialog_diffsurr_ms">Oneskorenie</string>
+    <string name="dialog_effect">Hodnota</string>
+    <string name="dialog_vhs_qual">Hodnota</string>
+    <string name="dsp_settings_bluetooth">Nastavenia efektov - Bluetooth zariadenie</string>
+    <string name="dsp_settings_headset">Nastavenia efektov - Slúchadlá</string>
+    <string name="dsp_settings_speaker">Nastavenia efektov - Reproduktor</string>
+    <string name="dsp_settings_usb">Nastavenia efektov - USB zariadenie</string>
+    <string name="empty" />
+    <string name="eq_preset_acoustic">Akustický</string>
+    <string name="eq_preset_bass_booster">Zvýraznenie basov</string>
+    <string name="eq_preset_bass_reducer">Redukcia basov</string>
+    <string name="eq_preset_classical">Klasická hudba</string>
+    <string name="eq_preset_custom">Vlastný</string>
+    <string name="eq_preset_deep">Hlboký</string>
+    <string name="eq_preset_flat">Plochý</string>
+    <string name="eq_preset_r_and_b">R&amp;B</string>
+    <string name="eq_preset_rock">Rock</string>
+    <string name="eq_preset_small_speakers">Malé reproduktory</string>
+    <string name="eq_preset_treble_booster">Zvýraznenie výšok</string>
+    <string name="eq_preset_treble_reducer">Redukcia výšok</string>
+    <string name="eq_preset_vocal_booster">Zvýraznenie hlasu</string>
+    <string name="headset_title">Slúchadlá</string>
+    <string name="navigation_drawer_close">Zatvoriť navigačný zoznam</string>
+    <string name="navigation_drawer_open">Otvoriť navigačný zoznam</string>
+    <string name="navigation_toggle_drawer">Prepnúť do zobrazenia zoznamu</string>
+    <string name="navigation_toggle_tabbed">Prepnúť do zobrazenia kariet</string>
+    <string name="pref_colorfulmusic_enable">Zapnúť</string>
+    <string name="pref_colorfulmusic_summary_off">Field surround je vypnutý</string>
+    <string name="pref_colorfulmusic_summary_on">Field surround je zapnutý</string>
+    <string name="pref_colorfulmusic_title">Field Surround</string>
+    <string name="pref_convolver_crosschannel">Cross Channel</string>
+    <string name="pref_convolver_crosschannel_title">Vybrať Cross Channel</string>
+    <string name="pref_convolver_enable">Zapnúť</string>
+    <string name="pref_convolver_knl">Impulzná odozva</string>
+    <string name="pref_convolver_knl_title">Vybrať impulznú odozvu</string>
+    <string name="pref_convolver_summary_off">Convolver je vypnutý</string>
+    <string name="pref_convolver_summary_on">Convolver je zapnutý</string>
+    <string name="pref_convolver_title">Convolver</string>
+    <string name="pref_curesystem_enable">Zapnúť</string>
+    <string name="pref_curesystem_summary_off">Cure Tech+ je vypnutý</string>
+    <string name="pref_curesystem_summary_on">Cure Tech+ je zapnutý</string>
+    <string name="pref_curesystem_title">Ochrana sluchu</string>
+    <string name="pref_diffsurr_enable">Zapnúť</string>
+    <string name="pref_diffsurr_summary_off">Dif. p. zvuk je vypnutý</string>
+    <string name="pref_diffsurr_summary_on">Dif. p. zvuk je zapnutý</string>
+    <string name="pref_diffsurr_title">Diferenciálny priestorový zvuk</string>
+    <string name="pref_dsp_enable">Zapnúť</string>
+    <string name="pref_dynamicsystem_bass">Dynamické basy</string>
+    <string name="pref_dynamicsystem_enable">Zapnúť</string>
+    <string name="pref_dynamicsystem_output">Vybrať typ</string>
+    <string name="pref_dynamicsystem_output_title">Typ slúchadiel</string>
+    <string name="pref_dynamicsystem_summary_off">Dynamický systém je vypnutý</string>
+    <string name="pref_dynamicsystem_summary_on">Dynamický systém je zapnutý</string>
+    <string name="pref_dynamicsystem_title">Dynamický systém</string>
+    <string name="pref_dynamicsystem_tube_enable">Zapnúť</string>
+    <string name="pref_dynamicsystem_tube_summary_off">Simulátor elektrónky je vypnutý</string>
+    <string name="pref_dynamicsystem_tube_summary_on">Simulátor elektrónky je zapnutý</string>
+    <string name="pref_dynamicsystem_tube_title">Simulátor elektrónky (6N1J)</string>
+    <string name="pref_effect_title">Hodnota</string>
+    <string name="pref_equalizer_enable">Zapnúť</string>
+    <string name="pref_equalizer_preset_title">Vybrať profil</string>
+    <string name="pref_equalizer_summary_off">FIREqualizer je vypnutý</string>
+    <string name="pref_equalizer_summary_on">FIREqualizer je zapnutý</string>
+    <string name="pref_equalizer_title">FIREqualizer</string>
+    <string name="pref_fidelity_title">Kontrola kvality zvuku</string>
+    <string name="pref_fidelity_vb_bassfreq">Vybrať frekvenciu basov</string>
+    <string name="pref_fidelity_vb_bassfreq_title">Frekvencia basov</string>
+    <string name="pref_fidelity_vb_bassgain">Hodnota zvýraznenia</string>
+    <string name="pref_fidelity_vb_bassgain_title">Vybrať zvýraznenie basov</string>
+    <string name="pref_fidelity_vb_enable">Zapnúť ViPER Basy</string>
+    <string name="pref_fidelity_vb_mode">Vybrať režim basov</string>
+    <string name="pref_fidelity_vb_mode_title">Režim basov</string>
+    <string name="pref_fidelity_vb_summary_off">ViPER Basy je vypnutý</string>
+    <string name="pref_fidelity_vb_summary_on">ViPER Basy je zapnutý</string>
+    <string name="pref_fidelity_vc_bassgain">Hodnota</string>
+    <string name="pref_fidelity_vc_bassgain_title">Zisk ViPER Clarity</string>
+    <string name="pref_fidelity_vc_enable">ViPER Clarity (čistota zvuku)</string>
+    <string name="pref_fidelity_vc_mode">Režim ViPER Clarity</string>
+    <string name="pref_fidelity_vc_mode_title">Režim ViPER Clarity</string>
+    <string name="pref_fidelity_vc_summary_off">ViPER Clarity je vypnutý</string>
+    <string name="pref_fidelity_vc_summary_on">ViPER Clarity je zapnutý</string>
+    <string name="pref_force_enable_text">Vynútiť zapnutie V4A</string>
+    <string name="pref_force_enable_warn">"Povolenie vynúteného zapnutia by mohlo vyriešiť problém s efektmi. 
+Avšak v určitých ROM sa môžu objaviť neočakávané následky ako napríklad žiaden zvuk a zvýšená spotreba batérie. 
+Použite na vlastné riziko. Ak takýto stav nastane, prosím vypnite túto funkciu."</string>
+    <string name="pref_fx_limiter_threshold">Limitná hodnota</string>
+    <string name="pref_fx_limiter_title">Master Gate (Limiter)</string>
+    <string name="pref_fx_master_summary_off">V4A-FX je vypnutý</string>
+    <string name="pref_fx_master_summary_on">V4A-FX je zapnutý</string>
+    <string name="pref_fx_master_title">Hlavný vypínač</string>
+    <string name="pref_output_gain">Zisk na výstupe</string>
+    <string name="pref_output_pan">Stereo váha</string>
+    <string name="pref_playback_enable">Zapnúť</string>
+    <string name="pref_playback_maxgain">Max zisk</string>
+    <string name="pref_playback_output_threshold">Max výstup</string>
+    <string name="pref_playback_summary_off">PlaybackAGC je vypnutý</string>
+    <string name="pref_playback_summary_on">PlaybackAGC je zapnutý</string>
+    <string name="pref_playback_title">PlaybackAGC-Zosilnenie prehrávania</string>
+    <string name="pref_reverb_damp">Tlmiaci faktor</string>
+    <string name="pref_reverb_dry">Originálny signál</string>
+    <string name="pref_reverb_enable">Zapnúť</string>
+    <string name="pref_reverb_roomsize">Veľkosť miestnosti</string>
+    <string name="pref_reverb_summary_off">Ozvena je vypnutá</string>
+    <string name="pref_reverb_summary_on">Ozvena je zapnutá</string>
+    <string name="pref_reverb_title">Ozvena</string>
+    <string name="pref_reverb_wet">Spracovaný signál</string>
+    <string name="pref_reverb_width">Zvukové pole</string>
+    <string name="pref_select_colorfulmusic_mi_title">Mid Image úroveň</string>
+    <string name="pref_select_colorfulmusic_title">Field Surround úroveň</string>
+    <string name="pref_select_cure_cf_title">Úroveň 3D zvuku</string>
+    <string name="pref_select_diffsurr_ms_title">Oneskorenie</string>
+    <string name="pref_select_vhs_qual_title">Úroveň priestorového zvuku</string>
+    <string name="pref_spk_opt_enable">Zapnúť</string>
+    <string name="pref_spk_opt_summary_off">Optimalizácia vypnutá</string>
+    <string name="pref_spk_opt_summary_on">Optimalizácia zapnutá</string>
+    <string name="pref_spk_opt_title">Optimalizácia reproduktora</string>
+    <string name="pref_spkfx_limiter_threshold">Limitná hodnota</string>
+    <string name="pref_spkfx_limiter_title">Master Gate (Limiter)</string>
+    <string name="pref_spkfx_master_summary_off">V4A-SpeakerFX je vypnutý</string>
+    <string name="pref_spkfx_master_summary_on">V4A-SpeakerFX je zapnutý</string>
+    <string name="pref_spkfx_master_title">Hlavný vypínač</string>
+    <string name="pref_vhs_enable">Zapnúť</string>
+    <string name="pref_vhs_summary_off">Priestorový zvuk+ je vypnutý</string>
+    <string name="pref_vhs_summary_on">Priestorový zvuk+ je zapnutý</string>
+    <string name="pref_vhs_title">Priestorový zvuk+</string>
+    <string name="pref_viperddc_device">Typ slúchadiel</string>
+    <string name="pref_viperddc_device_manufacturer">Vybrať výrobcu</string>
+    <string name="pref_viperddc_device_model">Vybrať model</string>
+    <string name="pref_viperddc_enable">Zapnúť</string>
+    <string name="pref_viperddc_summary_off">ViPER-DDC je vypnutý</string>
+    <string name="pref_viperddc_summary_on">ViPER-DDC je zapnutý</string>
+    <string name="pref_viperddc_tips">"UPOZORNENIE: 
+ViPER-DDC je Hi-Fi audio procesor a používa sa na korekciu slúchadiel. 
+ViPER-DDC teraz podporuje takmer 500 slúchadiel, a bude pokračovať v pridávaní podpory pre ďalšie. 
+Ak nemôžete nájsť svoje slúchadlá v zozname, prosíme vypnite nateraz túto funkciu."</string>
+    <string name="pref_viperddc_title">ViPER-DDC</string>
+    <string name="pref_vse_enable">Zapnúť</string>
+    <string name="pref_vse_strength">Hodnota rozšírenia</string>
+    <string name="pref_vse_strength_title">Hodnota</string>
+    <string name="pref_vse_summary_off">Rozšírenie spektra je vypnuté</string>
+    <string name="pref_vse_summary_on">Rozšírenie spektra je zapnuté</string>
+    <string name="pref_vse_tips">"UPOZORNENIE: 
+Rozšírenie spektra je Hi-Fi audio procesor a používa sa na rozšírenie kompresiou strateného spektra. 
+Ak prehrávate komprimovanú hudbu(napríklad mp3, aac, ogg), táto funkcia vám môže poskytnúť efekt bezstratovej kvality. 
+Ak však už prehrávate bezstratovú hudbu, odporúčame vám vypnúť túto funkciu."</string>
+    <string name="pref_vse_title">Rozšírenie spektra</string>
+    <string name="pref_xloud_enable">Zapnúť</string>
+    <string name="pref_xloud_output_amplifer">Zisk na výstupe</string>
+    <string name="pref_xloud_spk_highfreq">Vysoká odozva</string>
+    <string name="pref_xloud_spk_lowfreq">Nízka odozva</string>
+    <string name="pref_xloud_summary_off">eXtra-Loud vypnutý</string>
+    <string name="pref_xloud_summary_on">eXtra-Loud zapnutý</string>
+    <string name="pref_xloud_title">eXtra-Loud</string>
+    <string name="select_configuration_title">ViPER FX</string>
+    <string name="speaker_title">Reproduktor</string>
+    <string name="text_abnormal">Abnormálny</string>
+    <string name="text_bluetooth">Bluetooth</string>
+    <string name="text_cancel">Zrušiť</string>
+    <string name="text_changelog">Zoznam zmien</string>
+    <string name="text_checkupdate">Skontrolovať aktualizáciu</string>
+    <string name="text_commode">FX kompatibilný režim</string>
+    <string name="text_disabled">Vypnutý</string>
+    <string name="text_drv_blank" />
+    <string name="text_drv_status">Stav ovládača</string>
+    <string name="text_drv_status_view">
+ 
+Verzia ovládača: %1$s 
+NEON zapnutý: %2$s 
+Zapnutý: %3$s 
+Status: %4$s 
+Audio formát: %5$s 
+Spracovanie: %6$s 
+Vzorkovacia frekvencia: %7$d 
+"</string>
+    <string name="text_drvinst_acquireroot">Inštalácia ovládača zlyhala, nie je možné získať ROOT povolenia, uistite sa, že vaše zariadenie má ROOT.</string>
+    <string name="text_drvinst_busybox_not_installed">Inštalácia ovládača zlyhala, pretože sa nenašiel správny busybox.</string>
+    <string name="text_drvinst_cfg_unsup">Inštalácia ovládača zlyhala, nepodporovaná verzia androidu alebo ROM.</string>
+    <string name="text_drvinst_dataioerr">Inštalácia ovládača zlyhala, I/O chyba, prosím reštartujte a skúste to znova.</string>
+    <string name="text_drvinst_failed">"Inštalácia ovládača zlyhala, busybox vo vašom zariadení nefunguje. 
+Zvyčajne to znamená, že ste nainštalovali nesprávnu alebo chybnú verziu busyboxu, V4A potrebuje "stericson" busybox. 
+Ak ste si istý, že busybox je v poriadku, tak sa uistite, že vaše zariadenie je plne ROOTnuté."</string>
+    <string name="text_drvinst_ok">Ovládač nainštalovaný, reštartujte zariadenie.</string>
+    <string name="text_drvinst_prefer">Prosím vyberte</string>
+    <string name="text_drvinst_sdnotmounted">Inštalácia ovládača zlyhala, externé úložisko nepripojené.</string>
+    <string name="text_drvinst_sqdrv">"Ovládač Super audio quality potrebuje aspoň dvojjadrový cpu a môže zvýšiť spotrebu batérie. 
+Chcete pokračovať?"</string>
+    <string name="text_drvuninst_confim">Naozaj chcete odinštalovať V4A ovládač?</string>
+    <string name="text_drvuninst_ok">Ovládač odinštalovaný, reštartujte zariadenie.</string>
+    <string name="text_drvvernotmatch">"Aby ste mohli používať ViPER4Android, je potrebné nainštalovať/aktualizovať V4A ovládač. 
+Inštalácia prebehne automaticky. 
+Inštalovať/aktualizovať teraz?"</string>
+    <string name="text_enabled">Zapnutý</string>
+    <string name="text_forum_link">http://forum.xda-developers.com/showthread.php?t=2191223</string>
+    <string name="text_headset">Sláchadlá</string>
+    <string name="text_help_content">"***Všeobecná nápoveda*** 
+ 
+'Inštalovať ovládač' - Inštalovať/aktualizovať ovládač ViPER4Android. 
+'Odinštalovať ovládač' - Odinštalovať ovládač ViPER4Android. 
+'FX kompatibilný režim' - Vybrať kompatibilný režim pre efekty. 
+ 'Normálny' - Nastaviť ViPER4Android ako globálny efekt. 
+ 'Kompatiblný' - Nastaviť ViPER4Android ako lokálny efekt. 
+ 
+"Nefunguje žiaden v4a efekt na všetkých/väčšine prehrávačoch?"
+ Môžete prepnúť fx režim na "kompatibilný", reštartovať zariadenie a skúsiť znova. 
+ 
+"Ako zmeniť audio kvalitu?"
+ Odinštalujte ovládač, reštartuje zariadenie a vyberte požadovanú kvalitu. 
+ 
+"Ako znížiť spotrebu batérie?"
+ Keď V4A beží v normálnom režime, vypnite systémové zvuky, vrátane zvuku dotykov a zamykania/odomykania a tým ušetrite 1.2~4 krát životnosť batérie. 
+ 
+"Fórum: http://forum.xda-developers.com/showthread.php?t=2191223</string>
+    <string name="text_hidetrayicon">Skryť notifikáciu</string>
+    <string name="text_install">Inštalovať ovládač</string>
+    <string name="text_ir_dir_isempty">ViPER4Android: IR vzorová zložka %1$s je prázdna.</string>
+    <string name="text_loadfxprofile">Načítať profil</string>
+    <string name="text_lockeffect">Zamknúť režim</string>
+    <string name="text_modifybuildprop">"UPOZORNENIE: 
+LPA funkcia zapnutá, môže spôsobiť nefunkčnosť V4A. 
+LPA znamená 'Low Power Audio' (nízko-energetické audio), túto funkciu môžete zakázať modifikovaním build.prop, pričom táto procedúra prebehne automaticky. 
+Dôrazne odporúčame vytvoriť NANDROID zálohu alebo zálohu dát predtým než budete pokračovať! 
+Chcete LPA zakázať teraz?"</string>
+    <string name="text_newfxprofile">Nový profil…</string>
+    <string name="text_no">Nie</string>
+    <string name="text_no_busybox">Busybox sa nenašiel, želáte si ho nainštalovať teraz?</string>
+    <string name="text_normal">Normálny</string>
+    <string name="text_ok">OK</string>
+    <string name="text_profileload_tip">Použiť profil</string>
+    <string name="text_profilesaved_overwrite">Chcete prepísať tento profil?</string>
+    <string name="text_savefxprofile">Uložiť profil</string>
+    <string name="text_service_error">Nepodarilo sa nadviazať spojenie so službou ViPER4Android.</string>
+    <string name="text_showtrayicon">Zobraziť notifikáciu</string>
+    <string name="text_speaker">Reproduktor</string>
+    <string name="text_supported">Podporovaný</string>
+    <string name="text_token_lost">ViPER4Android: Niektorý program vyžiadal zrušenie audio efektov, takže V4A bude dočasne vypnutý.</string>
+    <string name="text_uiprefer">Nastavenie užív. prostredia</string>
+    <string name="text_uiprefer_dialog">Vyberte prostredie</string>
+    <string name="text_uninstall">Odinštalovať ovládač</string>
+    <string name="text_unsupported">Nepodporovaný</string>
+    <string name="text_updatelink">http://vipersaudio.com/swupdate/viper4android/download.html</string>
+    <string name="text_usb">USB/Dok</string>
+    <string name="text_view_forum">Fórum</string>
+    <string name="text_yes">Áno</string>
+    <string name="usb_title">USB/Dok</string>
+</resources>

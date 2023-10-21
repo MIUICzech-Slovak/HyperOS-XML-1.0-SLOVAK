@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="app_name">Šetrič displeja</string>
+    <string name="flipper_screensaver_name">Foto rámček</string>
+    <string name="local_source_name">Fotografie v zariadení</string>
+    <string name="need_to_configure">Žiadne vybrané.</string>
+    <string name="no_photos">Žiadne fotografie v zariadení.</string>
+    <string name="photodream_select_all">Vybrať všetko</string>
+    <string name="photodream_select_none">Odznačiť všetko</string>
+    <string name="posts_album_name">Photos from Posts</string>
+    <string name="stock_photo_album_name">Stock Photos</string>
+    <string name="table_screensaver_name">Prezentácia</string>
+    <string name="unknown_album_name">Nepomenovaný album</string>
+</resources>

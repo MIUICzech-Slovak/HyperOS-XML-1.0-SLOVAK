@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+        <item quantity="other">Extrémne krátke oneskorenie (%1$d ms)</item>
+        <item quantity="one">Extrémne krátke oneskorenie (%1$d ms)</item>
+        <item quantity="few">Extrémne krátke oneskorenie (%1$d ms)</item>
+        <item quantity="many">Extrémne krátke oneskorenie (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item quantity="other">Dlhé oneskorenie (%1$d ms)</item>
+        <item quantity="one">Dlhé oneskorenie (%1$d ms)</item>
+        <item quantity="few">Dlhé oneskorenie (%1$d ms)</item>
+        <item quantity="many">Dlhé oneskorenie (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item quantity="other">Krátke oneskorenie (%1$d ms)</item>
+        <item quantity="one">Krátke oneskorenie (%1$d ms)</item>
+        <item quantity="few">Krátke oneskorenie (%1$d ms)</item>
+        <item quantity="many">Krátke oneskorenie (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+        <item quantity="other">Veľmi dlhé oneskorenie (%1$d ms)</item>
+        <item quantity="one">Veľmi dlhé oneskorenie (%1$d ms)</item>
+        <item quantity="few">Veľmi dlhé oneskorenie (%1$d ms)</item>
+        <item quantity="many">Veľmi dlhé oneskorenie (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+        <item quantity="other">Veľmi krátke oneskorenie (%1$d ms)</item>
+        <item quantity="one">Veľmi krátke oneskorenie (%1$d ms)</item>
+        <item quantity="few">Veľmi krátke oneskorenie (%1$d ms)</item>
+        <item quantity="many">Veľmi krátke oneskorenie (%1$d ms)</item>
+    </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item quantity="other">%1$d aplikácií má povolené používať neobmedzené dáta, keď je zapnutý Šetrič dát</item>
+        <item quantity="one">1 aplikácia má povolené používať neobmedzené dáta, keď je zapnutý Šetrič dát</item>
+        <item quantity="few">%1$d aplikácie majú povolené používať neobmedzené dáta, keď je zapnutý Šetrič dát</item>
+        <item quantity="many">%1$d aplikácie má povolené používať neobmedzené dáta, keď je zapnutý Šetrič dáta</item>
+    </plurals>
+    <plurals name="dlg_remove_locales_title">
+        <item quantity="other">Odstrániť vybraté jazyky?</item>
+        <item quantity="one">Odstrániť vybratý jazyk?</item>
+        <item quantity="few">Odstrániť vybraté jazyky?</item>
+        <item quantity="many">Odstrániť vybraté jazyky?</item>
+    </plurals>
+    <plurals name="notification_summary">
+        <item quantity="other">Bolo zablokované odosielanie z %d aplikácií</item>
+        <item quantity="one">Bolo zablokované odosielanie z %d aplikácie</item>
+        <item quantity="few">Bolo zablokované odosielanie z %d aplikácií</item>
+        <item quantity="many">Bolo zablokované odosielanie z %d aplikácie</item>
+    </plurals>
+    <plurals name="print_settings_title">
+        <item quantity="other">%d tlačových úloh</item>
+        <item quantity="one">1 tlačová úloha</item>
+        <item quantity="few">%d tlačové úlohy</item>
+        <item quantity="many">%d tlačovej úlohy</item>
+    </plurals>
+    <plurals name="uri_permissions_text">
+        <item quantity="other">%d položiek</item>
+        <item quantity="one">1 položka</item>
+        <item quantity="few">%d položky</item>
+        <item quantity="many">%d položky</item>
+    </plurals>
+</resources>

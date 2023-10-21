@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weather_indexes_uv_level">
+        <item>Nízky</item>
+        <item>Slabý</item>
+        <item>Priemerný</item>
+        <item>Veľký</item>
+        <item>Silný</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Jasno</item>
+        <item>Oblačno</item>
+        <item>Zamračené</item>
+        <item>Hmlisto</item>
+        <item>Búrka</item>
+        <item>Lejak</item>
+        <item>Búrka</item>
+        <item>Búrka</item>
+        <item>Dážď</item>
+        <item>Lejak</item>
+        <item>Dážď</item>
+        <item>Jemný Dážď</item>
+        <item>Dážď so snehom</item>
+        <item>Snehová búrka</item>
+        <item>Sneženie</item>
+        <item>Sneženie</item>
+        <item>Sneženie</item>
+        <item>Sneženie</item>
+        <item>Piesková búrka</item>
+        <item>Piesková búrka</item>
+        <item>Piesková búrka</item>
+        <item>Veterno</item>
+        <item>Krupobitie</item>
+        <item>Prach</item>
+        <item>Hmla</item>
+        <item>Mrznúci dážď</item>
+        <item>N/A</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>Vietor S</item>
+        <item>Vietor SV</item>
+        <item>Vietor V</item>
+        <item>Vietor JV</item>
+        <item>Vietor J</item>
+        <item>Vietor JZ</item>
+        <item>Vietor Z</item>
+        <item>Vietor SZ</item>
+    </string-array>
+</resources>

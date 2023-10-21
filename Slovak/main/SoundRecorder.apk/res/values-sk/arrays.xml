@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<resources>
+    <string-array name="hd_record_scenes_entries">
+        <item>Hudba</item>
+        <item>Hlas</item>
+        <item>Rozhovor</item>
+        <item>HD</item>
+    </string-array>
+    <string-array name="interview_record_scenes_entries">
+        <item>Hudba</item>
+        <item>Ľudský hlas</item>
+        <item>Rozhovor</item>
+    </string-array>
+    <string-array name="record_quality_entries">
+        <item>Vysoká</item>
+        <item>Štandardná</item>
+        <item>Nízka</item>
+    </string-array>
+    <string-array name="record_quality_summaries">
+        <item>MP3, ~192kbit/s, ~90MB/h</item>
+        <item>MP3, ~100kbit/s, ~45MB/h</item>
+        <item>MP3, ~75kbit/s, ~32MB/h</item>
+    </string-array>
+    <string-array name="record_scenes_entries">
+        <item>Hudba</item>
+        <item>Ľudský hlas</item>
+    </string-array>
+    <string-array name="record_scenes_summaries">
+        <item>Nahrávať hudbu v lepšej kvalite</item>
+        <item>Dajte mikrofón bližšie k zdroju zvuku pre lepšiu kvalitu nahrávky</item>
+        <item>Dajte telefón do stredu medzi dvoch ľudí</item>
+        <item>Maximálna efektívna vzdialenosť od mikrofónu je 10m</item>
+    </string-array>
+    <string-array name="record_scenes_summaries_stereo">
+        <item>Nahrávať hudbu v lepšej kvalite</item>
+        <item>Dajte mikrofón bližšie k zdroju zvuku pre lepšiu kvalitu nahrávky</item>
+        <item>Dajte telefón do stredu medzi dvoch ľudí</item>
+        <item>Maximálna efektívna vzdialenosť od mikrofónu je 10m</item>
+    </string-array>
+</resources>

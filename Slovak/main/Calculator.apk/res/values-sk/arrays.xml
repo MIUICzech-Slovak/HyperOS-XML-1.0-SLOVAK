@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="height_array">
+        <item>Centimetre</item>
+        <item>Metre</item>
+        <item>Stopa</item>
+        <item>Palce</item>
+    </string-array>
+    <string-array name="mortgage_repayment">
+        <item>Rovnomerné splátky</item>
+        <item>Znižujúce sa splátky</item>
+    </string-array>
+    <string-array name="operatorDescs">
+        <item>ľavá zátvorka</item>
+        <item>pravá zátvorka</item>
+        <item>faktoriál</item>
+        <item>prirodzený logaritmus</item>
+        <item>logaritmus</item>
+        <item>druhá odmocnina</item>
+        <item>delené</item>
+        <item>krát</item>
+        <item>plus</item>
+        <item>mínus</item>
+        <item>čiarka</item>
+        <item>exponent</item>
+        <item>tangens</item>
+        <item>sínus</item>
+        <item>kosínus</item>
+        <item>pí</item>
+        <item>rovná sa</item>
+    </string-array>
+    <string-array name="weight_array">
+        <item>Kilogramy</item>
+        <item>Libry</item>
+    </string-array>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <plurals name="time_in_day">
+        <item quantity="other">pred %1$d dňami</item>
+        <item quantity="one">"pred %1$d dňom "</item>
+    </plurals>
+    <plurals name="time_in_hour">
+        <item quantity="other">pred %1$d</item>
+        <item quantity="one">"pred %1$d "</item>
+    </plurals>
+    <plurals name="time_in_minute">
+        <item quantity="other">pred %1$dmin</item>
+        <item quantity="one">pred %1$dmin</item>
+    </plurals>
+    <plurals name="time_in_second">
+        <item quantity="other">pred %1$ds</item>
+        <item quantity="one">pred %1$ds</item>
+    </plurals>
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_receive_cancel">
+        <item quantity="other">%1$s neprenesených súborov</item>
+        <item quantity="one">%1$s neprenesený súbor</item>
+    </plurals>
+    <plurals name="notif_receive_progress">
+        <item quantity="other">Prijímanie %1$s súborov...</item>
+        <item quantity="one">Prijímanie %1$s súboru...</item>
+    </plurals>
+    <plurals name="notif_receive_success">
+        <item quantity="other">Prijaté súbory od %1$s</item>
+        <item quantity="one">Prijatý súbor od %1$s</item>
+    </plurals>
+    <plurals name="receiver_apk_file_current">
+        <item quantity="other">Prijímanie %2$d z %1$s</item>
+        <item quantity="one">Prijímanie %2$d z %1$s</item>
+    </plurals>
+    <plurals name="receiver_apk_file_num">
+        <item quantity="other">%2$d z %1$s</item>
+        <item quantity="one">%2$d z %1$s</item>
+    </plurals>
+    <plurals name="receiver_audio_file_current">
+        <item quantity="other">Prijímanie %2$d z %1$s</item>
+        <item quantity="one">Prijímanie %2$d z %1$s</item>
+    </plurals>
+    <plurals name="receiver_audio_file_num">
+        <item quantity="other">%2$d z %1$s</item>
+        <item quantity="one">%2$d z %1$s</item>
+    </plurals>
+    <plurals name="receiver_file_current">
+        <item quantity="other">Prijímanie %2$d z %1$s</item>
+        <item quantity="one">Prijímanie %2$d z %1$s</item>
+    </plurals>
+    <plurals name="receiver_file_num">
+        <item quantity="other">%2$d z %1$s</item>
+        <item quantity="one">%2$d z %1$s</item>
+    </plurals>
+    <plurals name="receiver_pic_file_current">
+        <item quantity="other">Prijímanie %2$d z %1$s</item>
+        <item quantity="one">Prijímanie %2$d z %1$s</item>
+    </plurals>
+    <plurals name="receiver_pic_file_num">
+        <item quantity="other">%2$d z %1$s</item>
+        <item quantity="one">%2$d z %1$s</item>
+    </plurals>
+    <plurals name="receiver_video_file_current">
+        <item quantity="other">Prijímanie %2$d z %1$s</item>
+        <item quantity="one">Prijímanie %2$d z %1$s</item>
+    </plurals>
+    <plurals name="receiver_video_file_num">
+        <item quantity="other">%2$d z %1$s</item>
+        <item quantity="one">%2$d z %1$s</item>
+    </plurals>
+    <plurals name="sender_file_num">
+        <item quantity="other">Čakanie na %1$d súborov</item>
+        <item quantity="one">Čakanie na %1$d súbor</item>
+    </plurals>
+</resources>

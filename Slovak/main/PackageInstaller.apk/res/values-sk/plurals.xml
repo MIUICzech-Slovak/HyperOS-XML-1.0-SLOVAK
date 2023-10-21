@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">%1$d ďalších</item>
+        <item quantity="one">%1$d ďalšie</item>
+        <item quantity="few">%1$d ďalšie</item>
+        <item quantity="many">%1$d ďalšieho</item>
+    </plurals>
+    <plurals name="app_info_permission_count">
+        <item quantity="other">povolenia %1$s</item>
+        <item quantity="one">povolenie %1$s</item>
+    </plurals>
+    <plurals name="app_info_permission_count_">
+        <item quantity="other">povolenia %1$s,</item>
+        <item quantity="one">povolenie %1$s,</item>
+    </plurals>
+    <plurals name="app_info_private_permission_count">
+        <item quantity="other">%1$s povolenia týkajúce sa ochrany osobných údajov</item>
+        <item quantity="one">%1$s povolenie týkajúce sa ochrany osobných údajov</item>
+    </plurals>
+    <plurals name="comment_count">
+        <item quantity="other">%1$s recenzií</item>
+        <item quantity="one">%1$s recenzia</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nových upozornení</item>
+        <item quantity="one">%d nové upozornenie</item>
+    </plurals>
+    <plurals name="password_wrong_retry_msg">
+        <item quantity="other">Príliš veľa neúspešných pokusov. Skúste to znova o %1$S sekúnd.</item>
+        <item quantity="one">Príliš veľa neúspešných pokusov. Skúste to znova o %1$S sekundu.</item>
+    </plurals>
+    <plurals name="pure_mode_guard_day">
+        <item quantity="other">Bezpečný režim je zapnutý %d dní</item>
+        <item quantity="one">Bezpečný režim je zapnutý %d deň</item>
+    </plurals>
+    <plurals name="settings_security_mode_enable_count">
+        <item quantity="other">Zabezpečený režim funguje na %1$s zariadeniach</item>
+        <item quantity="one">Zabezpečený režim funguje na %1$s zariadení</item>
+    </plurals>
+    <plurals name="settings_security_mode_protect_count">
+        <item quantity="other">Neutralizované %1$s riziká</item>
+        <item quantity="one">Neutralizované %1$s riziko</item>
+    </plurals>
+    <plurals name="settings_security_mode_protect_days">
+        <item quantity="other">Bezpečný režim je zapnutý už %1$s dní</item>
+        <item quantity="one">Bezpečný režim bol zapnutý už %1$s deň</item>
+    </plurals>
+    <plurals name="settings_security_mode_title_on_msg">
+        <item quantity="other">Bezpečný režim je zapnutý %1$s dní</item>
+        <item quantity="one">Bezpečný režim je zapnutý %1$s deň</item>
+    </plurals>
+</resources>

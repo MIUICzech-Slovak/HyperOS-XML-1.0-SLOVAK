@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="type">
+        <item>Na základe času</item>
+        <item>Na základe počítadla</item>
+    </string-array>
+</resources>

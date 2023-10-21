@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="allow">Povoliť</string>
+    <string name="app_label">Ukladací priestor médií</string>
+    <string name="artist_label">Umelec</string>
+    <string name="cache_clearing_dialog_text">%s by chcel vymazať niektoré dočasné súbory. Môže to mať za následok zvýšené využitie batérie alebo mobilných dát.</string>
+    <string name="cache_clearing_dialog_title">Vymazať dočasné súbory aplikácie</string>
+    <string name="cache_clearing_in_progress_title">Vymazávajú sa dočasné súbory aplikácie…</string>
+    <string name="clear">Vymazať</string>
+    <string name="deny">Odmietnuť</string>
+    <string name="grant_dialog_button_allow">Povoliť</string>
+    <string name="grant_dialog_button_deny">Odmietnuť</string>
+    <string name="permission_required">Na úpravu alebo odstránenie tejto položky sa vyžaduje povolenie.</string>
+    <string name="permission_required_action">Pokračovať</string>
+    <string name="root_audio">Zvuky</string>
+    <string name="root_documents">Dokumenty</string>
+    <string name="root_images">Obrázky</string>
+    <string name="root_videos">Videá</string>
+    <string name="search_menu_title">Hľadať</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="storage_description">Miestne úložisko</string>
+    <string name="transcode_cancel">Zrušiť</string>
+    <string name="transcode_denied">"%s nemôže spracovať mediálne súbory"</string>
+    <string name="transcode_processing">Prebieha spracovanie média…</string>
+    <string name="transcode_processing_cancelled">Spracovanie médií bolo zrušené</string>
+    <string name="transcode_processing_error">Chyba spracovania média</string>
+    <string name="transcode_processing_started">Spracovanie médií sa začalo</string>
+    <string name="transcode_processing_success">Úspešné spracovanie médií</string>
+    <string name="transcode_wait">Počkajte</string>
+    <string name="uid_label">Médiá</string>
+    <string name="unknown">Neznáme</string>
+</resources>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<resources>
+    <string-array name="animation_rate_entries">
+        <item>Plynulá</item>
+        <item>Vyvážená</item>
+        <item>Rýchla</item>
+    </string-array>
+    <string-array name="cell_icon_size_entries">
+        <item>Najmenšie</item>
+        <item>Malé</item>
+        <item>Stredné</item>
+        <item>Veľké</item>
+        <item>Najväčšie</item>
+    </string-array>
+    <string-array name="editing_mode_entries">
+        <item>Tapeta</item>
+        <item>Widgety</item>
+        <item>Nastavenia</item>
+    </string-array>
+    <string-array name="gadget_weather_image">
+        <item>Jasno</item>
+        <item>Oblačno</item>
+        <item>Zamračené</item>
+        <item>Hmlisto</item>
+        <item>Búrka</item>
+        <item>Lejak</item>
+        <item>Búrka</item>
+        <item>Búrka</item>
+        <item>Dážď</item>
+        <item>Lejak</item>
+        <item>Dážď</item>
+        <item>Jemný Dážď</item>
+        <item>Dážď so snehom</item>
+        <item>Snehová búrka</item>
+        <item>Sneženie</item>
+        <item>Sneženie</item>
+        <item>Sneženie</item>
+        <item>Sneženie</item>
+        <item>Piesková búrka</item>
+        <item>Piesková búrka</item>
+        <item>Piesková búrka</item>
+        <item>Veterno</item>
+        <item>Krupobitie</item>
+        <item>Prach</item>
+        <item>Hmla</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>Predvolený</item>
+        <item>Klasický</item>
+    </string-array>
+    <string-array name="global_search_mode_entries">
+        <item>Žiadne</item>
+        <item>Potiahnutím nahor</item>
+        <item>Lišta vyhľadávania</item>
+    </string-array>
+    <string-array name="global_search_provider_entries">
+        <item>Predvolený</item>
+        <item>Google</item>
+    </string-array>
+    <string-array name="minus_screen_entries">
+        <item>Žiadna</item>
+        <item>Asistent</item>
+        <item>Google</item>
+    </string-array>
+    <string-array name="monochrome_color_entries">
+        <item>Predvolené</item>
+        <item>Modrá</item>
+        <item>Zelená</item>
+        <item>Fialová</item>
+        <item>Hnedá</item>
+    </string-array>
+    <string-array name="transformation_entries">
+        <item>Klasický</item>
+        <item>Prelínanie</item>
+        <item>Pretočenie</item>
+        <item>Strana</item>
+        <item>Kaskádovo</item>
+        <item>3D rotácia</item>
+        <item>3D kocka</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>Podľa témy</item>
+        <item>Stred</item>
+        <item>Vľavo</item>
+        <item>Vpravo</item>
+    </string-array>
+</resources>

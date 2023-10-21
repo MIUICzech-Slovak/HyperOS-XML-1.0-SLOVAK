@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="app_name">Zman</string>
+    <string name="first_settings_default_camera_title">Zdieľať bez metadát ako predvolené</string>
+    <string name="first_settings_default_location_subtitle">Odstrániť informácie o polohe na fotografii</string>
+    <string name="first_settings_default_location_title">Zdieľať bez informácie o polohe ako predvolené</string>
+    <string name="first_settings_share_enable">Pridať \"Bezpečné zdieľanie\" vodoznak</string>
+    <string name="first_settings_share_enable_subtitle">The items you share on WeChat will appear with a MIUI badge</string>
+    <string name="first_settings_subtitle">Tu sú nastavenia pre bezpečné zdieľanie:</string>
+    <string name="first_settings_title">Chrániť vaše súkromie</string>
+    <string formatted="false" name="loading_text_format">Odstránenie súkromných informácií z fotografie (%d/%d)…</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Potiahnite nadol pre obnovenie</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Obnovené</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Obnovenie…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Pustite pre obnovenie</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Žiadne dáta</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Žiadne dáta</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>
+    <string name="once_settings_camera_ttile">Zdieľať bez metadát</string>
+    <string name="once_settings_location_title">Zdieľať bez informácie o polohe</string>
+    <string name="once_settings_subtitle">Ako chcete zdieľať vybrané položky?</string>
+    <string name="once_settings_title">Ochrana súkromia</string>
+    <string name="settings_camera_subtitle_no">Žiadne metadáta</string>
+    <string name="settings_image_camera_summary">Zariadenie, metadáta, atď.</string>
+    <string name="settings_location_subtitle_no">Žiadne info o polohe</string>
+    <string name="settings_share_enable_summary">The items you share on WeChat will appear with a MIUI badge</string>
+    <string name="settings_share_info">Tu sú nastavenia pre bezpečné zdieľanie z Galérie a Súborov:</string>
+    <string name="settings_show_detail">Zobraziť podrobnosti</string>
+    <string name="settings_tip">Choďte do Galéria &gt; Nastavenia pre viac možností</string>
+    <string name="settings_title">Bezpečné zdieľanie</string>
+    <string name="text_done">OK</string>
+    <string name="text_security">Súkromie</string>
+</resources>

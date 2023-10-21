@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="boot_msg_text">
+        <item>-==MIUIos.cz==-</item>
+        <item>-==MIUIos.cz==-</item>
+        <item>-==MIUIos.cz==-</item>
+        <item>Prebieha inštalácia.</item>
+        <item>Prebieha inštalácia..</item>
+        <item>Prebieha inštalácia...</item>
+        <item>Optimalizácia aplikácií...</item>
+        <item>Svoje postrehy napíšte na miuios.cz/rom</item>
+    </string-array>
+    <string-array name="cta_permission_names">
+        <item>prístup na sieť</item>
+        <item>čítať SMS</item>
+        <item>upraviť SMS</item>
+        <item>prijať SMS</item>
+        <item>odoslať SMS</item>
+        <item>hovorom</item>
+        <item>čítať kontakty</item>
+        <item>upraviť kontakty</item>
+        <item>čítať zoznam hovorov</item>
+        <item>upraviť zoznam hovorov</item>
+        <item>fotoaparát</item>
+        <item>polohe</item>
+    </string-array>
+</resources>

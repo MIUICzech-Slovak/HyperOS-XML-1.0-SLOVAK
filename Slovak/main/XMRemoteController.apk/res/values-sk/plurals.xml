@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_count">
+        <item quantity="other">%1$s stiahnutých</item>
+        <item quantity="one">Stiahnuté: %1$s</item>
+        <item quantity="few">Stiahnuté: %1$s</item>
+    </plurals>
+    <plurals name="app_user_used">
+        <item quantity="other">%1$s používateľov</item>
+        <item quantity="one">Užívateľov: %1$s</item>
+        <item quantity="few">Užívateľov: %1$s</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">Pred %1$d dňami</item>
+        <item quantity="one">Pred %1$d dňom</item>
+        <item quantity="few">Pred %1$d dňom</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">Pred %1$d hodinami</item>
+        <item quantity="one">Pred %1$d hodinou</item>
+        <item quantity="few">Pred %1$d hodinou</item>
+    </plurals>
+    <plurals name="match_brand_selection_des">
+        <item quantity="other">%d dostupných značiek</item>
+        <item quantity="one">Dostupné značky: 1</item>
+        <item quantity="few">Dostupné značky: %d</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">pred %1$d minútami</item>
+        <item quantity="one">pred %1$d minútou</item>
+        <item quantity="few">pred %1$d minútami</item>
+    </plurals>
+</resources>

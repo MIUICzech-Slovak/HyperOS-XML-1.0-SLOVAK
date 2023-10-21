@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="indian_popular_language_locales">
+        <item>sk_SK</item>
+        <item>cs_CZ</item>
+        <item>en_US</item>
+        <item>en_GB</item>
+    </string-array>
+    <string-array name="other_settings_auto_update_at_no_simslot_entries">
+        <item>Iba Wi-Fi</item>
+        <item>Vypnuté</item>
+    </string-array>
+    <string-array name="other_settings_auto_update_entries">
+        <item>Wi-Fi a mobilné dáta</item>
+        <item>Wi-Fi</item>
+        <item>Vypnuté</item>
+    </string-array>
+    <string-array name="popular_language_locales">
+        <item>sk_SK</item>
+        <item>cs_CZ</item>
+        <item>en_US</item>
+        <item>en_GB</item>
+    </string-array>
+</resources>

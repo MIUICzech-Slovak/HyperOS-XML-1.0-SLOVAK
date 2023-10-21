@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_count_entries">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>Vypnuté</item>
+    </string-array>
+    <string-array name="alarm_in_furture">
+        <item>Budík o menej než minútu</item>
+        <item>Budík o %1$s</item>
+        <item>Budík o %2$s</item>
+        <item>Budík o %1$s %2$s</item>
+        <item>Budík o %3$s</item>
+        <item>Budík o %1$s %3$s</item>
+        <item>Budík o %2$s %3$s</item>
+        <item>Budík o %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="alarm_in_furture_new_array">
+    <item>Budík o menej ako %d minútu</item>
+        <item>Budík o %1$s</item>
+        <item>Budík o %2$s</item>
+        <item>Budík o %1$s %2$s</item>
+        <item>Budík o %3$s</item>
+        <item>Budík o %1$s %3$s</item>
+        <item>Budík o %2$s %3$s</item>
+        <item>Budík o %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Raz</item>
+        <item>Každý deň</item>
+        <item>Pracovné dni (v Číne)</item>
+        <item>Sviatky (v Číne)</item>
+        <item>Pondelok až Piatok</item>
+        <item>Vlastné</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Iba raz</item>
+        <item>Každý deň</item>
+        <item>Pondelok až Piatok</item>
+        <item>Vlastné</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>Budík je nastavený na menej než 1 min od teraz.</item>
+        <item>Budík sa spustí za %1$s od teraz.</item>
+        <item>Budík sa spustí za %2$s od teraz.</item>
+        <item>Budík sa spustí za %1$s a %2$s od teraz.</item>
+        <item>Budík sa spustí za %3$s od teraz.</item>
+        <item>Budík sa spustí za %1$s a %3$s od teraz.</item>
+        <item>Budík sa spustí za %2$s a %3$s od teraz.</item>
+        <item>Budík sa spustí za %1$s, %2$s, a %3$s od teraz.</item>
+    </string-array>
+    <string-array name="alarm_set_new_array">
+        <item>Budík sa vypne o menej ako %d minútu</item>
+        <item>Budík sa vypne o %1$s.</item>
+        <item>Budík sa vypne o %2$s.</item>
+        <item>Budík sa vypne o %1$s a %2$s.</item>
+        <item>Budík sa vypne o %3$s.</item>
+        <item>Budík sa vypne o %1$s a %3$s.</item>
+        <item>Budík sa vypne o %2$s a %3$s.</item>
+        <item>Budík sa vypne o %1$s %2$s a %3$s.</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Vypnuté</item>
+        <item>1 minúta</item>
+        <item>5 minút</item>
+        <item>10 minút</item>
+        <item>15 minút</item>
+        <item>20 minút</item>
+        <item>25 minút</item>
+        <item>30 minút</item>
+    </string-array>
+    <string-array name="bedtime_guide_repeat_type">
+        <item>Pondelok až Piatok</item>
+        <item>Každý deň</item>
+        <item>Pracovné dni</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entries">
+        <item>Každý deň</item>
+        <item>Pondelok až Piatok</item>
+        <item>Pracovné dni</item>
+        <item>Vlastné</item>
+    </string-array>
+    <string-array name="clock_bg_setting_entries">
+        <item>Biele</item>
+        <item>Čierne</item>
+        <item>Auto</item>
+    </string-array>
+    <string-array name="days">
+        <item>Včera</item>
+        <item>Dnes</item>
+        <item>Zajtra</item>
+    </string-array>
+    <string-array name="days_of_week">
+        <item>Ned</item>
+        <item>Pon</item>
+        <item>Uto</item>
+        <item>Str</item>
+        <item>Štv</item>
+        <item>Pia</item>
+        <item>Sob</item>
+    </string-array>
+    <string-array name="notification_adv_time_entries">
+        <item>V nastavený čas</item>
+        <item>15 minút predtým</item>
+        <item>30 minút predtým</item>
+        <item>1 hodinu predtým</item>
+        <item>Žiaden</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 minúta</item>
+        <item>5 minút</item>
+        <item>10 minút</item>
+        <item>15 minút</item>
+        <item>20 minút</item>
+        <item>25 minút</item>
+        <item>30 minút</item>
+    </string-array>
+    <string-array name="stat_volume_button_behaviors">
+        <item>Žiadna</item>
+        <item>Odložiť budík</item>
+        <item>Vypnúť budík</item>
+    </string-array>
+    <string-array name="timer_duration">
+        <item>Celkom %1$s</item>
+        <item>Celkom %2$s</item>
+        <item>Celkom %1$s%2$s</item>
+        <item>Celkom %3$s</item>
+        <item>Celkom %1$s%3$s</item>
+        <item>Celkom %2$s%3$s</item>
+        <item>Celkom %1$s%2$s%3$s</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Žiadne</item>
+        <item>Odložiť</item>
+        <item>Zrušenie</item>
+    </string-array>
+    <string-array name="weather_tips_value">
+        <item>Radšej nevychádzajte vonku</item>
+        <item>Na cestách sa šmýka</item>
+        <item>Vonku je búrka, buďte opatrný!</item>
+        <item>Vonku je hmlisto. Jazdite opatrne!</item>
+        <item>Ovzdušie je znečistené, nezabudnite si masku!</item>
+        <item>Nezabudnite si dáždnik</item>
+        <item>Opatrne na cestách</item>
+        <item>Vonku padajú krúpy!</item>
+        <item>Blíži sa piesočná búrka!</item>
+        <item>Prajeme prijemný deň!</item>
+    </string-array>
+    
+<string-array name="bedtime_guide_repeat_type_international">
+         <item>Po až Pia</item>
+         <item>Každý deň</item>
+     </string-array>
+     <string-array name="bedtime_repeat_entires_international">
+         <item>Každý deň</item>
+         <item>Po až Pia</item>
+         <item>Vlastné</item>
+     </string-array>    
+</resources>

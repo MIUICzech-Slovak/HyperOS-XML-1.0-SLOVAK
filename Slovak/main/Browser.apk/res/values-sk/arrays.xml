@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<resources>
+    <string-array name="menu_theme_setting">
+        <item>Biela</item>
+        <item>Žltá</item>
+        <item>Šedá</item>
+        <item>Hnedá</item>
+        <item>Zelená</item>
+        <item>Modrá</item>
+    </string-array>
+    <string-array name="pref_fling_gesture_entries">
+        <item>Späť / Ďalej</item>
+        <item>Zmeniť kartu</item>
+        <item>Žiadna</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_gesture_entries">
+        <item>Späť / Ďalej</item>
+        <item>Zmeniť kartu</item>
+        <item>Žiadna</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Predvolená</item>
+        <item>Vlastná</item>
+    </string-array>
+    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Dlaždice</item>
+        <item>Na výšku</item>
+        <item>Na šírku</item>
+    </string-array>
+    <string-array name="pref_tab_restore_array">
+        <item>Vždy sa opýtať</item>
+        <item>Otvoriť</item>
+        <item>Zatvoriť</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>Malý</item>
+        <item>Menší</item>
+        <item>Normálny</item>
+        <item>Väčší</item>
+        <item>Veľký</item>
+    </string-array>
+    <string-array name="shortcut_dialog_delete">
+        <item>Vymazať</item>
+        <item>Nie ďakujem</item>
+    </string-array>
+    <string-array name="shortcut_dialog_keep">
+        <item>OK</item>
+        <item>Sledovať</item>
+    </string-array>
+    <string-array name="shortcut_dialog_title">
+        <item>Správa z Prehliadača</item>
+        <item>Follow the Olypmpics with Mi</item>
+    </string-array>
+</resources>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cell_layout_size_entries">
+        <item>4x4</item>
+        <item>4x5</item>
+    </string-array>
+    <string-array name="cell_layout_size_values">
+        <item>4x4</item>
+        <item>4x5</item>
+    </string-array>
+    <string-array name="editing_mode_entries">
+        <item>Tapety</item>
+        <item>Widgety</item>
+        <item>Nastavenia</item>
+    </string-array>
+    <string-array name="gadget_weather_image">
+        <item>Jasno</item>
+        <item>Oblačno</item>
+        <item>Zatiahnuté</item>
+        <item>Hmlisto</item>
+        <item>Silné búrky</item>
+        <item>Búrka</item>
+        <item>Veľmi silný dážď</item>
+        <item>Búrka s bleskami</item>
+        <item>Prehánky</item>
+        <item>Silný dážď</item>
+        <item>Dážď</item>
+        <item>Mrholenie</item>
+        <item>Dážď so snehom</item>
+        <item>Snehová búrka</item>
+        <item>Snehové jazyky</item>
+        <item>Husté sneženie</item>
+        <item>Sneženie</item>
+        <item>Slabé sneženie</item>
+        <item>Silná piesočná búrka</item>
+        <item>Piesočná búrka</item>
+        <item>Ľahká piesočná búrka</item>
+        <item>Piesočná búrka</item>
+        <item>Krúpobitie</item>
+        <item>Prašno</item>
+        <item>Opar</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>Predvolené</item>
+        <item>Klasika</item>
+    </string-array>
+    <string-array name="stock_color_schema">
+        <item>Zelená hore, červená dole</item>
+        <item>Červená hore, zelená dole</item>
+    </string-array>
+    <string-array name="stock_title_schema">
+        <item>Zvýrazniť názov</item>
+        <item>Zvýrazniť kód</item>
+    </string-array>
+    <string-array name="transformation_entries">
+        <item>Diapozitív</item>
+        <item>Prelínanie</item>
+        <item>Kotrmelec</item>
+        <item>Stránka</item>
+        <item>Kaskáda</item>
+        <item>Rotácia</item>
+        <item>Kocka</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>Predvolená téma</item>
+        <item>Na stred</item>
+        <item>Vľavo</item>
+        <item>Vpravo</item>
+    </string-array>
+</resources>

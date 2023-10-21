@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>Synchr. vaše kontakty, SMS, poznámky, kalendár, a viac</item>
+        <item>Zálohujte aplikácie, rozloženie plochy a tapetu</item>
+        <item>Zálohujte dôležité nastavenia, vrátane Wi-Fi a displeja</item>
+        <item>Zablokujte vaše zariadenie v prípade straty alebo krádeže</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>Synchr. vaše kontakty, SMS, poznámky, kalendár a viac..</item>
+        <item>Zálohujte aplikácie, rozloženie plochy a tapety</item>
+        <item>Zálohujte dôležité nastavenia vrátane Wi-Fi</item>
+        <item>Uzamknite vaše zariadenie na diaľku v prípade straty alebo odcudzenia</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>Synchr. vaše kontakty, SMS, poznámky, kalendár a viac..</item>
+        <item>Zálohujte aplikácie, rozloženie plochy a tapety</item>
+        <item>Zálohujte dôležité nastavenia vrátane Wi-Fi</item>
+        <item>Uzamknite vaše zariadenie na diaľku v prípade straty alebo odcudzenia</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>Synchr. vaše kontakty, SMS, poznámky, kalendár a viac..</item>
+        <item>Zálohujte aplikácie, rozloženie plochy a tapety</item>
+        <item>Zálohujte dôležité nastavenia vrátane Wi-Fi</item>
+        <item>Uzamknite vaše zariadenie na diaľku v prípade straty alebo odcudzenia</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray">
+        <item>Synchr. dáta aplikácií</item>
+        <item>Zálohovať rozloženie plochy</item>
+        <item>Zálohovať nastavenia systému</item>
+        <item>Vyhľadať zariadenie</item>
+    </string-array>
+    <string-array name="priv_dialog_finddevice_runtime_perm_desc">
+        <item>Pre identifikáciu vášho zariadenia</item>
+        <item>Pre získanie polohy vášho zariadenia</item>
+    </string-array>
+    <string-array name="priv_dialog_sync_runtime_perm_desc">
+        <item>Pre synch. udalostí</item>
+        <item>Pre synch. správ</item>
+        <item>Pre synch. správ</item>
+        <item>Pre synch. kontaktov</item>
+        <item>Pre synch. kontaktov</item>
+        <item>Pre ukladanie súborov do vášho zariadenia</item>
+    </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc">
+        <item>Pre identifikáciu vášho zariadenia</item>
+        <item>Pre získanie polohy vášho zariadenia</item>
+    </string-array>
+    <string-array name="privacy_dialog_sync_runtime_perm_desc">
+        <item>Pre synch. udalostí</item>
+        <item>Pre synch. správ</item>
+        <item>Pre synch. správ</item>
+        <item>Pre synch. kontaktov</item>
+        <item>Pre synch. kontaktov</item>
+        <item>Pre ukladanie súborov do vášho zariadenia</item>
+    </string-array>
+    <string-array name="privacy_dialog_sync_runtime_perm_title">
+        <item>Prístup k udalostiam</item>
+        <item>Odoslať SMS</item>
+        <item>Načítať MMS</item>
+        <item>Prístup ku kontaktom</item>
+        <item>Upraviť kontakty</item>
+        <item>Prístup k súborom v zariadení</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>Synchr. Wi-Fi nastavenia s Xiaomi Cloudom</item>
+        <item>Povoliť synchr.</item>
+        <item>WLAN;wifi;Wi-Fi;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="user_detail_fixed_items">
+        <item>Zobraziť synchr. položky</item>
+        <item>Podrobnosti o úložisku</item>
+    </string-array>
+</resources>

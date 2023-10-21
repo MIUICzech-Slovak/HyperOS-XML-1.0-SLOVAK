@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+    <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4 alebo IPv6</item>
+    </string-array>
+    <string-array name="automatic_storage_management_days">
+        <item>Staršie ako 30 dní</item>
+        <item>Staršie ako 60 dní</item>
+        <item>Staršie ako 90 dní</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0 %</item>
+        <item>50 %</item>
+        <item>100 %</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>Neurčené</item>
+        <item>LTE</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Použiť voľbu systému (predvolené)</item>
+        <item>16 bitov na vzorku</item>
+        <item>24 bitov na vzorku</item>
+        <item>32 bitov na vzorku</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Použiť voľbu systému (predvolené)</item>
+        <item>16 bitov na vzorku</item>
+        <item>24 bitov na vzorku</item>
+        <item>32 bitov na vzorku</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Použiť voľbu systému (predvolené)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Použiť voľbu systému (predvolené)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Optimalizovaná kvalita zvuku</item>
+        <item>Vyrovnaná kvalita zvuku a pripojenia</item>
+        <item>Optimalizovaná kvalita pripojenia</item>
+        <item>Najvyšši kvalita (adaptívna prenosová rýchlosť)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Optimalizovaná kvalita zvuku (990kbps/909kbps)</item>
+        <item>Vyrovnaná kvalita zvuku a pripojenia (660/606 kb/s)</item>
+        <item>Optimalizovaná kvalita pripojenia (330kbps/303kbps)</item>
+        <item>Najvyšši kvalita (adaptívna prenosová rýchlosť)</item>
+    </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, aktívne</item>
+        <item>, aktívne (médiá)</item>
+        <item>, aktívne (telefón)</item>
+    </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+        <item>Predvolené</item>
+        <item>Žiadne</item>
+        <item>Obrys</item>
+        <item>Tieň</item>
+        <item>Reliéf</item>
+        <item>Rytina</item>
+    </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+        <item>Predvolené</item>
+        <item>Bezpätkové</item>
+        <item>Bezpätkové zhustené</item>
+        <item>Bezpätkové neproporcionálne</item>
+        <item>Pätkové</item>
+        <item>Pätkové neproporcionálne</item>
+        <item>Štandardné</item>
+        <item>Kurzíva</item>
+        <item>Kapitálky</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Vylepšené farby</item>
+        <item>Prirodzené farby, ako ich vidí ľudské oko</item>
+        <item>Farby optimalizované pre digitálny obsah</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>Sýty (predvolený)</item>
+        <item>Prirodzený</item>
+        <item>Štandardný</item>
+    </string-array>
+    <string-array name="color_picker">
+        <item>Modrozelená</item>
+        <item>Modrá</item>
+        <item>Indigo</item>
+        <item>Purpurová</item>
+        <item>Ružová</item>
+        <item>Červená</item>
+    </string-array>
+    <string-array name="dark_ui_mode_entries">
+        <item>Automaticky (podľa času dňa)</item>
+        <item>Vždy zapnuté</item>
+        <item>Vždy vypnuté</item>
+    </string-array>
+    <string-array name="data_usage_data_range">
+        <item>Posledných 30 dní</item>
+        <item>Nastaviť cyklus využitia</item>
+    </string-array>
+    <string-array name="entries_font_size">
+        <item>Malé</item>
+        <item>Predvolené</item>
+        <item>Veľké</item>
+        <item>Najväčšie</item>
+    </string-array>
+    <string-array name="proc_stats_memory_states">
+        <item>Normálny</item>
+        <item>Stredný</item>
+        <item>Nízky</item>
+        <item>Kritický</item>
+    </string-array>
+    <string-array name="proc_stats_process_states">
+        <item>Pretrvávajúci</item>
+        <item>Najčastejšia aktivita</item>
+        <item>Dôležitý (v popredí)</item>
+        <item>Dôležitý (v pozadí)</item>
+        <item>Zálohovanie</item>
+        <item>Vysoké vyťaženie</item>
+        <item>Služba (spustená)</item>
+        <item>Služba (reštartuje sa)</item>
+        <item>Prijímač</item>
+        <item>Plocha</item>
+        <item>Posledná aktivita</item>
+        <item>Vo vyrovnávacej pamäti (aktivita)</item>
+        <item>Vo vyrovnávacej pamäti (klient aktivity)</item>
+        <item>Vo vyrovnávacej pamäti (prázdne)</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Vypnuté</item>
+        <item>Všetky vyrovnávacie pamäte denníka</item>
+        <item>Všetky vyrovnávacie pamäte denníka (okrem rádia)</item>
+        <item>iba vyrovnávacia pamäť denníka jadra</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Vypnuté</item>
+        <item>Všetko</item>
+        <item>Okrem rádia</item>
+        <item>iba jadro</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>Nabíja sa</item>
+        <item>MTP (Media Transfer Protocol – protokol na prenos médií)</item>
+        <item>PTP (Picture Transfer Protocol – protokol na prenos obrázkov)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Zdroj zvuku</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices">
+        <item>Uprednostniť Wi-Fi</item>
+        <item>Preferujem mobilné dáta</item>
+        <item>Len Wi-Fi</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_v2">
+        <item>Wi-Fi</item>
+        <item>Mobilné dáta</item>
+        <item>Len Wi-Fi</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
+        <item>Wi-Fi</item>
+        <item>Mobilné dáta</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_without_wifi_only">
+        <item>Uprednostniť Wi-Fi</item>
+        <item>Preferujem mobilné dáta</item>
+    </string-array>
+    <string-array name="wifi_hidden_entries">
+        <item>Nie</item>
+        <item>Áno</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>Zistiť automaticky</item>
+        <item>Považovať za sieť s meraním dát</item>
+        <item>Považovať za sieť bez merania dát</item>
+    </string-array>
+</resources>

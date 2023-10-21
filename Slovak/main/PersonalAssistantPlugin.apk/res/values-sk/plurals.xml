@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="assistant_day">
+        <item quantity="other">O %d dní</item>
+        <item quantity="one">O %d deň</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">Pred %1$dd</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">Pred %1$dh</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">Pred %1$dmin</item>
+    </plurals>
+    <plurals name="sms_hour_suffix">
+        <item quantity="other">O %d hodín</item>
+        <item quantity="one">O %d hodinu</item>
+    </plurals>
+    <plurals name="sms_minute_suffix">
+        <item quantity="other">O %d min</item>
+        <item quantity="one">O %d min</item>
+    </plurals>
+    <plurals name="steps">
+        <item quantity="other">%d|krokov</item>
+        <item quantity="zero">%d|krokov</item>
+        <item quantity="one">%d|krok</item>
+    </plurals>
+    <plurals name="time_hour_ago">
+        <item quantity="other">Pred %dh</item>
+        <item quantity="one">Pred %dh</item>
+    </plurals>
+    <plurals name="time_minute_ago">
+        <item quantity="other">Pred %d min</item>
+        <item quantity="one">Pred %d min</item>
+    </plurals>
+</resources>

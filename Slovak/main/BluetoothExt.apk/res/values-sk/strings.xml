@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="acceptance_timeout_message">Prijatie pripojenia od %1$s vypršalo</string>
+    <string name="authentication_timeout_message">Overenie s %1$s vypršalo</string>
+    <string name="bluetooth_dun_acceptance_dialog_text">Zariadenie %1$s by chcelo používať DUN. Umožniť prístup %2$s?</string>
+    <string name="bluetooth_dun_request">Žiadosť DUN</string>
+    <string name="bluetooth_ftp_acceptance_dialog_text">Zariadenie %1$s by chcelo pristupovať k vašim súborom a priečinkom. Umožniť prístup %2$s?</string>
+    <string name="bluetooth_ftp_request">Žiadosť FTP</string>
+    <string name="bluetooth_mas_acceptance_dialog_text">Zariadenie %1$s by chcelo pristupovať k vašim správam. Umožniť prístup %2$s?</string>
+    <string name="bluetooth_mas_request">Žiadosť o prístup k správam</string>
+    <string name="bluetooth_remember_choice">Nepýtať sa znovu</string>
+    <string name="bluetooth_sap_acceptance_dialog_text">Zariadenie %1$s by chcelo pristupovať k vašej SIM. Umožniť prístup %2$s?</string>
+    <string name="bluetooth_sap_request">Žiadosť SAP</string>
+    <string name="defaultname">Sada do auta</string>
+    <string name="dun_notif_title">Žiadosť o kľúč relácie pre DUN</string>
+    <string name="ftp_notif_active_session">Aktívna relácia Bluetooth FTP</string>
+    <string name="ftp_notif_connected">Prístup cez Bluetooth pre presun súborov k %1$s.</string>
+    <string name="ftp_notif_title">Žiadosť o kľúč relácie pre FTP</string>
+    <string name="map_notif_active_session">Aktívna relácia Bluetooth MAP</string>
+    <string name="map_notif_connected">Prístup k správam cez Bluetooth k %1$s.</string>
+    <string name="notif_message">Dotykom sa pripojíte k %1$s.</string>
+    <string name="notif_ticker">Žiadosť o Bluetooth pripojenie</string>
+    <string name="session_key_dialog_header">Kľúč Bluetooth relácie je vyžadovaný</string>
+    <string name="session_key_dialog_title">Typ kľúča relácie pre %1$s</string>
+</resources>

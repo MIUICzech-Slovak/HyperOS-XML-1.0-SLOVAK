@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="panchang_weeks">
+        <item>Nedeľa</item>
+        <item>Pondelok</item>
+        <item>Utorok</item>
+        <item>Streda</item>
+        <item>Štvrtok</item>
+        <item>Piatok</item>
+        <item>Sobota</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Predvolený región</item>
+        <item>Sobota</item>
+        <item>Nedeľa</item>
+        <item>Pondelok</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>jan</item>
+        <item>feb</item>
+        <item>mar</item>
+        <item>apr</item>
+        <item>máj</item>
+        <item>jún</item>
+        <item>júl</item>
+        <item>aug</item>
+        <item>sep</item>
+        <item>okt</item>
+        <item>nov</item>
+        <item>dec</item>
+    </string-array>
+    <string-array name="year_view_week_header_name">
+        <item>N</item>
+        <item>P</item>
+        <item>U</item>
+        <item>S</item>
+        <item>Š</item>
+        <item>P</item>
+        <item>S</item>
+    </string-array>
+	
+    <string-array name="close_alarm_repeating_labels">
+        <item>Vypnúť raz</item>
+        <item>Vypnúť navždy</item>
+    </string-array>
+    <string-array name="open_alarm_repeating_labels">
+        <item>Zapnúť raz</item>
+        <item>Zapnúť navždy</item>
+    </string-array>
+	
+</resources>

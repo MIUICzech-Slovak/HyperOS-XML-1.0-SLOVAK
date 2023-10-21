@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="agenda_weeks_of_year">
+        <item>Týždeň 1</item>
+        <item>Týždeň 2</item>
+        <item>Týždeň 3</item>
+        <item>Týždeň %1$d</item>
+    </string-array>
+    <string-array name="app_health_setting_text_array_duration">
+        <item>10 min</item>
+        <item>20 min</item>
+        <item>30 min</item>
+        <item>60 min</item>
+    </string-array>
+    <string-array name="base_day_time_space">
+        <item>Noc</item>
+        <item>Noc</item>
+        <item>Ráno</item>
+        <item>Poobede</item>
+        <item>Poobede</item>
+        <item>Večer</item>
+        <item>Večer</item>
+    </string-array>
+    <string-array name="day_time_space">
+        <item>Noc</item>
+        <item>Skoro ráno</item>
+        <item>Ráno</item>
+        <item>Obed</item>
+        <item>Poobede</item>
+        <item>Neskoro poobede</item>
+        <item>Večer</item>
+    </string-array>
+    <string-array name="detail_font_size">
+        <item>Malé</item>
+        <item>Normálne</item>
+        <item>Veľké</item>
+    </string-array>
+    <string-array name="pa_home_week_days">
+        <item>Nedeľa</item>
+        <item>Pondelok</item>
+        <item>Utorok</item>
+        <item>Streda</item>
+        <item>Štvrtok</item>
+        <item>Piatok</item>
+        <item>Sobota</item>
+        <item>Nedeľa</item>
+    </string-array>
+</resources>

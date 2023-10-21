@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notification_rec_content">
+        <item quantity="other">FM nahrávok: %d</item>
+        <item quantity="one">FM nahrávok: %d</item>
+    </plurals>
+    <plurals name="toast_channel_searched">
+        <item quantity="other">Skenovaných: %1$d</item>
+        <item quantity="zero">Skenovaných: %1$d</item>
+        <item quantity="one">Skenovaných: 1</item>
+        <item quantity="two">Skenovaných: %1$d</item>
+        <item quantity="few">Skenovaných: %1$d</item>
+        <item quantity="many">Skenovaných: %1$d</item>
+    </plurals>
+</resources>
+
