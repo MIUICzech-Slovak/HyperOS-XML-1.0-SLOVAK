@@ -2847,7 +2847,6 @@ Neskôr to môžete zmeniť v sekcii Nastavenia > Aplikácie."</string>
     <string name="license_title">Licencia</string>
     <string name="limited_warranty_introduction">Ak si chcete zobraziť záruku na toto zariadenie, klepnite na krajinu nákupu. Záruka je k dispozícii aj na g.co/devicewarranty.</string>
     <string name="limited_warranty_title">Obmedzená záruka</string>
-    <string name="link_speed">%1$d Mb/s</string>
     <string name="live_caption_summary">Automatické titulkovanie médií</string>
     <string name="live_caption_title">Živý prepis</string>
     <string name="loading_injected_setting_summary">Načítava sa…</string>
@@ -3263,7 +3262,6 @@ V tomto zariadení sa nachádzajú ďalší používatelia.
     <string name="memory_usage">Využitie pamäte</string>
     <string name="memory_usage_apps">Pamäť používaná aplikáciami</string>
     <string name="memory_usage_apps_summary">{count,plural, =1{1 aplikácia použila pamäť v priebehu tohto uplynulého času: {time}}few{# aplikácie použili pamäť v priebehu tohto uplynulého času: {time}}many{# apps used memory in the last {time}}other{# aplikácií použilo pamäť v priebehu tohto uplynulého času: {time}}}</string>
-    <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">Za posledné 3 hodiny bolo priemerné využitie pamäte %1$s</string>
     <string name="memtag_footer">Ak chcete zapnúť alebo vypnúť rozšírenú ochranu pamäte, musíte reštartovať zariadenie. Keď bude zapnutá, môžete si všimnúť slabší výkon zariadenia.</string>
     <string name="memtag_force_off">Pre vaše zariadenie nie je momentálne k dispozícii</string>
@@ -3459,7 +3457,6 @@ V tomto zariadení sa nachádzajú ďalší používatelia.
     <string name="nfc_main_switch_title">Používať NFC</string>
     <string name="nfc_more_details">Ďalšie informácie</string>
     <string name="nfc_more_title">Viac…</string>
-    <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
     <string name="nfc_payment_btn_text_set_deault">Nastaviť ako predvolené</string>
     <string name="nfc_payment_btn_text_update">Aktualizovať</string>
     <string name="nfc_payment_default">Predvolená platobná aplikácia</string>
@@ -3768,7 +3765,6 @@ Aplikácia tým získa aj možnosť vypnúť alebo zapnúť režim bez vyrušen�
     <string name="power_camera">Fotoaparát</string>
     <string name="power_cell">Mobilná sieť</string>
     <string name="power_charge_remaining">%1$s do nabitia</string>
-    <string name="power_charging">%1$s – %2$s</string>
     <string name="power_charging_duration">%1$s – %2$s do úplného nabitia</string>
     <string name="power_charging_future_paused">%1$s - Nabíjanie je optimalizované</string>
     <string name="power_charging_limited">%1$s - Nabíjanie je optimalizované</string>
@@ -3806,7 +3802,6 @@ stlačte naraz vypínač a tlačidlo zvýšenia hlasitosti"</string>
     <string name="power_remaining_less_than_duration_only">Zostáva menej ako %1$s</string>
     <string name="power_remaining_more_than_subtext">Zostáva viac ako %1$s (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">Zostáva viac ako %1$s</string>
-    <string name="power_remaining_settings_home_page">%1$s – %2$s</string>
     <string name="power_screen">Obrazovka</string>
     <string name="power_suggestion_battery_run_out">Batéria sa môže do %1$s vybiť</string>
     <string name="power_usage_level_and_status">%1$s – %2$s</string>
@@ -3926,7 +3921,6 @@ stlačte naraz vypínač a tlačidlo zvýšenia hlasitosti"</string>
     <string name="privileged_action_disable_sub_dialog_title">Chcete vypnúť operátora %1$s?</string>
     <string name="privileged_action_disable_sub_dialog_title_without_carrier">Chcete vypnúť SIM kartu?</string>
     <string name="process_dex2oat_label">Optimalizácia aplikácií</string>
-    <string name="process_kernel_label">OS Android</string>
     <string name="process_mediaserver_label">Mediaserver</string>
     <string name="process_network_tethering">Zdieľanie dátového pripojenia</string>
     <string name="process_provider_in_use_description">Poskytovateľ %1$s sa používa.</string>
@@ -4828,7 +4822,6 @@ Viac o týchto certifikátoch sa dozviete od svojho správcu.}}"</string>
 
 Umožňujú to dôveryhodné poverenia nainštalované vo vašom zariadení."</string>
     <string name="standby_bucket_summary">"Stav pohotovostného režimu aplikácie:  %s"</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bt_address">Adresa Bluetooth</string>
     <string name="status_data_network_type">Typ mobilnej dátovej siete</string>
     <string name="status_data_state">Stav mobilnej siete</string>
@@ -5004,7 +4997,6 @@ Zvážte použitie rýchlejšieho úložiska ^3 alebo využite namiesto toho jed
     <string name="suggestions_available">Návrhy sú nižšie</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_divider_text">", "</string>
-    <string name="summary_range_symbol_combination">%1$s – %2$s</string>
     <string name="sunday_first_day_of_week">Nedeľa</string>
     <string name="support_summary">Články pomocníka, telefón a čet</string>
     <string name="suw_limited_warranty_title">Obmedzená záruka</string>
@@ -6296,11 +6288,9 @@ Keď vypnete režim bez vyrušení, zmeškané upozornenia zobrazíte potiahnut�
     <string name="zen_suggestion_summary">Pozastavte upozornenia, aby ste sa mohli sústrediť</string>
     <string name="zen_suggestion_title">Aktualizovať režim bez vyrušení</string>
     <string name="zone_auto_title">Nastavovať automaticky</string>
-    <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_footer_first_sentence">Použitia %1$s. %2$s</string>
     <string name="zone_info_footer_no_dst">Používa %1$s. Nepoužíva letný čas.</string>
     <string name="zone_info_footer_second_sentence">%1$s sa začína %2$s.</string>
-    <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
     <string name="zone_menu_by_offset">Vybrať podľa čas. posunu UTC</string>
     <string name="zone_menu_by_region">Vybrať podľa oblasti</string>
     <string name="zone_time_type_dst">Letný čas</string>
