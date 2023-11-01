@@ -1097,4 +1097,293 @@ Dajte si pauzu!"</item>
          <item quantity="other">Aktualizácia %d aplikácií</item>
          <item quantity="one">Aktualizovať %d aplikáciu</item>
      </plurals>     
+     
+<plurals name="pc_can_be_optimize_numbers">
+         <item quality="other">%d položiek</item>
+         <item quantity="one">%d položka</item>
+      </plurals>
+      <plurals name="permission_usage_allow_activity_recognization">
+         <item quality="other">%1$s | Táto aplikácia pristupovala k informáciám o vašom cvičení %2$d-krát</item>
+         <item quality="one">%1$s | Táto aplikácia pristupovala k informáciám o vašom cvičení %2$d čas</item>
+      </plurals>
+      <plurals name="permission_usage_allow_autostart">
+         <item quality="other">%1$s | Táto aplikácia sa automaticky spustila %2$d-krát</item>
+         <item quality="one">%1$s | Táto aplikácia sa automaticky spustila %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_allow_body_sensor">
+         <item quality="other">%1$s | Táto aplikácia pristupovala k telesným senzorom %2$d-krát</item>
+         <item quality="one">%1$s | Táto aplikácia pristupovala k telesným senzorom %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_allow_call_phone">
+         <item quality="other">%1$s | Táto aplikácia uskutočnila telefónne hovory %2$d-krát</item>
+         <item quality="one">%1$s | Táto aplikácia uskutočnila telefónne hovory %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_allow_camera">
+         <item quality="other">%1$s | Táto aplikácia pristupovala k fotoaparátu %2$d-krát</item>
+         <item quality="one">%1$s | Táto aplikácia pristupovala k fotoaparátu %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_allow_clipboard">
+         <item quality="other">%1$s | Táto aplikácia pristupovala do schránky %2$d-krát</item>
+         <item quality="one">%1$s | Táto aplikácia pristupovala do schránky %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_allow_delete_pic">
+         <item quality="other">%1$s | Táto aplikácia odstránila fotografie z galérie %2$d-krát</item>
+         <item quality="one">%1$s | Táto aplikácia odstránila fotografie z galérie %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_allow_device_sensor">
+         <item quality="other">%1$s | Táto aplikácia pristupovala k pohybu a orientácii zariadenia %2$d-krát</item>
+         <item quality="one">%1$s | Táto aplikácia pristupovala k pohybu a orientácii zariadenia %2$d čas</item>
+      </plurals>
+      <plurals name="permission_usage_allow_files">
+         <item quality="other">%1$s | Táto aplikácia pristupovala k súborom a dokumentom %2$d-krát</item>
+         <item quality="one">%1$s | Táto aplikácia pristupovala k súborom a dokumentom %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_allow_get_installed">
+         <item quality="other">%1$s | Táto aplikácia pristúpila k zoznamu aplikácií nainštalovaných v tomto zariadení %2$d-krát</item>
+         <item quality="one">%1$s | Táto aplikácia pristúpila k zoznamu aplikácií nainštalovaných v tomto zariadení %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_allow_get_number">
+         <item quantity="other">"%1$s| Táto aplikácia pristupovala k telefónnemu číslu tohto zariadenia %2$d-krát"</item>
+         <item quantity="one">"%1$s | Táto aplikácia pristupovala k telefónnemu číslu tohto zariadenia %2$d-krát"</item>
+      </plurals>
+      <plurals name="permission_usage_allow_get_sms">
+         <item quality="other">%1$s | Táto aplikácia prečítala SMS %2$d-krát</item>
+         <item quality="one">%1$s | Táto aplikácia prečítala SMS %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_allow_location">
+         <item quality="other">%1$s | Táto aplikácia pristupovala k vašej polohe %2$d-krát</item>
+         <item quality="one">%1$s | Táto aplikácia pristupovala k vašej polohe %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_allow_media_aural">
+         <item quality="other">%1$s | Táto aplikácia pristupovala k hudbe a zvuku %2$d-krát</item>
+         <item quality="one">%1$s | Táto aplikácia pristupovala k hudbe a zvuku %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_allow_media_visual">
+         <item quality="other">%1$s | Táto aplikácia pristupovala k fotkám a videám %2$d-krát</item>
+         <item quality="one">%1$s | Táto aplikácia pristupovala k fotkám a videám %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_allow_media_volume">
+         <item quality="other">%1$s | Táto aplikácia upravila objem médií %2$d-krát</item>
+         <item quality="one">%1$s | Táto aplikácia upravila objem médií %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_allow_mic">
+         <item quality="other">%1$s | Táto aplikácia pristupovala k mikrofónu %2$d-krát</item>
+         <item quality="one">%1$s | Táto aplikácia pristúpila k mikrofónu %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_allow_nearby_device">
+         <item quality="other">%1$s | Táto aplikácia pristúpila k zoznamu zariadení v okolí %2$d-krát</item>
+         <item quality="one">%1$s | Táto aplikácia pristúpila k zoznamu zariadení v okolí %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_allow_perm">
+         <item quality="other">%1$s | Prístup %2$d-krát</item>
+         <item quality="one">%1$s | Počet prístupov: %2$d</item>
+      </plurals>
+      <plurals name="permission_usage_allow_phone_state">
+         <item quantity="other">"%1$s| Táto aplikácia pristupovala k stavu hovoru tohto zariadenia %2$d-krát"</item>
+         <item quantity="one">"%1$s| Táto aplikácia pristupovala k stavu hovoru tohto zariadenia %2$d-krát"</item>
+      </plurals>
+      <plurals name="permission_usage_allow_r_calendar">
+         <item quality="other">%1$s | Táto aplikácia pristupovala ku kalendáru %2$d-krát</item>
+         <item quality="one">%1$s | Táto aplikácia pristúpila ku kalendáru %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_allow_r_calllog">
+         <item quality="other">%1$s | Táto aplikácia pristupovala k vašej histórii hovorov %2$d-krát</item>
+         <item quality="one">%1$s | Táto aplikácia pristupovala k vašej histórii hovorov %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_allow_r_contacts">
+         <item quality="other">%1$s | Táto aplikácia pristupovala k vašim kontaktom %2$d-krát</item>
+         <item quality="one">%1$s | Táto aplikácia pristupovala k vašim kontaktom %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_allow_receive_sms">
+         <item quality="other">%1$s | Táto aplikácia prijala SMS %2$d-krát</item>
+         <item quality="one">%1$s | Táto aplikácia prijala SMS %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_allow_send_sms">
+         <item quality="other">%1$s | Táto aplikácia odoslala SMS %2$d-krát</item>
+         <item quality="one">%1$s | Táto aplikácia odoslala SMS %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_allow_w_calendar">
+         <item quality="other">%1$s | Táto aplikácia upravila kalendár %2$d-krát</item>
+         <item quality="one">%1$s | Táto aplikácia upravila kalendár %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_allow_w_calllog">
+         <item quality="other">%1$s| Táto aplikácia upravila vašu históriu hovorov %2$d-krát</item>
+         <item quality="one">%1$s| Táto aplikácia upravila vašu históriu hovorov %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_allow_w_contacts">
+         <item quality="other">%1$s | Táto aplikácia upravila vaše kontakty %2$d-krát</item>
+         <item quality="one">%1$s | Táto aplikácia upravila vaše kontakty %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_allow_wake_path">
+         <item quality="other">%1$s | Táto aplikácia sa automaticky spustila %2$s %3$d-krát</item>
+         <item quality="one">%1$s | Táto aplikácia sa automaticky spustila %2$s %3$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_allow_wakepath">
+         <item quality="other">%1$s | Povolené %2$d-krát</item>
+         <item quality="one">%1$s | Povolený %2$d čas</item>
+      </plurals>
+      <plurals name="permission_usage_delete_pic_more">
+         <item quality="other">%1$s | Fotografie boli z galérie odstránené %2$d-krát</item>
+         <item quality="one">%1$s | Odstránili sa fotografie z galérie %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_deny_activity_recognization">
+         <item quality="other">%1$s | Tejto aplikácii bol odmietnutý prístup k informáciám o cvičení %2$d-krát</item>
+         <item quality="one">%1$s | Tejto aplikácii bol odmietnutý prístup k informáciám o cvičení %2$d čas</item>
+      </plurals>
+      <plurals name="permission_usage_deny_autostart">
+         <item quality="other">%1$s | Automatické spustenie tejto aplikácie bolo zamietnuté %2$d-krát</item>
+         <item quality="one">%1$s | Tejto aplikácii bolo odmietnuté automatické spustenie %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_deny_body_sensor">
+         <item quality="other">%1$s | Tejto aplikácii bol zamietnutý prístup k telesným senzorom %2$d-krát</item>
+         <item quality="one">%1$s | Tejto aplikácii bol zamietnutý prístup k telesným senzorom %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_deny_call_phone">
+         <item quality="other">%1$s | Tejto aplikácii bolo odmietnuté uskutočňovať hovory %2$d-krát</item>
+         <item quality="one">%1$s | Tejto aplikácii bolo odmietnuté uskutočňovať hovory %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_deny_camera">
+         <item quality="other">%1$s | Tejto aplikácii bol zamietnutý prístup k fotoaparátu %2$d-krát</item>
+         <item quality="one">%1$s | Tejto aplikácii bol odmietnutý prístup k fotoaparátu %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_deny_clipboard">
+         <item quality="other">%1$s | Tejto aplikácii bol zamietnutý prístup do schránky %2$d-krát</item>
+         <item quality="one">%1$s | Tejto aplikácii bol odmietnutý prístup do schránky %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_deny_delete_pic">
+         <item quality="other">%1$s | Tejto aplikácii bolo zamietnuté odstraňovanie fotografií z galérie %2$d-krát</item>
+         <item quality="one">%1$s | Tejto aplikácii bolo zamietnuté odstraňovanie fotografií z galérie %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_deny_device_sensor">
+         <item quality="other">%1$s | Tejto aplikácii bol zamietnutý prístup k pohybu a orientácii zariadenia %2$d-krát</item>
+         <item quality="one">%1$s | Tejto aplikácii bol zamietnutý prístup k pohybu a orientácii zariadenia %2$d čas</item>
+      </plurals>
+      <plurals name="permission_usage_deny_files">
+         <item quality="other">%1$s | Tejto aplikácii bol zamietnutý prístup k súborom a dokumentom %2$d-krát</item>
+         <item quality="one">%1$s | Tejto aplikácii bol zamietnutý prístup k súborom a dokumentom %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_deny_get_installed">
+         <item quality="other">%1$s | Tejto aplikácii bol zamietnutý prístup k zoznamu aplikácií nainštalovaných v tomto zariadení %2$d-krát</item>
+         <item quality="one">%1$s | Tejto aplikácii bol zamietnutý prístup k zoznamu aplikácií nainštalovaných v tomto zariadení %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_deny_get_number">
+         <item quantity="other">"%1$s | Tejto aplikácii bol odmietnutý prístup k telefónnemu číslu tohto zariadenia %2$d-krát"</item>
+         <item quantity="one">"%1$s | Tejto aplikácii bol %2$d-krát zamietnutý prístup k telefónnemu číslu tohto zariadenia"</item>
+      </plurals>
+      <plurals name="permission_usage_deny_get_sms">
+         <item quality="other">%1$s | Tejto aplikácii bolo zamietnuté čítanie SMS %2$d-krát</item>
+         <item quality="one">%1$s | Tejto aplikácii bolo odmietnuté čítanie SMS %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_deny_location">
+         <item quality="other">%1$s | Tejto aplikácii bol zamietnutý prístup k vašej polohe %2$d-krát</item>
+         <item quality="one">%1$s | Tejto aplikácii bol zamietnutý prístup k vašej polohe %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_deny_media_aural">
+         <item quality="other">%1$s | Tejto aplikácii bol zamietnutý prístup k hudbe a zvuku %2$d-krát</item>
+         <item quality="one">%1$s | Tejto aplikácii bol zamietnutý prístup k hudbe a zvuku %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_deny_media_visual">
+         <item quality="other">%1$s | Tejto aplikácii bol zamietnutý prístup k fotkám a videám %2$d-krát</item>
+         <item quality="one">%1$s | Tejto aplikácii bol zamietnutý prístup k fotkám a videám %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_deny_media_volume">
+         <item quality="other">%1$s | Tejto aplikácii bola zamietnutá úprava hlasitosti médií %2$d-krát</item>
+         <item quality="one">%1$s | Tejto aplikácii bola odmietnutá úprava hlasitosti médií %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_deny_mic">
+         <item quality="other">%1$s | Tejto aplikácii bol zamietnutý prístup k mikrofónu %2$d-krát</item>
+         <item quality="one">%1$s | Tejto aplikácii bol zamietnutý prístup k mikrofónu %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_deny_nearby_device">
+         <item quality="other">%1$s | Tejto aplikácii bol zamietnutý prístup k zoznamu zariadení v okolí %2$d-krát</item>
+         <item quality="one">%1$s | Tejto aplikácii bol zamietnutý prístup k zoznamu zariadení v okolí %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_deny_perm">
+         <item quality="other">%1$s | Prístup bol odmietnutý %2$d-krát</item>
+         <item quality="one">%1$s | Prístup bol odmietnutý %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_deny_phone_state">
+         <item quantity="other">"%1$s | Tejto aplikácii bol odmietnutý prístup k stavu hovoru tohto zariadenia %2$d-krát"</item>
+         <item quantity="one">"%1$s | Tejto aplikácii bol odmietnutý prístup k stavu hovoru tohto zariadenia %2$d krát"</item>
+      </plurals>
+      <plurals name="permission_usage_deny_r_calendar">
+         <item quality="other">%1$s | Tejto aplikácii bol zamietnutý prístup ku kalendáru %2$d-krát</item>
+         <item quality="one">%1$s | Tejto aplikácii bol odmietnutý prístup ku kalendáru %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_deny_r_calllog">
+         <item quality="other">%1$s | Tejto aplikácii bol zamietnutý prístup k vašej histórii hovorov %2$d-krát</item>
+         <item quality="one">%1$s | Tejto aplikácii bol zamietnutý prístup k vašej histórii hovorov %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_deny_r_contacts">
+         <item quality="other">%1$s | Tejto aplikácii bol zamietnutý prístup k vašim kontaktom %2$d-krát</item>
+         <item quality="one">%1$s | Tejto aplikácii bol zamietnutý prístup k vašim kontaktom %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_deny_receive_sms">
+         <item quality="other">%1$s | Tejto aplikácii bolo zamietnuté prijímanie SMS %2$d-krát</item>
+         <item quality="one">%1$s | Tejto aplikácii bolo zamietnuté prijímanie SMS %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_deny_send_sms">
+         <item quality="other">%1$s | Tejto aplikácii bolo zamietnuté odosielanie SMS %2$d-krát</item>
+         <item quality="one">%1$s | Tejto aplikácii bolo zamietnuté odosielanie SMS %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_deny_w_calendar">
+         <item quality="other">%1$s | Tejto aplikácii bola zamietnutá úprava kalendára %2$d-krát</item>
+         <item quality="one">%1$s | Tejto aplikácii bola zamietnutá úprava kalendára %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_deny_w_calllog">
+         <item quality="other">%1$s | Tejto aplikácii bola zamietnutá úprava vašej histórie hovorov %2$d-krát</item>
+         <item quality="one">%1$s | Tejto aplikácii bola zamietnutá úprava vašej histórie hovorov %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_deny_w_contacts">
+         <item quality="other">%1$s | Tejto aplikácii bola zamietnutá úprava vašich kontaktov %2$d-krát</item>
+         <item quality="one">%1$s | Tejto aplikácii bola zamietnutá úprava vašich kontaktov %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_deny_wake_path">
+         <item quality="other">%1$s | Tejto aplikácii bolo zamietnuté automatické spustenie %2$s %3$d-krát</item>
+         <item quality="one">%1$s | Tejto aplikácii bolo zamietnuté automatické spustenie %2$s %3$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_deny_wakepath">
+         <item quality="other">%1$s | Odmietnuté %2$d-krát</item>
+         <item quality="one">%1$s | Odmietnuté %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_recent_day">
+         <item quantity="other">pred %1$d dňami</item>
+         <item quantity="one">pred %1$d dňom</item>
+      </plurals>
+      <plurals name="permission_usage_terminal_camera">
+         <item quantity="other">"%1$s | Táto aplikácia použila fotoaparát tohto zariadenia %2$d-krát"</item>
+         <item quantity="one">"%1$s | Táto aplikácia použila fotoaparát tohto zariadenia %2$d-krát"</item>
+      </plurals>
+      <plurals name="permission_usage_terminal_screen">
+         <item quantity="other">"%1$s | Táto aplikácia použila obrazovku tohto zariadenia %2$d-krát"</item>
+         <item quantity="one">"%1$s | Táto aplikácia použila obrazovku tohto zariadenia %2$d-krát"</item>
+      </plurals>
+      <plurals name="permission_usage_virtual_calllog_more">
+         <item quality="other">%1$s | Táto aplikácia vrátila prázdny záznam hovoru %2$d-krát</item>
+         <item quality="one">%1$s | Táto aplikácia vrátila prázdny záznam hovoru %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_virtual_common_more">
+         <item quality="other">%1$s | Táto aplikácia vrátila prázdnu správu %2$d-krát</item>
+         <item quality="one">%1$s | Táto aplikácia vrátila prázdnu správu %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_virtual_contacts_more">
+         <item quality="other">%1$s | Táto aplikácia vrátila prázdny kontakt %2$d-krát</item>
+         <item quality="one">%1$s | Táto aplikácia vrátila prázdny kontakt %2$d-krát</item>
+      </plurals>
+      <plurals name="permission_usage_virtual_phone_state_more">
+         <item quality="other">%1$s | Táto aplikácia vrátila prázdny stav hovoru %2$d-krát</item>
+         <item quality="one">%1$s | Táto aplikácia vrátila prázdny stav hovoru %2$d čas</item>
+      </plurals>
+      <plurals name="permission_usage_virtual_sms_more">
+         <item quality="other">%1$s | Táto aplikácia vrátila prázdnu SMS %2$d-krát</item>
+         <item quality="one">%1$s | Táto aplikácia vrátila prázdnu SMS %2$d-krát</item>
+      </plurals>
+      <plurals name="ppermission_usage_virtual_calendar_more">
+         <item quality="other">%1$s | Táto aplikácia vrátila prázdnu udalosť kalendára %2$d-krát</item>
+         <item quality="one">%1$s | Táto aplikácia vrátila prázdnu udalosť kalendára %2$d-krát</item>
+      </plurals>
+      <plurals name="wakepath_allow_start_app_count">
+         <item quantity="other">aplikácie %s</item>
+         <item quantity="one">aplikácia %s</item>
+      </plurals>
 </resources>

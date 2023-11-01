@@ -50,4 +50,5 @@
      <string name="super_clipboard_alert_dialog_sure_button">OK</string>
      <string name="super_clipboard_send_file">Vložiť súbor zo schránky?</string>
      <string name="super_clipboard_send_image">Vložiť obrázok zo schránky?</string>
+     <string name="phrase_network_tip_summary">Ak chcete synchronizovať svoje časté frázy s cloudom a používať ich vo všetkých zariadeniach, povoľte tejto aplikácii pripojenie k internetu.</string>
 </resources>

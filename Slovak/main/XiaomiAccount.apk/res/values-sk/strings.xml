@@ -968,5 +968,8 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
      <string name="selected">Vybraté</string>
      <string name="setting_later">Teraz nie</string>
      <string name="setting_now">Pridať</string>
-     <string name="template_percent">%1$d percent.</string>              
+     <string name="template_percent">%1$d percent.</string>     
+<string name="empty_device_list">Zatiaľ tu nič nie je</string>
+      <string name="user_agreement_read_phone_permission_desc">Na prihlásenie pomocou telefónneho čísla</string>
+      <string name="user_agreement_read_phone_permission_title">Prečítať telefónne čísla</string>              
 </resources>

@@ -428,4 +428,13 @@ Klepnite na \"%1$s\" a potom vyberte \"%2$s\"."</string>
 <string name="pause_status_focus_notification">Pozastavené</string>
      <string name="recording_status_focus_notification">Nahrávanie</string>
 <string name="stop_status_focus_notification">Dokončené</string>	 
+
+<string name="btn_continue_record_description">Obnoviť nahrávanie</string>
+      <string name="miuix_item_view_role_description">Tab</string>
+      <string name="miuix_navigator_content_switch_description">Zobraziť bočný panel</string>
+      <string name="miuix_navigator_multiple_choice">Vybrať</string>
+      <string name="miuix_navigator_navigator_switch_description">Skryť bočný panel</string>
+      <string name="toast_enter_silent_mode">Nahrávanie. Je zapnutý tichý režim.</string>
+      <string name="toast_exit_silent_mode">Nahrávanie je dokončené. Tichý režim je vypnutý.</string>
+      <string name="trash_delete">Odstrániť</string>
 </resources>

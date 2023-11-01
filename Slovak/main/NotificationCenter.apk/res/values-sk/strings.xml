@@ -201,4 +201,8 @@ Nahláste tento problém &gt;"</string>
     <string name="wednesday_short">Str</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
+    
+<string name="float_notification_snooze_summary_1_min">Prejdením prstom nahor po plávajúcom upozornení skryjete nadchádzajúce na %d</string>
+      <string name="float_notification_snooze_summary_always_float">Vždy zobrazovať plávajúce upozornenia</string>
+      <string name="float_notification_snooze_summary_until_unlock">Prejdením prstom nahor po plávajúcom upozornení skryjete nadchádzajúce, kým sa zariadenie nezamkne</string>    
 </resources>
