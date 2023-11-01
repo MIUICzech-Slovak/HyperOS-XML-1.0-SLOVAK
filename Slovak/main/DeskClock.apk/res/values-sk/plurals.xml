@@ -180,4 +180,9 @@
         <item quantity="other">%sh dozadu</item>
         <item quantity="one">%sh dozadu</item>
     </plurals>
+    
+<plurals name="mtrl_badge_content_description">
+         <item quantity="other">%d nových upozornení</item>
+         <item quantity="one">%d nové upozornenie</item>
+      </plurals>    
 </resources>

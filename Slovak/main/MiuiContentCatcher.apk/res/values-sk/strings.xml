@@ -36,4 +36,6 @@
 Vymazať heslo?</string>
     <string name="settings_clear_data_confirmation_title">Vymazanie hesiel</string>
     <string name="using_miui_autofill_message">Pre zadanie hesiel automaticky, MIUI uloží informácie o vašom účte a heslo do vášho zariadenia.</string>
+    <string name="hide_password_talkback">Skryť heslo</string>
+      <string name="show_password_talkback">Zobraziť heslo</string>
 </resources>

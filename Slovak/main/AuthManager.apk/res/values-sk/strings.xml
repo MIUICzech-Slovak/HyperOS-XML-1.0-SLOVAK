@@ -560,4 +560,26 @@
     <string name="wednesday_shortest">S</string>
     <string name="yes">Áno</string>
     <string name="yesterday">Včera</string>   
+    
+<string name="HIPS_Perm_Receive_SMS">Prijímať SMS a MMS</string>
+      <string name="HIPS_Perm_Receive_SMS_desc">Na prijímanie vašich správ</string>
+      <string name="HIPS_Perm_read_Calendar">Prístup ku kalendáru</string>
+      <string name="HIPS_Perm_read_Calendar_Desc">Zobraziť udalosti pridané do kalendára</string>
+      <string name="group_audio">Hudba a zvuk</string>
+      <string name="group_call">Telefón</string>
+      <string name="group_connect_device">Vzájomné prepojenie</string>
+      <string name="group_file">Súbory a dokumenty</string>
+      <string name="group_image_video">Fotografie a videá</string>
+      <string name="group_location">Umiestnenie</string>
+      <string name="group_microphone">Mikrofón</string>
+      <string name="group_nearby_device">Zariadenia v blízkosti</string>
+      <string name="group_other">Iné povolenia</string>
+      <string name="group_read_clipboard">Prístup do schránky</string>
+      <string name="group_sms">Správy</string>
+      <string name="group_sport_healthy">Zdravie a aktivita</string>
+      <string name="group_write_clipboard">Pridať položky do schránky</string>
+      <string name="permdesc_receive_sms">Povoliť aplikácii %1$s prijímať SMS a MMS?</string>
+      <string name="permgroupdesc_read_media_visual_more">Povoliť aplikácii %1$s prístup k ďalším fotografiám a videám?</string>
+      <string name="permgroupdesc_read_media_visual_u">Povoliť aplikácii %1$s prístup k fotkám a videám na tomto zariadení?</string>
+      <string name="select_allow_access_content">Vyberte položky na povolenie prístupu</string>    
 </resources>

@@ -818,5 +818,17 @@ Zvýšená bezpečnosť."</string>
      <string name="international_home_pull_up_content">Potiahnutím prstom nahor po domovskej obrazovke otvorte Obsahové centrum.</string>
      <string name="international_home_pull_up_sub_content">Ak chcete otvoriť vyhľadávanie, potiahnite prstom nadol zo stredu plochy.</string>
      <string name="content_center">Centrum obsahu</string>	
-<string name="switch_personal_assistant_summary">Potiahnutím prstom doprava na ploche otvorte Google Asistenta</string>          
+<string name="switch_personal_assistant_summary">Potiahnutím prstom doprava na ploche otvorte Google Asistenta</string>        
+
+<string name="keyguard_multi_window_tip">Túto stránku je možné zobraziť iba v režime celej obrazovky</string>
+      <string name="miui_setting_config_title">Nastavenia domovskej obrazovky</string>
+      <string name="new_open_personal_assistant_settings_simplified">Sejf aplikácie</string>
+      <string name="new_privacy_thumbnail_blur_summary">Rozmazať ukážky aplikácií v časti Nedávne</string>
+      <string name="new_recents_config_title">Iné</string>
+      <string name="no_space_toast_fold">Nie je tu dostatok miesta</string>
+      <string name="not_support_adding">"Pridanie tejto položky zatiaľ nie je podporované"</string>
+      <string name="setting_close">Vypnuté</string>
+      <string name="setting_no_word">Kdekoľvek</string>
+      <string name="setting_only_widget_no_word">Na miniaplikáciách</string>
+      <string name="start_new_window">Nové okno</string>  
 </resources>

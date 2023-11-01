@@ -85,4 +85,14 @@
         <item>Vľavo</item>
         <item>Vpravo</item>
     </string-array>
+    
+<string-array name="no_word_model_entries">
+         <item>Vypnuté</item>
+         <item>Všade</item>
+         <item>Na widgetoch</item>
+      </string-array>
+      <string-array name="no_word_model_entries_not_support_only_widget_no_word">
+         <item>Vypnuté</item>
+         <item>Všade</item>
+      </string-array>    
 </resources>

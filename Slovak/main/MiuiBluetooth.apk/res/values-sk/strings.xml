@@ -371,5 +371,36 @@ Rýchlejšie pripojenie."</string>
       <string name="title_aiapps">Názov modulu</string>
       <string name="uninstall_all_deferred">Odloženie odinštalovania</string>
 
+<string name="easy_tether_auto_connect_close">Zavrieť</string>
+      <string name="easy_tether_auto_connect_open">Otvoriť</string>
+      <string name="easy_tether_connect_method_automatic">Automatické pripojenie</string>
+      <string name="easy_tether_connect_method_dialog">Otvorí sa kontextové okno</string>
+      <string name="easy_tether_connect_method_manually">Pripojenie k zoznamu Wi-Fi</string>
+      <string name="easy_tether_device_type_pad">Tablet</string>
+      <string name="easy_tether_device_type_pc">Počítač</string>
+      <string name="easy_tether_device_type_phone">Mobilný telefón</string>
+      <string name="easy_tether_device_type_sound">Zvuk</string>
+      <string name="easy_tether_device_type_tv">TV</string>
+      <string name="easy_tether_device_type_unknown">Neznáme zariadenie</string>
+      <string name="easy_tether_device_type_vela_sound">Vela zvuk</string>
+      <string name="easy_tether_device_type_vela_watch">Hodinky Vela</string>
+<string name="easy_tether_auto_connect_summary">Automaticky zapnúť mobilný hotspot a pripojiť sa, keď zariadenia v okolí s rovnakým účtom potrebujú prístup na internet.</string>
+      <string name="easy_tether_cancel">Zrušiť</string>
+      <string name="easy_tether_confirm">Potvrdiť</string>
+      <string name="easy_tether_next_auto_connect">Nabudúce sa automaticky pripojiť?</string>
+      <string name="easy_tether_statusbar_auto_connected_title">Pripojené k hotspotom %1$s</string>
+      <string name="easy_tether_statusbar_connect_fail_title">Pripojenie zlyhalo</string>
+      <string name="easy_tether_statusbar_connect_title">Povoliť hotspot %1$s</string>
+      <string name="easy_tether_statusbar_connecting_title">Pripája sa</string>
+      <string name="easy_tether_statusbar_dialog_connected_title">Pripojené</string>
+      <string name="fast_connect_device_button_audio_share_fail">OK</string>
+      <string name="fast_connect_device_message_audio_share">počúvajte s ním zvuk</string>
+      <string name="fast_connect_device_replace_current_device">nahradiť aktuálne zariadenie</string>
+      <string name="fast_connect_device_reset_audio_share">Pre resetovanie stlačte a podržte na 2 sekundy</string>
+      <string name="fast_connect_device_start_audio_share">počúvajte spolu</string>
+      <string name="fast_connect_device_title_audio_share">počúvajte pomocou %1$s</string>
+      <string name="fast_connect_device_title_audio_share_fail">Nepodarilo sa pripojiť %1$s, skúste to znova</string>
+      <string name="fast_connect_device_title_audio_share_success">teraz počúvate s %1$s</string>
+      <string name="headset_new_notification_connecting">Pripája sa</string>      
            
 </resources>
