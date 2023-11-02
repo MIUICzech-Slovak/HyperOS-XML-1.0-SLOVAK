@@ -2019,7 +2019,7 @@ Ak sa rozhodnete uprednostňovať mobilné siete, budú sa predvolene používa�
 <string name="checkbox_do_not_show_again">Už nezobrazovať</string>
       <string name="close_smart_dual_sim">Zrušiť</string>
       <string name="enable_2g_dialog_title">Pozor</string>
-      <string name="enable_2g_dialog_warn_message">"Ak vypnete 2G a nachádzate sa v oblasti, kde je 2G jedinou dostupnou sieťou, nebudete môcť uskutočňovať žiadne tiesňové ani iné ako tiesňové volania. Vypnúť napriek tomu?"</ reťazec>
+      <string name="enable_2g_dialog_warn_message">"Ak vypnete 2G a nachádzate sa v oblasti, kde je 2G jedinou dostupnou sieťou, nebudete môcť uskutočňovať žiadne tiesňové ani iné ako tiesňové volania. Vypnúť napriek tomu?"</string>
       <string name="enable_2g_summary">Siete 2G sú menej bezpečné, ale v niektorých oblastiach môžu zlepšiť kvalitu pripojenia</string>
       <string name="enable_2g_title">Povoliť používanie 2G</string>
       <string name="no_ims_service_notification_content">Obráťte sa na svojho poskytovateľa služieb a požiadajte ho o riešenie tohto problému.</string>
