@@ -804,28 +804,24 @@ Zvýšená bezpečnosť."</string>
     <string name="home_pull_down_content">Potiahnutím prstom nadol po domovskej obrazovke vyhľadajte položky na tomto zariadení a online.</string>
      <string name="home_pull_down_content_tips">Nastavenia môžete zmeniť v časti Nastavenia > Domovská obrazovka > Potiahnutie prstom nadol na Domovskej obrazovke. Vaše nastavenia pre gesto potiahnutia nahor zostanú nezmenené.</string>     
 	<string name="fsg_assist_enable_summary">Ak chcete použiť Asistenta Google, potiahnite prstom z rohu obrazovky</string>
-     <string name="fsg_assist_enable_title">Google Asistent</string>	 
-     
-<string name="color_group">Zoskupiť ikony podľa farby</string>
+     <string name="fsg_assist_enable_title">Google Asistent</string>	      
+     <string name="color_group">Zoskupiť ikony podľa farby</string>
      <string name="color_group_anim">Animácie vo farebných kategóriách</string>     
-<string name="free_style_title">Mi Space</string>
-<string name="find_app_by_color">Zoskupujte ikony podľa farby, aby ste rýchlejšie našli aplikácie</string>
+     <string name="free_style_title">Mi Space</string>
+     <string name="find_app_by_color">Zoskupujte ikony podľa farby, aby ste rýchlejšie našli aplikácie</string>
      <string name="free_style_unavailable_message">Mi Space už nie je v tejto verzii podporovaný. Túto tému však môžete používať aj naďalej.</string>
-
-<string name="international_home_pull_down_content">Potiahnutím prstom nadol po domovskej obrazovke spustíte vyhľadávanie v tomto zariadení a na internete.</string>
+     <string name="international_home_pull_down_content">Potiahnutím prstom nadol po domovskej obrazovke spustíte vyhľadávanie v tomto zariadení a na internete.</string>
      <string name="international_home_pull_down_sub_content">Toto gesto môžete prepnúť na otvorenie ovládacieho centra v časti Nastavenia > Plocha > Potiahnite prstom nadol na ploche.</string>
      <string name="international_home_pull_down_up_btn_get">Rozumiem</string>
      <string name="international_home_pull_up_content">Potiahnutím prstom nahor po domovskej obrazovke otvorte Obsahové centrum.</string>
      <string name="international_home_pull_up_sub_content">Ak chcete otvoriť vyhľadávanie, potiahnite prstom nadol zo stredu plochy.</string>
      <string name="content_center">Centrum obsahu</string>	
-<string name="switch_personal_assistant_summary">Potiahnutím prstom doprava na ploche otvorte Google Asistenta</string>        
-
-<string name="keyguard_multi_window_tip">Túto stránku je možné zobraziť iba v režime celej obrazovky</string>
+     <string name="switch_personal_assistant_summary">Potiahnutím prstom doprava na ploche otvorte Google Asistenta</string>        
+     <string name="keyguard_multi_window_tip">Túto stránku je možné zobraziť iba v režime celej obrazovky</string>
       <string name="miui_setting_config_title">Nastavenia domovskej obrazovky</string>
       <string name="new_open_personal_assistant_settings_simplified">Sejf aplikácie</string>
       <string name="new_privacy_thumbnail_blur_summary">Rozmazať ukážky aplikácií v časti Nedávne</string>
       <string name="new_recents_config_title">Iné</string>
-      <string name="no_space_toast_fold">Nie je tu dostatok miesta</string>
       <string name="not_support_adding">"Pridanie tejto položky zatiaľ nie je podporované"</string>
       <string name="setting_close">Vypnuté</string>
       <string name="setting_no_word">Kdekoľvek</string>

@@ -402,7 +402,6 @@
     <string name="emergency_call">Tiesňové volanie</string>	
     <string name="super_volume_toast">Zvýšenie hlasitosti je zapnuté</string>
     <string name="deice_local">Toto zariadenie</string>
-      <string name="kddi_miui_toast_zen_standard_to_off">"Tichý režim je teraz vypnutý. Hovory a upozornenia nebudú stíšené."</string>
       <string name="miui_dnd_mode_off">DND je vypnuté</string>
       <string name="miui_dnd_mode_on">DND je zapnuté</string>
       <string name="miui_silent_mode_off">Tichý režim je vypnutý</string>
