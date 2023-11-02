@@ -444,7 +444,6 @@ Server je momentálne nedostupný, skúste to opäť neskôr
     <string name="megabyteShort">MB</string>
     <string name="menu_item_cleanup">Vyčistiť súbory</string>
     <string name="menu_item_ftp">FTP</string>
-    <string name="menu_item_midrop">MiDrop</string>
     <string name="menu_item_router">Router</string>
     <string name="menu_item_search">Hľadať</string>
     <string name="menu_item_sort">Triediť podľa</string>

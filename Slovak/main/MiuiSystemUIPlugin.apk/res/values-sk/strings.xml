@@ -399,28 +399,14 @@
     <string name="wireless_charging_tips_sub_message">Druhé zariadenie musí podporovať Qi bezdrôtové nabíjanie.</string>
     <string name="wireless_charging_tips_title">Reverzné bezdrôtové nabíjanie</string>
     <string name="yesterday">Včera</string>
-<string name="emergency_call">Tiesňové volanie</string>	
-<string name="super_volume_toast">Zvýšenie hlasitosti je zapnuté</string>
-
-<string name="deice_local">Toto zariadenie</string>
+    <string name="emergency_call">Tiesňové volanie</string>	
+    <string name="super_volume_toast">Zvýšenie hlasitosti je zapnuté</string>
+    <string name="deice_local">Toto zariadenie</string>
       <string name="kddi_miui_toast_zen_standard_to_off">"Tichý režim je teraz vypnutý. Hovory a upozornenia nebudú stíšené."</string>
-      <string name="kddi_miui_toast_zen_to_standard">Prepnuté do tichého režimu. Hovory a upozornenia budú teraz stíšené.</string>
-      <string name="miui_dnd_count_down_time">"Časovač DND
-%s"</string>
       <string name="miui_dnd_mode_off">DND je vypnuté</string>
       <string name="miui_dnd_mode_on">DND je zapnuté</string>
-      <string name="miui_guide_dialog_button_negative_text">Nastavenia</string>
-      <string name="miui_guide_dialog_button_positive_text">Rozumiem</string>
-      <string name="miui_guide_dialog_message">Zvuky médií (hudba, videá atď.) sa budú aj naďalej prehrávať v tichom režime. Môžete to zmeniť v Nastaveniach.</string>
-      <string name="miui_ringer_count_down">Odpočítavanie</string>
-      <string name="miui_ringer_standard_description">Stlmiť vyzváňacie tóny pre prichádzajúce hovory a upozornenia</string>
-      <string name="miui_ringer_status_close">Vypnuté</string>
-      <string name="miui_ringer_status_open">Zapnuté</string>
-      <string name="miui_ringer_total_description">Stlmiť zvuky a vypnúť vibrácie pre všetky položky okrem budíka</string>
       <string name="miui_silent_mode_off">Tichý režim je vypnutý</string>
       <string name="miui_silent_mode_on">Tichý režim je zapnutý</string>
-      <string name="miui_toast_zen_standard_to_off_when_shield_media">Tichý režim je teraz vypnutý. Prehrajú sa vyzváňacie tóny, ako aj zvuky upozornení a médií.</string>
-      <string name="miui_toast_zen_to_standard_when_shield_media">Prepnuté do tichého režimu. Tóny zvonenia, ako aj zvuky upozornení a médií sú teraz stíšené.</string>
       <string name="mr_button_content_description">Prenášanie</string>
       <string name="mr_cast_button_connected">Prenášať. Pripojené</string>
       <string name="mr_cast_button_connecting">Prenášať. Pripája sa</string>

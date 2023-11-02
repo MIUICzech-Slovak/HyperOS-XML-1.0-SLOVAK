@@ -405,8 +405,6 @@ N e"</string>
       <string name="miui_clock_city_name_local">Miestne</string>
       <string name="miui_clock_city_name_second">Druhé hodiny</string>
       <string name="rain_probability_desc">Pravdepodobnosť zrážok: %s</string>
-      <string name="smart_style">Inteligentné</string>
-      <string name="smart_style_summary">"Vždy zobrazujte položky, okrem prípadov, keď máte zariadenie vo vrecku, keď je okolité svetlo dlhodobo slabé alebo keď sa na zariadenie nepozeráte"</string>
       <string name="somatosensory_temperature_format">Pocit ako %s°</string>
       <string name="sunrise_time_format">Východ slnka %s</string>
       <string name="sunrise_time_format_desc">Čas východu slnka: %s</string>
