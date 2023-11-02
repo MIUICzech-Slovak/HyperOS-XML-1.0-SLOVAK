@@ -360,13 +360,11 @@ pokračovať“</string>
     <string name="worker_connecting_message">Pripájanie...</string>
     <string name="worker_try_join_in_connected_state">Pripojené</string>
     <string name="worker_try_join_in_connecting_state">Pripájanie zariadenia...</string>
-    <string name="yesterday">Včera</string>
-    
-<string name="settings_nfc_transfer_desc1">"·Prineste telefón prihlásený do svojho účtu Xiaomi v blízkosti modulu NFC tohto zariadenia, aby ste mohli zdieľať obsah obrazovky alebo preniesť položky vybraté v Správcovi súborov alebo Galérii."</string>
+    <string name="yesterday">Včera</string>    
+    <string name="settings_nfc_transfer_desc1">"·Prineste telefón prihlásený do svojho účtu Xiaomi v blízkosti modulu NFC tohto zariadenia, aby ste mohli zdieľať obsah obrazovky alebo preniesť položky vybraté v Správcovi súborov alebo Galérii."</string>
      <string name="settings_nfc_transfer_desc2">·Zoznam kompatibilných zariadení si môžete pozrieť tu: %s</string>
-     <string name="settings_nfc_transfer_title">Prenos položiek cez NFC</string>    
-     
-<string name="accessibility_keyboard_delete_button">Odstrániť</string>
+     <string name="settings_nfc_transfer_title">Prenos položiek cez NFC</string>         
+    <string name="accessibility_keyboard_delete_button">Odstrániť</string>
       <string name="accessibility_keyboard_letter_board_caps_lock_button">Caps lock</string>
       <string name="accessibility_keyboard_letter_board_shift2number_button">Čísla</string>
       <string name="accessibility_keyboard_letter_board_shift2symbol_button">Symboly</string>
@@ -408,17 +406,17 @@ pokračovať“</string>
       <string name="lockscreen_access_pattern_cleared">Vzor bol úspešne vymazaný</string>
       <string name="lockscreen_access_pattern_detected">Dokončilo sa kreslenie vzoru</string>
       <string name="lockscreen_access_pattern_start">Začnite kresliť vzor</string>
-      <string name="mirror_have_been_opened">Plocha+ je zapnutá</string>
+      <string name="mirror_have_been_opened">Domovská obrazovka+ je zapnutá</string>
       <string name="mirror_to_settings_connectivity_remote_pad_content">Služby prepojenia môžete zapnúť v časti Nastavenia > Prepojenie.</string>
       <string name="mirror_to_settings_connectivity_remote_pad_title">Zapnite na tablete služby prepojenia</string>
       <string name="mirror_to_settings_connectivity_remote_pc_content">Služby prepojenia môžete zapnúť v časti Nastavenia > Prepojenie.</string>
       <string name="mirror_to_settings_connectivity_remote_pc_title">Zapnite v počítači služby prepojenia</string>
-      <string name="mirror_to_settings_phone_content">Chcete teraz zapnúť plochu+?</string>
+      <string name="mirror_to_settings_phone_content">Chcete teraz zapnúť Domovskú obrazovku+?</string>
       <string name="mirror_to_settings_remote_pad_content">Domovskú obrazovku+ môžete zapnúť v časti Nastavenia > Prepojenie.</string>
-      <string name="mirror_to_settings_remote_pad_title">Zapnutie plochy+ na tablete</string>
-      <string name="mirror_to_settings_remote_pc_content">Môžete na ploche+ v časti Nastavenia > Prepojenie.</string>
-      <string name="mirror_to_settings_remote_pc_title">Zapnite na počítači domovskú obrazovku+</string>
-      <string name="mirror_to_settings_title">Zapnúť plochu+</string>
+      <string name="mirror_to_settings_remote_pad_title">Zapnutie Domovské obrazovky+ na tablete</string>
+      <string name="mirror_to_settings_remote_pc_content">Môžete na Domovská obrazovka+ v časti Nastavenia > Prepojenie.</string>
+      <string name="mirror_to_settings_remote_pc_title">Zapnite na počítači Domovskú obrazovku+</string>
+      <string name="mirror_to_settings_title">Zapnúť Domovskú obrazovku+</string>
       <string name="miui15_app_name">Služby prepojenia zariadení</string>
       <string name="miui15_cta_app_name">Vzájomné prepojenie Xiaomi</string>
       <string name="miui15_cta_desc_phone">Služby prepojenia Xiaomi umožňujú vašim zariadeniam vzájomnú bezdrôtovú interakciu. Pomocou služieb Xiaomi Interconnectivity Services môžete ovládať zariadenia, prenášať prehrávanie zvuku a videa, kombinovať funkcie zariadenia alebo spúšťať úlohy na jednom zariadení a pokračovať v nich v rovnakej aplikácii na iných pripojených zariadeniach. Aby tieto služby mohli normálne fungovať, musia sa pripojiť k internetu a vyžadovať nasledujúce povolenia:</string>
