@@ -256,4 +256,61 @@
         <item quantity="other">Jasno</item>
         <item quantity="one">Slnečno</item>
     </plurals>
+    
+<plurals name="atmospheric_pressure_desc">
+         <item quantity="other">Atmosférický tlak: %s hektopascalov</item>
+         <item quantity="one">Atmosférický tlak: %s hektopascal</item>
+      </plurals>
+      <plurals name="health_chart_calories_burned_schedule_format_desc">
+         <item quantity="other">Spálené %1$s kalórií</item>
+         <item quantity="one">Spálené %1$s kalórií</item>
+      </plurals>
+      <plurals name="health_chart_calories_goal_schedule_format_desc">
+         <item quantity="other">Cieľ kalórií: %1$s kalórií</item>
+         <item quantity="one">Cieľ kalórií: %1$s kalórií</item>
+      </plurals>
+      <plurals name="health_chart_calories_schedule_format">
+         <item quantity="other">%1$s/%2$s kcal</item>
+         <item measurement="one">%1$s/%2$s kcal</item>
+      </plurals>
+      <plurals name="health_chart_sport_time_current_schedule_format_desc">
+         <item quantity="other">Čas aktivity: %1$s minút</item>
+         <item quantity="one">Čas aktivity: %1$s minúta</item>
+      </plurals>
+      <plurals name="health_chart_sport_time_goal_schedule_format_desc">
+         <item quantity="other">Cieľ aktivity: %1$s minút</item>
+         <item quantity="one">Cieľ aktivity: %1$s minúta</item>
+      </plurals>
+      <plurals name="health_chart_sport_time_schedule_format">
+         <item quantity="other">%1$s/%2$s min</item>
+         <item quantity="one">%1$s/%2$s min</item>
+      </plurals>
+      <plurals name="health_chart_stand_count_schedule_format_desc">
+         <item quantity="other">Vstali do %1$s hodín</item>
+         <item quantity="one">Vstal do %1$s hodiny</item>
+      </plurals>
+      <plurals name="health_chart_stand_goal_schedule_format_desc">
+         <item quantity="other">Stály cieľ: %1$s hodín</item>
+         <item quantity="one">Stály cieľ: %1$s hodina</item>
+      </plurals>
+      <plurals name="health_chart_stand_schedule_format">
+         <item quantity="other">%1$s/%2$s hod</item>
+         <item quantity="one">%1$s/%2$s h</item>
+      </plurals>
+      <plurals name="health_chart_step_count_current_schedule_format_desc">
+         <item quantity="other">Aktuálny počet krokov: %1$s krokov</item>
+         <item quantity="one">Aktuálny počet krokov: %1$s krok</item>
+      </plurals>
+      <plurals name="health_chart_step_count_goal_schedule_format_desc">
+         <item quantity="other">Cieľ kroku: %1$s krokov</item>
+         <item quantity="one">Cieľ kroku: %1$s krok</item>
+      </plurals>
+      <plurals name="health_chart_step_count_schedule_format">
+         <item quantity="other">%1$s/%2$s krokov</item>
+         <item quantity="one">%1$s/%2$s krok</item>
+      </plurals>
+      <plurals name="weather_temperature_desc">
+         <item quantity="other">Teplota: %1$s stupňov, %2$s</item>
+         <item quantity="one">Teplota: %1$s stupeň, %2$s</item>
+      </plurals>    
 </resources>

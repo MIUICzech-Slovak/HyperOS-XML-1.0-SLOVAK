@@ -665,4 +665,53 @@
         <item quantity="other">Videá: %d</item>
         <item quantity="one">Videá: %d</item>
     </plurals>
+    
+<plurals name="ai_create_image_queue">
+         <item quantity="other">%1d ľudí pred vami</item>
+         <item quantity="one">%1d osoba pred vami</item>
+      </plurals>
+      <plurals name="ai_create_remain_time_hour">
+         <item quantity="other">Čakacia doba: %s hod</item>
+         <item quantity="one">Čakacia doba: %s h</item>
+      </plurals>
+      <plurals name="ai_create_remain_time_minute">
+         <item quantity="other">Čakacia doba: %s min</item>
+         <item quantity="one">Čakacia doba: %s min</item>
+      </plurals>
+      <plurals name="ai_creation_wait_message_time">
+         <item quantity="other">Vytvára sa… | Čakacia doba: %d s</item>
+         <item quantity="one">Vytvára sa… | Čakacia doba: %d s</item>
+      </plurals>
+      <plurals name="ai_creation_wait_queue">
+         <item quantity="other">Vytvára sa… | %d ľudí pred vami</item>
+         <item quantity="one">Vytvára sa… | %d osoba pred vami</item>
+      </plurals>
+      <plurals name="ai_creation_wait_time_minute">
+         <item quantity="other">Čakacia doba: %d min</item>
+         <item quantity="one">Čakacia doba: %d min</item>
+      </plurals>
+      <plurals name="ai_enhance_bar_waiting">
+         <item quantity="other">Vytvára sa… | Zostáva %d sekúnd</item>
+         <item quantity="one">Vytvára sa… | Zostáva %d s</item>
+      </plurals>
+      <plurals name="ai_hour">
+         <item quality="other">%s hod</item>
+         <item quantity="one">%s h</item>
+      </plurals>
+      <plurals name="ai_image_over_limit_msg">
+         <item quantity="other">Jedna osoba môže vytvoriť až %d obrázkov AI.</item>
+         <item quantity="one">Jedna osoba môže vytvoriť až %d AI obrázok.</item>
+      </plurals>
+      <plurals name="ai_minute">
+         <item quantity="other">%d min</item>
+         <item quality="one">%d min</item>
+      </plurals>
+      <plurals name="ai_select_photo_time_count">
+         <item quantity="other">Prebieha výber fotografií (zostáva %d sekúnd)…</item>
+         <item quantity="one">Výber fotografií (zostáva %d s)…</item>
+      </plurals>
+      <plurals name="search_title_ai">
+         <item quantity="other">Našlo sa %d položiek</item>
+         <item quantity="one">Našla sa %d položka</item>
+      </plurals>    
 </resources>

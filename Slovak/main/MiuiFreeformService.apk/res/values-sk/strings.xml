@@ -38,4 +38,115 @@
     <string name="multi_window_cvw">Plávajúce okno</string>
     <string name="multi_window_cvw_summary">Presunutím rohu prepnite na plávajúce okno a upravte jeho veľkosť</string>
     <string name="multi_window_cvw_summary_global">Presunutím rohu prepnite na plávajúce okno a upravte jeho veľkosť</string>
+    
+<string name="bubble_app_empty_page">"Na tomto zariadení sa nepodarilo nájsť aplikácie, ktoré podporujú bubliny konverzácií"</string>
+      <string name="bubble_app_manage">Spravujte bubliny konverzácií</string>
+      <string name="bubble_notification">Bubliny konverzácie</string>
+      <string name="bubble_notification_switch">Zobraziť bubliny konverzácií</string>
+      <string name="bubble_notification_switch_desc">Keď je aplikácia na odosielanie správ v plávajúcom okne skrytá na okraji obrazovky, prichádzajúce správy sa zobrazujú v bublinách</string>
+      <string name="dock_location_left">Vľavo</string>
+      <string name="dock_location_right">Vpravo</string>
+      <string name="dock_location_title">Umiestnenie doku aplikácie</string>
+      <string name="flashback_background_start_switch_summary">Automaticky generovať kartičky s kľúčovými informáciami, keď sú aplikácie spustené na pozadí</string>
+      <string name="flashback_background_start_switch_title">Automaticky generovať kartičky</string>
+      <string name="flashback_baidu_map_summary">Zobraziť trasu</string>
+      <string name="flashback_didi_summary">Zobraziť informácie o jazde</string>
+      <string name="flashback_meituan_summary">Zobraziť informácie o doručení</string>
+      <string name="flashback_meituan_waimai_summary">Zobraziť informácie o doručení</string>
+      <string name="flashback_open_switch_summary">Zobraziť kľúčové informácie, keď sú aplikácie zobrazené ako plávajúce okná</string>
+      <string name="flashback_open_switch_title">Karty aplikácií</string>
+      <string name="flashback_shansong_summary">Zobraziť priebeh doručovania</string>
+      <string name="flashback_status_close">Vypnuté</string>
+      <string name="flashback_status_open">Zapnuté</string>
+      <string name="flashback_summary">Zobraziť kľúčové informácie, keď sú aplikácie zobrazené ako plávajúce okná</string>
+      <string name="flashback_support_apps_title">Dostupné aplikácie</string>
+      <string name="flashback_title">Karty aplikácií</string>
+      <string name="flashback_wangzhe_summary">Zobraziť odpočítavanie vzkriesenia</string>
+      <string name="fold_screen_settings">Funkcie pre skladacie zariadenia</string>
+      <string name="freeform_guide_dialog_freeform_controller_summary">"Presuňte plávajúce okno za jeho horný okraj
+alebo klepnutím zobrazíte ďalšie možnosti"</string>
+      <string name="freeform_guide_dialog_freeform_resize_summary">Pretiahnutím dolných rohov zmeňte veľkosť</string>
+      <string name="freeform_guide_dialog_freeform_title">Plávajúce okná</string>
+      <string name="freeform_guide_dialog_split_double_summary">"Potiahnite prstom nahor zo stredu spodku
+obrazovky zatvorte obe aplikácie"</string>
+      <string name="freeform_guide_dialog_split_single_summary">"Prejdením prstom zo stredu nahor
+aplikácie, aby ste ju zatvorili"</string>
+      <string name="freeform_guide_dialog_split_title">Rozdelená obrazovka</string>
+      <string name="freeform_guide_dialog_start_button">Štart</string>
+      <string name="freeform_guide_dialog_step_button">Ďalej</string>
+      <string name="freeform_guide_drag_fullscreen_title">Presunutím prepnete do režimu celej obrazovky</string>
+      <string name="freeform_guide_drag_split_title">Presunutím prepnete na režim rozdelenej obrazovky alebo celej obrazovky</string>
+      <string name="freeform_guide_drag_summary">Potiahnutím okien do určených oblastí prepínate medzi režimami zobrazenia</string>
+      <string name="freeform_guide_drop_down_to_fullscreen_summary">Stlačte a podržte a potom potiahnite nadol panel akcií plávajúceho okna</string>
+      <string name="freeform_guide_drop_down_to_fullscreen_title">Zobrazenie plávajúcich okien v režime celej obrazovky</string>
+      <string name="freeform_guide_move_and_close_summary">Presuňte okno potiahnutím za horný okraj alebo klepnutím tam zatvorte</string>
+      <string name="freeform_guide_move_and_close_title">Presúvanie a zatváranie plávajúcich okien</string>
+      <string name="freeform_guide_move_summary">Stlačte a podržte panel akcií plávajúceho okna, ktoré chcete pretiahnuť</string>
+      <string name="freeform_guide_move_title">Presúvanie plávajúcich okien</string>
+      <string name="freeform_guide_move_to_small_freeform_window_summary">Presuňte plávajúce okno do rohu obrazovky</string>
+      <string name="freeform_guide_move_to_small_freeform_window_title">Minimalizácia pohyblivých okien</string>
+      <string name="freeform_guide_multiple_window_settings_summary">Nové okná v podporovaných aplikáciách môžete otvárať klepnutím na panel akcií</string>
+<string name="freeform_guide_notification_drop_down_summary">Stlačte a podržte a potom potiahnite nadol panel akcií upozornenia</string>
+      <string name="freeform_guide_notification_drop_down_title">Otváranie plávajúcich okien</string>
+      <string name="freeform_guide_replace_and_close_split_summary">Zatvorte jedno alebo obe okná na rozdelenej obrazovke</string>
+      <string name="freeform_guide_replace_and_close_split_title">Zavrieť okná na rozdelenej obrazovke</string>
+      <string name="freeform_guide_resize_pad_summary">Presunutím rohu prepnite na plávajúce okno a upravte jeho veľkosť</string>
+      <string name="freeform_guide_resize_pad_title">Zmena veľkosti okien</string>
+      <string name="freeform_guide_resize_summary">Pretiahnutím okien za rohy zmeníte ich veľkosť</string>
+      <string name="freeform_guide_resize_title">Zmena veľkosti okien</string>
+      <string name="freeform_guide_settings">Plávajúce okná</string>
+      <string name="freeform_guide_slide_to_small_freeform_settings_summary">"Stlačte a podržte spodnú časť okna a presuňte ho do pravého horného rohu.
+Táto funkcia funguje iba vtedy, keď je navigácia v systéme nastavená na gestá."</string>
+      <string name="freeform_guide_slide_to_small_freeform_settings_summary_squarehot">"Stlačte a podržte spodnú časť okna a potiahnite ho k hornému okraju obrazovky.
+Táto funkcia funguje iba vtedy, keď je navigácia v systéme nastavená na gestá."</string>
+      <string name="freeform_guide_slide_to_small_freeform_summary_squarehot">"Stlačte a podržte spodnú časť okna a presuňte ho k hornému okraju obrazovky.
+Táto funkcia funguje iba vtedy, keď je navigácia v systéme nastavená na gestá."</string>
+      <string name="freeform_guide_slide_to_small_freeform_title">Minimalizácia aplikácie</string>
+      <string name="freeform_guide_slide_up_to_close_summary">Potiahnite prstom nahor z panela akcií plávajúceho okna</string>
+      <string name="freeform_guide_slide_up_to_close_title">Zatvorenie plávajúcich okien</string>
+      <string name="freeform_guide_split_screen_combination_fold">Kombinácia rozdelenej obrazovky</string>
+      <string name="freeform_guide_split_screen_combination_settings_fold">Kombinácia rozdelenej obrazovky</string>
+      <string name="freeform_guide_split_screen_combination_summary">Stlačením a podržaním ukážky rozdelenej obrazovky v časti Nedávne vytvorte skratku pre kombináciu</string>
+      <string name="freeform_guide_split_screen_combination_summary_fold">Vytvorte skratky pre kombinácie rozdelenej obrazovky pomocou doku aplikácie na vnútornej obrazovke</string>
+      <string name="freeform_guide_split_screen_combination_summary_pad">Vytvorte skratky pre kombinácie rozdelenej obrazovky pomocou doku aplikácie</string>
+      <string name="freeform_guide_split_screen_combination_title">Kombinácia rozdelenej obrazovky</string>
+      <string name="freeform_guide_tip_controller">Klepnutím otvoríte nové okno</string>
+      <string name="freeform_guide_tip_dock">Pretiahnutím do stredu otvorte plávajúce okno</string>
+      <string name="freeform_guide_tip_dock_browser">Stlačením a podržaním otvoríte nové okno</string>
+      <string name="freeform_guide_tip_dock_email">Stlačením a podržaním otvoríte nové okno</string>
+      <string name="freeform_guide_tip_dock_note">Stlačením a podržaním otvoríte nové okno</string>
+      <string name="freeform_guide_tip_dock_wps">Stlačením a podržaním otvoríte nové okno</string>
+      <string name="freeform_guide_tip_down">Stlačte a podržte panel akcií a potom potiahnutím nahor zatvorte</string>
+      <string name="freeform_guide_tip_notification">Potiahnutím nadol otvorte v plávajúcom okne</string>
+      <string name="freeform_guide_tip_pin">Stlačte a podržte panel akcií a potom okno rýchlo potiahnite k okraju, aby ste ho minimalizovali</string>
+      <string name="freeform_guide_tip_pin_up">Pretiahnutím dovnútra otvorte plávajúce okno</string>
+      <string name="freeform_guide_tip_sidebar">"Stlačte a podržte,
+potom sa presuňte ťahaním“</string>
+      <string name="freeform_guide_tip_sidedock">Prejdením prstom smerom von zobrazíte dok</string>
+      <string name="freeform_guide_tip_split">Presunutím na stranu prepnete na rozdelenú obrazovku</string>
+      <string name="freeform_guide_tip_window_top">Ak chcete okno minimalizovať, stlačte a podržte hornú časť okna a potom ho rýchlo potiahnite k okraju obrazovky</string>
+      <string name="freeform_guide_to_sidehide_settings_summary">Rýchlym pretiahnutím aplikácie na stranu obrazovky ju skryjete</string>
+      <string name="freeform_guide_vedio_description">Klepnutím na aplikáciu na bočnom paneli ju otvoríte v plávajúcom okne</string>
+      <string name="freeform_recommend_open_switch_summary">Prijímať návrhy na otváranie aplikácií na rozdelenej obrazovke alebo v pohyblivých oknách na základe scenárov použitia</string>
+      <string name="freeform_recommend_open_switch_summary_fold">V niektorých scenároch sa odporúčané aplikácie otvoria v plávajúcom okne na vonkajšej obrazovke a v plávajúcom okne alebo v rozdelenej obrazovke na vnútornej obrazovke</string>
+      <string name="freeform_recommend_open_switch_summary_phone">V niektorých scenároch sa odporúčané aplikácie otvoria v plávajúcom okne</string>
+      <string name="freeform_recom   mend_open_switch_title">Inteligentné návrhy</string>
+      <string name="freeform_vedio_description">"· Stlačte a podržte, potom potiahnite upozornenie, aby ste ho otvorili v plávajúcom okne.
+· Klepnutím na položku \"Plávajúce okná\" v časti Nedávne vyberte aplikácie."</string>
+      <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Klepnutím na aplikáciu na bočnom paneli ju otvoríte v plávajúcom okne.
+· Potiahnutím aplikácie do stredu obrazovky ju otvoríte v plávajúcom okne alebo do strany, ak chcete použiť rozdelenú obrazovku."</string>
+      <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Potiahnutím aplikácie z bočného panela do stredu obrazovky ju otvoríte v plávajúcom okne alebo na stranu, ak chcete použiť rozdelenú obrazovku</string>
+      <string name="freeform_vedio_description_pad">Pretiahnutím položiek z doku otvorte plávajúce okná</string>
+      <string name="gd_setting_title">Bočný panel</string>
+      <string name="miui_bubbles_notification">Bubliny konverzácie</string>
+      <string name="miui_bubbles_notification_status_opened">Zapnuté</string>
+      <string name="miuix_appcompat_edit">Upraviť</string>
+      <string name="operation_guide_settings_title">Ako používať plávajúce okná</string>
+      <string name="operation_guide_title">Výukové programy</string>
+      <string name="other_advanced_settings">Ďalšie nastavenia</string>
+      <string name="other_operations_title">Ďalšie návody</string>
+      <string name="pin_toast">Posunutím nahor a stlačením túto aplikáciu uvoľníte</string>
+      <string name="pin_toast_nav">Stlačte &amp; podržaním tlačidiel späť a náhľadu túto aplikáciu odopnete</string>
+      <string name="split_operation_guide_title">Ako používať rozdelenú obrazovku</string>
+      <string name="tablet_screen_settings">Funkcie pre tablety</string>       
 </resources>

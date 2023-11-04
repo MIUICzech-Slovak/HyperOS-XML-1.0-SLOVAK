@@ -204,5 +204,11 @@ Nahláste tento problém &gt;"</string>
     
 <string name="float_notification_snooze_summary_1_min">Prejdením prstom nahor po plávajúcom upozornení skryjete nadchádzajúce na %d</string>
       <string name="float_notification_snooze_summary_always_float">Vždy zobrazovať plávajúce upozornenia</string>
-      <string name="float_notification_snooze_summary_until_unlock">Prejdením prstom nahor po plávajúcom upozornení skryjete nadchádzajúce, kým sa zariadenie nezamkne</string>    
+      <string name="float_notification_snooze_summary_until_unlock">Prejdením prstom nahor po plávajúcom upozornení skryjete nadchádzajúce, kým sa zariadenie nezamkne</string>
+      <string name="notification_fold_footer_icon_summary">Zobraziť ikony aplikácií, keď sú zoskupené nedôležité upozornenia</string>
+<string name="notification_fold_footer_icon_title">Zobraziť ikony aplikácií</string>  
+<string name="function_description">O tejto funkcii</string>
+<string name="notification_fold_description1">Priečinok s upozorneniami bol predstavený v MIUI 9. Táto funkcia filtruje nedôležité upozornenia a umiestňuje ich do samostatného priečinka.</string>
+<string name="notification_fold_description2">MIUI si zapamätá, na ktoré upozornenia klepnete, a potom pomocou viacerých kritérií určí, či sú dôležité.</string>
+<string name="notification_fold_description3">"Ak sa upozornenia, ktoré považujete za dôležité, stále nachádzajú v priečinku Upozornenia, nezabudnite nám takéto problémy nahlásiť. Budeme vďační za Vašu spätnú väzbu."</string>    
 </resources>
