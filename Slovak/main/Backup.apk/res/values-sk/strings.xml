@@ -918,4 +918,12 @@ Veľkosť: %2$s"</string>
 Veľkosť Delta aktualizácie: %2$s"</string>
     <string name="xiaomi_update_dialog_title">Dostupná aktualizácia</string>
     <string name="yesterday">Včera</string>
+    
+<string name="new_local_detail_description_global">"Poznámka:
+%1$d. Skopírujte zálohy do počítača, aby ste predišli strate údajov. %2$s.
+%3$d. Zálohy sa budú ukladať do MIUI-Backup-AllBackup.
+%4$d. Niektoré aplikácie nemusia podporovať zálohovanie."</string>
+      <string name="new_usb_unwritable_storage_content">"Položky sa nepodarilo uložiť na externé úložné zariadenie. Skúste ho znova pripojiť."</string>
+      <string name="new_usb_unwritable_storage_title">"Nepodarilo sa uložiť"</string>
+      <string name="password_toggle_content_description">Zobraziť heslo</string>    
 </resources>

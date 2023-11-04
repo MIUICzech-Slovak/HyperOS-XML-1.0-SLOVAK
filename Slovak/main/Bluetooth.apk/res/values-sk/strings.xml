@@ -306,4 +306,37 @@
     <string name="wednesday_short">Str</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
+    
+<string name="a2dp_sink_mbs_label">Bluetooth Audio</string>
+      <string name="aptx_notification_aptx">Toto zariadenie podporuje Qualcomm® aptX™</string>
+      <string name="aptx_notification_aptx_adaptive">Toto zariadenie podporuje Qualcomm® aptX™ Adaptive</string>
+      <string name="aptx_notification_aptx_hd">Toto zariadenie podporuje Qualcomm® aptX™ HD</string>
+      <string name="aptx_notification_title">Bluetooth</string>
+      <string name="avrcp_notification_name">Rozšírená funkcia BT AVRCP</string>
+      <string name="bluetooth_advanced_feat_description">Funkcia rozšíreného prehliadania Bluetooth</string>
+      <string name="bluetooth_map_remote_advance_feature_support">Podporované funkcie rozšíreného prístupu k správam</string>
+      <string name="bluetooth_map_remote_message_access_feature_downgrade">Prejsť na staršiu verziu funkcií vzdialeného prístupu k správam</string>
+      <string name="bluetooth_map_repair_for_adv_message_access_feature">Znova spárujte, aby ste mohli používať pokročilé funkcie prístupu k správam</string>
+      <string name="bluetooth_map_repair_for_message_access_version_comp">Znova spárujte, aby ste zaistili kompatibilitu verzie prístupu k správam</string>
+      <string name="bluetooth_opp_file_limit_exceeded">Súbory väčšie ako 4 GB nie je možné preniesť</string>
+      <string name="bluetooth_rc_feat_content">Partner podporuje pokročilé funkcie</string>
+      <string name="bluetooth_rc_feat_subtext">Ak to chcete povoliť, znova ho spárujte s partnerom</string>
+      <string name="bluetooth_rc_feat_title">Prehliadanie médií Bluetooth</string>
+      <string name="call_notification_answer_action">Odpoveď</string>
+      <string name="call_notification_answer_video_action">Video</string>
+      <string name="call_notification_decline_action">Odmietnuť</string>
+      <string name="call_notification_hang_up_action">Zaveste</string>
+      <string name="call_notification_incoming_text">Prichádzajúci hovor</string>
+      <string name="call_notification_ongoing_text">Prebiehajúci hovor</string>
+      <string name="call_notification_screening_text">Preverenie prichádzajúceho hovoru</string>
+      <string name="miuix_appcompat_edit">Upraviť</string>
+      <string name="permdesc_bluetoothAcceptlist">Umožňuje aplikácii dočasne prijať zariadenie Bluetooth do zoznamu, čo tomuto zariadeniu umožňuje odosielať súbory do tohto zariadenia bez potvrdenia používateľom.</string>
+      <string name="permlab_bluetoothAcceptlist">Akceptovať prístup k zariadeniu Bluetooth.</string>
+      <string name="phonebook_advance_feature_support">Podporovaná rozšírená funkcia telefónneho zoznamu</string>
+      <string name="remote_pbap_version_change">Zmena verzie profilu vzdialeného telefónneho zoznamu</string>
+      <string name="remote_phonebook_feature_downgrade">Prechod na staršiu verziu funkcie vzdialeného telefónneho zoznamu</string>
+      <string name="repair_for_adv_phonebook_feature">Opätovné spárovanie pre pokročilú funkciu telefónneho zoznamu</string>
+      <string name="repair_for_phonebook_access_version_comp">Opätovné spárovanie pre kompatibilitu verzie prístupu k telefónnemu zoznamu</string>
+      <string name="snapdragon_sound_notification_title">Bluetooth</string>
+      <string name="switch_audio_device_switch_hint">Upozornenia na pripojené zariadenia môžete vypnúť v časti Nastavenia > Bluetooth > Ďalšie nastavenia.</string>        
 </resources>
