@@ -6227,5 +6227,37 @@ Zapnutím jedného sa vypne druhý.“</string>
       <string name="wakepath_delete_app_start_all">"Ak budete pokračovať, budete musieť znova udeliť %s povolenie na otvorenie ďalších aplikácií. Chcete napriek tomu pokračovať?"</string>
       <string name="wakepath_delete_app_start_other_app">"Ak budete pokračovať, budete musieť aplikácii %1$s znova udeliť povolenie na otvorenie aplikácie %2$s. Chcete napriek tomu pokračovať?"</string>
       <string name="wakepath_manager_title">Spravovať štart reťazca</string>
+      
+<string name="vb_quick_func_auto_bgm">Rozpoznať hudbu na pozadí</string>
+      <string name="vb_video_effects_dolby">Dolby Atmos</string>
+      <string name="vb_video_effects_immersion_sound">Pohlcujúci zvuk</string>
+      <string name="vb_video_effects_immersion_sound_summary">Zažite ponorenie a pocit priestoru pri prehrávaní podporovaného zvuku cez slúchadlá</string>
+      <string name="vb_video_effects_setting_girl">Začervenať sa</string>
+      <string name="vb_video_effects_setting_gorgeous">Živé</string>
+      <string name="vb_video_effects_setting_green_orange">Oranžová</string>
+      <string name="vb_video_effects_setting_grim">Skvelé</string>
+      <string name="vb_video_effects_setting_knight">Kovové</string>
+      <string name="vb_video_effects_setting_mecha">Robot</string>
+      <string name="vb_video_effects_setting_nostalgia">Nostalgické</string>
+      <string name="vb_video_effects_setting_solar">Minutie</string>
+      <string name="vb_video_effects_setting_warmth">Teplé</string>
+      <string name="vb_video_effects_spatial_summary_new">Zažite vylepšený zmysel pre priestor a smer podporovaného zvuku pri používaní slúchadiel</string>
+      <string name="video_repeat">Prehrať znova</string>
+      <string name="virus_scan_process_pre">%</string>
+      <string name="voltage_symbol">V</string>
+      <string name="vtb_ai_subtitle">Titulky</string>
+      <string name="vtb_func_desc">O tejto funkcii</string>
+      <string name="vtb_func_display_style_desc0">AI dokáže rozpoznať ľudí, zvieratá, rastliny, oblohu, budovy a ďalšie objekty vo videách a dynamicky ich vylepšiť.</string>
+      <string name="vtb_func_display_style_desc1">"Vybrané efekty sa nepoužijú na videá HDR na vybraných zariadeniach."</string>
+      <string name="vtb_func_display_style_desc2">"Tieto efekty nie je možné použiť na snímky obrazovky."</string>
+      <string name="vtb_func_frc_desc0">Vyhladzovanie pohybu znižuje rozmazanie a pridáva detaily k pohybujúcim sa objektom. Používanie tejto funkcie zvyšuje spotrebu energie.</string>
+      <string name="vtb_func_frc_desc1">"Vyhladzovanie pohybu nebude fungovať za nasledujúcich podmienok:"</string>
+      <string name="vtb_func_frc_desc2">Keď je rozlíšenie videa vyššie ako 1080P</string>
+      <string name="vtb_func_frc_desc3">Keď je snímková frekvencia vyššia ako 30 snímok za sekundu</string>
+      <string name="vtb_func_frc_desc4">S videami HDR</string>
+      <string name="vtb_func_frc_title">Vyhladzovanie pohybu</string>
+      <string name="vtb_func_vpp_desc4">"Táto funkcia nebude fungovať, keď je rozlíšenie videa vyššie ako 4K."</string>
+      <string name="vtb_func_vpp_title">Vylepšené kontúry</string>
+      <string name="vtb_function_video_translation">Preklad v reálnom čase</string>      
                         
 </resources>
