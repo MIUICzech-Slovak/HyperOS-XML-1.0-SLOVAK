@@ -7965,7 +7965,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
       <string name="title_wordless_mode">"Nezobrazovať menovky ikon"</string>
       <string name="tof_gesture_cue_tone_summary">Prehrať potvrdzovací zvuk vždy, keď sa zistí vaša dlaň</string>
       <string name="tof_gesture_cue_tone_title">Prehrať potvrdzovací zvuk</string>
-      <string name="tofgesture_description_summary" formatted="false">Keď je zariadenie v režime na šírku, držte ruku %d až %d cm od fotoaparátu a po zobrazení ikony ruky v hornej časti obrazovky vykonajte gestá.</ reťazec>
+      <string name="tofgesture_description_summary" formatted="false">Keď je zariadenie v režime na šírku, držte ruku %d až %d cm od fotoaparátu a po zobrazení ikony ruky v hornej časti obrazovky vykonajte gestá.</string>
       <string name="tofgesture_enable_title">Bezkontaktné gestá (Beta)</string>
       <string name="tofgesture_settings">Bezkontaktné gestá (Beta)</string>
       <string name="updown_waving_summary">Upravte hlasitosť médií, prepínajte medzi krátkymi videami a otáčajte stránky v dokumentoch</string>
