@@ -410,7 +410,7 @@ Zadajte vaše mesto manuálne"</string>
      <string name="button_revoke_permission_fail">Rozumiem</string>
      <string name="button_settings_confirm_to_revoke_title">Chcete odvolať súhlas?</string>
      <string name="button_sure_abandon">Zahodiť zmeny?</string>
-<string name="china_version_first_start_network_msg">„Aby ste mohli používať službu Weather, musíte súhlasiť s %1$s a %2$s spoločnosti Xiaomi. Aplikácia Weather potrebuje prístup k vašej polohe a pripojenie k internetu, aby mohla normálne fungovať. Súhlasíte?“< /string>
+<string name="china_version_first_start_network_msg">„Aby ste mohli používať službu Weather, musíte súhlasiť s %1$s a %2$s spoločnosti Xiaomi. Aplikácia Weather potrebuje prístup k vašej polohe a pripojenie k internetu, aby mohla normálne fungovať. Súhlasíte?“</string>
      <string name="content_desc_city_manage_edit">Upraviť</string>
      <string name="content_desc_feedback_weather_type_choose">Vybraté %1$s</string>
      <string name="daily_forecast_no_data">"Nepodarilo sa získať informácie o počasí
