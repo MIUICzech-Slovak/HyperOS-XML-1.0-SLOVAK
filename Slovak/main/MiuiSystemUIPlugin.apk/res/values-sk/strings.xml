@@ -355,7 +355,7 @@
     <string name="slider_view_content_description">Potiahnite nahor pre vypnutie alebo nadol pre reštartovanie</string>
     <string name="slider_view_content_left_description">Potiahnite nahor pre Fastboot režim alebo nadol pre TWRP</string>
     <string name="slider_view_content_right_description">Potiahnite nahor pre režim Lietadlo alebo nadol pre Tichý režim</string>
-    <string name="smart_home_title">Inteligentné zariadenia</string>
+    <string name="smart_home_title">SmartHome</string>
     <string name="sunday">Nedeľa</string>
     <string name="sunday_short">Ned</string>
     <string name="sunday_shortest">N</string>
