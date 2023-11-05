@@ -125,4 +125,14 @@
         <item>%1$s mph</item>
         <item>%1$s kn</item>
     </string-array>
+    
+<string-array name="pollution_level_desc_arr">
+         <item>Výborne</item>
+         <item>Dobré</item>
+         <item>Mierne znečistené</item>
+         <item>Stredne znečistené</item>
+         <item>Veľmi znečistené</item>
+         <item>Veľmi znečistené</item>
+         <item>Nebezpečné</item>
+     </string-array>    
 </resources>

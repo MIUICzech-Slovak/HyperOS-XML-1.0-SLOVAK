@@ -687,4 +687,10 @@ http://www.miuios.cz/rom
     <string name="foler_pinned">Pripnuté zložky</string>
     <string name="new_alert_title_delete">Odstrániť poznámky</string>
     <string name="new_sync_desc_state_disable">Zapnite synchronizáciu v cloude pre poznámky, úlohy a ďalšie</string>	
+    
+    <string name="insert_image_menu_take_photo_by_local_device">Zhotoviť fotografiu pomocou tohto zariadenia</string>
+     <string name="insert_image_menu_take_photo_by_remote_device">Odfotiť pomocou %1$s</string>
+     <string name="miui_penengine_toast_add_to_clip">Úspešne skopírované</string>
+     <string name="pad_dialog_take_photo_by_device">Fotenie pomocou %1$s</string>
+<string name="permission_xiaoai_desc_m"><Data>Na poskytovanie služieb prepisu reči na text potrebuje Mi AI zhromažďovať zvukový vstup a IMEI vášho zariadenia. Skôr ako budete pokračovať, prečítajte si &lt;a href=\"%1$s\">Vyhlásenie o zdieľaní údajov tretej strany v aplikácii Notes a vyjadrite s ním súhlas&lt;/a>. Viac sa môžete dozvedieť aj v &lt;a href=\"%2$s\">Zásadách ochrany osobných údajov&lt;/a> Mi AI.</Data></string>    
 </resources>
