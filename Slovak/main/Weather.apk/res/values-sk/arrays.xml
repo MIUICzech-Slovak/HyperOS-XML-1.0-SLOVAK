@@ -135,4 +135,46 @@
          <item>Veľmi znečistené</item>
          <item>Nebezpečné</item>
      </string-array>    
+     
+<string-array name="aqi_detail_title">
+         <item>Dobré</item>
+         <item>Stredné</item>
+         <item>Nezdravé pre citlivé skupiny</item>
+         <item>Nezdravé</item>
+         <item>Veľmi nezdravé</item>
+         <item>Nebezpečné</item>
+      </string-array>
+      <string-array name="aqi_value">
+         <item>Dobré</item>
+         <item>Uspokojivé</item>
+         <item>Stredne znečistené</item>
+         <item>Nízka</item>
+         <item>Veľmi slabé</item>
+         <item>Závažné</item>
+         <item>Za index</item>
+      </string-array>
+     <string-array name="realtime_humidity_status">
+         <item>Sušiť</item>
+         <item>Pohodlné</item>
+         <item>Vlhké</item>
+      </string-array>
+      <string-array name="realtime_pressure_status">
+         <item>Vysoká</item>
+         <item>Stredné</item>
+         <item>Nízka</item>
+      </string-array>
+      <string-array name="realtime_temperature_status">
+         <item>Studené</item>
+         <item>Super</item>
+         <item>Pohodlné</item>
+         <item>Teplé</item>
+         <item>Horúce</item>
+      </string-array>
+      <string-array name="realtime_uv_level">
+         <item>Slabé</item>
+         <item>Stredné</item>
+         <item>Silný</item>
+         <item>Veľmi silné</item>
+         <item>Závažné</item>
+      </string-array>     
 </resources>
