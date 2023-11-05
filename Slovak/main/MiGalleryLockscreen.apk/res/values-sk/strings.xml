@@ -558,7 +558,7 @@ To môže spôsobiť dodatočné poplatky."</string>
     <string name="passport_error_user_name">Zadané používateľské meno je neplatné</string>
     <string name="passport_forget_password" />
     <string name="passport_get_verify_code">Získať kód</string>
-    <string name="passport_getting_verify_code">Len chvíľku...</string>
+    <string name="passport_getting_verify_code">Načítavanie...</string>
     <string name="passport_identification_expired">Platnosť overovacieho kódu vypršala. Začnite odznova.</string>
     <string name="passport_input_captcha_hint">Zadajte kód</string>
     <string name="passport_input_password_hint">Zadajte heslo</string>
@@ -646,7 +646,7 @@ To môže spôsobiť dodatočné poplatky."</string>
     <string name="prv_nodata" />
     <string name="psw_hint">Heslo</string>
     <string name="psw_sign_in">Prihláste sa pomocou hesla</string>
-    <string name="pull_to_refresh_loading_label">Len chvíľku...</string>
+    <string name="pull_to_refresh_loading_label">Načítavanie...</string>
     <string name="pull_to_refresh_pull_down_label">Potiahnutím nadol obnovíte</string>
     <string name="pull_to_refresh_pull_up_label">Potiahnutím nahor obnovíte</string>
     <string name="pull_to_refresh_refreshing_label">Obnovuje sa…</string>
@@ -901,7 +901,7 @@ To môže spôsobiť dodatočné poplatky."</string>
     <string name="user_ac_click_to_login">Prihlás sa klepnutím</string>
     <string name="user_ac_not_login">Nie ste prihlásený/-á</string>
     <string name="user_avatar_update_title">Zmeniť profilovú fotku</string>
-    <string name="user_avatar_uploading">Len chvíľku...</string>
+    <string name="user_avatar_uploading">Načítavanie...</string>
     <string name="user_id_hint">ID účtu e-mailu/telefónu/Mi</string>
     <string name="v_code_title">Zadajte overovací kód</string>
     <string name="view_privacy_policy">Ochrana súkromia</string>
@@ -999,7 +999,7 @@ To môže spôsobiť dodatočné poplatky."</string>
      <string name="passport_user_agreement_hint_default"><Data>"Prečítal som si a súhlasím s Xiaomi &lt;a href=%1$s>Podmienkami používania&lt;/a> a &lt;a href=%2$s>Ochranou súkromia&lt;/a>."</Data></string>
      <string name="passport_user_agreement_hint_first_login">„Ak používate svoje telefónne číslo prvýkrát, účet vám vytvoríme automaticky.“</string>
      <string name="passport_user_avatar_update_title">Zmeniť profilovú fotku</string>
-     <string name="passport_user_avatar_uploading">Len chvíľku…</string>
+     <string name="passport_user_avatar_uploading">Načítavanie…</string>
 <string name="passport_vcode_what_app_send_prompt">Váš overovací kód WhatsApp bude odoslaný na váš telefón na obnovenie (&lt;font color=#1F93FF>%s&lt;/font>).</string>
 	
 </resources>

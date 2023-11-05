@@ -1071,7 +1071,7 @@ Prečítajte si a odsúhlaste naše Podmienky používania a Ochranu súkromia.
     <string name="share_location_guide2_title">Pomôžte priateľom a rodine</string>
     <string name="share_location_guide3_desc">Skontrolujte informácie o polohe, ktoré zdieľali, a uistite sa, že sú vaši priatelia a rodina v bezpečí</string>
     <string name="share_location_guide3_title">Zostaňte v bezpečí</string>
-    <string name="share_location_guide_action_btn_loading_text">Len chvíľku…</string>
+    <string name="share_location_guide_action_btn_loading_text">Načítavanie…</string>
     <string name="share_location_guide_action_btn_text">Zapnúť</string>
     <string name="share_location_guide_extra_btn_text">Preskočiť</string>
     <string name="share_location_menu_create_shortcut">Odkaz na ploche</string>

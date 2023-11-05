@@ -661,7 +661,7 @@ zvuky, video, dokumenty a aplikácie do nového zariadenia"</string>
     <string name="trans_sync_transfer_data_list">Na starom zariadení vyberte položky, ktoré si prajete preniesť</string>
     <string name="trans_sync_transfer_data_list_apple">"Vyberte položky na prenos
 na vašom iPhone"</string>
-    <string name="trans_sync_transfer_data_list_hint">Len chvíľku...</string>
+    <string name="trans_sync_transfer_data_list_hint">Načítavanie...</string>
     <string name="trans_time_format_second">Menej ako 1 minúta</string>
     <string name="trans_time_spent">Čas: %s</string>
     <string name="transfer_bottom_tip">Počas prenosu nebudete môcť používať Wi-Fi alebo Bluetooth. Neopúšťajte túto stránku.</string>

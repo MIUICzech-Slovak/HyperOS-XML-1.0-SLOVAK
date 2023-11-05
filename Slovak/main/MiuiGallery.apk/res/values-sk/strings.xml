@@ -1685,7 +1685,7 @@ Pripojte nabíjačku a vypnite obrazovku, aby sa objavili spomienky."</string>
     <string name="passport_dialog_doing_register">Vytvára sa účet…</string>
     <string name="passport_dialog_is_my_account">Áno</string>
     <string name="passport_dialog_is_your_mi_account">Je toto váš účet Xiaomi?</string>
-    <string name="passport_dialog_loading">Len chvíľku...</string>
+    <string name="passport_dialog_loading">Načítavanie...</string>
     <string name="passport_dialog_nick_name_prefix">Prezývka: %s</string>
     <string name="passport_dialog_phone_number_prefix">Telefónne číslo: %s</string>
     <string name="passport_dialog_register_other">"Nie, ja si ho vytvorím"</string>

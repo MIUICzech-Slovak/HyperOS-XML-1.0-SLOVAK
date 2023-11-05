@@ -78,7 +78,7 @@
     <string name="cloud_storage_info_type_family">Rodina</string>
     <string name="cloud_storage_info_type_others">Iné</string>
     <string name="cloud_storage_info_type_pdc">Nastavenia systému</string>
-    <string name="cloud_storage_loading_data">Len chvíľku…</string>
+    <string name="cloud_storage_loading_data">Načítavanie…</string>
     <string name="cloud_storage_no_data">Žiadne údaje</string>
     <string name="confirm">OK</string>
     <string name="confirm_and_continue">Pokračovať</string>

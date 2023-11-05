@@ -747,7 +747,7 @@ Toto povolenie môžete udeliť v časti Nastavenia &gt; Ochrana osobných údaj
     <string name="refresh_footer_all_loaded">"To je zatiaľ všetko."</string>
     <string name="refresh_footer_failed">Informácie sa nepodarilo načítať</string>
     <string name="refresh_footer_finish">Úspešne načítané</string>
-    <string name="refresh_footer_loading">Len chvíľku...</string>
+    <string name="refresh_footer_loading">Načítavanie...</string>
     <string name="refresh_footer_pullup">Potiahnutím nahor načítate viac</string>
     <string name="refresh_footer_release">Uvoľnením načítajte viac</string>
     <string name="region_not_support">Prepáčte, téma nie je podporovaná.</string>
