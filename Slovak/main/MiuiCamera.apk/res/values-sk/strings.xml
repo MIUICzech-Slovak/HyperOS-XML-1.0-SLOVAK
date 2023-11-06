@@ -2179,7 +2179,6 @@ Ak na pripojenie používate hotspot, nastavte jeho pásmo AP na %s GHz v Nastav
        <string name="metering_parameter_description_average">Priemerné meranie: Zohľadňuje všetky oblasti obrázka, pričom najlepšie funguje pri rovnomerne osvetlených scénach.</string>
       <string name="metering_parameter_description_central">Centrálne vyvážené meranie: Zameriava sa hlavne na stredovú oblasť snímky a náležite zohľadňuje jas okolitej oblasti. Najlepšie na snímanie objektov v strede obrazového poľa.</string>
       <string name="metering_parameter_description_spot">Bodové meranie: Zaostruje na jeden bod a poskytuje vám presnú kontrolu nad expozíciou.</string>
-      <string name="miuix_appcompat_edit">Upraviť</string>
       <string name="mutex_hdr_quality" formatted="false">"HDR nie je podporované pre %1s %2sFPS"</string>
       <string name="password_toggle_content_description">Zobraziť heslo</string>
       <string name="pref_camera_picturesize_entry_cinematic">Širokouhlý</string>

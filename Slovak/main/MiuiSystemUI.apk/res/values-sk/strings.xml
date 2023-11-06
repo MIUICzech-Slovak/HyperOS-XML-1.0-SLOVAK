@@ -2749,7 +2749,6 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
       <string name="UVI_level_2">Silné</string>
       <string name="UVI_level_3">Veľmi silné</string>
       <string name="UVI_level_4">Závažné</string>
-      <string name="accessibility_quick_settings_collapse">Zavrieť rýchle nastavenia.</string>
       <string name="aqi_format_desc">Index kvality ovzdušia: %s</string>
       <string name="drag_shadow_freeform_mini_open">Mini plávajúce okno</string>
       <string name="drag_shadow_freeform_mini_unsupported">"Mini plávajúce okná nie sú podporované"</string>
@@ -2764,10 +2763,6 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
       <string name="drag_shadow_split_unsupported">"Rozdelená obrazovka nie je podporovaná"</string>
       <string name="drag_shadow_split_unsupported_app">"%s nepodporuje rozdelenú obrazovku"</string>
       <string name="format_week_day_style1_desc">%1$s, deň v mesiaci: %2$s</string>
-      <string name="gxzw_quick_open_add_note">Pridať poznámku</string>
-      <string name="gxzw_quick_open_add_note_sub">Poznámky</string>
-      <string name="gxzw_quick_open_dialer">Vytáčanie</string>
-      <string name="gxzw_quick_open_dialer_sub">Telefón</string>
       <string name="health_chart_calories_unit">Kalórie</string>
       <string name="health_chart_sleep_time_good">Postačujúce</string>
       <string name="health_chart_sleep_time_low">Nedostatočné</string>
@@ -2780,18 +2775,12 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
       <string name="input_password_after_boot_msg_can_not_switch_when_desktop_mode_active">"Nie je možné prepínať medzi medzerami v režime pracovnej stanice"</string>
       <string name="keyguard_editor_super_save_mode_toast">"Nie je možné upraviť uzamknutú obrazovku, keď je zapnutý ultra šetrič batérie"</string>
       <string name="keyguard_loading_to_editor_tips">Otvára sa editor uzamknutej obrazovky…</string>
-      <string name="kg_wrong_pin">Chybný kód PIN</string>
-      <string name="miuix_appcompat_cancel_description">Zrušiť</string>
-      <string name="miuix_appcompat_confirm_description">Potvrdiť</string>
-      <string name="miuix_appcompat_delete_description">Odstrániť</string>
-      <string name="miuix_appcompat_deselect_all_description">Zrušiť výber všetkých</string>
-      <string name="miuix_appcompat_select_all_description">Vybrať všetko</string>
       <string name="multiwin_closewindow">Zavrieť okno</string>
       <string name="multiwin_newwindow">Nové okno</string>
       <string name="multiwin_windowcontrol">Panel ovládania okna</string>
       <string name="notification_status_bar">Upozornenia &amp; stavový riadok</string>
       <string name="quick_settings_airplane_state_change_message_off">Režim v lietadle je vypnutý</string>
-<string name="quick_settings_airplane_state_change_message_on">Režim v lietadle je zapnutý</string>
+      <string name="quick_settings_airplane_state_change_message_on">Režim v lietadle je zapnutý</string>
       <string name="quick_settings_auto_rotate_state_change_message_off">Automatické otáčanie je vypnuté</string>
       <string name="quick_settings_auto_rotate_state_change_message_on">Automatické otáčanie je zapnuté</string>
       <string name="quick_settings_autobrightness_state_change_message_off">Automatický jas je vypnutý</string>
@@ -2840,7 +2829,6 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
       <string name="sunrise_time_format_tomorrow_desc">"Zajtrajší východ slnka: %s"</string>
       <string name="sunset_time_format">Západ slnka %s</string>
       <string name="sunset_time_format_desc">Čas západu slnka: %s</string>
-      <string name="switch_system_user">Späť na prvý priestor</string>
       <string name="uvi_format_desc">Ultrafialový index: %1$s, %2$s</string>
       <string name="weather_no_data">Žiadne údaje o počasí</string>
       <string name="wind_direction_0">Severný vietor</string>
