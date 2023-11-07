@@ -156,7 +156,7 @@
       </plurals>
       <plurals name="health_chart_calories_schedule_format">
          <item quantity="other">%1$s/%2$s kcal</item>
-         <item measurement="one">%1$s/%2$s kcal</item>
+         <item quantity="one">%1$s/%2$s kcal</item>
       </plurals>
       <plurals name="health_chart_sport_time_current_schedule_format_desc">
          <item quantity="other">Čas aktivity: %1$s minút</item>

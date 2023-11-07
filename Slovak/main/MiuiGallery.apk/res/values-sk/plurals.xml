@@ -695,7 +695,7 @@
          <item quantity="one">Vytvára sa… | Zostáva %d s</item>
       </plurals>
       <plurals name="ai_hour">
-         <item quality="other">%s hod</item>
+         <item quantity="other">%s hod</item>
          <item quantity="one">%s h</item>
       </plurals>
       <plurals name="ai_image_over_limit_msg">
@@ -704,7 +704,7 @@
       </plurals>
       <plurals name="ai_minute">
          <item quantity="other">%d min</item>
-         <item quality="one">%d min</item>
+         <item quantity="one">%d min</item>
       </plurals>
       <plurals name="ai_select_photo_time_count">
          <item quantity="other">Prebieha výber fotografií (zostáva %d sekúnd)…</item>
