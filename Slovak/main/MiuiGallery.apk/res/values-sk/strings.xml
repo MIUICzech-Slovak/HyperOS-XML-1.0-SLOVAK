@@ -3041,4 +3041,5 @@ Najlepšie zábery boli vybrané automaticky. Ďalšie fotografie môžete prida
       <string name="text_segment">Výrez z fotografie</string>     
       <string name="hdr_switch_show_title">Pro HDR displej</string>
             <string name="hdr_switch_show_hint">Použite HDR na zobrazenie detailov vo svetle a tieni</string>
+                <string name="sort_and_showmode">Zoradenie</string>
 </resources>
