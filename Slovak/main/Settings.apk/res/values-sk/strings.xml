@@ -3815,7 +3815,7 @@ Pokračujte pre prístup k ďalším nastaveniam."</string>
     <string name="miui_lab_ai_cloud_closed">"AI prednačítavanie nie je dostupné.</string>
     <string name="miui_lab_ai_preload_desc">AI prednačítavanie zvyšuje rýchlosť spúšťania aplikácií</string>
     <string name="miui_lab_ai_preload_title">AI prednačítavanie</string>
-    <string name="miui_lab_drive_mode_desc">Use voice controls &amp; listen to WeChat messages</string>
+    <string name="miui_lab_drive_mode_desc">Use voice controls a listen to WeChat messages</string>
     <string name="miui_lab_drive_mode_desc_new">Použiť hlasové ovládanie</string>
     <string name="miui_lab_drive_mode_title">Car mode</string>
     <string name="miui_lab_feature_applied">Aplikované</string>
@@ -4632,7 +4632,7 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
     <string name="path_status_bar_settings">Nastavenia/Notifications</string>
     <string name="path_sync_settings">Nastavenia/Sync</string>
     <string name="path_system_app_settings">Nastavenia/System apps</string>
-    <string name="path_tether_settings">Nastavenia/More/Techering &amp; portable hotspot</string>
+    <string name="path_tether_settings">Nastavenia/More/Techering a portable hotspot</string>
     <string name="path_theme_settings">Nastavenia/Themes</string>
     <string name="path_toggle_position_settings">Nastavenia/Notifications/Toggle positions</string>
     <string name="path_unlock_set_settings">Nastavenia/Lock Screen</string>
@@ -7676,7 +7676,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="xiaomi_router_available_notif_title">Xiaomi MiRouter je dostupný</string>
     <string name="xiaomi_router_notif_summary">Upozorniť ma na dostupnosť Xiaomi MiRouter</string>
     <string name="xiaomi_router_notif_title">Upozornenia Xiaomi MiRouter</string>
-    <string name="xiaomi_transfer">Xiaomi Share</string>
+    <string name="xiaomi_transfer">Mi Share</string>
     <string name="xspace">Klonované aplikácie</string>
     <string name="yes">Áno</string>
     <string name="yes_all_caps">ÁNO</string>
@@ -7867,14 +7867,14 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
       <string name="dark_mode_settings">Možnosti tmavého režimu</string>
       <string name="default_font_title_global">Predvolené</string>
       <string name="device_details_leaudio_toggle_summary">Experimentálne. Zlepšuje kvalitu zvuku.</string>
-      <string name="display_settings_new">Obrazovka &amp; jas</string>
+      <string name="display_settings_new">Obrazovka a jas</string>
       <string name="doublepress_summary">Prehrať a pozastaviť prehrávanie</string>
       <string name="doublepress_title">Vykonajte pohyb dvojitým stlačením</string>
       <string name="easymode_hint_summary">Vypnete klepnutím</string>
       <string name="easymode_hint_title">Zjednodušený režim je zapnutý</string>
       <string name="enable_angle_as_system_driver">Povoliť ANGLE</string>
       <string name="enable_angle_as_system_driver_summary">Povoliť ANGLE ako systémový ovládač OpenGL ES</string>
-      <string name="face_password_unlock_new">Údaje o tvári &amp; zámok obrazovky</string>
+      <string name="face_password_unlock_new">Údaje o tvári a zámok obrazovky</string>
       <string name="financed_device_info">Informácie o financovanom zariadení</string>
       <string name="fingerprint_face_password_unlock_new">Odtlačky prstov, údaje o tvári a zámok obrazovky</string>
       <string name="focus_summary">Použite vlastný formát upozornení na zvýraznenie dôležitých informácií</string>
@@ -7931,8 +7931,8 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
       <string name="not_connected_to_wifi">Nie ste pripojení k sieti Wi-Fi</string>
       <string name="notice_broadcast_audio_stoppped">Vysielanie zvuku sa zastavilo</string>
       <string name="notification_app_permissions">Povolenia upozornení</string>
-      <string name="notification_control_center_new">Upozornenia &amp; stavový riadok</string>
-      <string name="notification_status_bar">Upozornenia &amp; stavový riadok</string>
+      <string name="notification_control_center_new">Upozornenia a stavový riadok</string>
+      <string name="notification_status_bar">Upozornenia a stavový riadok</string>
       <string name="notification_style_settings">Štýl upozornení</string>
       <string name="os_version">Verzia OS</string>
       <string name="outer_screen_and_resolution_title">Veľkosť a rozlíšenie vonkajšej obrazovky</string>
@@ -7943,7 +7943,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
       <string name="please_connect_to_the_wifi">Ak chcete dokončiť vymazanie údajov eSIM, pripojte sa k sieti Wi-Fi.</string>
       <string name="please_stop_broadcast_audio">Najskôr dokončite vysielanie miestneho zvuku</string>
       <string name="please_stop_listen_broadcast_audio">Dokončite počúvanie aktuálneho vysielania</string>
-      <string name="privacy_and_security">Ochrana osobných údajov &amp; bezpečnosť</string>
+      <string name="privacy_and_security">Ochrana osobných údajov a bezpečnosť</string>
       <string name="privacy_input_mode">Bezpečný vstup</string>
       <string name="privacy_input_mode_img_detail">Funguje s klávesnicami autorizovanými spoločnosťou Xiaomi</string>
       <string name="reboot_dialog_enable_angle_as_system_driver">Na zmenu systémového ovládača OpenGL ES je potrebný reštart</string>
@@ -7980,4 +7980,12 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
       <string name="wifi_validation">Overuje sa sieť…</string>                        
       <string name="eye_gaze_dialog_message">"Keď zapnete funkciu Rozpoznať pohľad, zariadenie sa nezablokuje, keď zistí, že sa pozeráte na obrazovku. Charakteristiky vašej tváre nebudú analyzované a informácie o vašej tvári nebudú byť uložené vo vašom zariadení alebo odovzdané do cloudu. Zapnúť teraz?“</string>
 <string name="eye_gaze_dialog_title">Bezpečnostné upozornenie</string>      
+<string name="emergency_settings_preference_title">Bezpečnosť a tieseň</string>
+<string name="privacy_header">Súkromie</string>
+<string name="privacy_dashboard_title">Súkromie</string>
+    <string name="volume_key_launch_camera">Otvoriť fotoaparát</string>
+    <string name="volume_key_launch_camera_and_take_photo">Zhotoviť snímku</string>
+    
+     <string name="otg_new_tip">Zapnite OTG, aby ste mohli svoje zariadenie pripojiť priamo k iným zariadeniam pomocou USB. Táto funkcia sa automaticky vypne po %d minútach nečinnosti.</string>
+ 
 </resources>

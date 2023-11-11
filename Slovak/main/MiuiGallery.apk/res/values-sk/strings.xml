@@ -3038,5 +3038,7 @@ Najlepšie zábery boli vybrané automaticky. Ďalšie fotografie môžete prida
       <string name="segment_save_success">Uložené do galérie</string>
       <string name="segment_send">Odoslať</string>
       <string name="segment_send_processing">Pripravuje sa odoslanie…</string>
-      <string name="text_segment">Výrez z fotografie</string>                 
+      <string name="text_segment">Výrez z fotografie</string>     
+      <string name="hdr_switch_show_title">Pro HDR displej</string>
+            <string name="hdr_switch_show_hint">Použite HDR na zobrazenie detailov vo svetle a tieni</string>
 </resources>

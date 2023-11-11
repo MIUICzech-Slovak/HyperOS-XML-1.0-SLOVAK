@@ -2192,5 +2192,9 @@ Ak na pripojenie používate hotspot, nastavte jeho pásmo AP na %s GHz v Nastav
       <string name="track_focus_mutex_hdr10plus_8k_setting_tips">"Zameranie sledovania pohybu nie je podporované pre videá HDR10+/8K/60FPS"</string>
       <string name="track_focus_mutex_hdr10plus_setting_tips">"Zameranie sledovania pohybu nie je podporované pre videá HDR10+/60FPS"</string>     
 <string name="ultra_pixel_owl_toast">Prebieha spracovanie fotografie…</string>
-      <string name="video_prompter_edit_format_not_supported">"Tento formát nie je podporovaný"</string>         
+      <string name="video_prompter_edit_format_not_supported">"Tento formát nie je podporovaný"</string>       
+      <string name="pref_true_colour_video_mode_title">Dolby Vision</string>  
+      <string name="pref_true_colour_video_mode_setting_dec">"Zachyťte realistické detaily, úžasné farby a pozoruhodný kontrast v režimoch Video a Pro. Zaostrenie sledovania pohybu a kódovanie H.264 nie sú podporované. Táto funkcia nemusí byť kompatibilná s niektorými aplikáciami tretích strán. "</string>
+          <string name="pref_cv_watermark_location_title">Poloha</string>
+              <string name="pref_cv_watermark_time_title">Čas</string>
 </resources>
