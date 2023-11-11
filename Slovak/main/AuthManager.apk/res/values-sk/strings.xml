@@ -570,7 +570,7 @@
       <string name="group_connect_device">Vzájomné prepojenie</string>
       <string name="group_file">Súbory a dokumenty</string>
       <string name="group_image_video">Fotografie a videá</string>
-      <string name="group_location">Umiestnenie</string>
+      <string name="group_location">Poloha</string>
       <string name="group_microphone">Mikrofón</string>
       <string name="group_nearby_device">Zariadenia v blízkosti</string>
       <string name="group_other">Iné povolenia</string>

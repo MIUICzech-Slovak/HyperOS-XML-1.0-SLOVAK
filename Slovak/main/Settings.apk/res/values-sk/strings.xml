@@ -7987,5 +7987,15 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="volume_key_launch_camera_and_take_photo">Zhotoviť snímku</string>
     
      <string name="otg_new_tip">Zapnite OTG, aby ste mohli svoje zariadenie pripojiť priamo k iným zariadeniam pomocou USB. Táto funkcia sa automaticky vypne po %d minútach nečinnosti.</string>
- 
+ <string name="mic_toggle_description">Pre aplikácie a služby. Ak je toto nastavenie vypnuté, údaje mikrofónu sa môžu stále zdieľať, keď zavoláte na tiesňové číslo.</string>
+     <string name="mic_toggle_title">Prístup k mikrofónu</string>
+     <string name="app_data_sharing_updates_summary">Skontrolujte aplikácie, ktoré zmenili spôsob zdieľania údajov o vašej polohe</string>
+     <string name="app_data_sharing_updates_title">Aktualizácie zdieľania údajov o polohe</string>
+     <string name="media_controls_lockscreen_description">Ak chcete rýchlo obnoviť prehrávanie, prehrávač médií zostane otvorený na uzamknutej obrazovke</string>
+     <string name="media_controls_lockscreen_title">Zobraziť médiá na uzamknutej obrazovke</string>
+     <string name="show_clip_access_notification">Zobraziť prístup do schránky</string>
+     <string name="show_clip_access_notification_summary">Zobraziť správu, keď aplikácie pristupujú k textu, obrázkom alebo inému obsahu, ktorý ste skopírovali</string>
+     <string name="runtime_permissions_summary_control_app_access">Ovládajte prístup aplikácií k svojim údajom</string>
+     <string name="runtime_permissions_summary_no_permissions_granted">Nie sú udelené žiadne povolenia</string>
+     <string name="runtime_permissions_summary_no_permissions_requested">Nepožadujú sa žiadne povolenia</string>
 </resources>
