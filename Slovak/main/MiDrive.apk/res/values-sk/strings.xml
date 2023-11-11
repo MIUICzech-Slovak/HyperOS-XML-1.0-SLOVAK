@@ -253,10 +253,10 @@
     <string name="member_menu_vipname_ultra">Ultra</string>
     <string name="micloud_space_applist_detail">Zálohy rozloženia plochy si môžete zobraziť na svojom mobilnom zariadení.</string>
     <string name="micloud_space_duokan_detail">„Otvorte Duokan na svojom telefóne a prejdite do Bookshelf &gt; Cloud storage, kde môžete spravovať úložný priestor.
-Uistite sa, že ako systémový účet MIUI používate aktuálny účet Mi."</string>
+Uistite sa, že ako systémový účet HyperOS používate aktuálny účet Mi."</string>
     <string name="micloud_space_duokan_title">Úložný priestor Duokan</string>
     <string name="micloud_space_soundrecorder_detail">"Otvorte na svojom mobilnom zariadení aplikáciu Záznamník a vyberte priečinok s položkami uloženými v cloude.
-Uistite sa, že ako systémový účet MIUI používate aktuálny účet Mi."</string>
+Uistite sa, že ako systémový účet HyperOS používate aktuálny účet Mi."</string>
     <string name="micloud_space_soundrecorder_title">Zvukové nahrávky</string>
     <string name="midnight">Noc</string>
     <string name="miuix_access_state_desc">Vybraté</string>

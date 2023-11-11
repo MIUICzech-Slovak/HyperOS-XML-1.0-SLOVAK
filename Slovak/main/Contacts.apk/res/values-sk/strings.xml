@@ -460,7 +460,7 @@ Karty kontaktu sú deaktivované"</string>
     <string name="dialog_delete_contact_content">MiCloud chce vymazať niektoré kontakty. Chcete ich vymazať?</string>
     <string name="dialog_delete_contact_title">Mazanie kontaktov</string>
     <string name="dialog_device_info_hardware_version">Verzia Hardware: %s</string>
-    <string name="dialog_device_info_miui_version">Verzia MIUI: %s</string>
+    <string name="dialog_device_info_miui_version">Verzia HyperOS: %s</string>
     <string name="dialog_device_info_title">Info o verzii</string>
     <string name="dialog_import">Importovať kontakty</string>
     <string name="dialog_import_export">Importovať/exportovať kontakty</string>
@@ -855,7 +855,7 @@ Chyba: \"%s\""</string>
     <string name="miprofile_request_notification_title_name">%1$s si chce s vami vymeniť kartu kontaktu</string>
     <string name="miprofile_save_alertdialog_message">Vaša karta bude automaticky odoslaná tomuto kontaktu.</string>
     <string name="miprofile_save_alertdialog_title">Karta kontaktu prijatá</string>
-    <string name="miprofile_switch_off_alertdialog_message">Nebude možné si vymeniť vašu kartu kontaktu s ostatnými MIUI užívateľmi. Vaše kontakty nebudú vidieť vaše profilové video.</string>
+    <string name="miprofile_switch_off_alertdialog_message">Nebude možné si vymeniť vašu kartu kontaktu s ostatnými HyperOS užívateľmi. Vaše kontakty nebudú vidieť vaše profilové video.</string>
     <string name="miprofile_switch_on_alertdialog_message">Vymeňte si karty kontaktu pre zobrazenie aktuálnej profilovej fotografie.</string>
     <string name="miprofile_switch_on_alertdialog_positive">Zapnúť</string>
     <string name="miprofile_switch_on_alertdialog_title">Aktualizácia profilovej fotografie</string>
@@ -1224,7 +1224,7 @@ Synchronizujte ich teraz."</string>
     <string name="remove_blacklist">Odstrániť z čiernej listiny</string>
     <string name="remove_blacklist_dialog_message">Odblokovať toto číslo?</string>
     <string name="remove_blacklist_dialog_title">Odblokovať toto číslo?</string>
-    <string name="remove_duplicate">"MIUI vám pomôže nájsť a zlúčiť duplicitné kontakty. Kontakty sa nezlúčia automaticky."</string>
+    <string name="remove_duplicate">"HyperOS vám pomôže nájsť a zlúčiť duplicitné kontakty. Kontakty sa nezlúčia automaticky."</string>
     <string name="report_inquiry_mms">Nahlásiť SMS</string>
     <string name="restore_app_btn_cancel">Zrušiť</string>
     <string name="restore_app_btn_restore">OK</string>

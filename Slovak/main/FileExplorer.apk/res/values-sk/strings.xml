@@ -44,7 +44,7 @@
     <string name="app_name_downloads">Stiahnuté</string>
     <string name="app_name_market">Obchod</string>
     <string name="app_name_midrop">MiDrop</string>
-    <string name="app_name_miui">MIUI</string>
+    <string name="app_name_miui">HyperOS</string>
     <string name="app_name_miuimusic">Hudba</string>
     <string name="app_name_miuiringtone">Zvonenie</string>
     <string name="app_name_miuiwallpaper">Tapety</string>
@@ -262,7 +262,7 @@ Skúste presunúť súbory zo zariadenia na Mi Drive."</string>
     <string name="entry_phone_storage_internal">Interné úložisko</string>
     <string name="entry_storage_cloned_app">Klonované apl.</string>
     <string name="entry_storage_usb">USB zariadenie</string>
-    <string name="error_contains_sharer_path">Nie je možné dešifrovať súbory v zložke /MIUI/Gallery/cloud/sharer. Presuňte súbory do iného priečinka a skúste to znova.</string>
+    <string name="error_contains_sharer_path">Nie je možné dešifrovať súbory v zložke /HyperOS/Gallery/cloud/sharer. Presuňte súbory do iného priečinka a skúste to znova.</string>
     <string name="error_create_dir">Nebolo možné vytvoriť zložku</string>
     <string name="error_create_file">Nebolo možné vytvoriť súbor</string>
     <string name="error_delete_failed">Nebolo možné vymazať súbor</string>
@@ -294,7 +294,7 @@ Skúste presunúť súbory zo zariadenia na Mi Drive."</string>
     <string name="failed_obtain_permissions">Nebolo možné získať povolenia</string>
     <string name="favorite_photo">Fotografia</string>
     <string name="favorite_ringtone">Vyzváňanie</string>
-    <string name="favorite_screen_cap">MIUI Screenshot</string>
+    <string name="favorite_screen_cap">HyperOS Screenshot</string>
     <string name="file_already_downlaoded">Súbor uložený do \"%1$s\"</string>
     <string name="file_info_canread">Čítanie:</string>
     <string name="file_info_canwrite">Zápis:</string>
@@ -636,7 +636,7 @@ Server je momentálne nedostupný, skúste to opäť neskôr
     <string name="never_notify_network_connect">Viac sa nepýtať</string>
     <string name="new_folder_name">Nová zložka</string>
     <string name="new_function">O súkromných zložkách</string>
-    <string name="new_function_info">"Súkromná zložka je nová funkcia MIUI.
+    <string name="new_function_info">"Súkromná zložka je nová funkcia HyperOS.
 Môžete zašifrovať vaše súbory
 a uložiť ich na bezpečnom mieste.
 

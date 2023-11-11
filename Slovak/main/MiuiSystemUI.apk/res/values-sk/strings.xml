@@ -768,7 +768,7 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
     <string name="experimental_validate_progress">Prihlasovanie...</string>
     <string name="experimental_validate_thanks">Ďakujeme!</string>
     <string name="experimental_validate_username">Meno</string>
-    <string name="experimental_validate_warning">Ďakujeme za pomoc vylepšenia MIUI!</string>
+    <string name="experimental_validate_warning">Ďakujeme za pomoc vylepšenia HyperOS!</string>
     <string name="ext_media_badremoval_notification_message">Odpojte USB úložisko pred odobraním, aby sa zabránilo poškodeniu dát.</string>
     <string name="ext_media_badremoval_notification_title">USB úložisko neočakávane odobrané</string>
     <string name="ext_media_checking_notification_message">Kontrolujem chyby.</string>
@@ -2289,7 +2289,7 @@ Máte tiež aktívne pripojenie k sieti VPN, ktorá môže sledovať vašu akti
     <string name="slider_text">Potiahnite displej nadol pre spustenie kamery</string>
     <string name="sliderpanel_description">Nástroje</string>
     <string name="small_window_guide_title">Plávajúce okná</string>
-    <string name="small_window_notification_text">Dotykom sa naučíte viac o tejto funkcii MIUI %d</string>
+    <string name="small_window_notification_text">Dotykom sa naučíte viac o tejto funkcii HyperOS %d</string>
     <string name="small_window_notification_title">Plávajúce okná</string>
     <string name="snooze_option_15_min">15 minút</string>
     <string name="snooze_option_1_hour">1 hodinu</string>

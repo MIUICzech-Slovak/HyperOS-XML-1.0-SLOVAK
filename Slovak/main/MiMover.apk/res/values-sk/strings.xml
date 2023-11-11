@@ -56,7 +56,7 @@
     <string name="cancel_moving_dialog_title">Zastaviť importovanie</string>
     <string name="cancel_transfer">Zrušiť</string>
     <string name="cannot_use_mi_huanji_button">Rozumiem</string>
-    <string name="cannot_use_mi_huanji_summary">Zdá sa, že systém MIUI momentálne zálohuje súbory. Pre spustenie prenosu cez Xiaomi Mover zastavte prebiehajúce zálohy alebo reštartujte vaše zariadenie.</string>
+    <string name="cannot_use_mi_huanji_summary">Zdá sa, že systém HyperOS momentálne zálohuje súbory. Pre spustenie prenosu cez Xiaomi Mover zastavte prebiehajúce zálohy alebo reštartujte vaše zariadenie.</string>
     <string name="cannot_use_mi_huanji_title">Prenos nie je možný</string>
     <string name="clear_old_task_failed">Nepodarilo sa odstrániť staré úlohy</string>
     <string name="close_cellular_summary">Vaše zariadenie momentálne využíva mobilné dáta z dôvodu systémových obmedzení. Vypnite mobilné dáta a znova sa pripojte k novému zariadeniu.</string>
@@ -87,7 +87,7 @@ Navštívte https://appleid.apple.com/#!&amp;page=signin pre vypnutie autentifik
 2. Ak sa hotspot nového zariadenia neobjaví v aplikácii Xiaomi Mover, otvorte nastavenia Wi-Fi a skontrolujte, či ju tam vidíte. Ak ju vidíte, neťukajte na ňu.
 3. Prejdite naspäť do aplikácie Xiaomi Mover a ťuknite na názov hotspotu."</string>
     <string name="connection_tips_other_title">Ak je vaše staré zariadenie Android telefón tretej strany:</string>
-    <string name="connection_tips_owner_message">Aplikácia Xiaomi Mover je predinštalovaná na všetkých zariadeniach pod systémom MIUI 11. Ak máte staršiu verziu systému MIUI, najnovšiu verziu aplikácie Xiaomi Mover si môžete stiahnuť v GetApps alebo použiť link: %1$s.</string>
+    <string name="connection_tips_owner_message">Aplikácia Xiaomi Mover je predinštalovaná na všetkých zariadeniach pod systémom HyperOS 11. Ak máte staršiu verziu systému HyperOS, najnovšiu verziu aplikácie Xiaomi Mover si môžete stiahnuť v GetApps alebo použiť link: %1$s.</string>
     <string name="connection_tips_owner_title">Ak je vaše staré zariadenie Xiaomi telefón:</string>
     <string name="contact_records_permission_desc">Na prenos histórie hovorov do iných zariadení</string>
     <string name="contacts">Kontakty</string>

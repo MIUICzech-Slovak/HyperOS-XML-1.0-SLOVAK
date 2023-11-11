@@ -404,29 +404,29 @@ Nemeňte alebo nepremenúvajte záložné súbory."</string>
     <string name="new_britem_other">Ostatné</string>
     <string name="new_britem_pic">Obrázky</string>
     <string name="new_britem_video">Videá</string>
-    <string name="new_confirm_enable_encrypt_content">MIUI spojí zašifrované zálohy s vašim Xiaomi účtom. Pre obnovenie dát sa budete musieť prihlásiť k svojmu Xiaomi účtu.</string>
+    <string name="new_confirm_enable_encrypt_content">HyperOS spojí zašifrované zálohy s vašim Xiaomi účtom. Pre obnovenie dát sa budete musieť prihlásiť k svojmu Xiaomi účtu.</string>
     <string name="new_confirm_enable_encrypt_title">Zašifrovať</string>
     <string name="new_local_button_backup">Zálohovať</string>
     <string name="new_local_button_restore">Obnoviť</string>
     <string name="new_local_click_to_jump">Zobraziť podrobné informácie</string>
     <string name="new_local_detail_description">"Poznámka:
 %1$d. Skopírujte zálohy do vášho PC pre prípad straty dát. %2$s.
-%3$d. Zálohy budú uložené v MIUI-Backup-AllBackup."</string>
+%3$d. Zálohy budú uložené v HyperOS-Backup-AllBackup."</string>
     <string name="new_local_tab_backup">Zálohovať</string>
     <string name="new_local_tab_restore">Obnoviť</string>
     <string name="new_low_storage_title">Nie je dostatok voľného miesta na úložisku</string>
     <string name="new_more_settings_label">Ďalšie nastavenia</string>
     <string name="new_pc_backup_content1">%1$d. Otvorte \"%2$s\".</string>
     <string name="new_pc_backup_content2">%d. Počkajte kým sa zálohujú všetky položky.</string>
-    <string name="new_pc_backup_content3">%d. Nájdite zálohu v MIUI-Backup-AllBackup.</string>
+    <string name="new_pc_backup_content3">%d. Nájdite zálohu v HyperOS-Backup-AllBackup.</string>
     <string name="new_pc_backup_content4">%d. Skopírujte ju do vášho PC.</string>
     <string name="new_pc_backup_restore_link">Mobilné zariadenie</string>
     <string name="new_pc_backup_summary1">Vyberte položky a stlačte \"Zálohovať\".</string>
     <string name="new_pc_backup_summary2">Pripojte vaše mobilné zariadenie k PC cez USB.</string>
-    <string name="new_pc_backup_summary4">Poznámka: Môžete tiež skopírovať vaše fotografie a videá z MIUI-DCIM.</string>
+    <string name="new_pc_backup_summary4">Poznámka: Môžete tiež skopírovať vaše fotografie a videá z HyperOS-DCIM.</string>
     <string name="new_pc_restore_content1">%d. Pripojte vaše mobilné zariadenie k PC cez USB.</string>
     <string name="new_pc_restore_content1_pad">%d. Pripojte vaše zariadenie k PC pomocou USB kábla.</string>
-    <string name="new_pc_restore_content2">%d. Skopírujte zálohu z vášho PC do MIUI-Backup-AllBackup.</string>
+    <string name="new_pc_restore_content2">%d. Skopírujte zálohu z vášho PC do HyperOS-Backup-AllBackup.</string>
     <string name="new_pc_restore_content3">%1$d. Otvorte \"%2$s\" a vyberte položky ktoré chcete obnoviť.</string>
     <string name="new_pc_title">Skopírovať zálohy</string>
     <string name="new_select_file">Zvuk, videá, a súbory</string>
@@ -921,7 +921,7 @@ Veľkosť Delta aktualizácie: %2$s"</string>
     
 <string name="new_local_detail_description_global">"Poznámka:
 %1$d. Skopírujte zálohy do počítača, aby ste predišli strate údajov. %2$s.
-%3$d. Zálohy sa budú ukladať do MIUI-Backup-AllBackup.
+%3$d. Zálohy sa budú ukladať do HyperOS-Backup-AllBackup.
 %4$d. Niektoré aplikácie nemusia podporovať zálohovanie."</string>
       <string name="new_usb_unwritable_storage_content">"Položky sa nepodarilo uložiť na externé úložné zariadenie. Skúste ho znova pripojiť."</string>
       <string name="new_usb_unwritable_storage_title">"Nepodarilo sa uložiť"</string>

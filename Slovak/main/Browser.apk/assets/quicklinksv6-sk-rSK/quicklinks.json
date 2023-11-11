@@ -13,13 +13,13 @@
 	    "position": 0
         },
         {
-            "title":"Zoznam zmien MIUI",
+            "title":"Zoznam zmien HyperOS",
             "url":"http://www.HyperOS.sk/miui-changelog",
             "thumbnail":"change-cz-sk.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-	    "displayName": "Zoznam zmien MIUI",
+	    "displayName": "Zoznam zmien HyperOS",
 	    "isDelete": true,
 	    "movable": true,
 	    "position": 2
@@ -37,13 +37,13 @@
 	    "position": 3
         },
         {
-            "title":"MIUI CZECH&SLOVAK",
+            "title":"HyperOS CZECH&SLOVAK",
             "url":"http://HyperOS.sk/",
             "thumbnail":"miui_cz-sk.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-	    "displayName": "MIUI CZECH&SLOVAK",
+	    "displayName": "HyperOS CZECH&SLOVAK",
 	    "isDelete": true,
 	    "movable": true,
 	    "position": 4
@@ -61,13 +61,13 @@
 	    "position": 5
         },
         {
-            "title":"Google+ MIUI CZECH&SLOVAK",
+            "title":"Google+ HyperOS CZECH&SLOVAK",
             "url":"https://plus.google.com/b/112639661139919214988/112639661139919214988/posts/",
             "thumbnail":"g_plus.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-	    "displayName": "Google+ MIUI CZECH&SLOVAK",
+	    "displayName": "Google+ HyperOS CZECH&SLOVAK",
 	    "isDelete": true,
 	    "movable": true,
 	    "position": 6
@@ -85,13 +85,13 @@
 	    "position": 7
         },
         {
-            "title":"Twitter @MIUICzech",
-            "url":"https://twitter.com/MIUICzech/",
+            "title":"Twitter @HyperOSCzech",
+            "url":"https://twitter.com/HyperOSCzech/",
             "thumbnail":"thumb_twitter-cz.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-	    "displayName": "Twitter @MIUICzech",
+	    "displayName": "Twitter @HyperOSCzech",
 	    "isDelete": true,
 	    "movable": true,
 	    "position": 8
@@ -121,13 +121,13 @@
 	    "position": 10
         },
         {
-            "title":"Facebook MIUI CZECH&SLOVAK",
+            "title":"Facebook HyperOS CZECH&SLOVAK",
             "url":"https://www.facebook.com/MiuiCzechSlovakXiaomi/",
             "thumbnail":"face.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-	    "displayName": "Facebook MIUI CZECH&SLOVAK",
+	    "displayName": "Facebook HyperOS CZECH&SLOVAK",
 	    "isDelete": true,
 	    "movable": true,
 	    "position": 11
@@ -159,13 +159,13 @@
 	    "position": 1
         },
         {
-            "title":"Zoznam zmien MIUI",
+            "title":"Zoznam zmien HyperOS",
             "url":"http://www.HyperOS.sk/miui-changelog",
             "thumbnail":"change-cz-sk.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-	    "displayName": "Zoznam zmien MIUI",
+	    "displayName": "Zoznam zmien HyperOS",
 	    "isDelete": true,
 	    "movable": true,
 	    "position": 2
@@ -183,13 +183,13 @@
 	    "position": 3
         },
         {
-            "title":"MIUI CZECH&SLOVAK",
+            "title":"HyperOS CZECH&SLOVAK",
             "url":"http://HyperOS.sk/",
             "thumbnail":"miui_cz-sk.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-	    "displayName": "MIUI CZECH&SLOVAK",
+	    "displayName": "HyperOS CZECH&SLOVAK",
 	    "isDelete": true,
 	    "movable": true,
 	    "position": 4
@@ -207,13 +207,13 @@
 	    "position": 5
         },
         {
-            "title":"Google+ MIUI CZECH&SLOVAK",
+            "title":"Google+ HyperOS CZECH&SLOVAK",
             "url":"https://plus.google.com/b/112639661139919214988/112639661139919214988/posts/",
             "thumbnail":"g_plus.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-	    "displayName": "Google+ MIUI CZECH&SLOVAK",
+	    "displayName": "Google+ HyperOS CZECH&SLOVAK",
 	    "isDelete": true,
 	    "movable": true,
 	    "position": 6
@@ -231,13 +231,13 @@
 	    "position": 7
         },
         {
-            "title":"Twitter @MIUICzech",
-            "url":"https://twitter.com/MIUICzech/",
+            "title":"Twitter @HyperOSCzech",
+            "url":"https://twitter.com/HyperOSCzech/",
             "thumbnail":"thumb_twitter-cz.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-	    "displayName": "Twitter @MIUICzech",
+	    "displayName": "Twitter @HyperOSCzech",
 	    "isDelete": true,
 	    "movable": true,
 	    "position": 8
@@ -267,13 +267,13 @@
 	    "position": 10
         },
         {
-            "title":"Facebook MIUI CZECH&SLOVAK",
+            "title":"Facebook HyperOS CZECH&SLOVAK",
             "url":"https://www.facebook.com/MiuiCzechSlovakXiaomi/",
             "thumbnail":"face.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-	    "displayName": "Facebook MIUI CZECH&SLOVAK",
+	    "displayName": "Facebook HyperOS CZECH&SLOVAK",
 	    "isDelete": true,
 	    "movable": true,
 	    "position": 11

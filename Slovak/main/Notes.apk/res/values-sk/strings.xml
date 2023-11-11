@@ -76,7 +76,7 @@
     <string name="date_time_picker_has_not_set_alarm">Budík nie je nastavený</string>
     <string name="date_time_picker_has_set_alarm">Budík je nastavený</string>
     <string name="db_downgrade_clear_button">Vymažte dáta aplikácie</string>
-    <string name="db_downgrade_clear_date_reminder">Zmena na inú verziu MIUI vyžaduje aj vymazanie dát aplikácie Poznámky. Predtým sa uistite, že máte povolené zálohovanie na MiCloud.</string>
+    <string name="db_downgrade_clear_date_reminder">Zmena na inú verziu HyperOS vyžaduje aj vymazanie dát aplikácie Poznámky. Predtým sa uistite, že máte povolené zálohovanie na MiCloud.</string>
     <string name="default_folder_name">Poznámky</string>
     <string name="delete_folder_dialog_tile">Vymazať zložku</string>
     <string name="dialog_privacy_revoke_tips">Po odmietnutí autorizácie prestane táto aplikácia zhromažďovať dáta a všetky dáta budú vymazané zo servera.</string>
@@ -473,7 +473,7 @@
     <string name="sns_desc_image_preview">Náhľad správy</string>
     <string name="sns_desc_preview_wechat">WeChat message preview</string>
     <string name="sns_desc_preview_weibo">Weibo message preview</string>
-    <string name="sns_footer_text">Vytvorené s MIUI V6</string>
+    <string name="sns_footer_text">Vytvorené s HyperOS V6</string>
     <string name="sns_hint_content">Na čo myslíte?</string>
     <string name="sns_hint_title">Predmet (Voliteľné)</string>
     <string name="sns_message_disconnect">Nie je možné sa pripojiť k sieti. Skontrolujte vaše nastavenia.</string>

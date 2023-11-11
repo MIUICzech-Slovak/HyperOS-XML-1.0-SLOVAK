@@ -841,7 +841,7 @@ Využité %s | Ostáva %s"</string>
     <string name="month_september_shortest">S</string>
     <string name="more_activity_in_upgrade_space">Viac na &lt;a href="http://i.mi.com"&gt;http://i.mi.com&lt;/a&gt;</string>
     <string name="mx_dspt">Cloud správy</string>
-    <string name="mx_dspt_provision">"Cloudové správy môžete posielať zdarma medzi užívateľmi MIUI.
+    <string name="mx_dspt_provision">"Cloudové správy môžete posielať zdarma medzi užívateľmi HyperOS.
 
 Túto službu môžete aktivovať alebo zakázať v Nastaveniach."</string>
     <string name="mx_dspt_provision_privacy">"Táto služba vyžaduje vaše telefónne číslo. Bude odoslaná medzinárodná SMS pre aktiváciu.
@@ -1131,8 +1131,8 @@ Prečítajte si a odsúhlaste naše Podmienky používania a Ochranu súkromia.
     <string name="sync_dspt_entrance_provision">Synchr. vaše fotografie, kontakty, SMS a históriu hovorov. Pre prístup k zálohovaným údajom navštívte %s.</string>
     <string name="sync_dspt_entrance_provision_2">Viac</string>
     <string name="sync_dspt_entrance_provision_confirm_close">Nepoužívať</string>
-    <string name="sync_dspt_entrance_provision_confirm_content">Aplikácie MIUI využívajú MiCloud pre zálohu fotografií, kontaktov, poznámok a oveľa viac. MiCloud je dostupný zdarma pre všetkých.</string>
-    <string name="sync_dspt_entrance_provision_confirm_content_v2">MIUI aplikácie potrebujú Xiaomi Cloud pre zálohovanie vašich fotografií, SMS, poznámok a viac.</string>
+    <string name="sync_dspt_entrance_provision_confirm_content">Aplikácie HyperOS využívajú MiCloud pre zálohu fotografií, kontaktov, poznámok a oveľa viac. MiCloud je dostupný zdarma pre všetkých.</string>
+    <string name="sync_dspt_entrance_provision_confirm_content_v2">HyperOS aplikácie potrebujú Xiaomi Cloud pre zálohovanie vašich fotografií, SMS, poznámok a viac.</string>
     <string name="sync_dspt_entrance_provision_confirm_open">Použiť MiCloud</string>
     <string name="sync_dspt_entrance_provision_confirm_title">Nepoužívať MiCloud?</string>
     <string name="sync_dspt_entrance_provision_network">Táto aplikácia vyžaduje pripojenie k sieti pre jej správne fungovanie.</string>

@@ -86,13 +86,13 @@ Skúste to znova"</string>
 *  Apl, Rozloženie plochy a tapety 
 *  Budíky, hodiny a nastavenie času 
 *  Nastavenie upozornení 
-*  Nastavenie systému a MIUI 
+*  Nastavenie systému a HyperOS 
 Poznámka: Nastavenie doinštalovaných aplikácií nebude zálohované na MiCloud."</string>
     <string name="cloud_back_up_detail_discription_china">"Tieto položky budú zálohované na Xiaomi Cloud keď sa pripojíte na Wi-Fi: 
 *  Aplikácie, Rozloženie plochy, a tapety 
 *  Budík, hodiny, a nastavenie času 
 *  Nastavenie upozornení 
-*  MIUI a systémové nastavenia 
+*  HyperOS a systémové nastavenia 
 Poznámka: Dáta doinštalovaných aplikácií nebudú zálohované na Xiaomi Cloud."</string>
     <string name="cloud_back_up_frequence_choice_title">Plánovanie zálohy</string>
     <string name="cloud_back_up_frequence_long">Každých %d dní</string>
@@ -356,7 +356,7 @@ Pošlite tento kód technikovi."</string>
     <string name="query_restore_summary">Našla sa záloha v MiCloud pre toto zariadenie. Obnoviť nastavenie plochy a systému alebo použiť toto zariadenie ako nové a vymazať zálohu v MiCloud?</string>
     <string name="recover_from_micloud">Obnoviť pomocou MiCloud</string>
     <string name="recover_home_settings">Obnoviť nastavenie plochy</string>
-    <string name="recover_miui_settings">Obnoviť nastavenie MIUI</string>
+    <string name="recover_miui_settings">Obnoviť nastavenie HyperOS</string>
     <string name="recover_settings_description">Nevypínajte vaše zariadenie</string>
     <string name="recovering">Obnovenie %s</string>
     <string name="remove_again">Slôste to znova</string>
@@ -494,7 +494,7 @@ Pošlite tento kód technikovi."</string>
     <string name="tuesday_shortest">U</string>
     <string name="unknown_error_info">Neznáma chyba</string>
     <string name="unselected">Nevybrané</string>
-    <string name="unsupported_home">Aktualizujte na najnovšiu verziu MIUI.</string>
+    <string name="unsupported_home">Aktualizujte na najnovšiu verziu HyperOS.</string>
     <string name="wait_icon_download">Sťahovanie ikony aplikácie</string>
     <string name="wednesday">Streda</string>
     <string name="wednesday_short">Str</string>

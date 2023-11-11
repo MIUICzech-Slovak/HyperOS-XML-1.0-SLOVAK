@@ -364,7 +364,7 @@ Aby ste plne porozumeli svojim právam ako užívateľa a tiež spôsobom, ktor�
     <string name="default_opening_attchemnt_mode">Otvoriť prílohy pomocou predvolených aplikácií</string>
     <string name="default_pop3">POP3</string>
     <string name="default_setup">PREDVOLENÉ NASTAVENIA</string>
-    <string name="default_signature">Odoslané z MIUI</string>
+    <string name="default_signature">Odoslané z HyperOS</string>
     <string name="default_signature_2">Odoslané z môjho telefónu %s</string>
     <string name="default_signature_pad">Odoslané z môjho Xiaomi Padu</string>
     <string name="default_signature_phone">Odoslané z môjho zariadenia Mi</string>

@@ -261,7 +261,7 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
     <string name="install_failed_invalid_apk">Zdá sa, že je balík poškodený.</string>
     <string name="install_failed_msg">Aplikáciu %1$s sa do vášho telefónu nepodarilo nainštalovať.</string>
     <string name="install_failed_older_sdk">Balík funguje iba v novších verziách systému Android.</string>
-    <string name="install_failed_system_incompatible">Táto aplikácia nie je kompatibilná s MIUI.</string>
+    <string name="install_failed_system_incompatible">Táto aplikácia nie je kompatibilná s HyperOS.</string>
     <string name="install_failed_verify_failed">Balík neprešiel overením a nemôže byť nainštalovaný.</string>
     <string name="install_failed_verify_timeout">Pri verifikácii tohto balíka vypršal časový limit. Skúste ho nainštalovať neskôr.</string>
     <string name="install_from_appstore_hint">Odporúčame vám nainštalovať si aplikáciu z Google Play alebo HyperOS.sk</string>
@@ -345,7 +345,7 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
     <string name="miui_failed_insufficient_storage">Nedostatočná kapacita úložiska</string>
     <string name="miui_failed_invalid_apk">Chyba inštalačného súboru</string>
     <string name="miui_failed_invalid_uri">Nesprávna cesta inštalácie</string>
-    <string name="miui_failed_miui_system_incompatible">Inštalačný súbor nie je kompatibilný s MIUI</string>
+    <string name="miui_failed_miui_system_incompatible">Inštalačný súbor nie je kompatibilný s HyperOS</string>
     <string name="miui_failed_newer_sdk">Verzia SDK nie je podporovaná</string>
     <string name="miui_failed_older_sdk">Verzia SDK je príliš stará</string>
     <string name="miui_failed_other">Ostatné</string>
@@ -421,7 +421,7 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
     <string name="perm_privacy_app_installed">Inštalácia úspešná!</string>
     <string name="perm_privacy_app_launch">Spustiť</string>
     <string name="perm_privacy_app_trust">Verím tejto aplikácii</string>
-    <string name="perm_privacy_app_trust_summary">MIUI nebude kontrolovať túto aplikáciu</string>
+    <string name="perm_privacy_app_trust_summary">HyperOS nebude kontrolovať túto aplikáciu</string>
     <string name="perm_sysopt_boost_auto_start">Automatické spustenie</string>
     <string name="perm_sysopt_boost_auto_start_summary">Aplikácia sa spustí automaticky!</string>
     <string name="permdesc_togglePermissions">Allows the holder to launch the UI for toggling app permissions. Should never be needed for normal apps.</string>
@@ -517,7 +517,7 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
     <string name="toast_network_eror">Nie je možné pripojiť sa k sieti</string>
     <string name="track_frame_time">Profile GPU rendering</string>
     <string name="transition_animation_scale_title">Transition animation scale</string>
-    <string name="trust_switch_dialog_msg">"MIUI si nebude pýtať potvrdenie operácií tejto aplikácie ktoré môžu ohroziť Vašu bezpečnosť. \nVeríte tejto aplikácii?"</string>
+    <string name="trust_switch_dialog_msg">"HyperOS si nebude pýtať potvrdenie operácií tejto aplikácie ktoré môžu ohroziť Vašu bezpečnosť. \nVeríte tejto aplikácii?"</string>
     <string name="tts_default_lang_summary">Sets the language-specific voice for the spoken text</string>
     <string name="tts_default_lang_title">Language</string>
     <string name="tts_default_pitch_summary">Affects the tone of the synthesized speech</string>

@@ -182,7 +182,7 @@
     <string name="share_message">Zdielaný súbor %1$s</string>
     <string name="share_msg_model">"Zdieľam s vami súbory. 
 Odkaz na stiahnutie: %1$s"</string>
-    <string name="share_text">MIUIv6 podporuje prenos súborov bez potreby mobilných dát. Užívatelia ktorí nemajú MIUIv6 si musia nainštalovať: %1$s</string>
+    <string name="share_text">HyperOSv6 podporuje prenos súborov bez potreby mobilných dát. Užívatelia ktorí nemajú HyperOSv6 si musia nainštalovať: %1$s</string>
     <string name="shortmessage">Krátka správa</string>
     <string name="start">Štart</string>
     <string name="summary_step_one">Odosielajte obrázky, hudbu, kontakty a ostatné súbory</string>
@@ -192,7 +192,7 @@ Odkaz na stiahnutie: %1$s"</string>
     <string name="title_selectfile_num">Vybraných: %s</string>
     <string name="title_step_one">Prenos súborov bez použitia mobilných dát</string>
     <string name="title_step_three">Nekonečné zdieľanie</string>
-    <string name="title_step_two">Užívatelia bez MIUI môžu využiť AnyShare na prenos súborov medzi rôznymi systémami</string>
+    <string name="title_step_two">Užívatelia bez HyperOS môžu využiť AnyShare na prenos súborov medzi rôznymi systémami</string>
     <string name="trans_complete">Prenos dokončený!</string>
     <string name="trans_failed">Prenos zlyhal!</string>
     <string name="trans_paused">Prenos pozastavený</string>

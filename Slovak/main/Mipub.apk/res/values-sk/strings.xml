@@ -117,7 +117,7 @@
     <string name="mx_auto_resend_sms">Odoslať ako SMS</string>
     <string name="mx_auto_resend_sms_summary">Odoslať ako SMS ak MiSprávy nie sú dostupné. Bude spoplatnené vaším operátorom.</string>
     <string name="mx_current_status">Stav: Online</string>
-    <string name="mx_dspt">Odoslať správu cez internet medzi používateľmi MIUI a odoslať cez operátora ak zlyhá.</string>
+    <string name="mx_dspt">Odoslať správu cez internet medzi používateľmi HyperOS a odoslať cez operátora ak zlyhá.</string>
     <string name="mx_enable">MiSprávy</string>
     <string name="mx_msg">MiSprávy</string>
     <string name="mx_on_sim_1">MiSprávy SIM 1</string>
@@ -155,7 +155,7 @@
     <string name="pref_summary_delivery_reports">Požadovať oznámenie o doručení správy</string>
     <string name="pref_summary_hide_festival">Skryť kartu odporúčaní pre iný ako čínsky jazyk</string>
     <string name="pref_summary_manage_sim_messages">Spravovanie správ uložených na SIM karte</string>
-    <string name="pref_summary_mx_feedback">"Pomôžte zlepšiť MIUI! 
+    <string name="pref_summary_mx_feedback">"Pomôžte zlepšiť HyperOS! 
 Nahláste chyby a odošlite Váš názor priamo do Mi."</string>
     <string name="pref_summary_notification_body_enabled">Zobraziť správu na zamykacej obrazovke a v notif. lište</string>
     <string name="pref_summary_show_recent_contacts">Zobraziť zoznam častých kontaktov počas písania správy</string>

@@ -31,7 +31,7 @@
     <string name="auto_start_warning_deny">Odmietnuť</string>
     <string name="auto_start_warning_title">Povoliť %s spúšťať sa automaticky?</string>
     <string name="autofill">Auto. vyplniť</string>
-    <string name="autofill_save_message">Chcete povoliť MIUI ukladať vaše heslá?</string>
+    <string name="autofill_save_message">Chcete povoliť HyperOS ukladať vaše heslá?</string>
     <string name="autofill_save_ok">Povoliť</string>
     <string name="autofill_save_sub_message">Budete môcť spravovať uložené heslá v Nastavenia - Ďalšie nastavenia - Súkromie - Spravovať heslá.</string>
     <string name="autofill_save_title">Ukladať heslá automaticky</string>

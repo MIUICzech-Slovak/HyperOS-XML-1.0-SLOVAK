@@ -51,7 +51,7 @@
     <string name="err_type_suggestion">Návrhy</string>
     <string name="err_type_system">Systém</string>
     <string name="err_type_system_summary">Pamäť, výkon, atď.</string>
-    <string name="err_type_systemapp">MIUI apl.</string>
+    <string name="err_type_systemapp">HyperOS apl.</string>
     <string name="err_type_translate">Jazyk</string>
     <string name="err_type_wifi">Wi-Fi</string>
     <string name="err_type_xiaomi_family">Xiaomi Family</string>
@@ -193,7 +193,7 @@
     <string name="reply">Odpoveď</string>
     <string name="reply_failed">Odpoveď zlyhala</string>
     <string name="reply_successful">Odpovedané</string>
-    <string name="report_miui">Nahlásiť MIUI</string>
+    <string name="report_miui">Nahlásiť HyperOS</string>
     <string name="request_empty_data">Žiadne údaje</string>
     <string name="save_pic">Uložiť</string>
     <string name="save_pic_fail">Nebolo možné uložiť obrázok, skontrolujte vašu SD kartu</string>
@@ -209,7 +209,7 @@
     <string name="submit_dialog_title">Odoslať hlásenie</string>
     <string name="submit_feedback_info_failed">Nebolo možné odoslať hlásenie</string>
     <string name="suggestion_description">Napíšte svoj návrh na novú funkciu (v angličtine)...</string>
-    <string name="system_app_select">MIUI apl.</string>
+    <string name="system_app_select">HyperOS apl.</string>
     <string name="systemui">Roletka</string>
     <string name="tab_title_chat">FAQ</string>
     <string name="tab_title_my_reports">Moje hlásenia</string>
@@ -221,8 +221,8 @@
     <string name="title_frequent_question_feedback_main">FAQ</string>
     <string name="title_mi_family">Xiaomi Home v blízkosti</string>
     <string name="title_nonsystem_app">Iné apl.</string>
-    <string name="title_same_question_feedback_main">Podobné chyby na MIUI fóre</string>
-    <string name="title_system_app">MIUI apl.</string>
+    <string name="title_same_question_feedback_main">Podobné chyby na HyperOS fóre</string>
+    <string name="title_system_app">HyperOS apl.</string>
     <string name="toast_description_required">Popis je povinný!</string>
     <string name="toast_feedback_collect_store">Vytváranie záznamu...</string>
     <string name="toast_feedback_network_unavailable">Nie je možné sa pripojiť k sieti</string>

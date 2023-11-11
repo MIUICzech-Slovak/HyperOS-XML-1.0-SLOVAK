@@ -426,7 +426,7 @@ Prípadne môžete vypnúť zjednodušený režim a skúsiť to znova."</string>
     <string name="install_failed_invalid_apk">Aplikácia sa nenainštalovala, pretože je balík zrejme neplatný.</string>
     <string name="install_failed_msg">Aplikáciu %1$s sa do vášho telefónu nepodarilo nainštalovať.</string>
     <string name="install_failed_msg_tablet">%1$s nemôže byť nainštalovaná do tohto zariadenia.</string>
-    <string name="install_failed_system_incompatible">Táto aplikácia nie je kompatibilná s MIUI</string>
+    <string name="install_failed_system_incompatible">Táto aplikácia nie je kompatibilná s HyperOS</string>
     <string name="install_finished_notification_summary">Vyčistiť</string>
     <string name="install_finished_notification_title">%1$s dokončená inštalácia. Vyčistite %2$s</string>
     <string name="install_from_appstore_hint">Odporúčame vám nainštalovať aplikáciu z Google Play</string>
@@ -533,7 +533,7 @@ Prípadne môžete vypnúť zjednodušený režim a skúsiť to znova."</string>
     <string name="miui_failed_invalid_uri">Nesprávna cesta inštalácie</string>
     <string name="miui_failed_market_code_denied">Požiadavka bola zamietnutá</string>
     <string name="miui_failed_market_code_download_failed">Nebolo možné stiahnuť</string>
-    <string name="miui_failed_miui_system_incompatible">Inštalačný súbor nie je kompatibilný s MIUI</string>
+    <string name="miui_failed_miui_system_incompatible">Inštalačný súbor nie je kompatibilný s HyperOS</string>
     <string name="miui_failed_newer_sdk">"SDK verzia nie je podporovaná</string>
     <string name="miui_failed_older_sdk">SDK verzia je príliš stará</string>
     <string name="miui_failed_other">Ostatné</string>

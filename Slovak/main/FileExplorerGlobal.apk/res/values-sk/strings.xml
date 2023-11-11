@@ -33,7 +33,7 @@
     <string name="app_name_downloads">Stiahnuté súbory</string>
     <string name="app_name_market">Obchod</string>
     <string name="app_name_midrop">Xiaomi Drop</string>
-    <string name="app_name_miui">MIUI</string>
+    <string name="app_name_miui">HyperOS</string>
     <string name="app_name_miuimusic">Hudba</string>
     <string name="app_name_miuiringtone">Zvonenia</string>
     <string name="app_name_miuiwallpaper">Tapety</string>
@@ -149,7 +149,7 @@
     <string name="encrypt_success_first_five">Zašifrovaný a skrytý súbor. Skryté súbory môžete zobraziť potiahnutím na úvodnej stránke v aplikácii Správca súborov nadol.</string>
     <string name="encrypt_success_tips">Šifrovaný a skrytý súbor. Otvorte postranné menu na úvodnej stránke a klepnite \"Skryté súbory\" pre zobrazenie všetkých skrytých súborov.</string>
     <string name="encrypting">Šifrovanie…</string>
-    <string name="error_contains_sharer_path">Nie je možné dešifrovať súbory v zložke /MIUI/Gallery/cloud/sharer. Presuňte súbory do iného priečinka a skúste to znova.</string>
+    <string name="error_contains_sharer_path">Nie je možné dešifrovať súbory v zložke /HyperOS/Gallery/cloud/sharer. Presuňte súbory do iného priečinka a skúste to znova.</string>
     <string name="error_create_dir">Nepodarilo sa vytvoriť zložku</string>
     <string name="error_create_file">Nepodarilo sa vytvoriť súbor</string>
     <string name="error_delete_failed">Nepodarilo sa vymazať súbor</string>

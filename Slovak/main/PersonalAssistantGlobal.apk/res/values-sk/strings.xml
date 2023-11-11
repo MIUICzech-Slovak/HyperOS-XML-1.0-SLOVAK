@@ -291,7 +291,7 @@
     <string name="uber_trip">Zavolať taxík</string>
     <string name="uber_x">UberX</string>
     <string name="upgrade_being">Aktualizuje sa…</string>
-    <string name="upgrade_fail_message">Nepodarilo sa aktualizovať. Uistite sa, že používate najnovšiu verziu MIUI.</string>
+    <string name="upgrade_fail_message">Nepodarilo sa aktualizovať. Uistite sa, že používate najnovšiu verziu HyperOS.</string>
     <string name="upgrade_find">Dostupná aktualizácia</string>
     <string name="upgrade_later">Aktualizovať neskôr</string>
     <string name="upgrade_log_default">"1. Zlepšená výkonnosť.

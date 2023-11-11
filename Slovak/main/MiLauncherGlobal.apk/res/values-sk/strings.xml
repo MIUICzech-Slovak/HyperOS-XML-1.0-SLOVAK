@@ -206,7 +206,7 @@
     <string name="gadget_photo_label">Obrázok</string>
     <string name="gadget_power_clear_button_label">Hĺbkové čístenie</string>
     <string name="gadget_search_label">Vyhľadať</string>
-    <string name="gadget_weather_app_not_installed">Dotykom stiahnite aplikáciu Počasia MIUI</string>
+    <string name="gadget_weather_app_not_installed">Dotykom stiahnite aplikáciu Počasia HyperOS</string>
     <string name="gadget_weather_aqi_title">Kvalita ovzdušia:</string>
     <string name="gadget_weather_download_message">Je potrebné stiahnuť obsah aplikácie: %1$s (%2$s). Po dokončení sťahovania reštartujte aplikáciu.</string>
     <string name="gadget_weather_download_start">Stiahnuť</string>
@@ -325,7 +325,7 @@
     <string name="menu_trans_effect">Efekty prechodu</string>
     <string name="menu_wallpaper">Tapeta</string>
     <string name="menu_workspace_preview">Prehľady Domovskej obrazovky</string>
-    <string name="mi_wallpaper">MIUI Témy</string>
+    <string name="mi_wallpaper">HyperOS Témy</string>
     <string name="miui_screen_config_title">Nastavenia Domovskej obrazovky</string>
     <string name="mtzgadget_missing_text">Widget nie je dostupný</string>
     <string name="multi_selecting_tips">Pre vybratie aplikácie, potiahnite jej ikonu a pustite ju sem.</string>
@@ -660,7 +660,7 @@
     <string name="pa_uber_trip">Zavolať taxík</string>
     <string name="pa_uber_x">UberX</string>
     <string name="pa_upgrade_being">Aktualizácia…</string>
-    <string name="pa_upgrade_fail_message">Nepodarilo sa aktualizovať. Uistite sa, že používate najnovšiu verziu MIUI.</string>
+    <string name="pa_upgrade_fail_message">Nepodarilo sa aktualizovať. Uistite sa, že používate najnovšiu verziu HyperOS.</string>
     <string name="pa_upgrade_find">Dostupná aktualizácia</string>
     <string name="pa_upgrade_later">Aktualizovať neskôr</string>
     <string name="pa_upgrade_log_default">"1. Zlepšená výkonnosť.
@@ -699,7 +699,7 @@
     <string name="pref_icon_shadow_summary">Zobrazovať tiene ikon a reflexné efekty v riadku Obľúbených.</string>
     <string name="pref_icon_shadow_title">Pridať tiene</string>
     <string name="pref_keep_in_memory_summary">Ponechať Launcher spustený pri nízkej pamäti.</string>
-    <string name="pref_keep_in_memory_title">Ponechať MIUI v pamäti</string>
+    <string name="pref_keep_in_memory_title">Ponechať HyperOS v pamäti</string>
     <string name="pref_keep_layout_summary">Zmena rozloženia Domovskej obrazovky neovplyvní pozíciu aplikácií voči sebe navzájom.</string>
     <string name="pref_keep_layout_title">Uzamknúť rozloženie aplikácií</string>
     <string name="pref_render_in_truecolor_summary">Vypnutie tejto funkcie vylepší výkon vykreslenia.</string>

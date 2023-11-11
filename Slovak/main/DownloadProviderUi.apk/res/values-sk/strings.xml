@@ -21,7 +21,7 @@
     <string name="auth_fail">Nebolo možné autorizovať</string>
     <string name="bind_xunlei_account">Pripojiť xunlei účet &gt;</string>
     <string name="bt_download">Stiahnuť</string>
-    <string name="bt_xunlei_open_info">Naozaj chcete stiahnuť tento súbor do vášho zariadenia? Odporúčame sťahovať cez vstavaný MIUI Prehliadač.</string>
+    <string name="bt_xunlei_open_info">Naozaj chcete stiahnuť tento súbor do vášho zariadenia? Odporúčame sťahovať cez vstavaný HyperOS Prehliadač.</string>
     <string name="button_sort_by_date">Zoradiť podľa dátumu</string>
     <string name="button_sort_by_size">Zoradiť podľa veľkosti</string>
     <string name="cancel">Zrušiť</string>
@@ -92,7 +92,7 @@
     <string name="download_list_get_hightspeed_flow_pay_ok">Platba dokončená.</string>
     <string name="download_list_get_hightspeed_flow_sucess_head">Vytvorená Xunlei trial relácia</string>
     <string name="download_list_get_hightspeed_flow_sucess_tail">Užite si rýchlejšie sťahovanie vďaka Xunlei</string>
-    <string name="download_list_intoAuth">Prístup k autorizácií MIUI</string>
+    <string name="download_list_intoAuth">Prístup k autorizácií HyperOS</string>
     <string name="download_list_intoAuthAlert">Čakajte prosím</string>
     <string name="download_list_open_xl_cancel">Zrušiť</string>
     <string name="download_list_open_xl_message">Prístup k Xunlei sťahovaniu, neobmedzenému sťahovanie vysokou rýchlosťou.</string>
@@ -399,7 +399,7 @@ Táto funkcia nie je mimo Čínu odporúčaná"</string>
     <string name="xunlei_gaosu">Xunlei Highspeed service</string>
     <string name="xunlei_member_annual_fee">Xunlei member for one year(platinum)</string>
     <string name="xunlei_member_one_month">Xunlei member for one month(platinum)</string>
-    <string name="xunlei_open_info">Stiahnuť tento súbor cez MIUI správcu sťahovania?</string>
+    <string name="xunlei_open_info">Stiahnuť tento súbor cez HyperOS správcu sťahovania?</string>
     <string name="xunlei_speed_service">Xunlei sťahovanie</string>
     <string name="xunlei_switch">Xunlei sťahovanie</string>
     <string name="yesterday">Včera</string>

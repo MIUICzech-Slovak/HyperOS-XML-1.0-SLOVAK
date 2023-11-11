@@ -60,7 +60,7 @@ Zadajte vaše telefónne číslo novej SIM karty pre aktiváciu %s"</string>
     <string name="activate_popup_desc_sim_card">SMS bude odoslaná pre aktiváciu vašej SIM karty a funkcií ako %s</string>
     <string name="activate_popup_desc_sim_card_downlink">Zadajte číslo vašej SIM karty pre aktiváciu a funkcií ako %s</string>
     <string name="activate_popup_desc_voip_privacy">Ochrane súkromia</string>
-    <string name="activate_popup_desc_voip_privacy_prefix">". MIUI VOIP je poskytované weihui, prečítajte si o "</string>
+    <string name="activate_popup_desc_voip_privacy_prefix">". HyperOS VOIP je poskytované weihui, prečítajte si o "</string>
     <string name="activate_popup_title_all_gateway_failed_query_info">Nie je možné rozpoznať telefónne číslo</string>
     <string name="activate_popup_title_all_gateway_failed_send_sms">Nebolo možné odoslať aktivačnú SMS správu</string>
     <string name="activate_popup_title_error_device_id">Chybný IMEI</string>

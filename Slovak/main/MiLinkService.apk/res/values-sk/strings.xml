@@ -117,7 +117,7 @@ na zrkadlovú obrazovku"</string>
     <string name="circulate_common_retry_later">Počkajte minútu alebo dve a skúste to znova</string>
     <string name="circulate_cta_agree">Súhlasím</string>
     <string name="circulate_cta_app_name">Mi Smart Hub</string>
-    <string name="circulate_cta_desc_phone">Vitajte v Mi Smart Hub! Pomocou tejto aplikácie môžete prenášať obsah obrazovky, prenášať prehrávanie multimédií medzi zariadeniami, používať Mi Smart Play, MIUI+ a odovzdávanie aplikácií. Táto aplikácia sa musí pripojiť k internetu a vyžaduje nasledujúce povolenia, aby mohla normálne fungovať:</string>
+    <string name="circulate_cta_desc_phone">Vitajte v Mi Smart Hub! Pomocou tejto aplikácie môžete prenášať obsah obrazovky, prenášať prehrávanie multimédií medzi zariadeniami, používať Mi Smart Play, HyperOS+ a odovzdávanie aplikácií. Táto aplikácia sa musí pripojiť k internetu a vyžaduje nasledujúce povolenia, aby mohla normálne fungovať:</string>
     <string name="circulate_cta_exit">Nesúhlasím</string>
     <string name="circulate_cta_premission_sound_subtitle">Na prenos prehrávania zvuku do pripojených zariadení</string>
     <string name="circulate_cta_premission_sound_title">Nahrať zvuk</string>
@@ -246,10 +246,10 @@ Ak máte problémy s pripojením, otvorte pomocníka."</string>
     <string name="err_toast_msg_mirror_support_support_only">"Toto zariadenie podporuje iba zrkadlenie obrazovky. Skúste kartu presunúť pomocou obrazovky tohto zariadenia."</string>
     <string name="err_toast_msg_not_support">"Táto akcia nie je podporovaná"</string>
     <string name="err_toast_msg_not_support_audio_protocol">"Prehrávanie zvuku nie je možné preniesť do tohto zariadenia"</string>
-    <string name="err_toast_msg_not_support_video_protocol">"Toto zariadenie nepodporuje MIUI+"</string>
+    <string name="err_toast_msg_not_support_video_protocol">"Toto zariadenie nepodporuje HyperOS+"</string>
     <string name="err_toast_msg_retry_later">"Túto akciu nie je možné vykonať. Počkajte minútu alebo dve a skúste to znova."</string>
     <string name="err_toast_msg_try_switch_network">Pripojte mobilné zariadenie aj počítač k rovnakej sieti Wi-Fi</string>
-    <string name="err_toast_msg_upgrade_pc_version">Aktualizujte MIUI+ vo svojom počítači, aby ste mohli používať túto funkciu</string>
+    <string name="err_toast_msg_upgrade_pc_version">Aktualizujte HyperOS+ vo svojom počítači, aby ste mohli používať túto funkciu</string>
     <string name="error_icon_content_description">Chyba</string>
     <string name="expand_button_title">Rozšírené</string>
     <string name="exposed_dropdown_menu_content_description">Zobraziť rozbaľovaciu ponuku</string>

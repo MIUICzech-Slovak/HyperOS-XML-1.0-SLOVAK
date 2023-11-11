@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="about_extreme_mode">Extrémna úspora batérie</string>
-    <string name="about_hide_mode">Čo je to MIUI Úspora batérie</string>
+    <string name="about_hide_mode">Čo je to HyperOS Úspora batérie</string>
     <string name="accessibility_service_description">Inteligentná úspora energie</string>
     <string name="action_bar_delete">Vymazať</string>
     <string name="action_settings">Nastavenia</string>
@@ -41,7 +41,7 @@
     <string name="config_classify">Zoradiť podľa nastavenia</string>
     <string name="config_custom_description">Nastavenie vlastných pravidiel pre aplikáciu</string>
     <string name="config_custom_title">Vlastné pravidlá</string>
-    <string name="config_description">MIUI môže identifikovať aplikácie so špecifickými procesmi na pozadí (napr.: navigácie, WhatsApp, Hangouts, Viber...), a použiť úsporu batérie spôsobom ktorý neovplyvní ich činnosť."</string>
+    <string name="config_description">HyperOS môže identifikovať aplikácie so špecifickými procesmi na pozadí (napr.: navigácie, WhatsApp, Hangouts, Viber...), a použiť úsporu batérie spôsobom ktorý neovplyvní ich činnosť."</string>
     <string name="config_mode_title">Nastavenia na pozadí</string>
     <string name="config_no_restrict_description">Úspora batérie neobmedzuje aktivity aplikácií</string>
     <string name="config_no_restrict_title">Žiadne obmedzenia</string>
@@ -52,17 +52,17 @@
     <string name="config_restrict_running_warning">Aplikácia bude ukončená na pozadí. Môže to spôsobiť jej nesprávne fungovanie.</string>
     <string name="config_scenario_policies_title">Scenáre</string>
     <string name="config_suggest_description">Identifikovať aplikácie a aktivity pre ponechanie spustených dôležitých procesov.</string>
-    <string name="config_suggest_suffix_title">MIUI úspora (odporúčané)</string>
-    <string name="config_suggest_title">MIUI úspora batérie</string>
+    <string name="config_suggest_suffix_title">HyperOS úspora (odporúčané)</string>
+    <string name="config_suggest_title">HyperOS úspora batérie</string>
     <string name="confirm">Potvrdiť</string>
     <string name="current_cloud_addr_is">The cloud control server address is:</string>
     <string name="dark_mode">Tmavý režim</string>
     <string name="dark_mode_summary">Prepnite sa do tmavých farieb pre úsporu batérie</string>
-    <string name="disable_hide_mode">Deaktivovať MIUI Úsporu batérie</string>
-    <string name="disable_hide_mode_warning">Deaktivácia MIUI Úspory batérie môže zvýšiť spotrebu batérie</string>
+    <string name="disable_hide_mode">Deaktivovať HyperOS Úsporu batérie</string>
+    <string name="disable_hide_mode_warning">Deaktivácia HyperOS Úspory batérie môže zvýšiť spotrebu batérie</string>
     <string name="disabled">Vypnuté</string>
     <string name="empty_title_apps_container_list">Žiadne aplikácie</string>
-    <string name="enable_hide_mode">Povoliť MIUI Úsporu batérie</string>
+    <string name="enable_hide_mode">Povoliť HyperOS Úsporu batérie</string>
     <string name="enable_sleep_mode">Povolenie režimu spánku pre optimalizáciu spotreby v noci</string>
     <string name="error_filename_too_long">Zadaný názov je príliš dlhý.</string>
     <string name="extreme_add_white_list_summary">Maximálne 4 aplikácie</string>
@@ -249,9 +249,9 @@
     <string name="power_config_cpu_mode_title">Režim CPU</string>
     <string name="power_config_data_connect_summary">Povoliť aplikáciám dátové pripojenie na pozadí</string>
     <string name="power_config_data_connect_title">Dátové pripojenie</string>
-    <string name="power_config_disable_description">MIUI nebude obmedzovať aktivity na pozadí</string>
+    <string name="power_config_disable_description">HyperOS nebude obmedzovať aktivity na pozadí</string>
     <string name="power_config_disable_title">Deaktivované</string>
-    <string name="power_config_enhance_description">MIUI bude obmedzovať aktivity na pozadí</string>
+    <string name="power_config_enhance_description">HyperOS bude obmedzovať aktivity na pozadí</string>
     <string name="power_config_enhance_title">Úspora batérie</string>
     <string name="power_config_event_delete">Vymazať</string>
     <string name="power_config_idle_notification_summary">Zobraziť len prvé upozornenie apl.</string>
@@ -270,7 +270,7 @@
     <string name="power_config_select_apps_empty">Dotykom vyberiete apl.</string>
     <string name="power_config_select_apps_title">Aplikácie</string>
     <string name="power_config_title">Nastavenie</string>
-    <string name="power_config_ultimate_description">MIUI zmrazí aplikáciu na pozadí pre maximálnu výdrž batérie</string>
+    <string name="power_config_ultimate_description">HyperOS zmrazí aplikáciu na pozadí pre maximálnu výdrž batérie</string>
     <string name="power_config_ultimate_off_already">Ultimate režim vypnutý</string>
     <string name="power_config_ultimate_on_already">Ultimate režim zapnutý</string>
     <string name="power_config_ultimate_title">Agresívne obmedzenie</string>
@@ -337,11 +337,11 @@
     <string name="set_lcd_mode">Režim displeja</string>
     <string name="settings_safetylegal_activity_loading">Načítavanie...</string>
     <string name="show_system_app">Zobraziť systémové apl.</string>
-    <string name="sleep_config_disable_description">MIUI nebude šetriť batériu cez noc</string>
+    <string name="sleep_config_disable_description">HyperOS nebude šetriť batériu cez noc</string>
     <string name="sleep_config_disable_title">Vypnuté</string>
-    <string name="sleep_config_enhance_description">MIUI bude šetriť batériu počas noci</string>
-    <string name="sleep_config_enhance_description_non_nfc">Ak MIUI zistí, že ste zaspali, ukončí aplikácie na pozadí, obmedzí Bluetooth, GPS, mobilné dáta W-Fi, a nebude sa rozsviecovať displej pri nových upozorneniach.</string>
-    <string name="sleep_config_enhance_description_pad">Ak MIUI zistí, že ste zaspali, aplikácie v pozadí budú ukončené, Bluetooth a Wi-Fi budú obmedzené, a displej sa nerozsvieti ak dostanete upozornenie.</string>
+    <string name="sleep_config_enhance_description">HyperOS bude šetriť batériu počas noci</string>
+    <string name="sleep_config_enhance_description_non_nfc">Ak HyperOS zistí, že ste zaspali, ukončí aplikácie na pozadí, obmedzí Bluetooth, GPS, mobilné dáta W-Fi, a nebude sa rozsviecovať displej pri nových upozorneniach.</string>
+    <string name="sleep_config_enhance_description_pad">Ak HyperOS zistí, že ste zaspali, aplikácie v pozadí budú ukončené, Bluetooth a Wi-Fi budú obmedzené, a displej sa nerozsvieti ak dostanete upozornenie.</string>
     <string name="sleep_config_enhance_title">Povoliť</string>
     <string name="sleep_config_mode_title">Šetrenie batérie v noci</string>
     <string name="sleepmode_disclaimer_agree">Súhlasím</string>

@@ -90,7 +90,7 @@ Zadajte vaše telefónne číslo novej SIM karty pre aktiváciu %s"</string>
     <string name="activate_popup_desc_sim_card_msg">Pre aktiváciu %2$s, bude odoslaná %1$d bežná SMS.</string>
     <string name="activate_popup_desc_sim_card_msg_with_charge_hint">Aktivácia \"%2$s\". Odošle sa %1$d platená SMS. Váš operátor vám túto SMS naúčtuje.</string>
     <string name="activate_popup_desc_voip_privacy">Ochrane súkromia</string>
-    <string name="activate_popup_desc_voip_privacy_prefix">". MIUI VOIP je poskytované weihui, prečítajte si o "</string>
+    <string name="activate_popup_desc_voip_privacy_prefix">". HyperOS VOIP je poskytované weihui, prečítajte si o "</string>
     <string name="activate_popup_desc_voip_privacy_prefix_msg">%1$s. Pre aktiváciu %3$s, zadajte telefónne číslo SIM %2$d.</string>
     <string name="activate_popup_desc_voip_privacy_prefix_msg_one_sim">%1$s. Pre aktiváciu \"%2$s\", zadajte vaše telefónne číslo.</string>
     <string name="activate_popup_failed_send_sms_desc">Nebolo možné odoslať aktivačnú SMS. Skontrolujte SIM %d.</string>

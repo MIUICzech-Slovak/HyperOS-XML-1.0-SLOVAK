@@ -107,7 +107,7 @@
     <string name="unactive_summary">Activate before %1$s</string>
     <string name="upgrade">Upgrade</string>
     <string name="upgrade_tip">Tip</string>
-    <string name="upgrae_miui_tip">You need upgrade MIUI version</string>
+    <string name="upgrae_miui_tip">You need upgrade HyperOS version</string>
     <string name="upgrae_skb_tip">You need Upgrade Virtual SIM,You need Quit and Restart</string>
     <string name="upload">Submit</string>
     <string name="upload_identity_tip">To comply with local laws, we need to verify your identity before you can use this feature. This information will be treated in accordance with our Privacy Policy.</string>

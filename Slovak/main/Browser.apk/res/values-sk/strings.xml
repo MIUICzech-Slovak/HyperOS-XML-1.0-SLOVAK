@@ -1038,7 +1038,7 @@ Chcete opustiť túto web stránku?"</string>
     <string name="suggestion_input_hitory_clear_text">VYMAZAŤ</string>
     <string name="suggestion_sliding_item_more_text">VIAC</string>
     <string name="switchText">ÁNO</string>
-    <string name="switch_proxy_dialog_msg">"Bolo zistené napadnutie vašej siete. Použite MIUI aplikáciu Optimalizácia alebo to nahláste vášmu operátorovi."</string>
+    <string name="switch_proxy_dialog_msg">"Bolo zistené napadnutie vašej siete. Použite HyperOS aplikáciu Optimalizácia alebo to nahláste vášmu operátorovi."</string>
     <string name="switch_proxy_dialog_title">Napadnutie siete</string>
     <string name="sync_and_backup_bookmark">Synchr. a zálohovať záložky</string>
     <string name="sync_and_backup_history">Synchr. a zálohovať históriu</string>

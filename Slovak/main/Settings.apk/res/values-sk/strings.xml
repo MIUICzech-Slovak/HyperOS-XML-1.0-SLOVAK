@@ -8,7 +8,7 @@ Reklamný identifikátor je permanentné ID vášho zariadenia. Výrobcovia ho p
 
 Ak vyberiete nepoužívať prispôsobené reklamy, ich počet sa nezníži ale nebudú cielené priamo na vás."</string>
     <string name="abc_slice_more">Viac</string>
-    <string name="about_ad_service_instructions_for_global">Informácie o reklamných službách a ochrane osobných údajov v systémových aplikáciách MIUI</string>
+    <string name="about_ad_service_instructions_for_global">Informácie o reklamných službách a ochrane osobných údajov v systémových aplikáciách HyperOS</string>
     <string name="about_phone_enter_xiaomi_net">Zistiť viac</string>
     <string name="about_settings">Info o telefóne</string>
     <string name="about_settings_summary">Zobrazí právne informácie, stav a verziu softwaru</string>
@@ -638,7 +638,7 @@ Správca môže sledovať a spravovať nastavenia, prístup, aplikácie a údaje
     <string name="backup_data_summary">Zálohovať dáta aplikácií, heslá sietí Wi-Fi a ďalšie nastavenie na serveroch Google</string>
     <string name="backup_data_title">Zálohovanie mojich dát</string>
     <string name="backup_difference_content">"Lokálne zálohy:
-Lokálne zálohy môžu obsahovať viac dát aplikácií a položiek. Súbory zálohy sú uložené v MIUI-backup-AllBackup a musia byť skopírované do vášho PC po skončení zálohovania aby ste ich nestratili pri obnove továrenských nastavení.
+Lokálne zálohy môžu obsahovať viac dát aplikácií a položiek. Súbory zálohy sú uložené v HyperOS-backup-AllBackup a musia byť skopírované do vášho PC po skončení zálohovania aby ste ich nestratili pri obnove továrenských nastavení.
 
 Cloudová zálohy:
 Zálohy sú uložené v MiCloude. Tento spôsob je rýchlejší ale nie je možné zálohovať dáta aplikácií do MiCloud.
@@ -1122,7 +1122,7 @@ Nikdy ste neboli pripojený k %2$s."</string>
     <string name="bt_audio_share_switch_title">Zdieľať zvuk</string>
     <string name="bt_audiorepair_dialog_open_success">Opravené. Počkajte kým sa zariadenie znova nepripojí.</string>
     <string name="bt_audiorepair_dialog_openok">Opraviť</string>
-    <string name="bt_audiorepair_open_dialog_summary">MIUI skontroluje a opraví problémy ktoré spôsobujú sekanie Bluetooth pripojenia. Ostaňte na tejto obrazovke kým sa proces nedokončí.</string>
+    <string name="bt_audiorepair_open_dialog_summary">HyperOS skontroluje a opraví problémy ktoré spôsobujú sekanie Bluetooth pripojenia. Ostaňte na tejto obrazovke kým sa proces nedokončí.</string>
     <string name="bt_audiorepair_open_dialog_title">Opraviť sekanie zvuku</string>
     <string name="bt_audiorepair_pre_title">Opraviť sekanie zvuku</string>
     <string name="bt_audiorepair_summary">Opraviť sekanie zvuku na pripojených Bluetooth zariadeniach</string>
@@ -1331,9 +1331,9 @@ Nikdy ste neboli pripojený k %2$s."</string>
     <string name="close_gesture">Gesto zatvorenia</string>
     <string name="close_hotspot_hint">Pred prenášaním vypnite prenosný hotspot</string>
     <string name="close_install_and_connect">Nie, ďakujem</string>
-    <string name="close_miui_optimization_title">Deaktivovať optimalizáciu MIUI</string>
-    <string name="close_miui_optimization_warning_message">Vaše zariadenie sa reštartuje pre aplikovanie týchto zmien. Poznámka: Deaktivovanie optimalizácie systému MIUI zmení rozloženie a ostatné vizuálne stránky MIUI.</string>
-    <string name="close_optimization_message">Po vypnutí tejto funkcie môže byť ovplyvnené rozloženie textu, účty a ďalšie časti MIUI.</string>
+    <string name="close_miui_optimization_title">Deaktivovať optimalizáciu HyperOS</string>
+    <string name="close_miui_optimization_warning_message">Vaše zariadenie sa reštartuje pre aplikovanie týchto zmien. Poznámka: Deaktivovanie optimalizácie systému HyperOS zmení rozloženie a ostatné vizuálne stránky HyperOS.</string>
+    <string name="close_optimization_message">Po vypnutí tejto funkcie môže byť ovplyvnené rozloženie textu, účty a ďalšie časti HyperOS.</string>
     <string name="close_optimization_option">Vypnúť</string>
     <string name="close_privacy_thumbnail_blur_title">Náhľady nie sú rozmazané</string>
     <string name="close_sdcard_optimization_title">Ukončiť optimalizáciu emulovanej SD karty</string>
@@ -1826,8 +1826,8 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="device_internal_memory">Interná pamäť</string>
     <string name="device_memory">RAM</string>
     <string name="device_miui_more">View more</string>
-    <string name="device_miui_version">MIUI</string>
-    <string name="device_miui_version_parameters">MIUI verzia</string>
+    <string name="device_miui_version">HyperOS</string>
+    <string name="device_miui_version_parameters">HyperOS verzia</string>
     <string name="device_miui_version_update">Aktualizácia</string>
     <string name="device_name">Názov zariadenia</string>
     <string name="device_name_input_error">Ukladanie názvu zariadenia zlyhalo, zadajte ho znova</string>
@@ -1835,7 +1835,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="device_name_input_overlength">Nad limitom slov</string>
     <string name="device_name_usage_point">Povoliť vyhľadanie telefónu iným Bluetooth zariadeniam.</string>
     <string name="device_oaid">ID zariadenia</string>
-    <string name="device_oaid_desc">Namiesto reálneho identifikátora, MIUI poskytne virtuálne ID (OAID) nainštalovaným aplikáciám pre ochranu vášho súkromia.</string>
+    <string name="device_oaid_desc">Namiesto reálneho identifikátora, HyperOS poskytne virtuálne ID (OAID) nainštalovaným aplikáciám pre ochranu vášho súkromia.</string>
     <string name="device_oaid_title">Virtuálne ID</string>
     <string name="device_opcust_version">Súčasná verzia</string>
     <string name="device_picker">Bluetooth zariadenie</string>
@@ -2110,7 +2110,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="dual_wifi_switching_prompt">Prepnutie Wi-Fi</string>
     <string name="dual_wifi_switching_summary">Duálna Wi-Fi vyžaduje siete s rôznymi pásmami (2.4GHz a 5GHz).</string>
     <string name="dump_log">Vytvoriť záznamy o chybe</string>
-    <string name="dump_log_summary">"This feature is designed for generating the 284 log in Alpha and Beta versions of MIUI. Use it with caution.
+    <string name="dump_log_summary">"This feature is designed for generating the 284 log in Alpha and Beta versions of HyperOS. Use it with caution.
 You can view generated logs in File Manager."</string>
     <string name="dump_log_title">About this feature</string>
     <string name="easymode_hint">Dotykom vypnete Zjednodušený režim</string>
@@ -2519,8 +2519,8 @@ Odomknutie tvárou je menej bezpečné ako PIN, heslo alebo vzor. Vaše zariaden
     <string name="font_size_large">Veľké</string>
     <string name="font_size_medium">Stredné</string>
     <string name="font_size_normal">Normálne</string>
-    <string name="font_size_preview">MIUI</string>
-    <string name="font_size_preview_text">Toto je ukážkový text pre MIUI CZ SK ROM.</string>
+    <string name="font_size_preview">HyperOS</string>
+    <string name="font_size_preview_text">Toto je ukážkový text pre HyperOS CZ SK ROM.</string>
     <string name="font_size_save">OK</string>
     <string name="font_size_small">Malé</string>
     <string name="font_size_summary">Nastaviť veľkosť písma aplikácií ako Telefón, SMS, Kontakty a Nastavenia.</string>
@@ -2881,7 +2881,7 @@ Oblasť, kde môžete potvrdiť uzamknutie obrazovky, sa presunie doprava."</str
     <string name="how_backup_content">"Existujú 3 rôzne typy zálohovania: lokálne, MiCloud a USB.
 
 Lokálne zálohy:
-Lokálne zálohy môžu obsahovať viac dát aplikácií a položiek. Súbory zálohy sú uložené v MIUI-backup-AllBackup a musia byť skopírované do vášho PC po skončení zálohovania aby ste ich nestratili pri obnove továrenských nastavení.
+Lokálne zálohy môžu obsahovať viac dát aplikácií a položiek. Súbory zálohy sú uložené v HyperOS-backup-AllBackup a musia byť skopírované do vášho PC po skončení zálohovania aby ste ich nestratili pri obnove továrenských nastavení.
 
 MiCloud zálohy:
 Zálohy sú uložené v MiCloude. Tento spôsob je rýchlejší ale nie je možné zálohovať dáta aplikácií do MiCloud..
@@ -2901,13 +2901,13 @@ Zapamätajte si nastavené heslo pre šifrovanie záloh! Ak ho zabudnete, nebude
     <string name="how_restore_backup_content">"Ako obnoviť zálohy:
 
 Lokálne zálohy:
-Nakopírujte zálohy z vášho PC naspäť do zložky (MIUI-backup-AllBackup) v telefóne. Choďte do Nastavenia &gt; Zálohovanie a obnovenie &gt; Lokálne zálohy, a vyberte zálohu ktorú chcete obnoviť.
+Nakopírujte zálohy z vášho PC naspäť do zložky (HyperOS-backup-AllBackup) v telefóne. Choďte do Nastavenia &gt; Zálohovanie a obnovenie &gt; Lokálne zálohy, a vyberte zálohu ktorú chcete obnoviť.
 
 MiCloud zálohy:
 Prihláste sa do vášho Xiaomi účtu, choďte do Nastavenia &gt; Zálohovanie a obnovenie &gt; MiCloud záloha, a vyberte zálohu ktorú chcete obnoviť.
 
 USB zálohy:
-Nakopírujte zálohy z USB naspäť do zložky (MIUI-backup-AllBackup) v telefóne. Choďte do Nastavenia &gt; Zálohovanie a obnovenie &gt; Lokálne zálohy, a vyberte zálohu ktorú chcete obnoviť.
+Nakopírujte zálohy z USB naspäť do zložky (HyperOS-backup-AllBackup) v telefóne. Choďte do Nastavenia &gt; Zálohovanie a obnovenie &gt; Lokálne zálohy, a vyberte zálohu ktorú chcete obnoviť.
 "</string>
     <string name="how_restore_backup_title">2. Ako obnovím zálohované položky?</string>
     <string name="http_invoke_app">Web aplikácie</string>
@@ -3165,7 +3165,7 @@ Nakopírujte zálohy z USB naspäť do zložky (MIUI-backup-AllBackup) v telefó
     <string name="launch_voice_assistant">Spustiť Asistent</string>
     <string name="launcher_auto_fill_empty_title">Auto. vyplniť prázdne miesto</string>
     <string name="launcher_icon">Ikony</string>
-    <string name="launcher_settings_title">MIUI launcher</string>
+    <string name="launcher_settings_title">HyperOS launcher</string>
     <string name="launcher_title">Launcher</string>
     <string name="launching_cit">Launching cit, please wait.</string>
     <string name="launching_pho">Launching phone info, please wait.</string>
@@ -3801,7 +3801,7 @@ Na tomto zariadení sú prítomní ďalší používatelia.
     <string name="miui_data_usage_menu_metered">Mobilné hotspoty</string>
     <string name="miui_disturb_title">Vyrušovanie</string>
     <string name="miui_enable_service_title">Služba vykoná tieto akcie:</string>
-    <string name="miui_experience_optimization">Aktivovať optimalizáciu MIUI</string>
+    <string name="miui_experience_optimization">Aktivovať optimalizáciu HyperOS</string>
     <string name="miui_face_enroll_risk_warning_btn_cancel">Zrušiť</string>
     <string name="miui_face_enroll_risk_warning_title_text">Upozornenie</string>
     <string name="miui_face_enroll_risk_warning_title_text_cn">Stanovisko o bezpečnosti</string>
@@ -3821,14 +3821,14 @@ Pokračujte pre prístup k ďalším nastaveniam."</string>
     <string name="miui_lab_feature_applied">Aplikované</string>
     <string name="miui_lab_feature_off">Vypnuté</string>
     <string name="miui_lab_feature_on">Zapnuté</string>
-    <string name="miui_lab_features">MIUI Lab funkcie</string>
+    <string name="miui_lab_features">HyperOS Lab funkcie</string>
     <string name="miui_lab_gallery_search_desc">Vyhľadávanie obrázkov</string>
     <string name="miui_lab_gallery_search_title">Vyhľadať fotografie v Galérii</string>
     <string name="miui_lab_gesture_desc">Deaktivujte tlačidlá z užite si ovládanie gestami</string>
     <string name="miui_lab_gesture_title">Gestá obrazovky</string>
     <string name="miui_lab_home_feed_desc">Príbehy</string>
     <string name="miui_lab_home_feed_title">Mediálne Centrum</string>
-    <string name="miui_lab_settings">MIUI Lab</string>
+    <string name="miui_lab_settings">HyperOS Lab</string>
     <string name="miui_lab_slogan">Učiť sa, Objavovať, Preskúmať.</string>
     <string name="miui_lab_super_resolution_desc">Zvýšte rozlíšenie obrázkov</string>
     <string name="miui_lab_super_resolution_title">Super rozlíšenie</string>
@@ -3840,8 +3840,8 @@ Pokračujte pre prístup k ďalším nastaveniam."</string>
     <string name="miui_nfc_dialog_positive">Zrušiť</string>
     <string name="miui_nfc_dialog_title">Vypnutie NFC</string>
     <string name="miui_nfc_mi_pay_summary">Google Pay, dopravné karty, kľúčové karty</string>
-    <string name="miui_optimization_disabled">Deaktivovať MIUI optimalizáciu</string>
-    <string name="miui_screen_config_title">Nastavenie MIUI Launchera</string>
+    <string name="miui_optimization_disabled">Deaktivovať HyperOS optimalizáciu</string>
+    <string name="miui_screen_config_title">Nastavenie HyperOS Launchera</string>
     <string name="miui_screensaver_show_time">Trvanie</string>
     <string name="miui_screensaver_show_time_select_title">Nastaviť trvanie prezentácie</string>
     <string name="miui_screensaver_state_off">Vypnuté</string>
@@ -4295,7 +4295,7 @@ Vyberte váš operačný systém:"</string>
     <string name="no_services">Neaktívne</string>
     <string name="no_trust_agents">Nie sú k dispozícii žiadni zástupcovia dôveryhodnosti</string>
     <string name="no_update_found">"Najnovšia verzia "</string>
-    <string name="no_updates_found">"Už máte nainštalovanú najnovšiu verziu MIUI."</string>
+    <string name="no_updates_found">"Už máte nainštalovanú najnovšiu verziu HyperOS."</string>
     <string name="no_updates_warning">Žiadne nové aktualizácie pre vaše zariadenie neboli nájdené.</string>
     <string name="no_updates_warning2">"Pokoj! upozorníme Vás ak bude dostupná nová aktualizácia."</string>
     <string name="noise_suppression">Potlačenie hluku</string>
@@ -4334,8 +4334,8 @@ Vyberte váš operačný systém:"</string>
     <string name="notification_control_center">Upozornenia a Centrum ovládania</string>
     <string name="notification_display_settings">Roletka</string>
     <string name="notification_fold_description1">Táto funkcia filtruje nedôležité upozornenia a zobrazuje ich v samostatnej zložke.</string>
-    <string name="notification_fold_description2">MIUI si bude pamätať ktoré upozornenia ste otvorili a podľa toho určí či sú pre vás dôležité.</string>
-    <string name="notification_fold_description3">Ak sa bude MIUI rozhodovať nesprávne ktoré upozornenia sú pre vás dôležité, nahláste nám to prosím.</string>
+    <string name="notification_fold_description2">HyperOS si bude pamätať ktoré upozornenia ste otvorili a podľa toho určí či sú pre vás dôležité.</string>
+    <string name="notification_fold_description3">Ak sa bude HyperOS rozhodovať nesprávne ktoré upozornenia sú pre vás dôležité, nahláste nám to prosím.</string>
     <string name="notification_fold_footer_icon_summary">Všetky menej dôležité ikony upozornení budú zobrazené v pravej časti</string>
     <string name="notification_fold_footer_icon_title">Zobraziť ikony</string>
     <string name="notification_fold_summary">Všetky nedôležité upozornenia budú zobrazené v samostatnej zložke</string>
@@ -4401,7 +4401,7 @@ Vyberte váš operačný systém:"</string>
     <string name="open_demo_mode_warning_message">Ak je povolený Režim ukážky, čas v lište sa zastaví a ukazovatele batérie a signálu budú zobrazovať plný stav.</string>
     <string name="open_game_accelerate">Povoliť Zrýchlenie hier</string>
     <string name="open_haptic_feedback">Hmatová odozva</string>
-    <string name="open_miui_optimization_title">Aktivovať optimalizáciu MIUI</string>
+    <string name="open_miui_optimization_title">Aktivovať optimalizáciu HyperOS</string>
     <string name="open_miui_optimization_warning_message">Vaše zariadenie sa reštartuje pre aplikovanie týchto zmien</string>
     <string name="open_personal_assistant_dialog_btn_cancel">Zrušiť</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Deaktivovať</string>
@@ -4455,10 +4455,10 @@ Vyberte váš operačný systém:"</string>
     <string name="pad_how_backup_content">"Zálohy môžete ukladať lokálne alebo do cloudu. Lokálne zálohy je možné uložiť na vašom mobilnom zariadení, počítači alebo USB disku.
 
 Mobilné zariadenie
-Uložte nastavenia systému, účty, údaje aplikácií a ďalšie položky do samostatného súboru uloženého vo vašom zariadení (MIUI-backup-AllBackup). Poznámka: Obnovením továrenských nastavení sa tieto zálohy natrvalo odstránia. Nezabudnite skopírovať zálohy do počítača.
+Uložte nastavenia systému, účty, údaje aplikácií a ďalšie položky do samostatného súboru uloženého vo vašom zariadení (HyperOS-backup-AllBackup). Poznámka: Obnovením továrenských nastavení sa tieto zálohy natrvalo odstránia. Nezabudnite skopírovať zálohy do počítača.
 
 Počítač
-Vytvorte zálohu na tomto zariadení, potom prejdite na MIUI-backup-AllBackup a skopírujte zálohu do počítača pomocou kábla USB.
+Vytvorte zálohu na tomto zariadení, potom prejdite na HyperOS-backup-AllBackup a skopírujte zálohu do počítača pomocou kábla USB.
 
 USB disk
 Uložte svoje systémové nastavenia, účty, údaje aplikácií a ďalšie položky na jednotku USB.
@@ -4471,10 +4471,10 @@ Mobilné zariadenie
 Klepnutím na položku „Mobilné zariadenie“ vyhľadajte možnosť obnovenia položiek a pokračujte výberom zálohy.
 
 Počítač
-Skopírujte zálohu z počítača na MIUI-backup-AllBackup pomocou kábla USB a obnovte položky z mobilného zariadenia.
+Skopírujte zálohu z počítača na HyperOS-backup-AllBackup pomocou kábla USB a obnovte položky z mobilného zariadenia.
 
 USB disk
-Skopírujte zálohu z jednotky USB do programu MIUI-backup-AllBackup a pokračujte výberom možnosti obnovenia položiek z jednotky USB.
+Skopírujte zálohu z jednotky USB do programu HyperOS-backup-AllBackup a pokračujte výberom možnosti obnovenia položiek z jednotky USB.
 
 Xiaomi Cloud
 Otvorte Xiaomi Cloud a odtiaľ obnovujte položky."</string>
@@ -4781,7 +4781,7 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
     <string name="preference_change_password_title">Zmeniť heslo</string>
     <string name="preference_toggle_nfc_dnd_mode_summary">Nedostávať žiadne upozornenia na nerozpoznané NFC</string>
     <string name="preferred_app_settings">Predvolená aplikácia</string>
-    <string name="preferred_app_settings_default">Predvolený MIUI</string>
+    <string name="preferred_app_settings_default">Predvolený HyperOS</string>
     <string name="preferred_app_settings_not_selected">Žiadne</string>
     <string name="preferred_app_settings_reset">Obnoviť predvolené</string>
     <string name="preferred_app_settings_reset_button">Obnoviť</string>
@@ -5116,8 +5116,8 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
 
  Žiadne aplikácie sa nevymažú."</string>
     <string name="reset_app_preferences_title">Obnoviť nastavenia aplikácií?</string>
-    <string name="reset_confirm_directory">"Poznámka: Predtým ako obnovíte položky, skontrolujte či existuje zložka \"MIUI-Backup-AllBackup\" vo vašom zariadení. Ak nie, vytvorte ju."</string>
-    <string name="reset_confirm_directory_pad">"Poznámka: Pred obnovením položiek skontrolujte, či na vašom mobilnom zariadení existuje priečinok \"MIUI-Backup-AllBackup\". Ak nie, vytvorte ho."</string>
+    <string name="reset_confirm_directory">"Poznámka: Predtým ako obnovíte položky, skontrolujte či existuje zložka \"HyperOS-Backup-AllBackup\" vo vašom zariadení. Ak nie, vytvorte ju."</string>
+    <string name="reset_confirm_directory_pad">"Poznámka: Pred obnovením položiek skontrolujte, či na vašom mobilnom zariadení existuje priečinok \"HyperOS-Backup-AllBackup\". Ak nie, vytvorte ho."</string>
     <string name="reset_legacy_password_settings_preface_text">Musíte resetovať vaše heslo.</string>
     <string name="reset_network_bluetooth">Bluetooth</string>
     <string name="reset_network_button_text">Resetovať nastavenia</string>
@@ -5147,7 +5147,7 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
     <string formatted="false" name="resolution_fhd_summary">%d×%d (šetrí batériu)</string>
     <string name="resolution_qhd">QHD+ (Quad HD)</string>
     <string formatted="false" name="resolution_qhd_summary">%d×%d (zvyšuje kvalitu)</string>
-    <string name="resolution_sub_title">MIUI môže pri prepínaní rozlíšenia zavrieť aplikácie spustené na pozadí</string>
+    <string name="resolution_sub_title">HyperOS môže pri prepínaní rozlíšenia zavrieť aplikácie spustené na pozadí</string>
     <string name="resolver_settings_label">Zoradiť</string>
     <string name="resource_ringtone_volume_mute">Zvonenie je stíšené</string>
     <string name="restore_default_apn">Prebieha obnovovanie predvolených nastavení názvu prístupového bodu (APN).</string>
@@ -6040,7 +6040,7 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
     <string name="status_bar_settings_toggle_position">Pozícia prepínačov</string>
     <string name="status_bar_settings_user_fold">Skupina upozornení</string>
     <string name="status_bar_settings_user_fold_description1">Zložka upozornení filtruje menej dôležité upozornenia a zhromažďuje ich v spoločnej zložke.</string>
-    <string name="status_bar_settings_user_fold_description2">MIUI si zapamätá ktoré upozornenia otvárate a podľa toho rozpozná ich prioritu.</string>
+    <string name="status_bar_settings_user_fold_description2">HyperOS si zapamätá ktoré upozornenia otvárate a podľa toho rozpozná ich prioritu.</string>
     <string name="status_bar_settings_user_fold_description3" />
     <string name="status_bar_settings_user_fold_disable">Vypnuté</string>
     <string name="status_bar_settings_user_fold_enable">Zapnuté</string>
@@ -6615,7 +6615,7 @@ Zvážte použitie rýchlejšieho zariadenia (^1) s lepšou výkonnosťou."</str
     <string name="uninstall_all_users_text">Odinštalovať pre všetkých používateľov</string>
     <string name="uninstall_dlg_msg">Odinštalovanie vymaže všetky dáta aplikácie.</string>
     <string name="uninstall_dlg_title">Odinštalovať teraz?</string>
-    <string name="uninstall_protected_dlg_msg">Odinštalovanie systémových aplikácií môže spôsobiť nesprávne fungovanie MIUI systému. Chcete túto aplikáciu aj napriek tomu odinštalovať?</string>
+    <string name="uninstall_protected_dlg_msg">Odinštalovanie systémových aplikácií môže spôsobiť nesprávne fungovanie HyperOS systému. Chcete túto aplikáciu aj napriek tomu odinštalovať?</string>
     <string name="uninstall_protected_dlg_title">Odinštalovanie systémových aplikácií</string>
     <string name="uninstall_text">Odinštalovať</string>
     <string name="uninstall_wifi_master_key">Odinštalovať Wi-Fi Master Key</string>
@@ -6686,8 +6686,8 @@ Zvážte použitie rýchlejšieho zariadenia (^1) s lepšou výkonnosťou."</str
     <string name="untitled_apn">Bez názvu</string>
     <string name="update_new_version">Dostupná aktualizácia</string>
     <string name="update_progress_for_updates">Aktualizácia (%s)</string>
-    <string name="upload_debug_log_detail">Pomôžte vylepšiť svoje zážitky zo zariadenia MIUI automatickým odosielaním diagnostických údajov, údajov o používaní zariadenia a aplikácií do spoločnosti Xiaomi.</string>
-    <string name="upload_debug_log_summary">Odošlite záznam o chybe a pomôžte vývojárom vytvoriť stabilnejšiu a lepšiu MIUI ROM. Ďakujeme!</string>
+    <string name="upload_debug_log_detail">Pomôžte vylepšiť svoje zážitky zo zariadenia HyperOS automatickým odosielaním diagnostických údajov, údajov o používaní zariadenia a aplikácií do spoločnosti Xiaomi.</string>
+    <string name="upload_debug_log_summary">Odošlite záznam o chybe a pomôžte vývojárom vytvoriť stabilnejšiu a lepšiu HyperOS ROM. Ďakujeme!</string>
     <string name="upload_debug_log_title">Odoslať záznam o chybe</string>
     <string name="usage_access">Prístup k využitiu</string>
     <string name="usage_access_description">Prístup k využitiu umožňuje aplikácii sledovať, aké ďalšie aplikácie používate, ako často ich používate, a taktiež nastavenia jazyka, operátora a ďalšie podrobnosti.</string>
@@ -6863,7 +6863,7 @@ Zvážte použitie rýchlejšieho zariadenia (^1) s lepšou výkonnosťou."</str
     <string name="use_otg_title">USB On-The-Go</string>
     <string name="use_personalized_ad_service">Prispôsobené reklamy</string>
     <string name="use_personalized_ad_service_summary">V našej ROM od HyperOS.sk sú systémové reklamy blokované.</string>
-    <string name="use_personalized_ad_service_summary_for_global">Keď sú odporúčania prispôsobených reklám vypnuté, v systémových aplikáciách MIUI sa vám bude stále zobrazovať rovnaké množstvo reklám, ako keď je táto funkcia zapnutá. Reklamy od Xiaomi a platforiem tretích strán už nebudú relevantné, pretože nebudú založené na vašich osobných preferenciách.</string>
+    <string name="use_personalized_ad_service_summary_for_global">Keď sú odporúčania prispôsobených reklám vypnuté, v systémových aplikáciách HyperOS sa vám bude stále zobrazovať rovnaké množstvo reklám, ako keď je táto funkcia zapnutá. Reklamy od Xiaomi a platforiem tretích strán už nebudú relevantné, pretože nebudú založené na vašich osobných preferenciách.</string>
     <string name="use_privacy_password_immediate">Použiť</string>
     <string name="use_system_language_to_select_input_method_subtypes">Použiť systémový jazyk</string>
     <string name="use_system_preference">Použiť systémové nastavenia (Predvolené)</string>
@@ -6932,7 +6932,7 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
     <string name="user_exit_guest_title">Odstrániť hosťa</string>
     <string name="user_experience_open_url">Dozvedieť sa viac o Programe používateľských skúseností</string>
     <string name="user_experience_program">Zasielanie štatistík</string>
-    <string name="user_experience_program_summary">Pomôžte vylepšiť MIUI odosielaním anonymných dát o používaní zariadenia</string>
+    <string name="user_experience_program_summary">Pomôžte vylepšiť HyperOS odosielaním anonymných dát o používaní zariadenia</string>
     <string name="user_experience_program_title">Zasielanie štatistík</string>
     <string name="user_guest">Hosť</string>
     <string name="user_image_choose_photo">Vybrať fotografiu z Galérie</string>
@@ -7419,7 +7419,7 @@ sl. Wi‑Fi Assistant"</string>
     <string name="wifi_property">Wi-Fi nastavenia</string>
     <string name="wifi_protection_on">Zapnuté</string>
     <string name="wifi_protection_settings_title">Wi-Fi ochrana</string>
-    <string name="wifi_protection_tip">MIUI automaticky povolí Wi-Fi ochranu. Počas vyhľadávania Wi-Fi sietí v okolí, náhodne zmení MAC adresu zariadenia pre ochranu vášho súkromia.</string>
+    <string name="wifi_protection_tip">HyperOS automaticky povolí Wi-Fi ochranu. Počas vyhľadávania Wi-Fi sietí v okolí, náhodne zmení MAC adresu zariadenia pre ochranu vášho súkromia.</string>
     <string name="wifi_quick_toggle_summary">Zapnúť Wi-Fi</string>
     <string name="wifi_quick_toggle_title">Wi-Fi</string>
     <string name="wifi_region_summary">Nastaviť kanály Wi-Fi (reštartujte Wi-Fi pre použitie)</string>
@@ -7503,22 +7503,22 @@ Chcete túto možnosť povoliť všetkým aplikáciám, ktoré chcú vyhľadáva
     <string name="wifi_share_add_summary">"Ak zdieľate Vašu verejnú Wi-Fi sieť,
 môžete použiť inú sieť"</string>
     <string name="wifi_share_connect">Pripojiť</string>
-    <string name="wifi_share_connected_summary">"Ste pripojený k verejnej Wi-Fi sieti zdieľanej iným užívateľom MIUI"</string>
-    <string name="wifi_share_connected_title">Pripojené k Wi-Fi sieti zdieľanej MIUI</string>
+    <string name="wifi_share_connected_summary">"Ste pripojený k verejnej Wi-Fi sieti zdieľanej iným užívateľom HyperOS"</string>
+    <string name="wifi_share_connected_title">Pripojené k Wi-Fi sieti zdieľanej HyperOS</string>
     <string name="wifi_share_count">Zdieľate %d sietí</string>
     <string name="wifi_share_current_network">Súčasná sieť</string>
     <string name="wifi_share_know">OK</string>
     <string name="wifi_share_list_empty">Žiadna verejná Wi-Fi sieť</string>
     <string name="wifi_share_login">Zdieľať heslo k tejto verejnej Wi-Fi sieti</string>
-    <string name="wifi_share_login_summary">Ak je táto Wi-Fi sieť verejná, môžete ju zdieľať s ostatnými užívateľmi MIUI.</string>
-    <string name="wifi_share_notification_summary">MIUI Vás pripojilo k zabezpečenej Wi-Fi sieti.</string>
+    <string name="wifi_share_login_summary">Ak je táto Wi-Fi sieť verejná, môžete ju zdieľať s ostatnými užívateľmi HyperOS.</string>
+    <string name="wifi_share_notification_summary">HyperOS Vás pripojilo k zabezpečenej Wi-Fi sieti.</string>
     <string name="wifi_share_other_network">Ostatné siete</string>
     <string name="wifi_share_qrcode_finish">Dokončiť</string>
-    <string name="wifi_share_qrcode_summary">Použite fotoaparát MIUI pre načítanie QR kódu</string>
+    <string name="wifi_share_qrcode_summary">Použite fotoaparát HyperOS pre načítanie QR kódu</string>
     <string name="wifi_share_qrcode_title">Zdieľať Wi-Fi</string>
     <string name="wifi_share_show_network">Zobraziť siete</string>
-    <string name="wifi_share_summary1">Užívatelia MIUI môžu zdieľať chránenú verejnú Wi-Fi sieť s ostatnými.</string>
-    <string name="wifi_share_summary2">Ak iný užívateľ s MIUI zdieľa chránenú Wi-Fi sieť, môžete sa pripojiť k tejto sieti bez zadania hesla.</string>
+    <string name="wifi_share_summary1">Užívatelia HyperOS môžu zdieľať chránenú verejnú Wi-Fi sieť s ostatnými.</string>
+    <string name="wifi_share_summary2">Ak iný užívateľ s HyperOS zdieľa chránenú Wi-Fi sieť, môžete sa pripojiť k tejto sieti bez zadania hesla.</string>
     <string name="wifi_share_summary3">Zdieľajte Vašu verejnú Wi-Fi sieť s ostatnými.</string>
     <string name="wifi_share_turn_off">Vypnuté</string>
     <string name="wifi_share_turn_on">Zapnuté</string>

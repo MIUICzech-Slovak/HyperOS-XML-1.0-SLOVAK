@@ -180,8 +180,8 @@ alebo zadajte heslo"</string>
     <string name="add_done">Pridané</string>
     <string name="add_game">Pridať</string>
     <string name="add_game_notification_summary">Dotykom spustíte</string>
-    <string name="add_miservice_dialog_content">"%s vyžaduje pridať MIUI service framework do výnimiek. Budete prijímať upozornenia od MIUI a ostatných aplikácií."</string>
-    <string name="add_miservice_dialog_title">MIUI service framework</string>
+    <string name="add_miservice_dialog_content">"%s vyžaduje pridať HyperOS service framework do výnimiek. Budete prijímať upozornenia od HyperOS a ostatných aplikácií."</string>
+    <string name="add_miservice_dialog_title">HyperOS service framework</string>
     <string name="add_to_whitelist_button">Výnimky</string>
     <string name="add_white_list">Pridať</string>
     <string name="add_whitelist">Pridať do výnimiek</string>
@@ -283,7 +283,7 @@ alebo zadajte heslo"</string>
     <string name="apk_status_uninstalled">Nenainštalované</string>
     <string name="apn_exception_summary">Nastavenie APN operátora nie je správne</string>
     <string name="apn_exception_title">Skontrolujte nastavenie APN</string>
-    <string name="app_behavior_about_content_no_link">MIUI môže zobraziť ak aplikácie spustia iné aplikácie, spustia sa automaticky, použijú povolenia, a vykonajú citlivé akcie. Kvôli problémom s kompatibilitou verzie Androidu niektoré funkcie nemusia pracovať správne.</string>
+    <string name="app_behavior_about_content_no_link">HyperOS môže zobraziť ak aplikácie spustia iné aplikácie, spustia sa automaticky, použijú povolenia, a vykonajú citlivé akcie. Kvôli problémom s kompatibilitou verzie Androidu niektoré funkcie nemusia pracovať správne.</string>
     <string name="app_behavior_about_negative">Spätná väzba</string>
     <string name="app_behavior_about_positive">Rozumiem</string>
     <string name="app_behavior_about_setting">Nastavenia</string>
@@ -577,7 +577,7 @@ alebo zadajte heslo"</string>
     <string name="app_manager_permission_manager_title">Povolenia</string>
     <string name="app_manager_permission_notify_summary">Bubliny a plávajúce upozornenia na zamknutej obrazovke</string>
     <string name="app_manager_permission_notify_title">Upozornenia</string>
-    <string name="app_manager_permission_power_saving_summary">MIUI Úspora batérie</string>
+    <string name="app_manager_permission_power_saving_summary">HyperOS Úspora batérie</string>
     <string name="app_manager_permission_power_saving_title">Úspora batérie</string>
     <string name="app_manager_permission_read_contact_over">Prístup ku kontaktom 100000+ krát</string>
     <string name="app_manager_permission_read_mms_over">Čítať SMS 100000+ krát</string>
@@ -587,7 +587,7 @@ alebo zadajte heslo"</string>
     <string name="app_manager_permission_startself_title">Autoštart</string>
     <string name="app_manager_permission_summary_reject">Zablokovať všetky</string>
     <string name="app_manager_power">Povolenia</string>
-    <string name="app_manager_powerkeeper_miui_auto">MIUI Úspora batérie</string>
+    <string name="app_manager_powerkeeper_miui_auto">HyperOS Úspora batérie</string>
     <string name="app_manager_powerkeeper_no_bg">Obmedziť procesy na pozadí</string>
     <string name="app_manager_powerkeeper_no_restrict">Žiadne obmedzenia</string>
     <string name="app_manager_powerkeeper_restrict_bg">Obmedziť apl. na pozadí</string>
@@ -632,7 +632,7 @@ alebo zadajte heslo"</string>
     <string name="app_manager_uninstall">Odinštalovať</string>
     <string name="app_manager_uninstall_button_text">Odinštalovať</string>
     <string name="app_manager_uninstall_notify_title">Odinštalujte málo používané aplikácie</string>
-    <string name="app_manager_uninstall_protected_dlg_msg">Odinštalovanie systémovej aplikácie môže spôsobiť nesprávne fungovanie MIUI. Aj tak odinštalovať?</string>
+    <string name="app_manager_uninstall_protected_dlg_msg">Odinštalovanie systémovej aplikácie môže spôsobiť nesprávne fungovanie HyperOS. Aj tak odinštalovať?</string>
     <string name="app_manager_uninstall_protected_dlg_title">Odinštalovanie systémovej aplikácie</string>
     <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Klonované aplikácie budú odstránené spolu s dátami.</string>
     <string name="app_manager_uninstall_xspace_app_dlg_msg">Odinštalovanie klonovanej aplikácie odstráni všetky jej dáta.</string>
@@ -642,7 +642,7 @@ alebo zadajte heslo"</string>
     <string name="app_manager_usage_record_title">Využitie apl.</string>
     <string name="app_manager_wake_path_card_title">História autoštartu (2 dni)</string>
     <string name="app_manager_wakepath_dialog_buttontext">Rozumiem</string>
-    <string name="app_manager_wakepath_dialog_summary">Chain start happens when one app starts another app in the background. It can drain battery and lower the system performance. MIUI would normally block chain start.</string>
+    <string name="app_manager_wakepath_dialog_summary">Chain start happens when one app starts another app in the background. It can drain battery and lower the system performance. HyperOS would normally block chain start.</string>
     <string name="app_manager_wakepath_dialog_title">Čo je to autoštart</string>
     <string name="app_managere_not_have_app">Prázdne</string>
     <string name="app_mobile">Mob. dáta</string>
@@ -1380,7 +1380,7 @@ Svoje telefónne číslo môžete zmeniť v Nastaveniach."</string>
     <string name="daily_card_setting_fragment_daily_card_brand">Operátor</string>
     <string name="daily_card_setting_fragment_daily_card_brand_value">Vyberte operátora</string>
     <string name="daily_card_setting_fragment_daily_card_setting">Nastavenie denného balíčku</string>
-    <string name="daily_card_setting_fragment_daily_card_summary">MIUI nastaví limit dát a aplikácie s neobmedzenými dátami podľa vybraného operátora. Ak váš operátor nie je v zozname, vyberte možnosť \"Ostatní\" a nastavte váš limit manuálne.</string>
+    <string name="daily_card_setting_fragment_daily_card_summary">HyperOS nastaví limit dát a aplikácie s neobmedzenými dátami podľa vybraného operátora. Ak váš operátor nie je v zozname, vyberte možnosť \"Ostatní\" a nastavte váš limit manuálne.</string>
     <string name="daily_card_setting_fragment_daily_package">Denný limit dát</string>
     <string name="daily_card_setting_fragment_month_package">Mesačný objem dát</string>
     <string name="daily_card_setting_fragment_package_summary">Ak váš program obsahuje mesačný dátový balíček, bude použitý ešte pred denným balíčkom dát.</string>
@@ -1407,14 +1407,14 @@ Používanie mobilného pripojenia nad rámec predplatených dát môže výrazn
     <string name="data_usage_leisure_warning_title">Prekročili ste dátový limit</string>
     <string name="data_usage_limit_body">Povoliť mobilne dáta.</string>
     <string name="data_usage_limit_snoozed_body">"Prekročili ste váš limit mobilných dát."</string>
-    <string name="data_usage_mobile_dialog_title">Spotrebovali ste 5GB mobilných dát. MIUI deaktivovalo mobilné dáta.</string>
+    <string name="data_usage_mobile_dialog_title">Spotrebovali ste 5GB mobilných dát. HyperOS deaktivovalo mobilné dáta.</string>
     <string name="data_usage_mobile_limit_snoozed_title">Prekročený dátový limit</string>
     <string name="data_usage_mobile_limit_title">Mobilné dáta boli zakázané</string>
     <string name="data_usage_no_total_package_body">Chcete nastaviť limit mobilných dát?</string>
     <string name="data_usage_no_total_package_body_dual">Chcete nastaviť limit mobilných dát pre %s?</string>
     <string name="data_usage_no_total_package_title">Spotreba dát</string>
-    <string name="data_usage_protected_dialog_message">MIUI deaktivovalo mobilné dáta pre vašu ochranu pred navýšením poplatkov.</string>
-    <string name="data_usage_protected_notify_message">MIUI deaktivovalo mobilné dáta pre vašu ochranu pred navýšením poplatkov.</string>
+    <string name="data_usage_protected_dialog_message">HyperOS deaktivovalo mobilné dáta pre vašu ochranu pred navýšením poplatkov.</string>
+    <string name="data_usage_protected_notify_message">HyperOS deaktivovalo mobilné dáta pre vašu ochranu pred navýšením poplatkov.</string>
     <string name="data_usage_protected_notify_title">Spotrebovali ste 5GB mobilných dát.</string>
     <string name="data_usage_restricted_body">Povoliť dáta na pozadí</string>
     <string name="data_usage_restricted_title">Dáta na pozadí zakázané</string>
@@ -1506,7 +1506,7 @@ For more info check the message you received from your service provider"</string
     <string name="dialog_button_yes">Áno</string>
     <string name="dialog_change_package_type_summary">Zmena dátového balíčka vymaže vašu aktuálnu spotrebu dát. Chcete ho zmeniť?</string>
     <string name="dialog_change_package_type_title">Zmena dátového balíčka</string>
-    <string name="dialog_msg_auto_start_declare">Niektoré bezpečnostné aplikácie môžu nesprávne hlásiť, že im MIUI bráni sa spustiť. Pre kontrolu povolení jednotlivých aplikácií choďte do Nastavenia - Aplikácie.</string>
+    <string name="dialog_msg_auto_start_declare">Niektoré bezpečnostné aplikácie môžu nesprávne hlásiť, že im HyperOS bráni sa spustiť. Pre kontrolu povolení jednotlivých aplikácií choďte do Nastavenia - Aplikácie.</string>
     <string name="dialog_msg_backup_and_uninstall_apps">Potvrďte pre zálohovanie a odinštalovanie aplikácií</string>
     <string name="dialog_msg_create_icon_content">Pridať odkaz na plochu?</string>
     <string name="dialog_msg_create_icon_not_remain_anymore">Už nezobrazovať</string>
@@ -2836,7 +2836,7 @@ Vaše zariadenie je teraz %s rýchlejšie."</string>
     <string name="network_speed_for_apps_title">Pripojenie</string>
     <string name="network_speed_for_apps_total">Rýchlosť pripojenia</string>
     <string name="network_test_speed">Otestovať rýchlosť Wi-Fi</string>
-    <string name="network_traffic_warning_text">MIUI nemôže vypočítať spotrebu dát pre jednotlivé systémové aplikácie. Podrobnosti o spotrebe dát nájdete v jednotivých aplikáciách.</string>
+    <string name="network_traffic_warning_text">HyperOS nemôže vypočítať spotrebu dát pre jednotlivé systémové aplikácie. Podrobnosti o spotrebe dát nájdete v jednotivých aplikáciách.</string>
     <string name="network_traffic_warning_title">Spotreba dát pre systémové aplikácie</string>
     <string name="networkchanged_exception_summary">Pripojenie k sieti bolo zmenené. Skontrolujte ho znova.</string>
     <string name="networkchanged_exception_title">Pripojenie zmenené</string>
@@ -2945,8 +2945,8 @@ Vaše zariadenie je teraz %s rýchlejšie."</string>
     <string name="notification_summary_cmcc_app_check">Zobraziť podrobnosti</string>
     <string name="notification_summary_of_garbage_cleanup">Vaše nepotrebné súbory dosiahli %s</string>
     <string name="notification_summary_of_low_memory">Ak nie je dostatok miesta, aplikácie sa nenainštalujú</string>
-    <string name="notification_sysapp_cracked_text">Skontrolujte si vašu verziu MIUI na našom fóre HyperOS.sk</string>
-    <string name="notification_sysapp_cracked_title">Neznáma verzia MIUI</string>
+    <string name="notification_sysapp_cracked_text">Skontrolujte si vašu verziu HyperOS na našom fóre HyperOS.sk</string>
+    <string name="notification_sysapp_cracked_title">Neznáma verzia HyperOS</string>
     <string name="notification_title">%1$s-%2$s: %3$s využité</string>
     <string name="notification_title_cmcc_app_check">Od poslednej kontroly: %d dní</string>
     <string name="notification_title_firewall_blocked">Blokované</string>
@@ -3088,7 +3088,7 @@ Tento proces skracuje životnosť batérie."</string>
     <string name="optimize_result_button_update_now">Aktualizovať</string>
     <string name="optimize_result_header_view_summary">Zrýchlenie</string>
     <string name="optimize_result_summary_sucurity_risk">Niektoré bezpečnostné funkcie sú vypnuté. Zapnite ich pre ochranu vášho súkromia:</string>
-    <string name="optimize_result_summary_system_default_settings">Používanie MIUI aplikácií zvyšuje úroveň stability a zabezpečenia systému.</string>
+    <string name="optimize_result_summary_system_default_settings">Používanie HyperOS aplikácií zvyšuje úroveň stability a zabezpečenia systému.</string>
     <string name="optimize_result_title_sucurity_risk">Nájdená bezpečnostná hrozba</string>
     <string name="optimize_result_title_system_default_settings">Predvolené nastavenia boli zmenené</string>
     <string name="optimize_result_title_uninstall_apps">Apl.</string>
@@ -3175,7 +3175,7 @@ Tento proces skracuje životnosť batérie."</string>
     <string name="pc_fast_charge_notifi_switch_title">Upozorniť na zrýchlenie</string>
     <string name="pc_fast_charge_notifi_title">%dW nabíjanie</string>
     <string name="pc_fast_charge_notifi_title_on">Zastaviť zrýchlené nabíjanie</string>
-    <string name="pc_fast_charge_switch_summary">Povoliť zrýchlené nabíjanie. MIUI bude uprednostňovať rýchlosť nabíjania a zároveň zaistí bezpečnosť vášho zariadenia. Čím nižšie nabitá je vaša batéria, tým rýchlejšie sa nabije. Táto funkcia môže vaše zariadenie zahriať.</string>
+    <string name="pc_fast_charge_switch_summary">Povoliť zrýchlené nabíjanie. HyperOS bude uprednostňovať rýchlosť nabíjania a zároveň zaistí bezpečnosť vášho zariadenia. Čím nižšie nabitá je vaša batéria, tým rýchlejšie sa nabije. Táto funkcia môže vaše zariadenie zahriať.</string>
     <string name="pc_fast_charge_switch_title">Zrýchliť nabíjanie</string>
     <string name="pc_fast_charge_switch_toast_message">Zmeny budú použité pri ďalšom nabíjaní</string>
     <string name="pc_fast_charge_title">Zrýchliť nabíjanie</string>
@@ -3275,7 +3275,7 @@ Tento proces skracuje životnosť batérie."</string>
     <string name="permission_instruction_dont_disturb">Toto povolenie umožňuje aplikáciám zapnúť a vypnúť režim Nerušiť.</string>
     <string name="permission_instruction_draw_overlay">Toto povolenie umožňuje aplikáciám zobrazovať plávajúce okná cez akékoľvek iné rozhranie vášho zariadenia, čo môže mať vplyv na bežné používanie iných aplikácií. Škodlivé aplikácie môžu toto povolenie použiť na čítanie alebo zhromažďovanie súkromných informácií (napr. Hesiel) cez priehľadné plávajúce okná.</string>
     <string name="permission_instruction_external_storage">Toto povolenie umožňuje aplikáciám prístup k fotografiám, médiám a súborom vo vašom zariadení. Pri tomto povolení buďte opatrní, aby ste predišli zbytočnému prezradeniu súkromných informácií.</string>
-    <string name="permission_instruction_gallery">Z dôvodu ochrany vášho súkromia vám MIUI umožňuje rozhodnúť sa, či povolíte aplikáciám s povolením úložiska prístup do Galérie.</string>
+    <string name="permission_instruction_gallery">Z dôvodu ochrany vášho súkromia vám HyperOS umožňuje rozhodnúť sa, či povolíte aplikáciám s povolením úložiska prístup do Galérie.</string>
     <string name="permission_instruction_get_accounts">Toto povolenie umožňuje aplikáciám prístup k zoznamu účtov uložených vo vašom zariadení. Tento zoznam môže obsahovať všetky vaše osobné účty vytvorené nainštalovanými aplikáciami, ako aj účty z platforiem sociálnych médií a komunikačných nástrojov.</string>
     <string name="permission_instruction_install_shortcuts">Toto povolenie umožňuje aplikáciám vytvárať odkazy na ploche.</string>
     <string name="permission_instruction_install_unknown_source">Toto povolenie umožňuje aplikáciám inštalovať do vášho zariadenia ďalšie aplikácie. Škodlivé aplikácie používajú toto povolenie na inštaláciu aplikácií bez vášho potvrdenia.</string>
@@ -3307,8 +3307,8 @@ Tento proces skracuje životnosť batérie."</string>
     <string name="permission_instruction_send_payment_sms">Toto povolenie umožňuje aplikáciám odosielať platené textové správy.</string>
     <string name="permission_instruction_send_sms">Toto povolenie umožňuje aplikáciám odosielať textové správy, čo môže spôsobiť ďalšie poplatky. Škodlivé aplikácie môžu toto povolenie používať na odosielanie platených správ bez vášho súhlasu.</string>
     <string name="permission_instruction_show_locked">Toto povolenie umožňuje aplikáciám zobrazovať položky na uzamknutej obrazovke. Škodlivé aplikácie môžu toto povolenie používať na to, aby vám zobrazovali nepríjemné reklamy.</string>
-    <string name="permission_instruction_sociality">Z dôvodu ochrany vášho súkromia vám MIUI umožňuje rozhodnúť sa, či povolíte aplikáciám, ktoré majú povolenia úložiska, prístup k vašim správam v aplikáciách sociálnych médií.</string>
-    <string name="permission_instruction_storage">Z dôvodu ochrany vášho súkromia vám MIUI umožní rozhodnúť sa, či povolíte aplikáciám, ktoré majú povolenia úložiska, prístup do Galérie a k vašim správam v aplikáciách sociálnych médií..</string>
+    <string name="permission_instruction_sociality">Z dôvodu ochrany vášho súkromia vám HyperOS umožňuje rozhodnúť sa, či povolíte aplikáciám, ktoré majú povolenia úložiska, prístup k vašim správam v aplikáciách sociálnych médií.</string>
+    <string name="permission_instruction_storage">Z dôvodu ochrany vášho súkromia vám HyperOS umožní rozhodnúť sa, či povolíte aplikáciám, ktoré majú povolenia úložiska, prístup do Galérie a k vašim správam v aplikáciách sociálnych médií..</string>
     <string name="permission_instruction_touch_pay">Toto povolenie umožňuje aplikáciám uskutočňovať bezkontaktné platby.</string>
     <string name="permission_instruction_use_sip">Toto povolenie umožňuje aplikáciám používať videoslužby SIP.</string>
     <string name="permission_instruction_vr_assistant">Toto povolenie umožňuje aplikáciám využívať služby asistenta VR.</string>
@@ -3405,7 +3405,7 @@ Tento proces skracuje životnosť batérie."</string>
     <string name="power_center_dialog_msg_bottom">Môžete predĺžiť životnosť batérie o %1$dh %2$dm. Povoliť Šetrenie batérie?</string>
     <string name="power_center_dialog_msg_title">Povoľte pre získanie %1$s extra času. Tieto úlohy budú vykonané pre šetrenie batérie:</string>
     <string name="power_center_dialog_msg_title_screen_on">Ak zapnete túto funkciu, získate %1$s času displeja. Tu sú opatrenia, ktoré ušetria batériu:</string>
-    <string name="power_center_dialog_msg_top">Keď je povolené Šetrenie batérie, MIUI vykoná nasledovné akcie:</string>
+    <string name="power_center_dialog_msg_top">Keď je povolené Šetrenie batérie, HyperOS vykoná nasledovné akcie:</string>
     <string name="power_center_hints_scan_danger_result">Môžete opraviť problémy s batériou</string>
     <string name="power_center_list_item_auto_brightness">Nastavte automatický jas displeja</string>
     <string name="power_center_list_item_close_bluetooth">Vypnúť Bluetooth</string>
@@ -3422,7 +3422,7 @@ Tento proces skracuje životnosť batérie."</string>
     <string name="power_center_night_charge_noti_title">Optimalizované nabíjanie je zapnuté</string>
     <string name="power_center_night_charge_protection">Optimalizované nabíjanie</string>
     <string name="power_center_night_charge_protection_setting">Zobraziť viac nastavení v Optimalizácia &gt; Batéria.</string>
-    <string name="power_center_night_charge_protection_summary">Pre zníženie starnutia batérie, MIUI sa naučí vaše zvyky nabíjania batérie pre obmedzenie nepretržitého nabíjania</string>
+    <string name="power_center_night_charge_protection_summary">Pre zníženie starnutia batérie, HyperOS sa naučí vaše zvyky nabíjania batérie pre obmedzenie nepretržitého nabíjania</string>
     <string name="power_center_one_key_save">Optimalizovať</string>
     <string name="power_center_ontime_boot">Čas zapnutia</string>
     <string name="power_center_ontime_shutdown">Čas vypnutia</string>
@@ -3482,7 +3482,7 @@ Tento proces skracuje životnosť batérie."</string>
     <string name="power_customizer_cancel">Zrušiť</string>
     <string name="power_customizer_ok">OK</string>
     <string name="power_dailog_night_charge_protection_done">Rozumiem</string>
-    <string name="power_dailog_night_charge_protection_summary">Vyzerá to tak, že vaša batéria je takmer stále nabitá naplno, čo spôsobuje jej rýchle starnutie. MIUI povolilo optimalizáciu nabíjania pre zamedzenie tohto problému.</string>
+    <string name="power_dailog_night_charge_protection_summary">Vyzerá to tak, že vaša batéria je takmer stále nabitá naplno, čo spôsobuje jej rýchle starnutie. HyperOS povolilo optimalizáciu nabíjania pre zamedzenie tohto problému.</string>
     <string name="power_dialog_cancel">Zrušiť</string>
     <string name="power_dialog_ok">OK</string>
     <string name="power_dialog_performance_mode_checkbox">Prepnúť na obnovovaciu frekvenciu 120 Hz</string>
@@ -3662,7 +3662,7 @@ Tento proces skracuje životnosť batérie."</string>
     <string name="pp_app_permission_settings">Povolenia aplikácie</string>
     <string name="pp_app_permission_settings_detail">Povoliť aplikáciám použiť súkromné povolenia</string>
     <string name="pp_app_reads_clipboard_smart_reminder">Chrániť schránku</string>
-    <string name="pp_app_reads_clipboard_smart_reminder_detail">MIUI bude rozhodovať či aplikácie budú mať povolenie k prístupu k vašej schránke.</string>
+    <string name="pp_app_reads_clipboard_smart_reminder_detail">HyperOS bude rozhodovať či aplikácie budú mať povolenie k prístupu k vašej schránke.</string>
     <string name="pp_app_warning_permission_tips">Dostávať upozornenie o správaní aplikácie</string>
     <string name="pp_app_warning_permission_tips_detail">Dostávať upozornenie keď aplikácie načítajú vašu polohu, nahrajú zvuk alebo použijú fotoaparát</string>
     <string name="pp_block_mac">Obmedziť prístup k MAC adrese</string>
@@ -3687,7 +3687,7 @@ Tento proces skracuje životnosť batérie."</string>
     <string name="pp_interception_net_visit_content_manager">Chrániť Galériu a sociálne aplikácie</string>
     <string name="pp_interception_net_visit_content_manager_detail">Vyberte ktoré aplikácie majú povolenie pre prístup k fotografiám, videám a správam</string>
     <string name="pp_lab_compact_blur_location">Aplikácie s približnou polohou</string>
-    <string name="pp_lab_compact_blur_location_summary">"Výberom možnosti \"Predvolené\" použijete funkciu približnej polohy systému Android alebo výberom možnosti \"Všetky\" prepnete na MIUI."</string>
+    <string name="pp_lab_compact_blur_location_summary">"Výberom možnosti \"Predvolené\" použijete funkciu približnej polohy systému Android alebo výberom možnosti \"Všetky\" prepnete na HyperOS."</string>
     <string name="pp_local_msg">Informácie o polohe</string>
     <string name="pp_manage_apps_location_information">Povoliť aplikáciám prístup k polohe</string>
     <string name="pp_manage_track">Monitorovať sledovače</string>
@@ -3705,7 +3705,7 @@ Tento proces skracuje životnosť batérie."</string>
     <string name="pp_privacy_lab_blur_location">Približná poloha</string>
     <string name="pp_privacy_lab_blur_location_summary">Nedovoľte aplikáciám načítať vašu presnú polohu</string>
     <string name="pp_privacy_lab_clipboard">Ochrana schránky</string>
-    <string name="pp_privacy_lab_clipboard_summary">Povoliť MIUI rozhodovať či aplikácia môže pristupovať ku skopírovaným dátam v schránke</string>
+    <string name="pp_privacy_lab_clipboard_summary">Povoliť HyperOS rozhodovať či aplikácia môže pristupovať ku skopírovaným dátam v schránke</string>
     <string name="pp_privacy_lab_operator_get_number">Vyžadovať schválenie pre prístup k telefónnemu číslu</string>
     <string name="pp_privacy_lab_operator_get_number_summary">Vyžadujte, aby aplikácie požiadali o povolenie, keď chcú získať prístup k vášmu telefónnemu číslu na prihlásenie</string>
     <string name="pp_privacy_lab_operator_introduction">Upozornenie</string>
@@ -3726,7 +3726,7 @@ Tento proces skracuje životnosť batérie."</string>
     <string name="pp_read_phone_info_summary">Prístup k SIM</string>
     <string name="pp_record_msg">Nahrávanie zvuku</string>
     <string name="pp_safe_box">Súkromný priestor</string>
-    <string name="pp_safe_box_detail">Z dôvodu ochrany vášho súkromia vám MIUI umožňuje ovládať, aký majú aplikácie prístup k vašim fotografiám a histórii rozhovorov na sociálnych sieťach.</string>
+    <string name="pp_safe_box_detail">Z dôvodu ochrany vášho súkromia vám HyperOS umožňuje ovládať, aký majú aplikácie prístup k vašim fotografiám a histórii rozhovorov na sociálnych sieťach.</string>
     <string name="pp_safe_box_summary">Ochrana súkromia</string>
     <string name="pp_safe_input_pwd">Chráňte vaše heslá</string>
     <string name="pp_safe_keyboard">Bezpečná klávesnica</string>
@@ -3816,7 +3816,7 @@ Tento proces skracuje životnosť batérie."</string>
     <string name="pref_specified_adjust">Nastaviť vlastný limit dát</string>
     <string name="pref_specified_traffic_settings">Nastavenie limitu dát</string>
     <string name="pref_summary_lock_screen_memory_clean">Vyčistiť automaticky keď je displej zamknutý</string>
-    <string name="pref_summary_upload_data_usage">Odosielať štatistiky o využívaní ukladacieho priestoru pre zlepšenie používania MIUI.</string>
+    <string name="pref_summary_upload_data_usage">Odosielať štatistiky o využívaní ukladacieho priestoru pre zlepšenie používania HyperOS.</string>
     <string name="pref_summary_virus_white_list">Zabrániť vybraným aplikáciám pred vyčistením</string>
     <string name="pref_title_declaration">Dôležité upozornenie</string>
     <string name="pref_title_diagnostics_show_float_notification">Plávajúce upozornenia</string>
@@ -3914,15 +3914,15 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
     <string name="privacy_dialog_call_item_1">Prístup k info o zariadení</string>
     <string name="privacy_dialog_call_item_2">Uskutočniť hovory</string>
     <string name="privacy_dialog_call_item_3">Prístup stav zariadenia</string>
-    <string name="privacy_dialog_call_message">Ako predvolené, MIUI nedovolí nainštalovaným aplikáciám vykonať tieto akcie:</string>
+    <string name="privacy_dialog_call_message">Ako predvolené, HyperOS nedovolí nainštalovaným aplikáciám vykonať tieto akcie:</string>
     <string name="privacy_dialog_call_result">Stále budete môcť používať nainštalované aplikácie.</string>
     <string name="privacy_dialog_call_title">Chrániť hovory</string>
-    <string name="privacy_dialog_camera_message">Pre ochranu vášho súkromia, MIUI nedovolí aplikáciám používať fotoaparát na pozadí.</string>
+    <string name="privacy_dialog_camera_message">Pre ochranu vášho súkromia, HyperOS nedovolí aplikáciám používať fotoaparát na pozadí.</string>
     <string name="privacy_dialog_camera_title">Zakázať používanie fotoaparátu na pozadí</string>
     <string name="privacy_dialog_content_part1">Vitajte v Optimalizácii! Táto aplikácia stráži vaše zariadenie, či neobsahuje odpad a vírusy, a tiež vám umožňuje spravovať aplikácie, riadiť využitie mobilných dát, blokovať hovory a správy atď.</string>
     <string name="privacy_dialog_content_part2">Optimalizácia potrebuje zhromažďovať potrebné osobné informácie, aby vám mohla poskytovať svoje služby a mohla zlepšovať svoje funkcie. V našich Podmienkach používania sa dozviete, ako narábame s informáciami, ktoré zhromažďujeme. Svoj súhlas môžete kedykoľvek odvolať v Nastaveniach.</string>
     <string name="privacy_dialog_content_part3">Prečítajte si a vyjadrite súhlas s našimi Podmienkami používania a Ochranou súkromia pred použitím Optimalizácie.</string>
-    <string name="privacy_dialog_danger_mission_message">Android má niekoľko vysoko rizikových povolení (napr. povolenie na odoslanie push upozornenia). Pre ochranu vášho súkromia, MIUI sa vás opýta či chcete danú akciu vykonať.</string>
+    <string name="privacy_dialog_danger_mission_message">Android má niekoľko vysoko rizikových povolení (napr. povolenie na odoslanie push upozornenia). Pre ochranu vášho súkromia, HyperOS sa vás opýta či chcete danú akciu vykonať.</string>
     <string name="privacy_dialog_danger_mission_title">Vysoko rizikové povolenia</string>
     <string name="privacy_dialog_feedback">Feedback</string>
     <string name="privacy_dialog_message">Keď sa pripojíte k internetu, bude táto správa spolu s informáciami o operátorovi zašifrované a nahraná na Xiaomi servery, čo nám pomôže zlepšiť monitorovanie využitie dát.</string>
@@ -3957,7 +3957,7 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
     <string name="privacy_flares_recent_detail_more">Táto aplikácia použila citlivé povolenie</string>
     <string name="privacy_global_guide_permission_guide_text">Zobraziť upozornenie ak aplikácie nahrajú zvuk alebo použijú fotoaparát</string>
     <string name="privacy_guide_permission_guide_text">Môžete dostávať upozornenia v lište ak aplikácie získajú prístup k polohe, nahrajú zvuk, alebo zhotovia fotografie.</string>
-    <string name="privacy_guide_permission_use_text">MIUI bude počítať a zobrazí číslo koľkokrát aplikácia použije citlivé povolenia, vrátane polohy, kontaktov, histórie hovorov, a prístup k úložisku.</string>
+    <string name="privacy_guide_permission_use_text">HyperOS bude počítať a zobrazí číslo koľkokrát aplikácia použije citlivé povolenia, vrátane polohy, kontaktov, histórie hovorov, a prístup k úložisku.</string>
     <string name="privacy_hide_other_permissions">Skryť ostatné povolenia</string>
     <string name="privacy_informed_title">Štatistiky</string>
     <string name="privacy_input_icon_layout_status_bg_content_enable">Chránené</string>
@@ -3972,7 +3972,7 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
     <string name="privacy_look_all_permission_status">Všetky povolenia</string>
     <string name="privacy_look_all_permission_times">Všetky aplikácie</string>
     <string name="privacy_manage_title">Spravovať</string>
-    <string name="privacy_mask_summary">Namiesto vášho skutočného identifikátora, MIUI poskytne aplikáciám virtuálne ID (OAID). aplikáciám to zabráni sledovať vaše správanie, nastavenia a chráni vaše súkromie.</string>
+    <string name="privacy_mask_summary">Namiesto vášho skutočného identifikátora, HyperOS poskytne aplikáciám virtuálne ID (OAID). aplikáciám to zabráni sledovať vaše správanie, nastavenia a chráni vaše súkromie.</string>
     <string name="privacy_mask_title">Virtuálne ID je povolené</string>
     <string name="privacy_mode_dialog_title">Režim Návštevník</string>
     <string name="privacy_more_info_title">Zistite viac o funkcii ochrany súkromia</string>
@@ -4099,7 +4099,7 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
     <string name="privacy_show_password_summary">Ponechať heslá viditeľné na krátky čas</string>
     <string name="privacy_special_permission_summary">Sledovať ako aplikácie používajú citlivé povolenia</string>
     <string name="privacy_special_permission_title">Špeciálne povolenia</string>
-    <string name="privacy_summary">Naučte sa o ochrane súkromia v MIUI 12</string>
+    <string name="privacy_summary">Naučte sa o ochrane súkromia v HyperOS 12</string>
     <string name="privacy_thumbnail_blur_category_financial">Financie</string>
     <string name="privacy_thumbnail_blur_category_other">Ostatné</string>
     <string name="privacy_thumbnail_blur_category_photography">Foto a video</string>
@@ -4332,7 +4332,7 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
     <string name="security_center_slogan">Bezpečnosť je na prvom mieste.</string>
     <string name="security_guide_bubble_text">Otvoriť</string>
     <string name="security_guide_summary">Nástroje na jednom mieste</string>
-    <string name="security_guide_title">MIUI Nástroje</string>
+    <string name="security_guide_title">HyperOS Nástroje</string>
     <string name="security_protection_bottom_slogon">Najlepšie zabezpečenie</string>
     <string name="security_protection_title">Bezpečnosť</string>
     <string name="security_scan_card_clean_now">Kontrola</string>
@@ -4942,7 +4942,7 @@ Formátovanie vymaže všetky súbory na ^2. Zálohujte ich na iný ^3 alebo zar
     <string name="suggest_app_tolock_unmasked">Viditeľné upozornenia</string>
     <string name="suggest_scan_again">Odporúča sa kompletná kontrola pre vašu bezpečnosť.</string>
     <string name="summary_app_lock_disable">Zamknúť aplikácie pre ochranu vášho súkromia</string>
-    <string name="summary_auto_update">MIUI zvolí čo najlepší čas pre stiahnutie a nainštalovanie aktualizácií.</string>
+    <string name="summary_auto_update">HyperOS zvolí čo najlepší čas pre stiahnutie a nainštalovanie aktualizácií.</string>
     <string name="summary_background_connection">Zakázali ste pripojenie na pozadí pre túto aplikáciu.</string>
     <string name="summary_block_calls_from_cantacts">Používate Čiernu listinu.</string>
     <string name="summary_block_calls_from_strangers">Povolili ste len hovory z kontaktov.</string>
@@ -5049,12 +5049,12 @@ Formátovanie vymaže všetky súbory na ^2. Zálohujte ich na iný ^3 alebo zar
     <string name="switch_orientation_desc">Orientácia obrazovky</string>
     <string name="sys_app_prot_cracked_confirm">Rozumiem</string>
     <string name="sys_app_prot_cracked_login">Prihlásiť sa s Xiaomi účtom</string>
-    <string name="sys_app_prot_cracked_text_login">"Máte nainštalovanú verziu MIUI ktorá nepochádza zo stránky miui.com alebo en.miui.com.
+    <string name="sys_app_prot_cracked_text_login">"Máte nainštalovanú verziu HyperOS ktorá nepochádza zo stránky miui.com alebo en.miui.com.
  
- Skontrolujte si vašu verziu MIUI na našom fóre HyperOS.sk či sa nejedná o FAKE ROM vytvorenú samotným predajcom ktorá môže obsahovať škodlivé aplikácie a kódy ktoré ohrozujú vaše súkromie."</string>
-    <string name="sys_app_prot_cracked_text_unlogin">"Máte nainštalovanú verziu MIUI ktorá nepochádza zo stránky miui.com alebo en.miui.com. Prihláste sa vašim Xiaomi účtom pre deaktivovanie tohoto upozornenia.
+ Skontrolujte si vašu verziu HyperOS na našom fóre HyperOS.sk či sa nejedná o FAKE ROM vytvorenú samotným predajcom ktorá môže obsahovať škodlivé aplikácie a kódy ktoré ohrozujú vaše súkromie."</string>
+    <string name="sys_app_prot_cracked_text_unlogin">"Máte nainštalovanú verziu HyperOS ktorá nepochádza zo stránky miui.com alebo en.miui.com. Prihláste sa vašim Xiaomi účtom pre deaktivovanie tohoto upozornenia.
  
- Skontrolujte si vašu verziu MIUI na našom fóre HyperOS.sk či sa nejedná o FAKE ROM vytvorenú samotným predajcom ktorá môže obsahovať škodlivé aplikácie a kódy ktoré ohrozujú vaše súkromie."</string>
+ Skontrolujte si vašu verziu HyperOS na našom fóre HyperOS.sk či sa nejedná o FAKE ROM vytvorenú samotným predajcom ktorá môže obsahovať škodlivé aplikácie a kódy ktoré ohrozujú vaše súkromie."</string>
     <string name="sys_app_prot_cracked_title">Bezpečnostné riziko</string>
     <string name="sys_cpu_title">CPU</string>
     <string name="sys_freememory_title">Dostupné</string>
@@ -5169,7 +5169,7 @@ Rešpektujeme a chránime vaše súkromie."</string>
     <string name="tc_sms_report_get_sms_successs">Data usage SMS format updated</string>
     <string name="tc_sms_report_get_sms_timeout">"Couldn't get data SMS format: timed out"</string>
     <string name="tc_sms_report_get_success">"Received data usage report SMS from carrier. Make sure it's accurate and submit it to us."</string>
-    <string name="tc_sms_report_get_success_notify_body">Make sure the report is accurate and submit it to MIUI.</string>
+    <string name="tc_sms_report_get_success_notify_body">Make sure the report is accurate and submit it to HyperOS.</string>
     <string name="tc_sms_report_get_success_notify_title">Received data usage report SMS</string>
     <string name="tc_sms_report_geting_sms">Getting data usage report SMS</string>
     <string name="tc_sms_report_notify_correction_body">Go to the Data usage app in Security Center and try again manually.</string>
@@ -5209,7 +5209,7 @@ Rešpektujeme a chránime vaše súkromie."</string>
     <string name="thermal_tips_message">Hranie hier vo výkonnom režime môže spôsobiť prehrievanie zariadenia.</string>
     <string name="thermal_tips_title">Upozornenie</string>
     <string name="third_application">Nainštalované aplikácie</string>
-    <string name="third_desktop_dialog_content">Launcher tretej strany môže predstavovať riziko pre vaše súkromné dáta a spotrebu batérie. Môžete použiť len launcher schválený MIUI.</string>
+    <string name="third_desktop_dialog_content">Launcher tretej strany môže predstavovať riziko pre vaše súkromné dáta a spotrebu batérie. Môžete použiť len launcher schválený HyperOS.</string>
     <string name="third_desktop_dialog_ok">Rozumiem</string>
     <string name="third_desktop_dialog_title">Chyba</string>
     <string name="three_percent_total_pkg">%s (3%% z mesačného objemu dát)</string>
@@ -5274,7 +5274,7 @@ Rešpektujeme a chránime vaše súkromie."</string>
     <string name="title_dark_mode">Niektoré položky nie sú zobrazené správne"</string>
     <string name="title_data_flow">Kontrolovať spotrebu dát</string>
     <string name="title_data_flow_monitor">Sledovanie spotreby dát je zapnuté</string>
-    <string name="title_default_app">MIUI %s nie je nastavené ako predvolené</string>
+    <string name="title_default_app">HyperOS %s nie je nastavené ako predvolené</string>
     <string name="title_dev_model_off">Nastavenia pre vývojárov sú vypnuté</string>
     <string name="title_dev_no">Možnosti pre vývojárov zapnuté</string>
     <string name="title_dev_yes">Možnosti pre vývojárov vypnuté</string>
@@ -5299,7 +5299,7 @@ Rešpektujeme a chránime vaše súkromie."</string>
     <string name="title_live_talk_purchase">Top up now</string>
     <string name="title_mifi_insurance">Predĺžená záruka</string>
     <string name="title_miui_update">Dostupná aktualizácia</string>
-    <string name="title_miui_update_latest">MIUI je aktuálne</string>
+    <string name="title_miui_update_latest">HyperOS je aktuálne</string>
     <string name="title_mms_no">Filter správ vypnutý</string>
     <string name="title_mms_yes">Filter správ zapnutý</string>
     <string name="title_more_setting">Ďalšie nastavenia</string>
@@ -5696,7 +5696,7 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="warningcenter_action_check">Zobraziť</string>
     <string name="warningcenter_alert_home">Poloha</string>
     <string name="warningcenter_alert_room">Izba</string>
-    <string name="warningcenter_alert_source">MIUI Centrum Varovania | Zdroj: %s</string>
+    <string name="warningcenter_alert_source">HyperOS Centrum Varovania | Zdroj: %s</string>
     <string name="warningcenter_alert_time">Čas</string>
     <string name="warningcenter_alert_warning_time">Doručené: %s</string>
     <string name="warningcenter_earthquake_info">Varovanie na zemetrasenia</string>
@@ -5721,7 +5721,7 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="warningcenter_mijia_page_title">Varovania</string>
     <string name="warningcenter_mijia_title">Varovania zo Smart home</string>
     <string name="warningcenter_smarthome">MiHome</string>
-    <string name="warningcenter_title">MIUI Centrum Varovania</string>
+    <string name="warningcenter_title">HyperOS Centrum Varovania</string>
     <string name="website">Webstránka</string>
     <string name="wednesday">Streda</string>
     <string name="wednesday_short">Str</string>
@@ -5795,8 +5795,8 @@ Skúste zväčšiť rozlíšenie!"</string>
      <string name="terminal_privacy_ability_voice_summary">Hlasové príkazy a inteligentné titulky</string>
      <string name="terminal_privacy_instruction">Ochrana súkromia v zariadení zahŕňa funkcie, ktoré zaistia, že vaše osobné údaje budú uložené v tomto zariadení a nebudú nahrané do cloudu</string>    
      
-<string name="app_manager_as_dlg_msg_new">"Povolenie automatického spustenia aplikácie môže zvýšiť množstvo pamäte a výdrž batérie, ktorú využíva. MIUI optimalizuje povolenia automatického spustenia aplikácií, ktoré často nepoužívate, aby sa zlepšil výkon vášho zariadenia."</string >
-<string name="auto_start_tips">"MIUI optimalizuje povolenia automatického spustenia aplikácií, ktoré často nepoužívate, aby sa zlepšil výkon zariadenia."</string>
+<string name="app_manager_as_dlg_msg_new">"Povolenie automatického spustenia aplikácie môže zvýšiť množstvo pamäte a výdrž batérie, ktorú využíva. HyperOS optimalizuje povolenia automatického spustenia aplikácií, ktoré často nepoužívate, aby sa zlepšil výkon vášho zariadenia."</string >
+<string name="auto_start_tips">"HyperOS optimalizuje povolenia automatického spustenia aplikácií, ktoré často nepoužívate, aby sa zlepšil výkon zariadenia."</string>
      <string name="dialog_btn_yes_install_icon">Inštalovať</string>
      <string name="dialog_msg_install_manager_content">Chcete znova nainštalovať zabezpečenie?</string>
      <string name="gb_vision_enhance">Vylepšený vizuál</string>
@@ -5840,7 +5840,7 @@ Zapnutím jedného sa vypne druhý.“</string>
      <string name="chainstart_desc_for_exemption">Neskontrolovaná aplikácia \"%1$s\" sa otvára \"%2$s\". Pri platbách buďte opatrní.</string>
      <string name="cs_pickup_denoise_desc">Zníženie šumu prichádzajúceho zvuku pri používaní reproduktorov alebo slúchadiel</string>
      <string name="cs_pickup_denoise_title">Redukcia hluku</string>
-<string name="cta_main_purpose_new">"Vitajte v Optimalizáciíí! Optimalizácia a jej moduly (vrátane bezpečnostných komponentov MIUI, bezpečnostných a systémových služieb a Joyose) môžete použiť na uvoľnenie úložného priestoru, skenovanie vášho zariadenia na vírusy, kontrolu spotreby batérie, optimalizujte svoje zariadenie na hranie hier, spravujte aplikácie, prijímajte včasné varovania pred zemetrasením atď. Bezpečnostné komponenty MIUI sa pripojí k internetu a vykonajú bezpečnostné kontroly počas inštalácie aplikácií a uskutočňovania platieb."</string>
+<string name="cta_main_purpose_new">"Vitajte v Optimalizáciíí! Optimalizácia a jej moduly (vrátane bezpečnostných komponentov HyperOS, bezpečnostných a systémových služieb a Joyose) môžete použiť na uvoľnenie úložného priestoru, skenovanie vášho zariadenia na vírusy, kontrolu spotreby batérie, optimalizujte svoje zariadenie na hranie hier, spravujte aplikácie, prijímajte včasné varovania pred zemetrasením atď. Bezpečnostné komponenty HyperOS sa pripojí k internetu a vykonajú bezpečnostné kontroly počas inštalácie aplikácií a uskutočňovania platieb."</string>
      <string name="dynamic_performance_optimization_summary">Dynamické nastavenie rozlíšenia počas hrania</string>
      <string name="dynamic_performance_optimization_title">Dynamický výkon</string>
      <string name="gb_vision_enhance_frme_insertion_tips">"Inteligentná snímková frekvencia
@@ -5862,7 +5862,7 @@ Zapnutím jedného sa vypne druhý.“</string>
      
 <string name="about_autostart_gloabl">O automatickom spustení na pozadí</string>
      <string name="activity_title_auto_start_manager_global">Automatické spustenie na pozadí</string>
-<string name="dialog_msg_auto_start_declare_global">Niektoré aplikácie môžu nesprávne indikovať, že im MIUI zabránila v spustení. Skontrolujte povolenia, ktoré boli udelené jednotlivým aplikáciám v Nastaveniach.</string>
+<string name="dialog_msg_auto_start_declare_global">Niektoré aplikácie môžu nesprávne indikovať, že im HyperOS zabránila v spustení. Skontrolujte povolenia, ktoré boli udelené jednotlivým aplikáciám v Nastaveniach.</string>
      <string name="dialog_title_auto_start_declare_global">O automatickom spustení na pozadí</string>
      <string name="pc_continuity_has_open_save_mode_notifi_sumary">Šetrič batérie sa vypne, keď bude %1$s %2$s alebo úplne nabité</string>
      <string name="pc_continuity_has_open_save_mode_notifi_title">Zapnutý šetrič batérie na %s</string>
