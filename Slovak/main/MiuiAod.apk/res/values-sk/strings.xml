@@ -220,7 +220,7 @@ d. MMMM"</string>
     <string name="show_notification">Zobraziť upozornenia</string>
     <string name="show_notificaton">Zobraziť upozornenia</string>
     <string name="shownone_arround_image">Žiadne</string>
-    <string name="signature">Podpis</string>
+    <string name="signature">Nadpis</string>
     <string name="signature_default_content">Navštívte miuios.cz</string>
     <string name="standard_clock_panel">Štandardné</string>
     <string name="standard_style">Štandardný</string>
@@ -398,7 +398,7 @@ N e"</string>
       <string name="kg_template_description_rhombus">Čas je dôležitý. Dajte si záležať.</string>
       <string name="kg_template_title_classic">Klasické</string>
       <string name="kg_template_title_magazine">Časopis</string>
-      <string name="kg_template_title_mine">Uzamknúť obrazovku</string>
+      <string name="kg_template_title_mine">Zámok obrazovky</string>
       <string name="kg_template_title_rhombus">Kosoštvorec</string>
       <string name="kg_wallpaper_scale_hint_text">Stiahnutím prstov orežte</string>
       <string name="linkage_select_title">Animovať prechod na uzamknutú obrazovku</string>
@@ -411,7 +411,6 @@ N e"</string>
       <string name="sunrise_time_format_tomorrow_desc">"Zajtrajší východ slnka: %s"</string>
       <string name="sunset_time_format">Západ slnka %s</string>
       <string name="sunset_time_format_desc">Čas západu slnka: %s</string>
-      <string name="uvi_format">UVI %1$s %2$s</string>
       <string name="uvi_format_desc">Ultrafialový index: %1$s, %2$s</string>
       <string name="weather_no_data">Žiadne údaje o počasí</string>
       <string name="wind_direction_0">Severný vietor</string>
