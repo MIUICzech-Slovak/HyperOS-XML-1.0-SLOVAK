@@ -264,7 +264,7 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
     <string name="install_failed_system_incompatible">Táto aplikácia nie je kompatibilná s MIUI.</string>
     <string name="install_failed_verify_failed">Balík neprešiel overením a nemôže byť nainštalovaný.</string>
     <string name="install_failed_verify_timeout">Pri verifikácii tohto balíka vypršal časový limit. Skúste ho nainštalovať neskôr.</string>
-    <string name="install_from_appstore_hint">Odporúčame vám nainštalovať si aplikáciu z Google Play alebo miuios.cz</string>
+    <string name="install_from_appstore_hint">Odporúčame vám nainštalovať si aplikáciu z Google Play alebo HyperOS.sk</string>
     <string name="installing">Prebieha inštalácia...</string>
     <string name="keep_screen_on">Stay awake</string>
     <string name="keep_screen_on_summary">Screen will never sleep while charging</string>
@@ -327,7 +327,7 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
     <string name="menu_show_system">Zobraziť systémové aplikácie</string>
     <string name="message_apk_checking">Kontrola apk...</string>
     <string name="message_appstore_verify_has_new_version">Novšia verzia aplikácie je dostupná v Google Play. Chcete ju nainštalovať?</string>
-    <string name="message_appstore_verify_inconsistent">Podpis tejto aplikácie je odlišný od aplikácie v Google Play, bezpečnejšie bude inštalovať ju z oficiálneho zdroja. Ak sa jedná o preloženú aplikáciu od miuios.cz, toto varovanie je bezpredmetné."</string>
+    <string name="message_appstore_verify_inconsistent">Podpis tejto aplikácie je odlišný od aplikácie v Google Play, bezpečnejšie bude inštalovať ju z oficiálneho zdroja. Ak sa jedná o preloženú aplikáciu od HyperOS.sk, toto varovanie je bezpredmetné."</string>
     <string name="message_appstore_verify_ok">Aplikácia v Google play prešla kontrolou vírusov a iných škodlivých kódov.</string>
     <string name="message_full_scanning">Kontrola...</string>
     <string name="message_install_in_market">Odporúčame inštalovať aplikáciu z Google Play</string>

@@ -33,7 +33,7 @@
                 "site": {
                     "stid": 131,
                     "title": "Zoznam zmien MIUI",
-                    "url": "http://www.miuios.cz/miui-changelog",
+                    "url": "http://www.HyperOS.sk/miui-changelog",
                     "thumb": "http://f2.market.mi-img.com/download/Browser/2e5183bd-0da2-475f-9434-2e1e2bb253ec",
                     "hash": "c22a9d1f"
                 }
@@ -57,7 +57,7 @@
                 "site": {
                     "stid": 354,
                     "title": "MIUI CZECH&SLOVAK",
-                    "url": "http://miuios.cz/",
+                    "url": "http://HyperOS.sk/",
                     "thumb": "http://f3.market.mi-img.com/download/Browser/5ebbf3b4-a2e2-4743-9eaa-41e14375fc1a",
                     "hash": "195aab13"
                 }

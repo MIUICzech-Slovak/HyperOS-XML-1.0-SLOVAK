@@ -24,7 +24,7 @@
     <string name="Dashboard_Perm_SU_Disabled_In_Stable">ROOT nie je dostupný v Stabilnej verzii MIUI</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Povolenie práv ROOT aplikáciám tretích strán môže spôsobiť nestabilitu systému, stratu Vašich osobných dát alebo poškodenie telefónu. Pre povolenie ROOT prejdite na vývojársku verziu MIUI."</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Stiahnuť MIUI</string>
-    <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miuios.cz/</string>
+    <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.HyperOS.sk/</string>
     <string name="Dashboard_Perm_SU_Switch">Práva ROOT</string>
     <string name="Generic_Canceling">Ukončovanie...</string>
     <string name="Generic_Check">Skontrolovať</string>

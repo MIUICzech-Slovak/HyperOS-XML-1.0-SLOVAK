@@ -2945,7 +2945,7 @@ Vaše zariadenie je teraz %s rýchlejšie."</string>
     <string name="notification_summary_cmcc_app_check">Zobraziť podrobnosti</string>
     <string name="notification_summary_of_garbage_cleanup">Vaše nepotrebné súbory dosiahli %s</string>
     <string name="notification_summary_of_low_memory">Ak nie je dostatok miesta, aplikácie sa nenainštalujú</string>
-    <string name="notification_sysapp_cracked_text">Skontrolujte si vašu verziu MIUI na našom fóre miuios.cz</string>
+    <string name="notification_sysapp_cracked_text">Skontrolujte si vašu verziu MIUI na našom fóre HyperOS.sk</string>
     <string name="notification_sysapp_cracked_title">Neznáma verzia MIUI</string>
     <string name="notification_title">%1$s-%2$s: %3$s využité</string>
     <string name="notification_title_cmcc_app_check">Od poslednej kontroly: %d dní</string>
@@ -5051,10 +5051,10 @@ Formátovanie vymaže všetky súbory na ^2. Zálohujte ich na iný ^3 alebo zar
     <string name="sys_app_prot_cracked_login">Prihlásiť sa s Xiaomi účtom</string>
     <string name="sys_app_prot_cracked_text_login">"Máte nainštalovanú verziu MIUI ktorá nepochádza zo stránky miui.com alebo en.miui.com.
  
- Skontrolujte si vašu verziu MIUI na našom fóre miuios.cz či sa nejedná o FAKE ROM vytvorenú samotným predajcom ktorá môže obsahovať škodlivé aplikácie a kódy ktoré ohrozujú vaše súkromie."</string>
+ Skontrolujte si vašu verziu MIUI na našom fóre HyperOS.sk či sa nejedná o FAKE ROM vytvorenú samotným predajcom ktorá môže obsahovať škodlivé aplikácie a kódy ktoré ohrozujú vaše súkromie."</string>
     <string name="sys_app_prot_cracked_text_unlogin">"Máte nainštalovanú verziu MIUI ktorá nepochádza zo stránky miui.com alebo en.miui.com. Prihláste sa vašim Xiaomi účtom pre deaktivovanie tohoto upozornenia.
  
- Skontrolujte si vašu verziu MIUI na našom fóre miuios.cz či sa nejedná o FAKE ROM vytvorenú samotným predajcom ktorá môže obsahovať škodlivé aplikácie a kódy ktoré ohrozujú vaše súkromie."</string>
+ Skontrolujte si vašu verziu MIUI na našom fóre HyperOS.sk či sa nejedná o FAKE ROM vytvorenú samotným predajcom ktorá môže obsahovať škodlivé aplikácie a kódy ktoré ohrozujú vaše súkromie."</string>
     <string name="sys_app_prot_cracked_title">Bezpečnostné riziko</string>
     <string name="sys_cpu_title">CPU</string>
     <string name="sys_freememory_title">Dostupné</string>

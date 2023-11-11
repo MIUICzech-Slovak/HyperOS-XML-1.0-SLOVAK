@@ -134,8 +134,8 @@
     <string name="fadeout">Zmiznutie</string>
     <string name="fairyland">Rozprávková krajina</string>
     <string name="fantasy">Fantasy</string>
-    <string name="fc_dialog_body">Zobrazte podrobnosti o chybe, skopírujte log a vložte na miuios.cz/rom pre jej ďalšiu analýzu.</string>
-    <string name="fc_dialog_jump_to_preview">Podrobnosti o chybe pre miuios.cz</string>
+    <string name="fc_dialog_body">Zobrazte podrobnosti o chybe, skopírujte log a vložte na HyperOS.sk/rom pre jej ďalšiu analýzu.</string>
+    <string name="fc_dialog_jump_to_preview">Podrobnosti o chybe pre HyperOS.sk</string>
     <string name="fieldtrip">Výlet do terénu</string>
     <string name="file_cannot_print">Nie je možné odoslať tento súbor.</string>
     <string name="file_cannot_screen_throw">Nie je možné vytlačiť tento súbor.</string>
