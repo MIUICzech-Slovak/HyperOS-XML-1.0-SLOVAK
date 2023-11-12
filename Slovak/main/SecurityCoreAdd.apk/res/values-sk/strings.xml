@@ -835,11 +835,12 @@ Ak tlačidlo podržíte %s sekúnd, namiesto toho otvoríte ponuku vypnutia."</s
       <string name="settings_keyboard_title">Klávesnica</string>
       <string name="settings_keyboard_warning">"Klávesnica nie je pripojená"</string>
       <string name="show_menu">Zobraziť ponuku</string>
+<string name="single_key_use_summary">"Na funkcie, ktoré vykonávajú ostatné 2 tlačidlá, použite tlačidlo Domov.
 Klepnutím na tlačidlo Domov sa vrátite späť.
 Dvojitým klepnutím otvoríte Nedávne."</string>
       <string name="space_deleted">Tento priestor bol odstránený</string>
       <string name="split_screen">Otvoriť rozdelenú obrazovku</string>
-      <string name="status_bar_settings_all_app_display_loading">Len chvíľku…</string>
+      <string name="status_bar_settings_all_app_display_loading">Načítavanie…</string>
       <string name="strong_suppression_summary">Vaše zariadenie bude menej reagovať na náhodný dotyk, niektoré ovládacie prvky gestami nemusia pri okrajoch fungovať</string>
       <string name="strong_suppression_title">Veľká oblasť</string>
       <string name="stylus_btn_continue">Ďalej</string>
@@ -855,7 +856,7 @@ Dvojitým klepnutím otvoríte Nedávne."</string>
       <string name="stylus_connect_fail_not_open_gps">"Nepodarilo sa pripojiť. Zapnite služby určovania polohy a skúste to znova."</string>
       <string name="stylus_connecting">Pripája sa…</string>
       <string name="stylus_function_and_action">Funkcie</string>
-      <string name="stylus_keyboard_settings_title">Dotykové pero &amp; klávesnica</string>
+      <string name="stylus_keyboard_settings_title">Dotykové pero a klávesnica</string>
       <string name="stylus_language_summary">Rozpoznať číslice a rukou písaný text v angličtine a ešte jednom vybranom jazyku</string>
       <string name="stylus_not_connect_message">"Dotykové pero nie je pripojené"</string>
       <string name="stylus_not_connect_message_new">Pripojte stylus na spárovanie</string>
