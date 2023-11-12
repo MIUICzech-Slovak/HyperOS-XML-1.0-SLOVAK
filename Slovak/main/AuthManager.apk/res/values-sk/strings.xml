@@ -458,7 +458,7 @@
     <string name="permdesc_location">Prístup k polohe</string>
     <string name="permdesc_location_background">Prístup k polohe na pozadí</string>
     <string name="permdesc_microphone">Nahrávať hovory a zvuk</string>
-    <string name="permdesc_nearby_devices">Povoliť aplikácii %1$s vyh+lada5 zariadenia v okolí a pripájať sa k nim?</string>
+    <string name="permdesc_nearby_devices">Povoliť aplikácii %1$s vyhľadať zariadenia v okolí a pripájať sa k nim?</string>
     <string name="permdesc_out_calls">Sledovať odchádzajúce hovory</string>
     <string name="permdesc_post_notification">Povoliť aplikácii %1$s upozornenia?</string>
     <string name="permdesc_process_outgoing_call">Povoliť aplikácii %1$s prijímať a ukončovať hovory?</string>
