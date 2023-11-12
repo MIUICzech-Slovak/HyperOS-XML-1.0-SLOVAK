@@ -1456,5 +1456,7 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
       <string name="wind_direction_7">SZ vietor</string>
       <string name="wind_direction_7_f">SZ vietor</string>
       <string name="wind_format">%1$s | Úroveň %2$s</string>
-           
+           <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">"Momentálne používate super tapetu. Ak vyberiete novú tapetu, použije sa na ploche aj na uzamknutej obrazovke a AOD sa obnoví na predchádzajúce nastavenie. Použiť teraz?"</string>
+           <string name="apply_wallpaper_warning_use_super_wallpaper">"Momentálne používate super tapetu. Ak vyberiete novú tapetu, bude použitá na ploche aj na uzamknutej obrazovke. Použiť teraz?"</string>
+           <string name="historical_wallpaper">Predchádzajúce</string>
 </resources>

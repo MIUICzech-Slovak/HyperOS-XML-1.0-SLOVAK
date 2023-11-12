@@ -7998,4 +7998,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
      <string name="runtime_permissions_summary_control_app_access">Ovládajte prístup aplikácií k svojim údajom</string>
      <string name="runtime_permissions_summary_no_permissions_granted">Nie sú udelené žiadne povolenia</string>
      <string name="runtime_permissions_summary_no_permissions_requested">Nepožadujú sa žiadne povolenia</string>
+     <string name="search_history_description">História vyhľadávania</string>
+<string name="search_history_clear_description">Vymazať históriu</string>
 </resources>
