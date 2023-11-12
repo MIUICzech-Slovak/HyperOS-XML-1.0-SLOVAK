@@ -938,4 +938,5 @@ Dvojitým klepnutím otvoríte Nedávne."</string>
       <string name="wake_suppression_title">Malá oblasť</string>
       <string name="xspace_account">Účty dvoch aplikácií</string>
       <string name="xspace_guide_content_bound">Dostupné aplikácie</string>
+      <string name="long_press_back_key">Dlhé stlačenie tlačidla Späť</string>
 </resources>

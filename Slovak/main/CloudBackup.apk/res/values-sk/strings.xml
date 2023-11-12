@@ -429,7 +429,7 @@ Pošlite tento kód technikovi."</string>
     <string name="self_phone_home">Tento telefón: %s</string>
     <string name="send_diagnosis_log">Odoslať denník diagnostiky</string>
     <string name="sending">Odosiela sa…</string>
-    <string name="session_action_btn_text_return_home">Domovská obrazovka</string>
+    <string name="session_action_btn_text_return_home">Domov</string>
     <string name="session_backup_apk_data_text">Zálohujú sa údaje WeChat…</string>
     <string name="session_backup_apk_text">Zálohuje sa rozloženie domovskej obrazovky a systémové nastavenia…</string>
     <string name="session_ending_backup_text">Takmer hotovo...</string>

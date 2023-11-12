@@ -4631,7 +4631,7 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
     <string name="special_perm_intercept_barrier_free">Prístupnosť</string>
     <string name="special_perm_intercept_camera_msg">Obmedziť akúkoľvek aktivitu fotoaparátu</string>
     <string name="special_perm_intercept_camera_title">Obmedziť používanie fotoaparátu</string>
-    <string name="special_perm_intercept_chat_msg">Vrátane upozornení z WeChat a QQ</string>
+    <string name="special_perm_intercept_chat_msg">Vrátane upozornení z Facebooku</string>
     <string name="special_perm_intercept_chat_title">Čítať upozornení z instantných správ</string>
     <string name="special_perm_intercept_check_tip">Som si vedomý možných rizík a dobrovoľne preberám všetky možné následky.</string>
     <string name="special_perm_intercept_control_screen_msg">Čítať všetok obsah obrazovky a povoliť zobrazovanie položiek v iných aplikáciách</string>
