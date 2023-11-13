@@ -644,7 +644,7 @@ si zaslúži vlastnú aplikáciu"</string>
       <string name="double_click_volume_down_when_lock">Dvakrát stlačte zníženie hlasitosti, keď je obrazovka uzamknutá</string>
       <string name="double_knock">Dvojité klepnutie kĺbom</string>
       <string name="dump_log">Získať denníky súvisiace s problémami</string>
-      <string name="dump_log_summary">"Táto funkcia je navrhnutá na generovanie denníka %s v beta verzii MIUI. Používajte ju opatrne.
+      <string name="dump_log_summary">"Táto funkcia je navrhnutá na generovanie denníka %s v beta verzii HyperOS. Používajte ju opatrne.
 Vygenerované protokoly si môžete pozrieť v Správcovi súborov."</string>
       <string name="dump_log_title">O tejto funkcii</string>
       <string name="edge_mode_state_summary">"Oblasť okolo zakrivených hrán nereaguje na dotyk"</string>
