@@ -7783,31 +7783,25 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="zone_auto_title">Časové pásmo podľa siete</string>
     <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
     <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
-    
     <string name="show_alarm_icon_title">Zobraziť ikonu budíka</string>
     <string name="show_bt_icon_title">Zobraziť ikonu Bluetooth</string>
     <string name="show_mute_icon_title">Zobraziť ikonu Režimu nerušiť</string>
     <string name="show_nfc_icon_title">Zobraziť ikonu NFC</string>   
-    
     <string name="status_bar_icons_title">Ikony v lište</string>    
-    
-<string name="codec_low_latency_summary">Minimalizácia oneskorenia počas synchronizácie zvuku a videa hry</string>
+      <string name="codec_low_latency_summary">Minimalizácia oneskorenia počas synchronizácie zvuku a videa hry</string>
       <string name="codec_low_latency_title">Nízke oneskorenie</string>     
-      
-<string name="bt_lhdc_declaration">Keď zariadenie Bluetooth podporuje LHDC, bude predvolene pripojené. LHDC umožňuje prehrávať vysokokvalitný zvuk a znižuje latenciu počas hrania, no zároveň zvyšuje spotrebu energie. Počas prehrávania sa môžu vyskytnúť problémy v dôsledku hardvérových obmedzení Bluetooth.</string>
+      <string name="bt_lhdc_declaration">Keď zariadenie Bluetooth podporuje LHDC, bude predvolene pripojené. LHDC umožňuje prehrávať vysokokvalitný zvuk a znižuje latenciu počas hrania, no zároveň zvyšuje spotrebu energie. Počas prehrávania sa môžu vyskytnúť problémy v dôsledku hardvérových obmedzení Bluetooth.</string>
       <string name="bt_lhdc_dialog_summary">LHDC umožňuje prehrávať vysokokvalitný zvuk a znižuje latenciu počas hrania, no zároveň zvyšuje spotrebu energie. Túto funkciu je možné vypnúť v Nastaveniach.</string>
       <string name="bt_lhdc_dialog_title">Aktuálne zariadenie podporuje LHDC, ktoré bolo predvolene pripojené:</string>
       <string name="bt_lhdc_open_dialog_summary">LHDC umožňuje prehrávať vysokokvalitný zvuk a znižuje latenciu počas hrania, no zároveň zvyšuje spotrebu energie. Počas prehrávania sa môžu vyskytnúť problémy v dôsledku hardvérových obmedzení Bluetooth.</string>
       <string name="bt_lhdc_open_dialog_title">Zapnúť LHDC?</string>
       <string name="bt_lhdc_pre_title">LHDC</string>
       <string name="bt_lhdc_property">Nastavenia</string>       
-      
-<string name="screen_effect_adapt_color_summary">Upraviť farby podľa aktuálneho osvetlenia</string>
+      <string name="screen_effect_adapt_color_summary">Upraviť farby podľa aktuálneho osvetlenia</string>
       <string name="screen_effect_adapt_color_title">Živé</string>
       <string name="screen_effect_origin_color_summary">Reprodukcia realistických farieb pomocou kalibrácie farieb</string>
       <string name="screen_effect_origin_color_title">Reálne farby PRO</string>           
-      
-<string name="accessibility_category_clone">Klonovanie profilových účtov</string>
+      <string name="accessibility_category_clone">Klonovanie profilových účtov</string>
       <string name="activity_title_root_acquired">Povoliť prístup root</string>
       <string name="activity_title_root_manager">Prístup root</string>
       <string name="activity_title_root_note">O prístupe typu root</string>
@@ -7854,7 +7848,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
       <string name="bluetooth_device_title_audio_share_success">teraz počúvate s %1$s</string>
       <string name="bluetooth_pairing_group_late_bonding">Pridať nového člena do existujúcej koordinovanej skupiny</string>
       <string name="bluetooth_show_leaudio_device_details">Zobraziť prepínač zvuku LE v Podrobnosti o zariadení</string>
-<string name="bt_half_close_switch_summary">Ak vypnete Bluetooth, automaticky sa znova zapne nasledujúci deň a vaše zariadenia sa znova pripoja</string>
+      <string name="bt_half_close_switch_summary">Ak vypnete Bluetooth, automaticky sa znova zapne nasledujúci deň a vaše zariadenia sa znova pripoja</string>
       <string name="bt_half_close_switch_title">Vždy nechajte Bluetooth zapnuté</string>
       <string name="category_clone">Klonovať</string>
       <string name="connected_devices_confirm">Uložiť</string>
@@ -7903,7 +7897,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
       <string name="lyra_auto_connect_title">Automaticky zapnúť hotspot</string>
       <string name="managed_profile_settings_footer">Keď sú pracovné aplikácie vypnuté, sú pozastavené a nie je možné k nim pristupovať ani vám posielať upozornenia</string>
       <string name="manufactured_year">Rok výroby</string>
-<string name="media_transfer_default_device_name">Pripojené zariadenie</string>
+      <string name="media_transfer_default_device_name">Pripojené zariadenie</string>
       <string name="media_transfer_dock_speaker_device_name">Dokovací reproduktor</string>
       <string name="media_transfer_external_device_name">Externé zariadenie</string>
       <string name="miui_sos_focus_notification_ticker">Núdzové SOS aktivované</string>
@@ -7979,15 +7973,14 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
       <string name="view_fingerprint_privacy_policy"><Data>Prečítajte si &lt;a href =https://privacy.mi.com/setting-fingerprint/%1$s/>\"Odtlačky prstov &amp;#038; zámka obrazovky a vyjadrite s nimi súhlas \" Vyhlásenie o ochrane osobných údajov&lt;/a> predtým, než budete pokračovať.</Data></string>
       <string name="wifi_validation">Overuje sa sieť…</string>                        
       <string name="eye_gaze_dialog_message">"Keď zapnete funkciu Rozpoznať pohľad, zariadenie sa nezablokuje, keď zistí, že sa pozeráte na obrazovku. Charakteristiky vašej tváre nebudú analyzované a informácie o vašej tvári nebudú byť uložené vo vašom zariadení alebo odovzdané do cloudu. Zapnúť teraz?“</string>
-<string name="eye_gaze_dialog_title">Bezpečnostné upozornenie</string>      
-<string name="emergency_settings_preference_title">Bezpečnosť a tieseň</string>
-<string name="privacy_header">Súkromie</string>
-<string name="privacy_dashboard_title">Súkromie</string>
-    <string name="volume_key_launch_camera">Otvoriť fotoaparát</string>
-    <string name="volume_key_launch_camera_and_take_photo">Zhotoviť snímku</string>
-    
-     <string name="otg_new_tip">Zapnite OTG, aby ste mohli svoje zariadenie pripojiť priamo k iným zariadeniam pomocou USB. Táto funkcia sa automaticky vypne po %d minútach nečinnosti.</string>
- <string name="mic_toggle_description">Pre aplikácie a služby. Ak je toto nastavenie vypnuté, údaje mikrofónu sa môžu stále zdieľať, keď zavoláte na tiesňové číslo.</string>
+      <string name="eye_gaze_dialog_title">Bezpečnostné upozornenie</string>      
+      <string name="emergency_settings_preference_title">Bezpečnosť a tieseň</string>
+      <string name="privacy_header">Súkromie</string>
+      <string name="privacy_dashboard_title">Súkromie</string>
+      <string name="volume_key_launch_camera">Otvoriť fotoaparát</string>
+      <string name="volume_key_launch_camera_and_take_photo">Zhotoviť snímku</string>
+      <string name="otg_new_tip">Zapnite OTG, aby ste mohli svoje zariadenie pripojiť priamo k iným zariadeniam pomocou USB. Táto funkcia sa automaticky vypne po %d minútach nečinnosti.</string>
+      <string name="mic_toggle_description">Pre aplikácie a služby. Ak je toto nastavenie vypnuté, údaje mikrofónu sa môžu stále zdieľať, keď zavoláte na tiesňové číslo.</string>
      <string name="mic_toggle_title">Prístup k mikrofónu</string>
      <string name="app_data_sharing_updates_summary">Skontrolujte aplikácie, ktoré zmenili spôsob zdieľania údajov o vašej polohe</string>
      <string name="app_data_sharing_updates_title">Aktualizácie zdieľania údajov o polohe</string>
@@ -7996,8 +7989,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
      <string name="show_clip_access_notification">Zobraziť prístup do schránky</string>
      <string name="show_clip_access_notification_summary">Zobraziť správu, keď aplikácie pristupujú k textu, obrázkom alebo inému obsahu, ktorý ste skopírovali</string>
      <string name="runtime_permissions_summary_control_app_access">Ovládajte prístup aplikácií k svojim údajom</string>
-     <string name="runtime_permissions_summary_no_permissions_granted">Nie sú udelené žiadne povolenia</string>
-     <string name="runtime_permissions_summary_no_permissions_requested">Nepožadujú sa žiadne povolenia</string>
      <string name="search_history_description">História vyhľadávania</string>
 <string name="search_history_clear_description">Vymazať históriu</string>
 </resources>
