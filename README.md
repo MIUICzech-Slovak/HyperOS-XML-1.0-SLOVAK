@@ -9,12 +9,12 @@ HyperOS China is licensed under a Creative Commons Attribution-NonCommercial-Sha
 SLOVAK strings by miuios.cz are under a 
 - [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
-Based on a work at http://mi.com
+Based on a work at http://hyperos.mi.com
 
 For more info visit:
 - [CZECH&SLOVAK HyperOS Fansite](http://miuios.cz)  
 - [Multilang HyperOS Support](http://xiaomi.eu) 
 
-Translation XML checker http://translators.xiaomi.eu/XML_HyperOS15-Slovak-sk.html
+Translation [XML checker](https://translators.xiaomi.eu/XML_MIUI15-Slovak-sk.html)
 
 HyperOS Translation: contact@miuios.cz
