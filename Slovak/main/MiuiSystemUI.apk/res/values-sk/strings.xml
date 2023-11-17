@@ -2821,7 +2821,7 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
       <string name="quick_settings_wlan_state_change_message_on">Wi-Fi je zapnutá</string>
       <string name="rain_probability_desc">Pravdepodobnosť zrážok: %s</string>
       <string name="sim_lock_bouncer_hint_msg">Karta SIM je uzamknutá. Vymeňte ho alebo na odomknutie zadajte heslo.</string>
-      <string name="somatosensory_temperature_format">Pocit ako %s°</string>
+      <string name="somatosensory_temperature_format">Pocitovo %s°</string>
       <string name="strong_toast_charging">Nabíja sa</string>
       <string name="strong_toast_quick_charging">Rýchle nabíjanie</string>
       <string name="sunrise_time_format">Východ slnka %s</string>

@@ -1434,7 +1434,7 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
       <string name="restore_default_lock_style_apply_superwallpaper">"Táto šablóna uzamknutej obrazovky nepodporuje super tapety. Po použití sa vaša uzamknutá obrazovka vráti na predvolené nastavenia a vaše tapety na ploche a uzamknutej obrazovke budú nahradené. Použiť teraz?"</string>
       <string name="restore_default_lockscreen_when_special_lock_style">"Momentálne používate šablónu uzamknutej obrazovky. Ak budete pokračovať, vaša uzamknutá obrazovka sa obnoví na predvolenú hodnotu. Použiť teraz?"</string>
       <string name="restore_history_lock_screen_when_apply_theme">"Momentálne používate motív tretej strany. Ak zmeníte tapetu uzamknutej obrazovky, môže to spôsobiť, že hodiny na uzamknutej obrazovke sa obnovia na predvolené hodnoty. Použiť teraz?"</string>
-      <string name="somatosensory_temperature_format">Pocit ako %s°</string>
+      <string name="somatosensory_temperature_format">Pocitovo %s°</string>
       <string name="sunrise_time_format">Východ slnka %s</string>
       <string name="sunrise_time_format_desc">Čas východu slnka: %s</string>
       <string name="sunrise_time_format_tomorrow_desc">"Zajtrajší východ slnka: %s"</string>

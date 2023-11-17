@@ -321,7 +321,7 @@ N e"</string>
       <string name="kg_classic_item_operator">Operátor</string>
       <string name="kg_classic_item_rainfall_probability">Zrážky</string>
       <string name="kg_classic_item_sleep">Spánok</string>
-      <string name="kg_classic_item_somatosensory">Pocit ako</string>
+      <string name="kg_classic_item_somatosensory">Pocitovo</string>
       <string name="kg_classic_item_stand">Vstávanie</string>
       <string name="kg_classic_item_step_number">Kroky</string>
       <string name="kg_classic_item_sunrise_or_sunset">Východ a západ slnka</string>
@@ -405,7 +405,7 @@ N e"</string>
       <string name="miui_clock_city_name_local">Miestne</string>
       <string name="miui_clock_city_name_second">Druhé hodiny</string>
       <string name="rain_probability_desc">Pravdepodobnosť zrážok: %s</string>
-      <string name="somatosensory_temperature_format">Pocit ako %s°</string>
+      <string name="somatosensory_temperature_format">Pocitovo %s°</string>
       <string name="sunrise_time_format">Východ slnka %s</string>
       <string name="sunrise_time_format_desc">Čas východu slnka: %s</string>
       <string name="sunrise_time_format_tomorrow_desc">"Zajtrajší východ slnka: %s"</string>
