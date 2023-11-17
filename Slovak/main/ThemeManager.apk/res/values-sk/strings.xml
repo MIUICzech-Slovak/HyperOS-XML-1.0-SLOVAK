@@ -1459,4 +1459,11 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
            <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">"Momentálne používate super tapetu. Ak vyberiete novú tapetu, použije sa na ploche aj na uzamknutej obrazovke a AOD sa obnoví na predchádzajúce nastavenie. Použiť teraz?"</string>
            <string name="apply_wallpaper_warning_use_super_wallpaper">"Momentálne používate super tapetu. Ak vyberiete novú tapetu, bude použitá na ploche aj na uzamknutej obrazovke. Použiť teraz?"</string>
            <string name="historical_wallpaper">Predchádzajúce</string>
+           
+     <string name="format_month_day_style1">d.MMM</string>
+     <string name="format_month_day_style2">d.M</string>  
+     <string name="miui_magazine_c_clock_style2_date">d.M EE</string>
+     <string name="miui_magazine_clock_date">d.M</string>
+     <string name="miui_magazine_clock_date_content_description">dd.MM</string>
+     <string name="miui_smart_frame_clock_date">d.M</string>                        
 </resources>
