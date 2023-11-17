@@ -1655,7 +1655,7 @@ Máte tiež aktívne pripojenie k sieti VPN, ktorá môže sledovať vašu akti
     <string name="no_weather_description">Získať info o počasí &gt;</string>
     <string name="not_default_data_content_description">Nie je nastavené na používanie dát</string>
     <string name="not_support_multi_window">Súčasná aplikácia nepodporuje Multi-Window</string>
-    <string name="notch_status_bar_date_format_12">EEEE, d. MMMM</string>
+    <string name="notch_status_bar_date_format_12">EE, d. MM</string>
     <string name="notification_aggregate_text">Označiť upozornenia od %1$s ako nedôležité</string>
     <string name="notification_alert_title">Predvolené</string>
     <string name="notification_all_categories">Všetky kategórie</string>
