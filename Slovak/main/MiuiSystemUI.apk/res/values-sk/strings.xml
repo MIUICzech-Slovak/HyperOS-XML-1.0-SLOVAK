@@ -1655,7 +1655,7 @@ Máte tiež aktívne pripojenie k sieti VPN, ktorá môže sledovať vašu akti
     <string name="no_weather_description">Získať info o počasí &gt;</string>
     <string name="not_default_data_content_description">Nie je nastavené na používanie dát</string>
     <string name="not_support_multi_window">Súčasná aplikácia nepodporuje Multi-Window</string>
-    <string name="notch_status_bar_date_format_12">EE, dd. MM</string>
+    <string name="notch_status_bar_date_format_12">EE, dd. MMM</string>
     <string name="notification_aggregate_text">Označiť upozornenia od %1$s ako nedôležité</string>
     <string name="notification_alert_title">Predvolené</string>
     <string name="notification_all_categories">Všetky kategórie</string>
@@ -2316,8 +2316,8 @@ monitorovaná"</string>
     <string name="status_bar_airplane">Lietadlo</string>
     <string name="status_bar_alarm">Budík</string>
     <string name="status_bar_clear_all_button">Vymazať</string>
-    <string name="status_bar_clock_date_format">EE, dd. MM</string>
-    <string name="status_bar_clock_date_format_12">EE, dd. MM</string>
+    <string name="status_bar_clock_date_format">EE, dd. MMM</string>
+    <string name="status_bar_clock_date_format_12">EE, dd. MMM</string>
     <string name="status_bar_clock_date_weekday_format">dd.MM. EEE</string>
     <string name="status_bar_clock_date_weekday_format_12">dd.MM. EEE</string>
     <string name="status_bar_date_format">"EEEE
