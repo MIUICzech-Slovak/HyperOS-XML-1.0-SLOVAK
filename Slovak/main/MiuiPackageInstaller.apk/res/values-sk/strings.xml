@@ -1017,4 +1017,22 @@ Prípadne môžete vypnúť zjednodušený režim a skúsiť to znova."</string>
     <string name="zen_mode_enable_dialog_turn_on">Zapnúť</string>
     <string name="zen_mode_settings_summary_off">Nikdy</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Zapnite režim Nerušiť</string>
+         <string name="update_start">Aktualizovať</string>
+         
+<string name="bundle_app_learn_how_to_install">Ako nainštalovať \"%1$s\"</string>
+      <string name="bundle_app_market__tips_install">Toto je zabezpečená verzia poskytovaná spoločnosťou Google Play</string>
+      <string name="bundle_app_market_install_background">Inštalovať</string>
+      <string name="bundle_app_market_install_permissions">Povolenia</string>
+      <string name="bundle_app_market_install_privacy">Ochrana osobných údajov</string>
+      <string name="bundle_app_market_install_title">Inštalovať \"%1$s\"?</string>
+      <string name="bundle_app_on_self_desc_text">Vybratá aplikácia už bola stiahnutá. Ak si chcete stiahnuť aj \"%1$s\", klepnite tu.</string>
+      <string name="bundle_app_on_self_desc_text_click">Stlačte tu</string>
+      <string name="bundle_app_on_self_tips">Táto aplikácia je uvedená v zozname GetApps. Môžete si s istotou stiahnuť.</string>
+      <string name="bundle_app_on_self_title_text">\"%1$s\" je súčasťou balíka na stiahnutie</string>
+      <string name="bundle_app_sure_description">Ak si napríklad chcete stiahnuť \"Počasie\", zadajte \"Počasie\" do poľa nižšie.</string>
+      <string name="bundle_app_sure_name">Potvrďte aplikáciu, ktorú chcete nainštalovať</string>
+      <string name="bundle_app_sure_no_market_description">"Aplikácia, ktorú sa chystáte nainštalovať, nemusí byť tá, ktorú hľadáte. Táto aplikácia môže byť riskantná alebo podvodná. Postupujte opatrne."</string>
+      <string name="bundle_app_sure_no_market_tip">Klepnutím sem pokračujte v inštalácii \"%1$s\"</string>
+      <string name="bundle_app_sure_title">Táto aplikácia nemusí byť \"%1$s\"</string>
+      <string name="bundle_app_tip_test">"Na základe kontroly a spätnej väzby od používateľov sme zistili, že táto aplikácia spája alebo si vynucuje inštaláciu iných aplikácií. \"%1$s\" nemusí byť aplikácia, ktorú hľadáte." </string>         
 </resources>
