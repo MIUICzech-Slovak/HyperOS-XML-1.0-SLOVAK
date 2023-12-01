@@ -403,4 +403,31 @@
     <string name="spatial_audio_summary_spk">Zažite ponorenie a pocit priestoru pri prehrávaní zvuku</string>     
     <string name="effect_virtual_surround_summary_spk">Zvýšte hĺbku zvuku pre prehrávanie zvuku a videa</string>
 <string name="effect_selection_headset">Efekty slúchadiel</string>
+
+<string name="ear_canal_scan_function_description">Skenovanie zvukovodu</string>
+     <string name="ear_canal_scan_function_name">Zažite optimalizovaný zvuk na základe tvaru ucha</string>
+     <string name="ear_canal_scan_notice_disconnect">Skenovanie bolo prerušené. Uistite sa, že máte pripojené slúchadlá</string>
+     <string name="ear_canal_scan_notice_prepare">Nasaďte si obe slúchadlá a nastavte ich do pohodlnej polohy.</string>
+     <string name="ear_canal_scan_notice_running">Nevyberajte si slúchadlá</string>
+     <string name="ear_canal_scan_toast_no_double_headset">Nasaďte si obe slúchadlá</string>
+     <string name="ear_scan_begin_text">Začať</string>
+     <string name="ear_scan_doing_text">Skenuje sa…</string>
+     <string name="ear_scan_effect_desp_one">Optimalizovaný zvuk na základe tvaru vášho ucha</string>
+     <string name="ear_scan_effect_in_use">Používa sa</string>
+     <string name="ear_scan_effect_off_button_text">Pred</string>
+     <string name="ear_scan_effect_off_icon_text">Skutočný zvuk</string>
+     <string name="ear_scan_effect_on_button_text">Po</string>
+     <string name="ear_scan_effect_on_icon_text">Ideálny zvuk</string>
+     <string name="ear_scan_effect_playing">Prehráva sa</string>
+     <string name="ear_scan_effect_to_use">Vypočujte si klepnutím</string>
+     <string name="ear_scan_exit_text">Ukončiť</string>
+     <string name="ear_scan_headset_disconnect_msg">Vaše slúchadlá sú odpojené. Ak chcete pokračovať, znova ich pripojte.</string>
+     <string name="ear_scan_headset_disconnect_positive">Rozumiem</string>
+     <string name="ear_scan_headset_disconnect_title">Odpojené</string>
+     <string name="ear_scan_left_ear">Vľavo</string>
+     <string name="ear_scan_re_scan_button_text">Skenovať znova</string>
+     <string name="ear_scan_redo_dialog_msg">"Ak budete pokračovať, znova spustíte skenovanie zvukovodu a test fit. Predchádzajúce kalibračné záznamy budú vymazané. Chcete napriek tomu pokračovať?"</string>
+     <string name="ear_scan_redo_dialog_title">Skenovať znova?</string>
+     <string name="ear_scan_right_ear">Vpravo</string>
+     <string name="ear_scan_scan_done">Hotovo</string>
 </resources>

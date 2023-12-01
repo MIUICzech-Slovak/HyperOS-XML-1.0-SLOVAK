@@ -1112,7 +1112,7 @@ Nikdy ste neboli pripojený k %2$s."</string>
     <string name="bssid_label">BSSID:</string>
     <string name="bt_absVolume_open_dialog_summary">Kvôli problémom s kompatibilitou, niektoré Bluetooth zariadenia môžu mať nesprávnu úroveň hlasitosti, čo môže byť vyriešené deaktivovaním tejto funkcie.</string>
     <string name="bt_absVolume_open_dialog_title">Upozornenie</string>
-    <string name="bt_absVolume_pre_title">Absolútna hlasitosť</string>
+    <string name="bt_absVolume_pre_title">Udržiavať konzistentnú hlasitosť</string>
     <string name="bt_absVolume_summary">Ponechať hlasitosť Bluetooth zariadenia a telefónu na rovnakej úrovni</string>
     <string name="bt_always_show_icon">Nezobrazovať ikonu Bluetooth v lište</string>
     <string name="bt_always_show_icon_summary">Zobraziť ikonu Bluetooth iba v roletke a ovládačoch</string>

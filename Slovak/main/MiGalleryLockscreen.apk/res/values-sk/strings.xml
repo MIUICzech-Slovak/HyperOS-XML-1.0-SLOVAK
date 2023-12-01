@@ -1001,5 +1001,38 @@ To môže spôsobiť dodatočné poplatky."</string>
      <string name="passport_user_avatar_update_title">Zmeniť profilovú fotku</string>
      <string name="passport_user_avatar_uploading">Načítavanie…</string>
 <string name="passport_vcode_what_app_send_prompt">Váš overovací kód WhatsApp bude odoslaný na váš telefón na obnovenie (&lt;font color=#1F93FF>%s&lt;/font>).</string>
-	
+
+<string name="action_more_dlg_add_to_loop">Pridať do prezentácie</string>
+     <string name="action_more_dlg_apply">Nastaviť ako tapetu uzamknutej obrazovky</string>
+     <string name="action_more_dlg_dislike">"Toto sa mi nepáči"</string>
+     <string name="action_more_dlg_my_favor">Pridať medzi obľúbené</string>
+     <string name="action_more_dlg_save">Stiahnuť tapetu</string>
+     <string name="action_more_dlg_settings">Ďalšie nastavenia</string>
+     <string name="action_more_dlg_share">Zdieľať</string>
+     <string name="apply_success_toast">Nastavenie tapety bolo úspešné</string>
+     <string name="dlg_add_to_loop_success_toast">Pridaná tapeta do prezentácie</string>
+     <string name="left_lks_detail_entrance">Zobraziť viac</string>
+     <string name="lks_new_data_loaded">Úspešne načítané</string>
+     <string name="lks_new_data_warning">Táto funkcia využíva mobilné dáta</string>
+     <string name="lks_new_user_guide_horizontal">Prejdením prstom doľava a doprava zobrazíte ďalšie obrázky</string>
+     <string name="lks_new_user_guide_left">Prejdením prstom doľava zobrazíte ďalšie obrázky</string>
+     <string name="lks_new_user_guide_up">Prejdením prstom nahor zobrazíte ďalšie informácie</string>
+     <string name="loop_service_dlg_content">Prezentácia automaticky prepína obrázky na uzamknutej obrazovke prispôsobené vašim preferenciám vrátane tém ako cestovanie, jedlo, umenie, zábava a ďalšie. Zapnúť prezentáciu na uzamknutej obrazovke a pridať tento obrázok?</string>
+     <string name="loop_service_dlg_negative">Teraz nie</string>
+     <string name="loop_service_dlg_positive">Zapnúť</string>
+     <string name="loop_service_dlg_positive_toast_day">Prezentácia je zapnutá. Tapeta sa bude meniť každý deň. Trvanie môžete upraviť v nastaveniach Tapety.</string>
+     <string name="loop_service_dlg_positive_toast_hour_1">Prezentácia je zapnutá. Tapeta sa bude meniť každú hodinu. Trvanie môžete upraviť v nastaveniach Tapety.</string>
+     <string name="loop_service_dlg_positive_toast_hour_3">Prezentácia je zapnutá. Tapeta sa bude meniť každé 3 hodiny. Trvanie môžete upraviť v nastaveniach Tapety.</string>
+     <string name="loop_service_dlg_positive_toast_minutes_15">Prezentácia je zapnutá. Tapeta sa bude meniť každých 15 minút. Trvanie môžete upraviť v nastaveniach Tapety.</string>
+     <string name="loop_service_dlg_positive_toast_minutes_5">Prezentácia je zapnutá. Tapeta sa bude meniť každých 5 minút. Trvanie môžete upraviť v nastaveniach Tapety.</string>
+     <string name="loop_service_dlg_positive_toast_unlock">Prezentácia je zapnutá. Tapeta sa zmení pri každom odomknutí zariadenia. Trvanie môžete upraviť v nastaveniach Tapety.</string>
+     <string name="loop_service_dlg_title">Zapnúť prezentáciu na uzamknutej obrazovke?</string>
+     <string name="share_dlg_more">Viac</string>
+     <string name="share_dlg_qq">Odoslať do QQ</string>
+     <string name="share_dlg_save">Uložiť do galérie</string>
+     <string name="share_dlg_title">Zdieľať tapetu</string>
+     <string name="share_dlg_wechat">Odoslať priateľovi</string>
+     <string name="share_dlg_wechat_moment">Momenty WeChat</string>
+     <string name="share_dlg_weibo">Odoslať do Weibo</string>
+     <string name="wallpaper_added_success_toast">Tapeta bola úspešne pridaná</string>	
 </resources>

@@ -650,4 +650,8 @@ Dostupné služby prepojenia sa môžu líšiť v závislosti od verzie vášho 
       <string name="system_update_statement">Na vykonanie aktualizácie systému potrebujeme zhromaždiť IMEI zariadenia, IMSI zariadenia, identifikátory zariadenia (OAID a šifrované Android ID), účet Xiaomi, výrobcu zariadenia, model zariadenia, prevádzkovateľa siete, zariadenie pamäť, verziu operačného systému, región, jazyk, konektivitu, typ siete a IP adresu.</string>
       <string name="system_update_title">Aktualizácie systému</string>
       <string name="terms_of_use_label_system_quality_monitoring">Monitorovanie kvality systému</string>          
+<string name="disagreement_service_not_working_properly_with_media_storage">"Ak sa rozhodnete neudeliť tieto povolenia, služba nebude môcť normálne fungovať."</string>
+     <string name="media_storage_devices">Zariadenia na ukladanie médií</string>
+     <string name="media_storage_introduction">Táto služba umožňuje aplikáciám pristupovať k fotkám, videám, zvukom a súborom a ukladať ich.</string>
+<string name="permission_media_storage_summary">Na kontrolu spôsobu, akým aplikácie využívajú povolenia súvisiace s ochranou osobných údajov pri prístupe k súborom</string>      
 </resources>

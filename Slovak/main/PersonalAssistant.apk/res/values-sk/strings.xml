@@ -1084,4 +1084,9 @@ Ak chcete začať, pridajte widgety."</string>
      <string name="pa_widget_menu_edit_stack">Upraviť skupinu</string>
      <string name="pa_widget_menu_remove_card_in_stack">Odstrániť \"%s\"</string>    
      <string name="pa_setting_new_simplify_title_bar">Asistent</string>     
+     
+<string name="pa_widget_menu_improve_edit">Upraviť</string>
+     <string name="pa_widget_menu_improve_remove">Odstrániť</string>
+     <string name="pa_widget_menu_improve_remove_card_in_stack">Odstrániť \"%s\"</string>
+     <string name="pa_widget_menu_improve_replace">Nahradiť</string>     
 </resources>
