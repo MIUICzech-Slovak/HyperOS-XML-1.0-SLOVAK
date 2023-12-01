@@ -7991,4 +7991,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
      <string name="runtime_permissions_summary_control_app_access">Ovládajte prístup aplikácií k svojim údajom</string>
      <string name="search_history_description">História vyhľadávania</string>
 <string name="search_history_clear_description">Vymazať históriu</string>
+<string name="unused_apps_switch">Pozastaviť aplikáciu ak sa nepoužíva</string>      
+<string name="unused_apps_switch_summary">Odstrániť povolenia, dočasné súbory a zastaviť upozornenia</string>      
 </resources>

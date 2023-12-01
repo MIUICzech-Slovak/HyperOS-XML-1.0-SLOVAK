@@ -6258,5 +6258,6 @@ Zapnutím jedného sa vypne druhý.“</string>
       <string name="vtb_func_vpp_desc4">"Táto funkcia nebude fungovať, keď je rozlíšenie videa vyššie ako 4K."</string>
       <string name="vtb_func_vpp_title">Vylepšené kontúry</string>
       <string name="vtb_function_video_translation">Preklad v reálnom čase</string>      
-                        
+<string name="unused_apps_switch">Pozastaviť aplikáciu ak sa nepoužíva</string>      
+<string name="unused_apps_switch_summary">Odstrániť povolenia, dočasné súbory a zastaviť upozornenia</string>                  
 </resources>
