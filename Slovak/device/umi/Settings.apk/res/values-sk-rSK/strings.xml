@@ -2420,7 +2420,7 @@ naraz stlačte vypínač a tlačidlo zvýšenia hlasitosti."</string>
     <string name="printer_info_desc">Ďalšie informácie o tejto tlačiarni</string>
     <string name="priority_conversation_count_zero">Žiadne prioritné konverzácie</string>
     <string name="privacy_dashboard_summary">Povolenia, aktivita účtu, osobné údaje</string>
-    <string name="privacy_dashboard_title">Ochrana súkromia</string>
+    <string name="privacy_dashboard_title">Súkromie</string>
     <string name="private_dns_broken">K súkromnému serveru DNS sa nepodarilo získať prístup</string>
     <string name="private_dns_help_message" />
     <string name="private_dns_mode_off">Vypnuté</string>

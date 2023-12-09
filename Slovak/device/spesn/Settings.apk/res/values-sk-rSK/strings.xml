@@ -1553,7 +1553,7 @@ Aplikácia tým získa aj možnosť vypnúť alebo zapnúť režim bez vyrušen�
     <string name="print_settings_summary_no_service">Vypnutá</string>
     <string name="printer_info_desc">Ďalšie informácie o tejto tlačiarni</string>
     <string name="privacy_dashboard_summary">Povolenia, aktivita účtu, osobné údaje</string>
-    <string name="privacy_dashboard_title">Ochrana súkromia</string>
+    <string name="privacy_dashboard_title">Súkromie</string>
     <string name="private_dns_help_message">&lt;annotation id="url"&gt;&amp;#270;al&amp;#353;ie inform&amp;#225;cie&lt;/annotation&gt; o&amp;#160;funkci&amp;#225;ch s&amp;#250;kromn&amp;#233;ho re&amp;#382;imu DNS</string>
     <string name="private_dns_mode_off">Vypnuté</string>
     <string name="private_dns_mode_opportunistic">Automaticky</string>
