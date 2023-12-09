@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_connect_car">
+        <item>Kombinovať aplikácie</item>
+        <item>Prepojenie/kombinovať aplikácie</item>
+        <item>Funkcie automobilu</item>
+    </string-array>
+    <string-array name="settings_search_connection_home">
+        <item>Prepojenie</item>
+        <item>Prepojenie/Prepojenie</item>
+        <item>Prepojenie zariadení, Služby prepojenia zariadení, Xiaomi, Xiaomi AIoT, AIoT, Screen Combo, inteligentné pripojenie, Mi Smart Hub, Prepojenie, Duo, Xiaomi telefón, Xiaomi laptop, Viaceré obrazovky, Duet, prenášanie obrazu, kombinovanie aplikácií, odovzdanie, Odovzdanie aplikácií, Zrkadlo, ekosystém Xiaomi, pripojenie zariadenia</item>
+    </string-array>
+    <string-array name="settings_search_connection_privacy">
+        <item>Súkromie</item>
+        <item>Prepojenie/súkromie</item>
+        <item>Súkromie a prepojenie, súkromie</item>
+    </string-array>
+    <string-array name="settings_search_connection_service">
+        <item>Prepojenie Xiaomi</item>
+        <item>Prepojeni/Xiaomi prepojenie</item>
+        <item>Služby prepojenia Xiaomi/Prepojenie Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_relay_app">
+        <item>Odovzdanie aplikácie</item>
+        <item>Prepojenie/odovzdanie aplikácie</item>
+        <item>Aplikácie prenosu, odovzdanie, prenos</item>
+    </string-array>
+    <string-array name="settings_search_relay_call">
+        <item>Hovory</item>
+        <item>Prepojenie/hovory</item>
+        <item>Hovory</item>
+    </string-array>
+    <string-array name="settings_search_relay_network">
+        <item>Pomoc so sieťou</item>
+        <item>Prepojenie/Pomoc so sieťou</item>
+        <item>Sieťová asistencia, tethering, zdieľanie hotspotov</item>
+    </string-array>
+    <string-array name="settings_search_share_Launcher">
+        <item>Domovská obrazovka+</item>
+        <item>Prepojenie/Domovská obrazovka+</item>
+        <item>Domovská obrazovka, Mi Smart Hub, zdieľanie obrazovky</item>
+    </string-array>
+    <string-array name="settings_search_share_clipboard">
+        <item>Schránka</item>
+        <item>Prepojenie/schránka</item>
+        <item>Schránka</item>
+    </string-array>
+    <string-array name="settings_search_share_notify">
+        <item>Upozornenia naprieč zariadenia</item>
+        <item>Prepojenie/upozornenia</item>
+        <item>Upozornenia naprieč zariadenia</item>
+    </string-array>
+</resources>
