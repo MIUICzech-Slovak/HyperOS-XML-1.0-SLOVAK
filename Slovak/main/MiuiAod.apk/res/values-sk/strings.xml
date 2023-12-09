@@ -432,7 +432,7 @@ N e"</string>
     <string name="miui_magazine_clock_date">d.M</string>
     <string name="miui_magazine_clock_date_content_description">d.MM</string>
     <string name="miui_smart_frame_clock_date">d.M</string>
-
+    <string name="aod_notification_use_app_icon">Použiť ikony aplikácií pre upozornenia</string>
           
 </resources>
 
