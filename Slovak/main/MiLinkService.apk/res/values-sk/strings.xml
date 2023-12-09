@@ -763,15 +763,6 @@ uistite sa, že balík obsahuje najnovšie verzie všetkých aplikácií."</stri
       <string name="circulate_cta_premission_transferring_data_subtitle">Na prenos údajov medzi pripojenými zariadeniami</string>
       <string name="circulate_cta_premission_wlan_subtitle_china">Na prenos položiek a pripojenie zariadení cez Wi-Fi</string>
       <string name="circulate_device_type_name_mijia">Zariadenia inteligentnej domácnosti</string>
-2. Stlačte a podržte tlačidlo na puzdre.
-3. Dokončite párovanie na cieľovom zariadení.“</string>
-2. Po rozsvietení obrazovky skúste znova pripojiť slúchadlá."</string>
-2. Stlačte a podržte tlačidlo na puzdre.
-3. Dokončite párovanie v nastaveniach Bluetooth alebo pomocou kontextového dialógového okna na tomto zariadení.“</string>
-2. Stlačte a podržte tlačidlo na puzdre.
-3. Dokončite párovanie v nastaveniach Bluetooth alebo pomocou kontextového dialógového okna na tomto zariadení.“</string>
-2. Stlačte a podržte tlačidlo na puzdre.
-3. Otvorte zoznam dostupných zariadení Bluetooth na vašom televízore a potvrďte spárovanie.“</string>
       <string name="circulate_headset_error_ear_phone_not_support">"Tieto slúchadlá nepodporujú prenos prehrávania zvuku"</string>
       <string name="circulate_jump_to_mijia">Otvoriť domovskú stránku Mi Home/Xiaomi</string>
       <string name="circulate_more_device">Viac zariadení</string>
