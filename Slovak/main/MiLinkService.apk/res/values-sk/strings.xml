@@ -375,7 +375,7 @@ vaše zariadenia?"</string>
     <string name="connect_settings_summary_corp_phone">Odpovedajte na hovory na tabletoch v okolí alebo na počítačoch prihlásených do vášho Xiaomi konta</string>
     <string name="connect_settings_summary_hyper_mind">Automatically adapt nearby devices to your needs based on your usage patterns. This feature is powered by Mi AI.</string>
     <string name="connect_settings_summary_relay_app">Pokračujte v úlohách v rovnakej aplikácii na inom zariadení</string>
-    <string name="connect_settings_summary_share_clipboard">Vložte text a obrázky do iných zariadení do %d 2 minút po ich skopírovaní na toto zariadenie</string>
+    <string name="connect_settings_summary_share_clipboard">Vložte text a obrázky do iných zariadení do %d minút po ich skopírovaní na toto zariadenie</string>
     <string name="connect_settings_summary_share_launcher_pad">Zobrazujte a interagujte s domovskými obrazovkami telefónov v okolí prihlásených do svojho Xiaomi konta</string>
     <string name="connect_settings_summary_share_launcher_phone">Povoľte tabletom a počítačom v okolí zobrazovať a interagovať s domovskou obrazovkou tohto zariadenia</string>
     <string name="connect_settings_summary_share_notification_pad">Dostávať upozornenia z okolitých telefónov prihlásených do vášho Xiaomi konta</string>
