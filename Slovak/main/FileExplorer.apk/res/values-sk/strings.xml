@@ -1174,4 +1174,5 @@ Získali ste ďalších %1$s"</string>
       <string name="view_mode_grid">Mriežka</string>
       <string name="view_mode_list">Zoznam</string>
       <string name="view_type_mode">Rozloženie</string>         
+      <string name="release_enter_private">Pustite pre otvorenie tajného albumu</string>
 </resources>
