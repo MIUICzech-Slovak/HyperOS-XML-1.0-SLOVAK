@@ -141,6 +141,13 @@
     <string name="call_category">Volanie</string>
     <string name="call_forwarding_settings">Presmerovanie hovorov</string>
     <string name="call_forwarding_settings_with_label">Presmerovanie hovorov (%s)</string>
+    <string name="call_notification_answer_action">Prijať</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Odmietnuť</string>
+    <string name="call_notification_hang_up_action">Zložiť</string>
+    <string name="call_notification_incoming_text">Prichádzajúci hovor</string>
+    <string name="call_notification_ongoing_text">Prebiehajúci hovor</string>
+    <string name="call_notification_screening_text">Preveruje sa prichádzajúci hovor</string>
     <string name="call_quality_notification_bluetooth_details">Signál Bluetooth je slabý. Skúste prepnúť na reproduktor.</string>
     <string name="call_quality_notification_name">Upozornenie o kvalite hovoru</string>
     <string name="call_settings">Nastavenia hovorov</string>
@@ -236,6 +243,7 @@
     <string name="clh_callFailed_requested_facility_not_subscribed_txt">Hovor sa nepodarilo uskutočniť. Kód chyby 50.</string>
     <string name="clh_callFailed_resources_unavailable_unspecified_txt">Hovor sa nepodarilo uskutočniť. Kód chyby 47.</string>
     <string name="clh_callFailed_response_to_STATUS_ENQUIRY_txt">Hovor sa nepodarilo uskutočniť. Kód chyby 30.</string>
+    <string name="clh_callFailed_satelliteEnabled_txt">Satelitný režim je zapnutý</string>
     <string name="clh_callFailed_semantically_incorrect_message_txt">Hovor sa nepodarilo uskutočniť. Kód chyby 95.</string>
     <string name="clh_callFailed_service_or_option_not_available_unspecified_txt">Hovor sa nepodarilo uskutočniť. Kód chyby 63.</string>
     <string name="clh_callFailed_service_or_option_not_implemented_unspecified_txt">Hovor sa nepodarilo uskutočniť. Kód chyby 79.</string>
@@ -401,6 +409,7 @@ Tento hovor sa nedá uskutočniť. Skúste to znova, keď telefón vychladne.
 Tiesňové volania môžete uskutočňovať aj naďalej."</string>
     <string name="incall_error_power_off_wfc">Ak chcete volať, vypnite režim v lietadle alebo sa pripojte k bezdrôtovej sieti</string>
     <string name="incall_error_promote_wfc">Na uskutočnenie hovoru povoľte volanie cez Wi‑Fi.</string>
+    <string name="incall_error_satellite_enabled">Ak chcete volať, deaktivujte satelitný režim.</string>
     <string name="incall_error_supp_service_conference">Hovory nie je možné zlúčiť.</string>
     <string name="incall_error_supp_service_hangup">Nedajú sa ukončiť hovory</string>
     <string name="incall_error_supp_service_hold">Hovory nie je možné podržať.</string>
@@ -411,6 +420,7 @@ Tiesňové volania môžete uskutočňovať aj naďalej."</string>
     <string name="incall_error_supp_service_transfer">Nedá sa preniesť</string>
     <string name="incall_error_supp_service_unknown">Služba nie je podporovaná</string>
     <string name="incall_error_wfc_only_no_wireless_network">Ak chcete volať, pripojte sa k bezdrôtovej sieti</string>
+    <string name="install_messages_on_work_profile_action_str">Inštalovať aplikáciu na odosielanie pracovných správ</string>
     <string name="international_disable">Medzinárodné správy zakázané</string>
     <string name="international_enable">Medzinárodné správy povolené</string>
     <string name="invalidPin">Zadajte kód PIN s dĺžkou 4 až 8 číslic.</string>
@@ -577,6 +587,7 @@ Skúste to znova alebo kontaktujte oddelenie zákazníckych služieb, kde získa
     <string name="payphone">Telefónny automat</string>
     <string name="phoneAppLabel">Telefónne služby</string>
     <string name="phoneIconLabel">Telefón</string>
+    <string name="phone_account_settings_user_restriction">Nastavenia telefónneho účtu môže zmeniť iba správca alebo spravovaný používateľ.</string>
     <string name="phone_accounts">Telefónne účty</string>
     <string name="phone_accounts_add_sip_account">Pridať účet SIP</string>
     <string name="phone_accounts_all_calling_accounts">Všetky telefónne účty</string>
@@ -669,6 +680,7 @@ Zostávajú vám pokusy (počet: %d)"</string>
     <string name="radioInfo_display_bytes">B</string>
     <string name="radioInfo_display_dbm">dBm</string>
     <string name="radioInfo_display_packets">pakety</string>
+    <string name="radioInfo_imei_primary">Primárne</string>
     <string name="radioInfo_lac">LAC</string>
     <string name="radioInfo_menu_getIMS">Stav služby IMS</string>
     <string name="radioInfo_menu_viewADN">Zobraziť adresár SIM karty</string>
@@ -684,7 +696,6 @@ Zostávajú vám pokusy (počet: %d)"</string>
     <string name="radioInfo_service_off">Rádio je vypnuté</string>
     <string name="radioInfo_service_out">Mimo prevádzky</string>
     <string name="radioInfo_unknown">Neznáme</string>
-    <string name="radio_info_band_mode_label">Vybrať pásmo rádia</string>
     <string name="radio_info_call_redirect_label">Presmerovanie hovoru:</string>
     <string name="radio_info_call_status_label">Stav hlasového hovoru:</string>
     <string name="radio_info_cell_info_refresh_rate">Frekvencia obnovenia informácií o mobilnej sieti:</string>
@@ -693,6 +704,7 @@ Zostávajú vám pokusy (počet: %d)"</string>
     <string name="radio_info_data_connection_disable">Zakázať dátové pripojenie</string>
     <string name="radio_info_data_connection_enable">Povoliť dátové pripojenie</string>
     <string name="radio_info_data_network_type_label">Typ dátovej siete:</string>
+    <string name="radio_info_data_raw_registration_state_label">Stav registrácie nespracovaných údajov:</string>
     <string name="radio_info_dcnr_restricted">Obmedzené DCNR (NSA):</string>
     <string name="radio_info_dds">Podradený identifikátor predvolenej dátovej SIM karty:</string>
     <string name="radio_info_dl_kbps">Rýchlosť pripojenia DL (kB/s):</string>
@@ -734,6 +746,8 @@ Rozhranie UT: %5$s"</string>
     <string name="radio_info_toggle_dns_check_label">Prepnúť kontrolu DNS</string>
     <string name="radio_info_ul_kbps">Rýchlosť pripojenia UL (kB/s):</string>
     <string name="radio_info_voice_network_type_label">Typ hlasovej siete:</string>
+    <string name="radio_info_voice_raw_registration_state_label">Stav registrácie nespracovaných hlasových údajov:</string>
+    <string name="radio_info_wlan_data_raw_registration_state_label">Stav registrácie nespracovaných údajov v sieti WLAN:</string>
     <string name="radio_off_during_emergency_call">Počas tiesňového volania sa nedá zapnúť režim v lietadle.</string>
     <string name="radio_off_error">Pred zobrazením nastavení zapnite rádio.</string>
     <string name="reading_settings">Nastavenia sa načítavajú…</string>
@@ -773,6 +787,10 @@ Rozhranie UT: %5$s"</string>
     <string name="selectContact">vybrať kontakt</string>
     <string name="select_automatically">Vybrať sieť automaticky</string>
     <string name="send_button">Odoslať</string>
+    <string name="send_from_work_profile_action_str">Prepnúť na pracovný profil</string>
+    <string name="send_from_work_profile_cancel">Zrušiť</string>
+    <string name="send_from_work_profile_description">Vaša organizácia vám povoľuje posielať správy iba z pracovných aplikácií</string>
+    <string name="send_from_work_profile_title">Nemôžete posielať správy z osobnej aplikácie</string>
     <string name="settings_label">Nastavenia siete</string>
     <string name="simContacts_airplaneMode">Ak chcete importovať kontakty zo SIM karty, vypnite režim v lietadle.</string>
     <string name="simContacts_empty">Na SIM karte nie sú žiadne kontakty.</string>
@@ -786,6 +804,7 @@ Rozhranie UT: %5$s"</string>
     <string name="sim_ndp_dismiss_text">Zatvoriť</string>
     <string name="sim_ndp_unlock_text">Odomknúť</string>
     <string name="sim_selection_required_pref">Vyžaduje sa výber</string>
+    <string name="simulate_out_of_service_string">Simulácia nefungujúceho zariadenia (možné iba v ladiacej zostave)</string>
     <string name="singleContactImportedMsg">Kontakt bol importovaný</string>
     <string name="single_emergency_number_title">Číslo tiesňovej linky</string>
     <string name="sip_accounts_removed_notification_action">Prejsť do nastavení</string>
