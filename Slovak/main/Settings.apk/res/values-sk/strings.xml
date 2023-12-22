@@ -7993,4 +7993,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
 <string name="search_history_clear_description">Vymazať históriu</string>
 <string name="unused_apps_switch">Pozastaviť aplikáciu ak sa nepoužíva</string>      
 <string name="unused_apps_switch_summary">Odstrániť povolenia, dočasné súbory a zastaviť upozornenia</string>      
+<string name="gaze_lock_screen_summary">Zariadenie zostane odomknuté, keď sa zistí vaša prítomnosť, a uzamkne sa, keď sa vzdialite od obrazovky</string>
+     <string name="gaze_lock_screen_title">Zistiť prítomnosť</string>
 </resources>

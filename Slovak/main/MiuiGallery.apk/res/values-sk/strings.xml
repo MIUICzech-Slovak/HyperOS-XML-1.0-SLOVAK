@@ -3040,6 +3040,27 @@ Najlepšie zábery boli vybrané automaticky. Ďalšie fotografie môžete prida
       <string name="segment_send_processing">Pripravuje sa odoslanie…</string>
       <string name="text_segment">Výrez z fotografie</string>     
       <string name="hdr_switch_show_title">Pro HDR displej</string>
-            <string name="hdr_switch_show_hint">Použite HDR na zobrazenie detailov vo svetle a tieni</string>
-                <string name="sort_and_showmode">Zoradenie</string>
+       <string name="hdr_switch_show_hint">Použite HDR na zobrazenie detailov vo svetle a tieni</string>
+       <string name="sort_and_showmode">Zoradenie</string>
+<string name="ai_continue_upload_photo">Pokračovať</string>
+     <string name="ai_create_image_fail_by_illegal_photo">"Zdá sa, že fotografie, ktoré ste odovzdali, porušujú naše štandardy komunity.
+Skúste vytvoriť obrázok AI s rôznymi fotografiami."</string>
+     <string name="ai_create_image_fail_by_net">"Nepodarilo sa vytvoriť obraz AI. Naše servery sú teraz príliš zaneprázdnené. Skúste to znova."</string>
+     <string name="ai_cta_agree_btn">Povoliť</string>
+     <string name="ai_cta_dialog_message">Povoľte Galérii pripojiť sa k internetu, aby ste mohli vytvárať portréty umelej inteligencie.</string>
+     <string name="ai_cta_dialog_title">Vyžadujú sa povolenia</string>
+     <string name="ai_cta_refuse_btn">Nie, ďakujem</string>
+     <string name="ai_download_filter_photo_so_confirm_btn">Prevziať</string>
+     <string name="ai_download_filter_photo_so_downloading">Preberá sa doplnok…</string>
+     <string name="ai_download_filter_photo_so_message">Ak chcete používať všetky funkcie AI na výšku, najprv si stiahnite doplnok.</string>
+     <string name="ai_download_filter_photo_so_title">Prevziať doplnok</string>
+     <string name="ai_download_filter_so_fail_toast">"Nepodarilo sa stiahnuť doplnok. Skúste to znova."</string>
+<string name="ai_free_creation_illegal_text_toast">Tento text porušuje pravidlá našej komunity. Prepíšte svoju správu.</string>
+<string name="ai_photos_upload_fail_tip">"Fotografie používateľa %s ešte neboli odovzdané. Teraz môžete pokračovať v odovzdávaní fotografií."</string>
+     <string name="ai_recreate_image_cancel_text_btn">Pokračovať</string>
+     <string name="ai_recreate_image_confirm_text_btn">Vybrať</string>
+     <string name="ai_recreate_image_dialog_msg">Môžete pokračovať v odovzdávaní fotografií alebo vybrať nové.</string>
+     <string name="ai_recreate_image_dialog_title">"Fotografie používateľa %s neboli odovzdané"</string>
+<string name="ai_select_photo_no_result_toast">"Na základe týchto fotografií nie je možné vytvoriť obrázok umelej inteligencie. Namiesto toho vyberte iné fotografie."</string>
+<string name="burst_photo_preview_thumbnail_content_description">Fotka %d</string>                
 </resources>
