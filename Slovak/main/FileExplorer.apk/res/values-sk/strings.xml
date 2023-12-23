@@ -855,7 +855,7 @@ and never miss the cool new ones!"</string>
     <string name="recent_hide_cloud_drive_files">Nezobrazovať súbory z Mi Drive v Nedávnych</string>
     <string name="recent_show">Nedávne</string>
     <string name="reinstall_midriver_message">Nainštalovať znovu?</string>
-    <string name="release_enter_private">Pustite pre otvorenie súkromnej zložky</string>
+    <string name="release_enter_private">Pustite pre otvorenie tajného albumu</string>
     <string name="release_to_signin">Uvoľnite pre podpísanie sa.</string>
     <string name="remainder_size">Ostáva: %s</string>
     <string name="reminder_card_title">Upozornenie</string>
@@ -1128,14 +1128,12 @@ Získali ste ďalších %1$s"</string>
     <string name="year_month_day_format">dd. MMM. yyyy</string>
     <string name="yes">Áno</string>
     <string name="yesterday">Včera</string>
-    
-<string name="operation_copy_clipboard">Kopírovať do schránky</string>
-     <string name="operation_copy_local">Kopírovať do zložky</string>
-     <string name="toast_copy_clipboard">Pridané do schránky</string>    
-     <string name="cta_use_sync_midrive_file">Na synchronizáciu súborov na Mi Drive</string>
-         <string name="select_pdf">Vybrať PDF</string>
-         
-<string name="app_all_purpose_global">Vitajte v Správcovi súborov! Túto aplikáciu môžete použiť na zobrazenie ukážky a správu súborov uložených vo vašom zariadení.</string>
+    <string name="operation_copy_clipboard">Kopírovať do schránky</string>
+    <string name="operation_copy_local">Kopírovať do zložky</string>
+    <string name="toast_copy_clipboard">Pridané do schránky</string>    
+    <string name="cta_use_sync_midrive_file">Na synchronizáciu súborov na Mi Drive</string>
+    <string name="select_pdf">Vybrať PDF</string>
+    <string name="app_all_purpose_global">Vitajte v Správcovi súborov! Túto aplikáciu môžete použiť na zobrazenie ukážky a správu súborov uložených vo vašom zariadení.</string>
       <string name="call_notification_answer_action">Odpoveď</string>
       <string name="call_notification_answer_video_action">Video</string>
       <string name="call_notification_decline_action">Odmietnuť</string>
@@ -1173,6 +1171,5 @@ Získali ste ďalších %1$s"</string>
       <string name="sort_type">Filter</string>
       <string name="view_mode_grid">Mriežka</string>
       <string name="view_mode_list">Zoznam</string>
-      <string name="view_type_mode">Rozloženie</string>         
-      <string name="release_enter_private">Pustite pre otvorenie tajného albumu</string>
+      <string name="view_type_mode">Rozloženie</string>
 </resources>
