@@ -7998,5 +7998,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
 <string name="display_notification_icon_0">Žiadne</string>
      <string name="display_notification_icon_1">%d ikona</string>
      <string name="display_notification_icon_3">%d ikony</string>
+    <string name="display_notification_icon_5">%d ikon</string>
+    <string name="display_notification_icon_7">%d ikon</string>	
      <string name="title_show_notification_icon_count">Počet zobrazených ikon upozornení</string>	 
 </resources>
