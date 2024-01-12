@@ -662,4 +662,16 @@ Dostupné služby prepojenia sa môžu líšiť v závislosti od verzie vášho 
      <string name="safe_open_service_introduction">Zabezpečené otvorené služby pomáhajú vývojárom a poskytujú možnosti zabezpečenia na úrovni systému na ochranu používateľov a ich súkromia.</string>
      <string name="verify_application_security">Na overenie zabezpečenia aplikácie</string>
      <string name="verify_device_security">Na overenie zabezpečenia zariadenia</string>      
+	 
+<string name="access_calendar">Prístup ku kalendáru</string>
+     <string name="application_extension_service">Služby rozšírenia aplikácie</string>
+     <string name="application_extension_service_introduction">Služby rozšírenia aplikácie vám poskytnú funkcie prihlásenia a overenia. Na poskytovanie základných služieb potrebuje táto aplikácia nasledujúce povolenia:</string>
+     <string name="calendar_storage">Úložisko kalendára</string>
+<string name="disagree_unable_serve">„Ak nesúhlasíte s vyššie uvedenými povoleniami, nebudete môcť túto službu používať.“</string>
+<string name="permission_not_agree_service_not_working">"Ak nesúhlasíte s vyššie uvedenými požadovanými povoleniami, nebudete môcť túto službu používať."</string>
+<string name="permission_sms_verification_code_login">Za poskytovanie overenia SMS na rýchle prihlásenie</string>
+<string name="provide_date_management_service">Táto služba vám umožňuje kontrolovať dátum a spravovať udalosti.</string>
+     <string name="read_sms_and_mms">Prístup k SMS a MMS</string>
+     <string name="require_statement">Na poskytovanie základných služieb potrebujeme nasledujúce povolenia:</string>
+     <string name="used_date_viewing">Na kontrolu dátumu</string>	 
 </resources>

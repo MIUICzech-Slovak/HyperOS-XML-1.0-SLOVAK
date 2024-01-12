@@ -7995,4 +7995,8 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
 <string name="unused_apps_switch_summary">Odstrániť povolenia, dočasné súbory a zastaviť upozornenia</string>      
 <string name="gaze_lock_screen_summary">Zariadenie zostane odomknuté, keď sa zistí vaša prítomnosť, a uzamkne sa, keď sa vzdialite od obrazovky</string>
      <string name="gaze_lock_screen_title">Zistiť prítomnosť</string>
+<string name="display_notification_icon_0">Žiadne</string>
+     <string name="display_notification_icon_1">%d ikona</string>
+     <string name="display_notification_icon_3">%d ikony</string>
+     <string name="title_show_notification_icon_count">Počet zobrazených ikon upozornení</string>	 
 </resources>

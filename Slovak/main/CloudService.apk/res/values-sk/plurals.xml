@@ -172,4 +172,8 @@
         <item quantity="other">%d sú vypnuté</item>
         <item quantity="one">%d je vypnuté</item>
     </plurals>
+<plurals name="provision_sync_items_status_off_title">
+         <item kvantita="other">"Synchr. nie je zapnutá pre položky %s"</item>
+         <item kvantita="one">"Synchr. nie je zapnutá pre %s položku"</item>
+     </plurals>	
 </resources>

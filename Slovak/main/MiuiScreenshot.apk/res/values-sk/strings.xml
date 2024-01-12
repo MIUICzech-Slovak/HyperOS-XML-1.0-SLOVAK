@@ -243,4 +243,5 @@ dlhý screenshot"</string>
 
 <string name="screenshot_detected_multiple_template">Tento screenshot rozpoznalo viacero aplikácií vrátane %1$s</string>
      <string name="screenshot_detected_template">%1$s rozpoznal tento screenshot</string>	
+	     <string name="screenshot_succeed">Screenshot bol zhotovený</string>
 </resources>

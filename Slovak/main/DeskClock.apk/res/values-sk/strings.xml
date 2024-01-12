@@ -680,4 +680,6 @@ d.MM."</string>
       <string name="mtrl_picker_toggle_to_text_input_mode">Prepnúť do režimu zadávania textu</string>
       <string name="mtrl_picker_toggle_to_year_selection">Klepnutím prepnete na výber roka</string>
       <string name="password_toggle_content_description">Zobraziť heslo</string>     
+	  <string name="alarm_repeat_self_define">Prispôsobiť</string>
+     <string name="read_device_internal_storage">Prístup k úložisku</string>
 </resources>

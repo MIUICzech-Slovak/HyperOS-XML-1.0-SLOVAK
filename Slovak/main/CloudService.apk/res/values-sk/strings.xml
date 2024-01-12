@@ -1241,7 +1241,6 @@ Prečítajte si a odsúhlaste naše Podmienky používania a Ochranu súkromia.
     <string name="wipe_data_dialog_button_check_sync">Skontrolovať synchr.</string>
     <string name="wipe_data_dialog_msg">%s neboli synchronizované a ostanú vo vašom zariadení.</string>
     <string name="wipe_data_dialog_msg_and_on">, a nejaké iné položky</string>
-    <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="wipe_data_dialog_title">Niektoré položky neboli synchr.</string>
     <string name="wipe_data_query_progress_title">Kontrola...</string>
     <string name="wipe_secret_photo_dialog_title">Skryté fotografie nie sú synchronizované</string>
@@ -1251,4 +1250,5 @@ Prečítajte si a odsúhlaste naše Podmienky používania a Ochranu súkromia.
 	
 <string name="privacy_runtime_perm_notification_desc">Na odosielanie upozornení Xiaomi Cloud Služieb</string>
      <string name="privacy_runtime_perm_notification_title">Upozornenia</string>	
+	     <string name="browser_sync_settings_preference">Synchr. automaticky</string>
 </resources>
