@@ -1328,4 +1328,6 @@ Ak chcete synchronizovať e-maily jednorazovo, dotknite sa položky \""<b>Synchr
     <string name="yes">Áno</string>
     <string name="yesterday">Včera</string>
     <string name="you_are_in_mobile_network">Použiť mobilné dáta pre odoslanie údajov?</string>
+	<string name="notification_mutli_message_content">Klepnutím zobrazíte</string>
+	<string name="quick_translation">Preložiť</string>
 </resources>
