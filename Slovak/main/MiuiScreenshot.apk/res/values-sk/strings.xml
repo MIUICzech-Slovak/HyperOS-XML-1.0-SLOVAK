@@ -244,4 +244,10 @@ dlhý screenshot"</string>
 <string name="screenshot_detected_multiple_template">Tento screenshot rozpoznalo viacero aplikácií vrátane %1$s</string>
      <string name="screenshot_detected_template">%1$s rozpoznal tento screenshot</string>	
 	     <string name="screenshot_succeed">Screenshot bol zhotovený</string>
+		 
+<string name="long_screenshot_content_auto">Vytvára sa snímka obrazovky…</string>
+     <string name="long_screenshot_content_loading">Načítavanie...</string>
+     <string name="long_screenshot_content_manual">Ručne upravte koncový bod snímky obrazovky a potom klepnite na \"Hotovo\".</string>
+     <string name="long_screenshot_done">Hotovo</string>
+     <string name="long_screenshot_title">Posúvacia snímka obrazovky</string>		 
 </resources>

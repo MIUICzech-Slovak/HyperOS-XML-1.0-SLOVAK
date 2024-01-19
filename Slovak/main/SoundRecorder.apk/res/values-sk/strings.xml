@@ -437,4 +437,5 @@ Klepnite na \"%1$s\" a potom vyberte \"%2$s\"."</string>
       <string name="toast_enter_silent_mode">Nahrávanie. Je zapnutý tichý režim.</string>
       <string name="toast_exit_silent_mode">Nahrávanie je dokončené. Tichý režim je vypnutý.</string>
       <string name="trash_delete">Odstrániť</string>
+	      <string name="toast_stop">Nahrávanie dokončené</string>
 </resources>
