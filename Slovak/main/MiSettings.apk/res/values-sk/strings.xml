@@ -707,4 +707,6 @@ Pre správne fungovanie, táto aplikácia vyžaduje pripojenie na internet a nas
       <string name="app_use">Čas používania aplikácie</string>
       <string name="mi_transfer_banner_summary">Podporuje sa viacero značiek zariadení</string>
       <string name="mi_transfer_banner_title">Preneste položky zo starého zariadenia</string>
+      <string name="footer_global_fps">"
+%1$d. Keď zapnete Výkonný režim, obnovovacia frekvencia sa prepne na systémové maximum %2$d Hz."</string>
 </resources>

@@ -147,4 +147,8 @@ dd.M."</string>
     <string name="wednesday_short">Str</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
+    
+    <string name="moon_summary">Malý krok pre človeka, no veľký krok pre ľudstvo</string>
+    <string name="moon_super_wallpaper_label">Mesiac</string>
+    <string name="moon_title">Mesiac</string>    
 </resources>
