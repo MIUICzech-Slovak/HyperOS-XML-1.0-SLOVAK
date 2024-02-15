@@ -1089,4 +1089,8 @@ Ak chcete začať, pridajte widgety."</string>
      <string name="pa_widget_menu_improve_remove">Odstrániť</string>
      <string name="pa_widget_menu_improve_remove_card_in_stack">Odstrániť \"%s\"</string>
      <string name="pa_widget_menu_improve_replace">Nahradiť</string>     
+     
+         <string name="search_menu_title">Vyhľadať</string>
+    <string name="pa_global_search_description">Vyhľadať</string>
+         
 </resources>
