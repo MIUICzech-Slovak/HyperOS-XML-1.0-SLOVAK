@@ -731,8 +731,8 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="one">%s min</item>
     </plurals>
     <plurals name="power_center_battery_charge_number">
-        <item quantity="other">krát</item>
-        <item quantity="one">krát</item>
+        <item quantity="other">" krát"</item>
+        <item quantity="one">" krát"</item>
     </plurals>
     <plurals name="power_center_battery_consume_prolblem">
         <item quantity="other">Problémy (%d) používania batérie</item>
