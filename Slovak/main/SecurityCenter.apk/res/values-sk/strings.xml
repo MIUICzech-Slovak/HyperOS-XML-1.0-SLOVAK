@@ -6082,7 +6082,7 @@ Zapnutím jedného sa vypne druhý.“</string>
       <string name="pc_save_power">Šetrič batérie</string>
       <string name="pc_screen_on_time">Čas pred obrazovkou</string>
       <string name="pc_suggest_open_fast_charge">Zapnite rýchle nabíjanie %dW</string>
-      <string name="pc_toady_charge_time_title">Počet poplatkov dnes</string>
+      <string name="pc_toady_charge_time_title">Počet nabíjaní dnes</string>
       <string name="pc_work_in_save_mode">Šetrič batérie</string>
       <string name="pc_work_in_super_save_mode">Ultra šetrič batérie</string>
       <string name="permdesc_get_installed_apps">Povoliť \"%1$s\" prístup k informáciám o nainštalovaných aplikáciách?</string>
