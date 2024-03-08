@@ -827,4 +827,5 @@ Zvýšená bezpečnosť."</string>
       <string name="setting_no_word">Kdekoľvek</string>
       <string name="setting_only_widget_no_word">Na miniaplikáciách</string>
       <string name="start_new_window">Nové okno</string>  
+<string name="switch_personal_assistant_summary">Potiahnutím prsta doprava na ploche otvorte Google Discover</string>	
 </resources>
