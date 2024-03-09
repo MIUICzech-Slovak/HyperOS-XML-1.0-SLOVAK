@@ -8000,5 +8000,8 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
      <string name="display_notification_icon_3">%d ikony</string>
     <string name="display_notification_icon_5">%d ikon</string>
     <string name="display_notification_icon_7">%d ikon</string>	
-     <string name="title_show_notification_icon_count">Počet zobrazených ikon upozornení</string>	 
+     <string name="title_show_notification_icon_count">Počet zobrazených ikon upozornení</string>	
+    <string name="bluetooth_active_battery_level">Aktívne, %1$s Batéria</string>
+    <string name="bluetooth_active_battery_level_untethered">Aktívne, L: %1$s, R: %2$s</string>
+    <string name="bluetooth_active_no_battery_level">Aktívne</string>      
 </resources>
