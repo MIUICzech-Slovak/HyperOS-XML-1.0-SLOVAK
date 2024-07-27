@@ -135,7 +135,6 @@
     <string name="cast_forward">Pretočiť dopredu</string>
     <string name="cast_forward_10">Pretočiť dopredu desať sekúnd</string>
     <string name="cast_forward_30">Pretočiť dopredu tridsať sekúnd</string>
-    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
     <string name="cast_live_label">NAŽIVO</string>
     <string name="cast_mute">Vypnúť zvuk</string>
     <string name="cast_notification_connected_message">Pripojené k obrazovke %1$s</string>
@@ -1023,7 +1022,6 @@ Toto povolenie použijeme len na vyhľadávanie hľadaných videí a nebudeme ma
     <string name="mtrl_picker_a11y_next_month">Ďalší mesiac</string>
     <string name="mtrl_picker_a11y_prev_month">Predchádzajúci mesiac</string>
     <string name="mtrl_picker_announce_current_selection">Aktuálny výber: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Vyberte dátum</string>
     <string name="mtrl_picker_date_header_unselected">Vybraný dátum</string>
@@ -1113,7 +1111,6 @@ Toto povolenie použijeme len na vyhľadávanie hľadaných videí a nebudeme ma
     <string name="online_play_start_ready_loading_tip_kb">Načítavanie %.2f KB/s</string>
     <string name="online_play_start_ready_loading_tip_mb">Načítavanie %.2f MB/s</string>
     <string name="online_play_title">Zadajte URL</string>
-    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Nedávne prihlásenia na odber</string>
     <string name="order_recently_updated">Nedávno aktualizované</string>
     <string name="out_of_memory_background_playback_is_suspended">Prehrávanie na pozadí pozastavené z dôvodu nedostatku pamäte</string>
@@ -1520,7 +1517,6 @@ Toto povolenie použijeme len na vyhľadávanie hľadaných videí a nebudeme ma
     <string name="sns_sign_in">Iné možnosti prihlásenia</string>
     <string name="source">"Zdroj: "</string>
     <string name="start_download_tip">Pridané do fronty. Priebeh môžete skontrolovať v Profile > Stiahnuté súbory.</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">SD karta</string>
     <string name="storage_internal_sdcard">Interné úložisko</string>
     <string name="subscribe">PRIHLÁSIŤ NA ODBER</string>

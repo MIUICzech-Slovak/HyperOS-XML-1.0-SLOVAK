@@ -206,7 +206,6 @@ https://appleid.apple.com/#!&amp;page=signin zatvoriť"</string>
     <string name="dialog_backup_password_change_machine_tips">Nebudete môcť prenášať heslom chránené zálohy. Pred použitím aplikácie Xiaomi Mover vypnite heslo zálohovania.</string>
     <string name="dialog_backup_password_restore_tips">Nie je možné obnoviť položky, keď je zapnuté heslo na zálohu. Najskôr vypnite heslo zálohy.</string>
     <string name="dialog_backup_password_to_settings">Nastavenia</string>
-    <string name="digit_percent">%</string>
     <string name="dir_date_format">ddMMyyyy_HHmmss</string>
     <string name="disable_encrypt_description">Nezašifrovať</string>
     <string name="disable_encrypt_title">Vypnúť šifrovanie</string>
@@ -368,7 +367,6 @@ Nemeňte alebo nepremenúvajte záložné súbory."</string>
     <string name="import_data_from_icloud">Importovať dáta z iCloudu</string>
     <string name="import_from_xiaomi_account_hint2">Pokiaľ už máte zálohu, ťuknite na Ďalej.</string>
     <string name="import_from_xiaomi_account_hint_title">Pre zálohovanie kontaktov s rôznymi zariadeniami používajte Xiaomi Talk.</string>
-    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="import_tip_summary">V dôsledku problémov s kompatibilitou nie je možné prenášať všetky dáta z iOS zariadení. Pred spustením prenosu sa uistite, že ste vykonali zálohu iCloud.</string>
     <string name="item_view_role_description">Tabulátor</string>
     <string name="lack_perm_msg">Xiaomi Mover vyžaduje nasledujúce oprávnenia: %s .</string>
@@ -505,7 +503,6 @@ Nemeňte alebo nepremenúvajte záložné súbory."</string>
     <string name="mtrl_picker_a11y_next_month">Ďalší mesiac</string>
     <string name="mtrl_picker_a11y_prev_month">Predchádzajúci mesiac</string>
     <string name="mtrl_picker_announce_current_selection">Aktuálny výber: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Vyberte dátum</string>
     <string name="mtrl_picker_date_header_unselected">Vybraný dátum</string>

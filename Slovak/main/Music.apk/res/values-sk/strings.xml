@@ -403,7 +403,6 @@ Keď sa rozhodnete natrvalo vymazať všetky údaje, budete z aplikácie odhlás
     <string name="download_method">Stiahnuť</string>
     <string name="download_paused_in_power_save_mode">Sťahovanie je pozastavené, pokiaľ je zapnuté Šetrenie batérie</string>
     <string name="download_processing">Sťahovanie…</string>
-    <string name="download_progress">%d%%</string>
     <string name="download_quality">Kvalita sťahovania</string>
     <string name="download_quality_summary">Ďalšie nastavenia pre stiahnuté skladby</string>
     <string name="download_song_quality_title">Kvalita sťahovaných piesní</string>
@@ -499,9 +498,7 @@ Keď sa rozhodnete natrvalo vymazať všetky údaje, budete z aplikácie odhlás
     <string name="exo_media_action_repeat_all_description">Opakovať všetko</string>
     <string name="exo_media_action_repeat_off_description">Neopakovať</string>
     <string name="exo_media_action_repeat_one_description">Opakovať jednu</string>
-    <string name="exo_track_bitrate">%1$.2f MB/s</string>
     <string name="exo_track_mono">Mono</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternatívna stopa</string>
     <string name="exo_track_role_closed_captions">Skryté titulky</string>
     <string name="exo_track_role_commentary">Komentár</string>
@@ -962,7 +959,6 @@ Keď sa rozhodnete natrvalo vymazať všetky údaje, budete z aplikácie odhlás
     <string name="mtrl_picker_a11y_next_month">Ďalší mesiac</string>
     <string name="mtrl_picker_a11y_prev_month">Predchádzajúci mesiac</string>
     <string name="mtrl_picker_announce_current_selection">Aktuálny výber: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Vyberte dátum</string>
     <string name="mtrl_picker_date_header_unselected">Vybraný dátum</string>
@@ -1331,7 +1327,6 @@ Keď sa rozhodnete natrvalo vymazať všetky údaje, budete z aplikácie odhlás
     <string name="privacy_desc">Zásady ochrany osobných údajov (povinné)</string>
     <string name="privacy_policy">Zásady ochrany osobných údajov</string>
     <string name="privacy_policy_title_asm">Svet hudby na dosah ruky</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=sk_SK</string>
     <string name="privacy_request_desc">"&lt;Data>Mi Hudba si vyžaduje zhromažďovať potrebné osobné informácie, aby vám mohla poskytovať online streamovacie služby. Spôsob, akým používame získané informácie môžete zistiť v našich &lt;a href=\"%1$s\">Zásadách ochrany osobných údajov&lt;/a>. Váš súhlas so Zásadami ochrany osobných údajov Mi Hudby môžete kedykoľvek odvolať v Nastaveniach.
 Pred začatím používania si prečítajte a vyjadrite súhlas s našimi zmluvami &lt;a href=\"%2$s\">Podmienky používania&lt;/a> a &lt;a href=\"%1$s\">Zásady ochrany osobných údajov&lt;/a>.
 Ak nesúhlasíte s používaním vyššie uvedených služieb, nebudete môcť používať niektoré funkcie tejto aplikácie. Základná funkcionalita však bude pre vás stále dostupná.&lt;/Data>"</string>
@@ -1508,7 +1503,6 @@ Ak nesúhlasíte s používaním vyššie uvedených služieb, nebudete môcť p
     <string name="start_to_download">Začať sťahovanie…</string>
     <string name="start_to_play">Pripravuje sa prehranie…</string>
     <string name="start_update">Inštaluje sa nová verzia…</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Úložisko pre duálne aplikácie</string>
     <string name="storage_space_permissions_for_display">Prístup k úložisku zariadenia: na skenovanie, zobrazovanie a prehrávanie lokálnych súborov</string>
     <string name="streamloadingtext">Pripájanie k %s</string>
@@ -1673,7 +1667,6 @@ Ak nesúhlasíte s používaním vyššie uvedených služieb, nebudete môcť p
     <string name="upload_playlist_to_hungama_title">Synchr. online skladby s hungama a majte k ním prístup z akéhokoľvek zariadenia, na ktorom ste prihlásený so svojim Xiaomi kontom.</string>
     <string name="upload_playlist_to_hungama_toast">Online skladby budú synchr. s hungama</string>
     <string name="user_agreement">Podmienky používania</string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=sk_SK</string>
     <string name="user_experience_program_open">Z dôvodu obmedzení autorských práv sa musíte zaregistrovať do Programu používateľských skúseností, aby bolo možné prehrávať stiahnuté skladby. Môžete tak urobiť v Nastaveniach > Heslá a zabezpečenie > Ochrana osobných údajov > Zapísať do Programu používateľských skúseností.</string>
     <string name="user_playlist_plaza">Zoznamy</string>
     <string name="user_privacy_dialog_negative_text">Zrušiť</string>

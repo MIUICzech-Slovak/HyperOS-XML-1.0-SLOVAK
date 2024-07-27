@@ -478,7 +478,6 @@
     <string name="mtrl_picker_a11y_next_month">Ďalší mesiac</string>
     <string name="mtrl_picker_a11y_prev_month">Predchádzajúci mesiac</string>
     <string name="mtrl_picker_announce_current_selection">Aktuálny výber: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Vyberte dátum</string>
     <string name="mtrl_picker_date_header_unselected">Vybraný dátum</string>
@@ -538,7 +537,6 @@
     <string name="note_write_hint">Začnite písať</string>
     <string name="notealert_enter">Zobraziť</string>
     <string name="notealert_ok">Ignorovať</string>
-    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">Poznámky sú systémová aplikácia. Po odinštalovaní viac nebudete môcť používať túto aplikáciu.</string>
     <string name="notes_description_title">Odinštalovať Poznámky?</string>
     <string name="notification_content_add_todo_from_other_app">Pridali ste novú úlohu. Dotykom ju zobrazíte.</string>

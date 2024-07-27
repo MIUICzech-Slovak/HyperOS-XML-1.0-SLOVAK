@@ -522,7 +522,6 @@ Zvýšená bezpečnosť."</string>
     <string name="mtrl_picker_a11y_next_month">Ďalší mesiac</string>
     <string name="mtrl_picker_a11y_prev_month">Predchádzajúci mesiac</string>
     <string name="mtrl_picker_announce_current_selection">Aktuálny výber: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Vyberte dátum</string>
     <string name="mtrl_picker_date_header_unselected">Vybraný dátum</string>
@@ -736,7 +735,6 @@ Zvýšená bezpečnosť."</string>
     <string name="small_window">Plávajúce okno</string>
     <string name="start_activity_failed">Aplikáciu sa nepodarilo spustiť, skúste to prosím znovu.</string>
     <string name="start_new_window">Nové okno</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recent_memory_giga">%1$s GB</string>
     <string name="status_bar_recent_memory_info1">%1$s z %2$s dostupné</string>
     <string name="status_bar_recent_memory_info2" />

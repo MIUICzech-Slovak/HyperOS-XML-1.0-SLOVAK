@@ -574,7 +574,6 @@ Ročné a päťročné ZÚS budú stanovené vždy v 20. deň v mesiaci (môžu 
     <string name="unit_data_display_currency_btn">Ngultrum</string>
     <string name="unit_data_display_currency_bwp">Botswana pula</string>
     <string name="unit_data_display_currency_byn">Bieloruský rubeľ</string>
-    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">Kanadský dolár</string>
     <string name="unit_data_display_currency_cdf">Konžský frank</string>
     <string name="unit_data_display_currency_chf">Švajčiarsky frank</string>

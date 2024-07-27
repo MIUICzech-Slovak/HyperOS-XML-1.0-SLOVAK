@@ -304,7 +304,6 @@
     <string name="download">Stiahnuť</string>
     <string name="downloading">Sťahovanie...</string>
     <string name="early_morning">Ráno</string>
-    <string name="empty">" "</string>
     <string name="empty_content_no_ignore_image">Prázdne</string>
     <string name="empty_content_no_privacy">Prázdne</string>
     <string name="empty_content_no_similar_image">Žiadne podobné fotografie</string>
@@ -492,7 +491,6 @@
     <string name="hints_garbage_cleanup_result_safe">Všetko je OK</string>
     <string name="hints_garbage_handle_item_content">Položiek: %1$d, %2$s</string>
     <string name="hints_garbage_handle_item_empty_content">Prázdne</string>
-    <string name="hints_header_left">%d</string>
     <string name="hints_installed_app_fewer">Zriedka použité</string>
     <string name="hints_installed_app_near">Nedávno použité</string>
     <string name="hints_installed_app_never">Nikdy nepoužité</string>

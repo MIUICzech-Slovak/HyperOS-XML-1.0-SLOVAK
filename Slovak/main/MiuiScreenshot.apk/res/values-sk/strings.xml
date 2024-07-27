@@ -370,17 +370,12 @@ dlhý screenshot"</string>
     <string name="screen_editor_btn_save">Uložiť</string>
     <string name="screen_editor_btn_shell_off">Odstrániť rám zariadenia</string>
     <string name="screen_editor_btn_shell_on">Pridať rám zariadenia</string>
-    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_delete_dialog_msg">Chcete odstrániť tento screenshot?</string>
     <string name="screen_editor_delete_dialog_picture_msg">Chcete teraz odstrániť tento obrázok?</string>
-    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">Hotovo</string>
-    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
-    <string name="screen_editor_send">@string/operation_send</string>
     <string name="screen_editor_shell_disallowed_with_crop">Nie je možné pridať rám zariadenia k orezaným snímkam obrazovky</string>
     <string name="screen_editor_shell_net_error">Pripojte sa k sieti a stiahnite si rámec zariadenia</string>
     <string name="screen_editor_shell_res_downloading">Preberá sa rám zariadenia…</string>
-    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">Zrušiť</string>
     <string name="screen_save_dialog_btn_delete">Odstrániť screenshot</string>
     <string name="screen_save_dialog_btn_save">Uložiť do galérie</string>

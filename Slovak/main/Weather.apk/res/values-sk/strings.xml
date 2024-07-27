@@ -157,7 +157,6 @@
     <string name="dynamic_weather">Počasie</string>
     <string name="early_morning">Ráno</string>
     <string name="edit_city">Upraviť</string>
-    <string name="empty">" "</string>
     <string name="empty_view_net_loading">Aktualizácia...</string>
     <string name="empty_view_net_unavailable">Nebolo možné pripojiť sa k sieti</string>
     <string name="empty_view_refresh">Skúsiť znova</string>
@@ -267,7 +266,6 @@
     <string name="friday_short">Pia</string>
     <string name="friday_shortest">Pia</string>
     <string name="hourly_forcast_now">Teraz</string>
-    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d.M.</string>
     <string name="index_item_experience_now">Inštalovať teraz</string>
     <string name="indices_title_chance_of_rain">Pravdep. dažďa</string>
@@ -278,10 +276,7 @@
     <string name="indices_wind_direction_north">S</string>
     <string name="indices_wind_direction_south">J</string>
     <string name="indices_wind_direction_west">Z</string>
-    <string name="install_progress">%1$s%%</string>
     <string name="international_details_uv_index_title">UV Index</string>
-    <string name="item_city_list_region_no_data">-- / --</string>
-    <string name="item_city_list_temperature_no_data">--</string>
     <string name="location_provider_btn_text">Povoľte služby zisťovania polohy</string>
     <string name="location_tag">Lokalizovať</string>
     <string name="manager_city_option_add_home">Pridať na prvú stranu</string>
@@ -434,7 +429,6 @@
     <string name="share_button">Zdieľať</string>
     <string name="share_menu_title">Zdieľať</string>
     <string name="share_subject">Zdieľať</string>
-    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">", "</string>
     <string name="share_weather_save_pic_fail">Nie je možné zhotoviť screenshot</string>
     <string name="shortcut_short_label_24_hour_forecast">24h predpoveď</string>

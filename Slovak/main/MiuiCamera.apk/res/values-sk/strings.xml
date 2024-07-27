@@ -755,7 +755,6 @@ Nahrávanie pomocou dvoch telefónov vám tiež umožňuje pripojiť sa k inému
     <string name="edit_temple">Chrámy</string>
     <string name="edit_touch_up">Makeup</string>
     <string name="emoticon">Balík nálepiek</string>
-    <string name="empty" />
     <string name="eras_ad">CE</string>
     <string name="eras_bc">p.n.l.</string>
     <string name="error_fail_to_start_audio_capture">Záznam zvuku zlyhal.</string>

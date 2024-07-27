@@ -552,7 +552,6 @@ mm"</string>
     <string name="somatosensory_temperature_format">Pocitovo %s°</string>
     <string name="standard_clock_panel">Štandardné</string>
     <string name="standard_style">Štandardný</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="step_component_info_active_tip">Počet krokov je poskytovaný aplikáciou MiZdravie.</string>
     <string name="step_component_info_desc">Počet krokov sa zmení na trofej po dosiahnutí cieľa.</string>
     <string name="step_component_info_tip">Počet krokov je poskytovaný aplikáciou MiZdravie. Nainštalujte alebo aktualizujte aplikáciu MiZdravie.</string>

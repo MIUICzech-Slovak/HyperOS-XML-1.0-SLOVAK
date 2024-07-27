@@ -275,7 +275,6 @@ Skúste presunúť súbory zo zariadenia na Mi Drive."</string>
     <string name="favorite_photo">Fotografia</string>
     <string name="favorite_ringtone">Vyzváňanie</string>
     <string name="favorite_screen_cap">HyperOS Screenshot</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">Čítanie:</string>
     <string name="file_info_canwrite">Zápis:</string>
     <string name="file_info_ishidden">Skrytý:</string>
@@ -810,7 +809,6 @@ Skúste presunúť súbory zo zariadenia na Mi Drive."</string>
     <string name="set_pattern">Heslo bolo aktualizované</string>
     <string name="set_pattern_btn">Nastaviť</string>
     <string name="set_pattern_msg">Nastavte svoje heslo znova. Ochrana súkromia heslom chráni aj vaše fotografie a SMS.</string>
-    <string name="settings">@string/server_control_settings</string>
     <string name="size_lv1">Menšie ako %d KB</string>
     <string formatted="false" name="size_lv2">%1d KB - %2d MB</string>
     <string formatted="false" name="size_lv3">%1d MB - %2d MB</string>

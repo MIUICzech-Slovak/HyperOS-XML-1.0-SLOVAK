@@ -235,7 +235,6 @@
     <string name="settings_guide_title">Hľadáte ďalšie nastavenia?</string>
     <string name="show_badge_notifications">Bubliny</string>
     <string name="show_badge_notifications_short">Bubliny</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting">Lišta upozornení</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_disable_float_notification">Plávajúce upozornenia nie sú povolené</string>

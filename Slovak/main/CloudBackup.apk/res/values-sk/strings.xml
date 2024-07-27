@@ -438,8 +438,6 @@ Poznámka: Dáta doinštalovaných aplikácií nebudú zálohované na Xiaomi Cl
     <string name="other_device_main_space">Prvý profil</string>
     <string name="other_device_second_space">Druhý profil</string>
     <string name="page_title_more_backup_options">Ďalšie služby zálohovania</string>
-    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
-    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="pc_mode_not_support_restore_warning">Nie je možné obnoviť položky v režime PC. Vypnite PC režim a skúste to znova.</string>
     <string name="permission_to_use">Podrobnosti povolení</string>
     <string name="pm">pop.</string>

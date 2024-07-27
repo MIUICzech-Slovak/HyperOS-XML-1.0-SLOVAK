@@ -971,7 +971,6 @@ Niektoré z vašich transakcií však ešte nie sú dokončené. Ak chcete odvol
     <string name="card_main_private_space_summary">Používanie Druhého profilu je ako mať dva telefóny</string>
     <string name="card_main_private_space_title">Druhý profil</string>
     <string name="card_main_sectool_title">Nástroje</string>
-    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_video_manage_title">Spravovať videá</string>
     <string name="card_main_whatsappclean_title">Čistič WhatsApp</string>
     <string name="card_main_xspace_action">Vytvoriť</string>
@@ -1341,7 +1340,6 @@ Všetky údaje vo vašom zariadení môžu byť vymazané a heslo Zamknutej obra
     <string name="dynamic_performance_optimization_title">Dynamický výkon</string>
     <string name="early_morning">Ráno</string>
     <string name="edit_phone_num">Upraviť telefónne číslo SIM karty</string>
-    <string name="ellipsis">…</string>
     <string name="email">Email</string>
     <string name="empty">" "</string>
     <string name="empty_app">Žiadne aplikácie</string>
@@ -1419,9 +1417,7 @@ Všetky údaje vo vašom zariadení môžu byť vymazané a heslo Zamknutej obra
     <string name="exo_download_paused_for_wifi">Sťahovanie čaká na Wi‑Fi</string>
     <string name="exo_download_removing">Odstraňuje sa stiahnutý obsah</string>
     <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f MB/s</string>
     <string name="exo_track_mono">Mono</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Striedavo</string>
     <string name="exo_track_role_closed_captions">Skryté titulky</string>
     <string name="exo_track_role_commentary">Výklad</string>
@@ -2608,7 +2604,6 @@ Vaše zariadenie je teraz %s rýchlejšie."</string>
     <string name="menu_text_license_manager">Povolenia</string>
     <string name="menu_text_networkassistants">Spotreba dát</string>
     <string name="menu_text_networkassistants_danger">%s nad limit!</string>
-    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">Spotreba dát</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -2617,7 +2612,6 @@ Vaše zariadenie je teraz %s rýchlejšie."</string>
     <string name="menu_text_optimize_manage">Zrýchlenie</string>
     <string name="menu_text_optimize_manage_1">Zrýchliť</string>
     <string name="menu_text_power_manager">Správa výkonu</string>
-    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">Odobrať</string>
     <string name="menu_white">Výnimka</string>
     <string name="mi_ime_not_used">Používajte klávesnicu autorizovanú spoločnosťou Xiaomi</string>
@@ -2726,7 +2720,6 @@ Vaše zariadenie je teraz %s rýchlejšie."</string>
     <string name="mtrl_picker_a11y_next_month">Ďalší mesiac</string>
     <string name="mtrl_picker_a11y_prev_month">Predchádzajúci mesiac</string>
     <string name="mtrl_picker_announce_current_selection">Aktuálny výber: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Vyberte dátum</string>
     <string name="mtrl_picker_date_header_unselected">Vybraný dátum</string>
@@ -3487,11 +3480,6 @@ Možnosť „Synchr. štatistiky využitia dát“ je možné kedykoľvek vypnú
     <string name="power_center_dialog_msg_top">Keď je povolené Šetrenie batérie, HyperOS vykoná nasledovné akcie:</string>
     <string name="power_center_hints_scan_danger_result">Môžete opraviť problémy s batériou</string>
     <string name="power_center_list_item_auto_brightness">Nastavte automatický jas displeja</string>
-    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
-    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
-    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
-    <string name="power_center_list_item_battery_status_capacity">mAh</string>
-    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">h</string>
     <string name="power_center_list_item_close_bluetooth">Vypnúť Bluetooth</string>
     <string name="power_center_list_item_deep_save_title">Ďalšie nastavenia</string>
@@ -3804,7 +3792,6 @@ Možnosť „Synchr. štatistiky využitia dát“ je možné kedykoľvek vypnú
     <string name="pref_normal_traffic_limit">Prekročenie limitu dát</string>
     <string name="pref_open_adjust_traffic">"Synchronizovať vašu spotrebu dát s vaším operátorom"</string>
     <string name="pref_operator_not_set">Operátor nie je nastavený</string>
-    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">Po prekročení balíčku</string>
     <string name="pref_package_traffic_settings">Limit mobilných dát</string>
     <string name="pref_pkg_begin_date">Deň obnovenia dátového balíčka</string>
@@ -4105,7 +4092,6 @@ Odvolať váš súhlas teraz?"</string>
     <string name="privacy_using_record">Nahrávanie zvuku</string>
     <string name="privacyapp_number_masked_text">Obsah upozornenia je skrytý</string>
     <string name="privacyapp_number_unmasked_text">Obsah pripojenia môže byť skrytý</string>
-    <string name="process_kernel_label">Android OS</string>
     <string name="process_mediaserver_label">Mediaserver</string>
     <string name="process_vpnsdkmanager_label">Zrýchlenie hier</string>
     <string name="promotion">Reklama</string>

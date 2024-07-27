@@ -471,7 +471,6 @@ Chyba: \"%s\""</string>
     <string name="friday">Piatok</string>
     <string name="friday_short">Pia</string>
     <string name="friday_shortest">Pia</string>
-    <string name="from_account_format">%1$s</string>
     <string name="full_name">Celé meno</string>
     <string name="gallery">Galérie</string>
     <string name="ghostData_company">Firma</string>
@@ -605,7 +604,6 @@ Chyba: \"%s\""</string>
     <string name="menu_sync_remove">Zrušiť synchronizáciu skupiny</string>
     <string name="midnight">Noc</string>
     <string name="miprofile_account_type">"Xiaomi účet "</string>
-    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Upraviť profil</string>
     <string name="miprofile_name">Môj profil</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -771,7 +769,6 @@ Klepnite na \"%1$s\" a potom vyberte \"%2$s\"."</string>
     <string name="permission_retry_dialog_msg_pad">Aby ste s touto aplikáciou mohli používať svoju SIM kartu a spravovať svoje kontakty, povoľte tejto aplikácii prístup k svojim kontaktom a ich úpravu a tiež prístup k informáciám o zariadení.</string>
     <string name="permission_retry_setting">Nastavenia</string>
     <string name="phoneLabelsGroup">Telefón</string>
-    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Číslo je príliš dlhé</string>
     <string name="phone_primary">Primárny</string>
     <string name="photoPickerNotFoundText">V telefóne nie sú k dispozícii žiadne obrázky.</string>
@@ -1001,7 +998,6 @@ Klepnite na \"%1$s\" a potom vyberte \"%2$s\"."</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Prázdna skupina</string>
     <string name="six_letter">MNO</string>
-    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Podľa firmy</string>
     <string name="smart_group_company_unavailable">Neznáma firma</string>
     <string name="smart_group_frequency_1">Posledný mesiac</string>
@@ -1043,7 +1039,6 @@ Klepnite na \"%1$s\" a potom vyberte \"%2$s\"."</string>
     <string name="starred_contacts">Obľúbené</string>
     <string name="status_available">Dostupný</string>
     <string name="status_away">Preč</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">Zaneprázdnený</string>
     <string name="strequentList">Obľúbené</string>
     <string name="success_message_import_from_account">Import bol úspešný</string>

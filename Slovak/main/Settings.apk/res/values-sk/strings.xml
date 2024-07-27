@@ -1814,7 +1814,6 @@ Počas pripojenia bude zariadenie %2$s prijímať všetky hovory smerujúce na �
 Ak už ste vykonali niečo z uvedeného vyššie, pridajte svoje Mi Konto znovu; inak nebudete môcť odomknúť vaše zariadenie."</string>
     <string name="bootloader_tips_ok">Rozumiem</string>
     <string name="bootloader_tips_warning">Neodpájajte sa zo siete, neodhlasujte sa z vášho Mi konta, nevykonávajte obnovenie do továrenských nastavení alebo nevymazávajte systémové dáta.</string>
-    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="bottom_function_settings">Funkcie prídavných tlačidiel</string>
     <string name="bottomsheet_action_expand_halfway">Rozbaliť napoly</string>
     <string name="breathing_light_color_menu_title">Farba</string>
@@ -2895,7 +2894,6 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="dialog_wifi_context">Musíte sa pripojiť k internetu pre dokončenie nastavenia zariadenia. Použiť mobilné dáta?</string>
     <string name="dialog_wifi_title">Použiť mobilné dáta</string>
     <string name="dialog_yes">Áno</string>
-    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">Poznámka: Po reštarte budete môcť použiť túto aplikáciu až po odomknutí vášho zariadenia.</string>
     <string name="disable_overlays">Vypnúť HW prekrývanie</string>
     <string name="disable_overlays_summary">Vždy použiť GPU pre zobrazovanie</string>
@@ -2984,7 +2982,6 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="dndm_auto_button_title">Naplánovať</string>
     <string name="dndm_auto_setting_group">Naplánovať aktiváciu</string>
     <string name="dndm_auto_time_setting">Nastavenie času</string>
-    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">Do</string>
     <string name="dndm_auto_time_turn_off_title">Automaticky deaktivovať režim Nerušiť</string>
     <string name="dndm_auto_time_turn_on">Od</string>
@@ -4678,7 +4675,6 @@ Nakopírujte zálohy z USB naspäť do zložky (HyperOS-backup-AllBackup) v tele
     <string name="lights_title">LED</string>
     <string name="line_breaking_summary">Optimalizovať zalamovanie textu</string>
     <string name="line_breaking_title">Optimalizácia odseku textu</string>
-    <string name="link_speed">%1$d Mb/s</string>
     <string name="link_turbo_prompt">štatistiky na tejto stránke zobrazujú len množstvo dát využitých pre zrýchlenie Wi-Fi pripojenia.</string>
     <string name="link_turbo_settings_all_app_display_loading">Načítavanie...</string>
     <string name="link_turbo_settings_all_app_reach_max">Môžete vybrať maximálne 15 aplikácií</string>
@@ -5281,7 +5277,6 @@ V tomto zariadení sa nachádzajú ďalší používatelia.
     <string name="memory_usage">Využitie pamäte</string>
     <string name="memory_usage_apps">Pamäť používaná aplikáciami</string>
     <string name="memory_usage_apps_summary">{count,plural, =1{1 aplikácia použila pamäť v priebehu tohto uplynulého času: {time}}few{# aplikácie použili pamäť v priebehu tohto uplynulého času: {time}}many{# apps used memory in the last {time}}other{# aplikácií použilo pamäť v priebehu tohto uplynulého času: {time}}}</string>
-    <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">Za posledné 3 hodiny bolo priemerné využitie pamäte %1$s</string>
     <string name="memorycard_calculating">Výpočet...</string>
     <string name="memtag_footer">Ak chcete zapnúť alebo vypnúť rozšírenú ochranu pamäte, musíte reštartovať zariadenie. Keď bude zapnutá, môžete si všimnúť slabší výkon zariadenia.</string>
@@ -6040,7 +6035,6 @@ Vyberte váš operačný systém:"</string>
     <string name="nfc_more_details">Ďalšie informácie</string>
     <string name="nfc_more_title">Viac...</string>
     <string name="nfc_notification_mode_title">Pripomienky čítania NFC kariet</string>
-    <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
     <string name="nfc_payment_btn_text_set_deault">Nastaviť ako predvolené</string>
     <string name="nfc_payment_btn_text_update">Aktualizovať</string>
     <string name="nfc_payment_default">Predvolená platobná aplikácia</string>
@@ -6633,7 +6627,6 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
     <string name="power_cell">Telefón v pohotovostnom režime</string>
     <string name="power_center">Výkon</string>
     <string name="power_charge_remaining">%1$s do nabitia</string>
-    <string name="power_charging">%1$s – %2$s</string>
     <string name="power_charging_duration">%1$d %% – úplné nabitie batérie o %2$s</string>
     <string name="power_charging_future_paused">%1$s - Nabíjanie optimalizované</string>
     <string name="power_charging_limited">%1$s - Nabíjanie optimalizované</string>
@@ -6690,7 +6683,6 @@ stlačte naraz vypínač a tlačidlo zvýšenia hlasitosti"</string>
     <string name="power_remaining_less_than_duration_only">Zostáva menej ako %1$s</string>
     <string name="power_remaining_more_than_subtext">Zostáva viac ako %1$s (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">Zostáva viac ako %1$s</string>
-    <string name="power_remaining_settings_home_page">%1$s – %2$s</string>
     <string name="power_screen">Displej</string>
     <string name="power_settings_title">Režim výkonu</string>
     <string name="power_suggestion_battery_run_out">Batéria sa môže do %1$s vybiť</string>
@@ -6941,7 +6933,6 @@ stlačte naraz vypínač a tlačidlo zvýšenia hlasitosti"</string>
     <string name="privileged_action_disable_sub_dialog_title">Chcete vypnúť operátora %1$s?</string>
     <string name="privileged_action_disable_sub_dialog_title_without_carrier">Chcete vypnúť SIM kartu?</string>
     <string name="process_dex2oat_label">Optimalizácia aplikácií</string>
-    <string name="process_kernel_label">OS Android</string>
     <string name="process_mediaserver_label">Mediaserver</string>
     <string name="process_network_tethering">Zdieľanie dátového pripojenia</string>
     <string name="process_provider_in_use_description">Poskytovateľ %1$s sa používa.</string>
@@ -7740,7 +7731,6 @@ Ak chcete pripnúť aplikáciu: \u0009
     <string name="security_encryption_attention_3">Budete musieť nastaviť nové heslo.</string>
     <string name="security_encryption_attention_4">Uistite sa, že si budete pamätať vaše heslo, inak bude nutné kompletné vymazanie zariadenia.</string>
     <string name="security_encryption_attention_info">Môžete zašifrovať účty, nastavenia, stiahnuté aplikácie a ich dáta, médiá, a ostatné súbory.</string>
-    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">Dôležité upozornenie</string>
     <string name="security_encryption_close_dialog_info">Ak nezašifrujete svoje zariadenie, niektoré Google služby môžu byť nedostupné (napr. Google NFC Platby).</string>
     <string name="security_encryption_close_dialog_title">Vrátiť na predvolené zabezpečenie</string>
@@ -8333,7 +8323,6 @@ Prepnutím nezrušíte službu operátora %1$s."</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
-    <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_anyway_button_label">Preskočiť</string>
     <string name="skip_label">Preskočiť</string>
@@ -8552,10 +8541,8 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
     <string name="status_bar_app_enable_keyguard">Zamykacia obrazovka</string>
     <string name="status_bar_app_enable_message">Ikony</string>
     <string name="status_bar_carrier_settings_no_sim_card">Žiadna SIM karta</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_settings">Upozornenia</string>
     <string name="status_bar_settings_all_app_display_loading">Načítavanie...</string>
-    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_manage_notification">Spravovať upozornenia</string>
     <string name="status_bar_settings_notification_bar">Roletka</string>
     <string name="status_bar_settings_status_bar">Lišta</string>
@@ -8877,7 +8864,6 @@ Zvážte použitie rýchlejšieho úložiska ^3 alebo využite namiesto toho jed
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_divider_text">", "</string>
     <string name="summary_quick_control_all_devices">Zobraziť ovládacie prvky pre televízory, reproduktory a autá v blízkosti v ovládacom centre</string>
-    <string name="summary_range_symbol_combination">%1$s – %2$s</string>
     <string name="sunday">Nedeľa</string>
     <string name="sunday_first_day_of_week">Nedeľa</string>
     <string name="sunday_short">Ned</string>
@@ -9785,7 +9771,6 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
     <string name="vision_settings_title">Pre zrakovo postihnutých</string>
     <string name="voice_access">Hlasové ovládanie</string>
     <string name="voice_assist">Mi AI</string>
-    <string name="voice_assist_volume_option_title">@string/voice_assist</string>
     <string name="voice_category">Reč</string>
     <string name="voice_helper_title">Hlasový asistent</string>
     <string name="voice_input_output_settings">Hlasový vstup a výstup</string>
@@ -10950,11 +10935,9 @@ Keď vypnete režim bez vyrušení, zmeškané upozornenia zobrazíte potiahnut�
     <string name="zone_auto_summaryOff">Použiť časové pásmo zo siete</string>
     <string name="zone_auto_summaryOn">Použiť časové pásmo zo siete</string>
     <string name="zone_auto_title">Časové pásmo podľa siete</string>
-    <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_footer_first_sentence">Použitia %1$s. %2$s</string>
     <string name="zone_info_footer_no_dst">Používa %1$s. Nepoužíva letný čas.</string>
     <string name="zone_info_footer_second_sentence">%1$s sa začína %2$s.</string>
-    <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
     <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
     <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
     <string name="zone_menu_by_offset">Vybrať podľa čas. posunu UTC</string>

@@ -4,10 +4,6 @@
         <item>Fotoaparát</item>
         <item>Galéria</item>
     </string-array>
-    <string-array name="big_screen_layouts">
-        <item>@string/setting_big_screen_layout_columns</item>
-        <item>@string/setting_big_screen_layout_flat</item>
-    </string-array>
     <string-array name="contact_entries">
         <item>Meno</item>
         <item>Prezývka</item>
@@ -30,10 +26,6 @@
     <string-array name="note_sort_way">
         <item>Podľa dátumu vytvorenia</item>
         <item>Podľa dátumu úpravy</item>
-    </string-array>
-    <string-array name="setting_phone_note_layout_way">
-        <item>@string/action_mode_switcher_list_description</item>
-        <item>@string/action_mode_switcher_grid_description</item>
     </string-array>
     <string-array name="common_folder_operations">
         <item>Nová</item>

@@ -10,7 +10,6 @@
     <string name="download_queued">V poradí</string>
     <string name="download_remaining">Ostáva: %s</string>
     <string name="download_running">Prebieha</string>
-    <string name="download_running_percent">Stiahnutie prebieha %s</string>
     <string name="download_unknown_title">Bez názvu</string>
     <string name="notif_title_file_size">Celkovo: %1$d</string>
     <string name="notif_title_single_downloading">%1$s</string>

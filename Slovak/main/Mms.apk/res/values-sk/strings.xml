@@ -386,7 +386,6 @@ prosíme zoberte na vedomie, že funkčnosť internetových správ je pozastaven
     <string name="file_size">"Veľkosť: "</string>
     <string name="file_title">"Názov: "</string>
     <string name="file_width_height">"Veľkosť: "</string>
-    <string name="flatshow_page_no">%1$d</string>
     <string name="flight">Let</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
@@ -1212,7 +1211,6 @@ Vyskúšajte niektorých z odporúčaných chatbotov!"</string>
     <string name="send_signature_confirm_dialog_title">Odoslať podpis</string>
     <string name="send_sms">Odoslať</string>
     <string name="send_to">"Komu: "</string>
-    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Odoslané: %1s</string>
     <string name="sent_label">"Odoslané: "</string>
     <string name="service_abandon_alert">Upozornenie</string>

@@ -1219,7 +1219,6 @@ Správca môže sledovať a spravovať nastavenia, firemný prístup, aplikáci
     <string name="monitoring_description_personal_profile_named_vpn">Váš osobný profil je pripojený k aplikácii %1$s, ktorá môže sledovať vašu aktivitu v sieti vrátane správ, aplikácií a webových stránok.</string>
     <string name="monitoring_description_two_named_vpns">Pripojili ste sa k aplikáciám %1$s a %2$s, ktoré môžu sledovať vašu aktivitu v sieti, vrátane správ, aplikácií a webových stránok.</string>
     <string name="monitoring_description_vpn_settings">Otvoriť nastavenia pripojenia VPN</string>
-    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"%1$s môže mať prístup k údajom spojeným s týmto zariadením, spravovať aplikácie a meniť jeho nastavenia.
 
 V prípade otázok kontaktujte organizáciu %2$s."</string>
@@ -1822,8 +1821,6 @@ V prípade otázok kontaktujte organizáciu %2$s."</string>
     <string name="status_bar_clock_date_format_12">EE, dd. MMM</string>
     <string name="status_bar_clock_date_time_format">E, d. MMM H:mm</string>
     <string name="status_bar_clock_date_time_format_12">E, d. MMM h:mm a</string>
-    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
-    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_ethernet">Ethernet</string>
     <string name="status_bar_settings_auto_rotation">Automatické otočenie obrazovky</string>
     <string name="status_bar_work">Pracovný profil</string>

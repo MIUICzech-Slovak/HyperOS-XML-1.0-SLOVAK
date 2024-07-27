@@ -941,7 +941,6 @@ Pripojte nabíjačku a vypnite obrazovku, aby sa objavili spomienky."</string>
     <string name="face_name_edit">Upraviť</string>
     <string name="face_name_input">Zadajte meno</string>
     <string name="face_recommend">Odporúčania</string>
-    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Operácia zlyhala.</string>
     <string name="fail_reason_migrate">Prebieha spracovanie položiek... Počkajte minútu alebo dve a skúste to znova.</string>
     <string name="fail_to_pick_email">Nie je vybraný žiaden E-mail</string>
@@ -956,7 +955,6 @@ Pripojte nabíjačku a vypnite obrazovku, aby sa objavili spomienky."</string>
     <string name="feedback_my_reports">Spätná väzba</string>
     <string name="feedback_problem">Nahlásiť problém</string>
     <string name="feedback_suggest">Odoslať odporúčanie</string>
-    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="finish_create_baby_album_toast">Vytvorený album pre \"%s\" v MiCloud</string>
     <string name="finish_fill_baby">Vytvoriť</string>
     <string name="first_delete_media_for_cloud">Vybraté položky budú odstránené z cloudu a všetkých synchronizovaných zariadení s nedávno odstránenými položkami a budú natrvalo odstránené po %d dňoch, pokiaľ nemáte plán cloudového úložiska. Chcete ho napriek tomu odstrániť?</string>
@@ -1066,7 +1064,6 @@ Pripojte nabíjačku a vypnite obrazovku, aby sa objavili spomienky."</string>
     <string name="grant_permission_go_and_set">Povoliť</string>
     <string name="grant_permission_go_and_set_2">Nastavenia</string>
     <string name="grant_permission_go_and_set_3">Nastavenia</string>
-    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_manage_storage">Vyžadujú sa povolenia</string>
     <string name="grant_permission_manage_storage_unlock">Odomknite svoje zariadenie a povoľte tejto aplikácii prístup ku všetkým súborom, aby ste si mohli prezerať položky.</string>
     <string name="grant_permission_shortcut">Najskôr povoľte vytváranie odkazov na ploche.</string>
@@ -1749,7 +1746,6 @@ Pri prvom použití tejto funkcie môže prekódovanie chvíľu trvať."</string
     <string name="people_page_label">Ľudia</string>
     <string name="people_page_photo">Náhľad používateľa</string>
     <string name="people_page_unname">Neznámy</string>
-    <string name="percent_sign">%</string>
     <string name="permission_account_desc">Pre prihlásenie a správu účtov</string>
     <string name="permission_account_name">Prístup k účtom</string>
     <string name="permission_clipboard_desc">Pre prístup a ukladanie položiek do schránky</string>
@@ -2164,7 +2160,6 @@ Pri prvom použití tejto funkcie môže prekódovanie chvíľu trvať."</string
     <string name="share_album_cancel_share">Zastaviť zdieľanie</string>
     <string name="share_album_change_background">Zmeniť fotografiu na pozadí</string>
     <string name="share_album_create_failed">Vytvorenie zdieľaného albumu zlyhalo</string>
-    <string name="share_album_create_processing">@string/cloud_bacup_disable_processing</string>
     <string name="share_album_exit_button_text">Zastaviť zdieľanie</string>
     <string name="share_album_exit_confirm">Ak budete pokračovať, už nebudete mať prístup ku všetkým položkám v tomto albume. Pred odchodom si uložte všetky dôležité položky.</string>
     <string name="share_album_exit_confirm_title">Opúšťate túto skupinu?</string>
@@ -2251,7 +2246,6 @@ Pri prvom použití tejto funkcie môže prekódovanie chvíľu trvať."</string
     <string name="share_with_family">Zdieľať s rodinou</string>
     <string name="sharer_quota_fulfiled">"Nie je možné pridať na zdieľanie. Počet zdieľaných osôb pre tento album presiahol limit."</string>
     <string name="show_cloud_albumlist_summary">Spravovať albumy ktoré synchr. s cloudom</string>
-    <string name="show_cloud_albumlist_title">@string/album_cloud_list_page_title</string>
     <string name="show_hidden_album_summary">Zobraziť a spravovať skryté albumy</string>
     <string name="show_hidden_album_title">Zobraziť skryté albumy</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">Presunuté, choďte do Ostatných albumov pre zobrazenie</string>

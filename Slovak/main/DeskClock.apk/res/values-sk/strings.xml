@@ -361,7 +361,6 @@
     <string name="mtrl_picker_a11y_next_month">Zmeniť na nasledujúci mesiac</string>
     <string name="mtrl_picker_a11y_prev_month">Zmeniť na predchádzajúci mesiac</string>
     <string name="mtrl_picker_announce_current_selection">Aktuálny výber: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Vyberte dátum</string>
     <string name="mtrl_picker_date_header_unselected">Vybratý dátum</string>
@@ -469,7 +468,6 @@
     <string name="shutdown_alarm_alert_title">Budík vypnutia</string>
     <string name="shutdown_alarm_disable_summary">Budík nebude zvoniť ak vypnete zariadenie</string>
     <string name="silent_alarm_summary">Tichý</string>
-    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Vypnúť len na %s</string>
     <string name="sleep_analysis">Štatistiky</string>
     <string name="sleep_analysis_chart_date_format">dd.MM</string>
@@ -506,7 +504,6 @@
     <string name="snooze_duration_value_twenty_new">%d</string>
     <string name="star_wy_alarm_speech">Zoznámte sa s Royom Wangom</string>
     <string name="start">Štart</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_running_notification">Stopky</string>
     <string name="stopwatch_title">Stopky</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>

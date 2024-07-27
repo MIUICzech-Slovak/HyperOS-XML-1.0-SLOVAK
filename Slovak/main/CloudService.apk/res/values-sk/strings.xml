@@ -183,8 +183,6 @@
     <string name="find_device">Nájsť telefón</string>
     <string name="find_device_dspt_provision">"Ak stratíte vaše zariadenie, môžete navštíviť %s pre jeho vyhľadanie, zablokovanie alebo vymazanie jeho obsahu. Túto funkciu môžete kedykoľvek zmeniť v nastaveniach.
   "</string>
-    <string name="find_device_dspt_provision_2">i.mi.com</string>
-    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_gdpr_prompt">Povolením služby Vyhľadávanie zariadenia, súhlasíte s \"Ochranou súkromia\". Ak potrebujete zakázať autorizáciu, deaktivujte túto službu.</string>
     <string name="find_device_operation_failure_rpc">Operácia nemohla byť dokončená kvôli RPC chybe.</string>
     <string name="find_device_permissions_footer">"Klepnutím na \"Udeliť\" udelíte povolenia, ktoré ste vybrali."</string>
