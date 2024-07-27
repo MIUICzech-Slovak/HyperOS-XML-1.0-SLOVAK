@@ -92,5 +92,5 @@
     <plurals name="extreme_mode_runtime_minute">
         <item quantity="other">%s min</item>
         <item quantity="one">%s min</item>
-    </plurals>    
+    </plurals>
 </resources>

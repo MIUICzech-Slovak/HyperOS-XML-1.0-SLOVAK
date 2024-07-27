@@ -1,11 +1,70 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">Prejsť na plochu</string>
+    <string name="abc_action_bar_up_description">Prejsť nahor</string>
+    <string name="abc_action_menu_overflow_description">Ďalšie možnosti</string>
+    <string name="abc_action_mode_done">Hotovo</string>
+    <string name="abc_activity_chooser_view_see_all">Zobraziť všetky</string>
+    <string name="abc_activitychooserview_choose_application">Vybrať aplikáciu</string>
+    <string name="abc_capital_off">VYP.</string>
+    <string name="abc_capital_on">ZAP.</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">odstrániť</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">medzerník</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Vyhľadať…</string>
+    <string name="abc_searchview_description_clear">Vymazať dopyt</string>
+    <string name="abc_searchview_description_query">Vyhľadávací dopyt</string>
+    <string name="abc_searchview_description_search">Hľadať</string>
+    <string name="abc_searchview_description_submit">Odoslať dopyt</string>
+    <string name="abc_searchview_description_voice">Hlasové vyhľadávanie</string>
+    <string name="abc_shareactionprovider_share_with">Zdieľať s</string>
+    <string name="abc_shareactionprovider_share_with_application">Zdieľať s aplikáciou %s</string>
+    <string name="abc_toolbar_collapse_description">Zbaliť</string>
+    <string name="afternoon">Popoludní</string>
+    <string name="am">dop.</string>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
+    <string name="early_morning">Ráno</string>
+    <string name="earth_position_content_0">Prírodný park Kamenjak v Chorvátsku patrí jednoznačne k miestam s najväčším množstvom nádherných výhľadov pozdĺž pobrežia Stredozemného mora. Pôsobivé geologické útvary premenili toto miesto v raj potápačov. Každé leto priláka slnko a teplá stredomorská voda množstvo turistov a športových nadšencov.</string>
+    <string name="earth_position_content_1">"Terasové polia sú výsledkom ľudskej činnosti, ale tiež slúžia ako vynikajúci prírodný scénický bod.
+V Číne sa ryžové terasy nachádzajú hlavne na juh od rieky Yangtze, kde sú časté dažde a husté pohoria. Terasy Longji sú tu už viac ako 700 rokov a v blízkych dedinách je možné nájsť nemálo historických pamiatok."</string>
+    <string name="earth_position_content_2">Ilulissat sa nachádza v západnom Grónsku, 200 kilometrov severne od polárneho kruhu. Úžasný 56 km dlhý ľadovec Ilulissat sa nachádza hneď vedľa ľadovca Jakobshavn Isbræ. Ako najväčší ľadovec na severnej pologuli produkuje ročne 2 miliardy ton ľadových krýh. Po krátkej ceste na sever sa kryhy presúvajú na juh a stekajú do Atlantického oceánu.</string>
+    <string name="earth_position_content_3">Navagio je jedna z najkrajších pláží na pobreží Zakynthosu na Iónskych ostrovoch v Grécku. Hovorí sa, že je domovom slávnej vraku lode, a preto sa pláži hovorí aj „Zátoka pašerákov“.</string>
+    <string name="earth_position_content_4">Dolomity sú pohorie ležiace v severovýchodnom Taliansku. Hora Seceda je skutočne jedným z najmalebnejších miest v tejto oblasti.</string>
+    <string name="earth_position_title_0">"Chorvátsko
+Kamenjak"</string>
+    <string name="earth_position_title_1">"Kuang-si, Čína
+Ryžové terasy Longji"</string>
+    <string name="earth_position_title_2">"Grónsko
+Ilulissat"</string>
+    <string name="earth_position_title_3">"Grécko
+Pláž Navagio"</string>
+    <string name="earth_position_title_4">"Taliansko
+Dolomity"</string>
     <string name="earth_summary">Zem je naša planéta, chráňme si náš domov</string>
+    <string name="earth_super_wallpaper_label">earth</string>
     <string name="earth_title">Planéta Zem</string>
+    <string name="empty" />
+    <string name="eras_ad">CE</string>
+    <string name="eras_bc">p.n.l.</string>
+    <string name="evening">Popoludní</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
+    <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">d. MMMM</string>
     <string name="fmt_date_long_year_month">MMMM, yyyy</string>
     <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
     <string name="fmt_date_numeric_month_day">d-M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
     <string name="fmt_date_numeric_year_month">M-yyyy</string>
@@ -14,50 +73,73 @@
     <string name="fmt_date_short_month_day">"d. MMM "</string>
     <string name="fmt_date_short_year_month">MMM, yyyy</string>
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
+    <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time">T</string>
+    <string name="fmt_time_12hour">"h ' hodín"</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">ha</string>
+    <string name="fmt_time_24hour">"H ' hodín"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"S'ms'"</string>
+    <string name="fmt_time_minute">"m'min'"</string>
+    <string name="fmt_time_minute_second">"m'min' s's'"</string>
+    <string name="fmt_time_minute_second_millis">"m'min' s.S's'"</string>
+    <string name="fmt_time_second">"s's'"</string>
+    <string name="fmt_time_second_millis">"s.S's'"</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_long">EEEE</string>
+    <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
     <string name="friday">Piatok</string>
     <string name="friday_short">Pia</string>
     <string name="friday_shortest">Pia</string>
     <string name="geometry_summary">Tvary, svetlá a farby</string>
     <string name="geometry_super_wallpaper_label">Geometria</string>
     <string name="geometry_title">Geometria</string>
+    <string name="mars_position_content_0">"Táto oblasť obsahuje útesy, mesy a široké ploché údolia, o ktorých sa predpokladá, že boli spôsobené ľadovcom pokrytými úlomkami. Boli tu tiež zistené ílové minerály, ktoré sú veľmi zaujímavé pri hľadaní dôkazov o živote na Marse.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_content_1">"Vytvorené, keď vozidlo Curiosity na Marse skúmalo Pahrump Hills v kráteri Gale. Región obsahuje sedimentárne horniny, ktoré podľa vedcov vznikajú v prítomnosti vody a tmavé oblasti sú piesok.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_content_2">"Mawrth Vallis je starobylý odtokový kanál so svetlými kameňmi bohatými na hlinu. Hlinené nerasty ľahko zachovávajú mikroskopický život na Zemi, takže v údolí Mawrth sa možno raz nájdu stopy starovekého života.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_content_3">"Tieto obrázky boli nasnímané počas preskúmavania kráteru Gale v Pahrump Hills na Marse roverom Curiosity . Táto oblasť obsahuje sedimentárne horniny, o ktorých vedci veria, že sa vytvorili v prítomnosti vody. Tmavšie oblasti sú piesočnaté.
+
+NASA/JPL/Arizonská univerzita"</string>
+    <string name="mars_position_content_4">"Bahram Vallis je údolie jednej vetvy rieky, na niektorých miestach s vyvýšenými stenami. Prítomnosť zhustených eróznych prvkov na dne naznačuje, že tekutina sa podieľala na ich formovaní.
+
+NASA/JPL/Arizonská univerzita"</string>
+    <string name="mars_position_title_0">"Nilosyrtis
+Mensae oblasť"</string>
+    <string name="mars_position_title_1">Kráter Gale</string>
+    <string name="mars_position_title_2">"Kráter v
+Mawrth Vallis"</string>
+    <string name="mars_position_title_3">Pahrump Hills</string>
+    <string name="mars_position_title_4">Bahram Vallis</string>
     <string name="mars_summary">Mars vždy fascinoval ľudstvo</string>
+    <string name="mars_super_wallpaper_label">mars</string>
     <string name="mars_title">Červená planéta</string>
-    <string name="mi_wallpaper_loading">Načítavanie Xiaomi Tapety...</string>
-    <string name="mi_wallpaper_title">Xiaomi Tapeta</string>
-    <string name="miui_clock_city_name_local">Lokálny</string>
-    <string name="miui_clock_city_name_second">Druhé hodiny</string>
-    <string name="miui_lock_screen_date">dd.MM EEEE</string>
-    <string name="miui_lock_screen_date_12">dd.MM EEEE</string>
-    <string name="miui_lock_screen_date_two_lines">"EEE
-d. MMMM"</string>
-    <string name="miui_lock_screen_date_two_lines_12">"EEE
-d. MMMM"</string>
-    <string name="miui_lock_screen_large_date">"EEE
-dd.M."</string>
-    <string name="miui_lock_screen_large_date_12">"EEE
-dd.M."</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Odznačiť</string>
-    <string name="miuix_appcompat_action_mode_select_all">Všetko</string>
-    <string name="miuix_appcompat_action_mode_title_empty">Vybrať položky</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Viac</string>
-    <string name="miuix_appcompat_cancel_description">Zrušiť</string>
-    <string name="miuix_appcompat_confirm_description">Potvrdiť</string>
-    <string name="miuix_appcompat_delete_description">Vymazať</string>
-    <string name="miuix_appcompat_deselect_all">Odznačiť</string>
-    <string name="miuix_appcompat_deselect_all_description">Odznačiť</string>
-    <string name="miuix_appcompat_search_action_mode_cancel">Zrušiť</string>
-    <string name="miuix_appcompat_search_input_description">Vyhľadať</string>
-    <string name="miuix_appcompat_select_all">Všetko</string>
-    <string name="miuix_appcompat_select_all_description">Všetko</string>
-    <string name="miuix_appcompat_select_item">Vyberte položky</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Potiahnite nadol pre obnovenie</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Obnovené</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">Obnovenie…</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Pustite pre obnovenie</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Žiadne dáta</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">Žiadne dáta</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>
+    <string name="midnight">Noc</string>
     <string name="monday">Pondelok</string>
     <string name="monday_short">Pon</string>
     <string name="monday_shortest">P</string>
@@ -97,38 +179,88 @@ dd.M."</string>
     <string name="month_september">September</string>
     <string name="month_september_short">Sep</string>
     <string name="month_september_shortest">S</string>
+    <string name="moon_summary">Malý krok pre človeka, no veľký krok pre ľudstvo</string>
+    <string name="moon_super_wallpaper_label">Mesiac</string>
+    <string name="moon_title">Mesiac</string>
+    <string name="morning">Ráno</string>
+    <string name="night">Večer</string>
+    <string name="noon">Poludnie</string>
+    <string name="pm">pop.</string>
     <string name="saturday">Sobota</string>
     <string name="saturday_short">Sob</string>
     <string name="saturday_shortest">S</string>
     <string name="saturn_summary">Prstence Saturnu vytvárajú nádherné divadlo vo vesmíre</string>
+    <string name="saturn_super_wallpaper_label">saturn</string>
     <string name="saturn_title">Saturn</string>
-    <string name="search_events">Vyhľadať udalosť</string>
-    <string name="search_history">História</string>
+    <string name="search_menu_title">Hľadať</string>
     <string name="snowmountain_summary">Slnečné horské svahy hory Siguniang</string>
     <string name="snowmountain_super_wallpaper_label">Zasnežené hory</string>
     <string name="snowmountain_title">Zasnežené hory</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sunday">Nedeľa</string>
     <string name="sunday_short">Ned</string>
     <string name="sunday_shortest">N</string>
     <string name="super_wallpaper_list_label">Super tapety</string>
+    <string name="thursday">Štvrtok</string>
+    <string name="thursday_short">Štv</string>
+    <string name="thursday_shortest">Š</string>
+    <string name="time_picker_label_hour">H</string>
+    <string name="time_picker_label_minute">M</string>
+    <string name="tomorrow">Zajtra</string>
+    <string name="tuesday">Utorok</string>
+    <string name="tuesday_short">Uto</string>
+    <string name="tuesday_shortest">U</string>
+    <string name="wednesday">Streda</string>
+    <string name="wednesday_short">Str</string>
+    <string name="wednesday_shortest">S</string>
+    <string name="yesterday">Včera</string>
+    <string name="mi_wallpaper_loading">Načítavanie Xiaomi Tapety...</string>
+    <string name="mi_wallpaper_title">Xiaomi Tapeta</string>
+    <string name="miui_clock_city_name_local">Lokálny</string>
+    <string name="miui_clock_city_name_second">Druhé hodiny</string>
+    <string name="miui_lock_screen_date">dd.MM EEEE</string>
+    <string name="miui_lock_screen_date_12">dd.MM EEEE</string>
+    <string name="miui_lock_screen_date_two_lines">"EEE
+d. MMMM"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"EEE
+d. MMMM"</string>
+    <string name="miui_lock_screen_large_date">"EEE
+dd.M."</string>
+    <string name="miui_lock_screen_large_date_12">"EEE
+dd.M."</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Odznačiť</string>
+    <string name="miuix_appcompat_action_mode_select_all">Všetko</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Vybrať položky</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Viac</string>
+    <string name="miuix_appcompat_cancel_description">Zrušiť</string>
+    <string name="miuix_appcompat_confirm_description">Potvrdiť</string>
+    <string name="miuix_appcompat_delete_description">Vymazať</string>
+    <string name="miuix_appcompat_deselect_all">Odznačiť</string>
+    <string name="miuix_appcompat_deselect_all_description">Odznačiť</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Zrušiť</string>
+    <string name="miuix_appcompat_search_input_description">Vyhľadať</string>
+    <string name="miuix_appcompat_select_all">Všetko</string>
+    <string name="miuix_appcompat_select_all_description">Všetko</string>
+    <string name="miuix_appcompat_select_item">Vyberte položky</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Potiahnite nadol pre obnovenie</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Obnovené</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Obnovenie…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Pustite pre obnovenie</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Žiadne dáta</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Žiadne dáta</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>
+    <string name="search_events">Vyhľadať udalosť</string>
+    <string name="search_history">História</string>
     <string name="super_wallpaper_setting_apply_success_toast">Nastavené</string>
     <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Použiť</string>
     <string name="super_wallpaper_setting_choose_position_btn_text">Vyberte polohu</string>
     <string name="super_wallpaper_setting_coordinate_title">Súradnice</string>
     <string name="super_wallpaper_setting_view_height_title">Nadmorská výška</string>
     <string name="switch_orientation_desc">Orientácia obrazovky</string>
-    <string name="thursday">Štvrtok</string>
-    <string name="thursday_short">Štv</string>
-    <string name="thursday_shortest">Š</string>
     <string name="time_picker_dialog_title">Nastaviť čas</string>
-    <string name="time_picker_label_hour">H</string>
-    <string name="time_picker_label_minute">M</string>
     <string name="title_system_wallpaper_resource">Systémové tapety</string>
     <string name="today">Dnes</string>
-    <string name="tomorrow">Zajtra</string>
-    <string name="tuesday">Utorok</string>
-    <string name="tuesday_short">Uto</string>
-    <string name="tuesday_shortest">U</string>
     <string name="update">Aktualizovať</string>
     <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
     <string name="wallpaper_setting_find_more_text">Viac online tapiet</string>
@@ -143,12 +275,4 @@ dd.M."</string>
     <string name="weather_summary">Informácie o počasí</string>
     <string name="weather_super_wallpaper_label">Počasie</string>
     <string name="weather_title">Počasie</string>
-    <string name="wednesday">Streda</string>
-    <string name="wednesday_short">Str</string>
-    <string name="wednesday_shortest">S</string>
-    <string name="yesterday">Včera</string>
-    
-    <string name="moon_summary">Malý krok pre človeka, no veľký krok pre ľudstvo</string>
-    <string name="moon_super_wallpaper_label">Mesiac</string>
-    <string name="moon_title">Mesiac</string>    
 </resources>

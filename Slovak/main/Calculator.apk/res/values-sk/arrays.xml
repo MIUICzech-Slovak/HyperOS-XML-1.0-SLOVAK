@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="mortgage_repayment">
+        <item>Rovnomerné splátky</item>
+        <item>Znižujúce sa splátky</item>
+    </string-array>
+    <string-array name="unit_data_order_currency_">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>HKD</item>
+        <item>JPY</item>
+        <item>CNY</item>
+    </string-array>
     <string-array name="height_array">
         <item>Centimetre</item>
         <item>Metre</item>
         <item>Stopa</item>
         <item>Palce</item>
-    </string-array>
-    <string-array name="mortgage_repayment">
-        <item>Rovnomerné splátky</item>
-        <item>Znižujúce sa splátky</item>
     </string-array>
     <string-array name="operatorDescs">
         <item>ľavá zátvorka</item>

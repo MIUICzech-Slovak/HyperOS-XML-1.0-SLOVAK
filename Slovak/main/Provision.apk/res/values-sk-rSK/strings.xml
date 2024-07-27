@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="access_non_personal_data">Ak odvoláte súhlas s prístupom a používaním neosobných údajov zo svojho zariadenia, služby Wallpaper Carousel budú deaktivované a všetky zhromaždené údaje budú vymazané v lehote stanovenej v príslušných zákonoch a nariadeniach.</string>
     <string name="accessibility_enabled">Funkcia dostupnosti bola povolená.</string>
@@ -34,7 +34,7 @@
     <string name="camera_introduction">Fotoaparát môžete použiť na vytváranie fotografií a natáčanie videí.</string>
     <string name="carrier_introduction">Z dôvodu poskytovania lepších služieb môže vaše zariadenie pravidelne odosielať informácie o verzii vášho zariadenia, identifikačné údaje (vrátane IMEI/IMSI/MSISDN/MAC adresy, MEID/ICCID) a údaje o približnej polohe (vrátane ID základnej stanice) operátorovi cez Wi-Fi sieť, mobilnú dátovú sieť alebo bezplatné SMS. Operátor sľubuje analyzovať relevantné informácie len z dôvodu zlepšovania kvality služieb alebo na poskytovanie prispôsobených služieb alebo technológií a nebude poskytovať relevantné informácie tretím stranám v žiadnej forme, ktorá vás osobne môže identifikovať. Prednosť má konkrétne vyhlásenie operátora. Kontaktujte svojho operátora ohľadom poplatkov za používanie tejto služby.</string>
     <string name="clock_introduction">Túto aplikáciu môžete použiť na zobrazovanie času, ako aj časomiery, svetového času, stopiek, nastavovanie budíkov a pod.</string>
-    <string name="close_location_service_setting">Prístup ku polohe môžete vypnúť v Nastaveniach &gt; Rozšírené nastavenia &gt; Súkromie alebo zakážte oprávnenia pre jednotlivé aplikácie v Zabezpečení.</string>
+    <string name="close_location_service_setting">Prístup ku polohe môžete vypnúť v Nastaveniach > Rozšírené nastavenia > Súkromie alebo zakážte oprávnenia pre jednotlivé aplikácie v Zabezpečení.</string>
     <string name="cm_terms_content">Operátor mobilnej siete, ktorého ste vybrali, môže nahrať vaše osobné údaje a informácie o tomto zariadení na svoje siete pomocou sietí Wi-Fi alebo mobilného dátového pripojenia, aby zlepšil služby, ktoré vám poskytuje. Tieto informácie budú použité iba na štatistické účely, zlepšenie kvality služieb a poskytnutie lepšie prispôsobeného obsahu. Tieto informácie nebudú použité na vašu osobnú identifikáciu a nebudú sprístupnené tretím stranám.</string>
     <string name="cm_terms_title">Dohoda o operátorovi mobilnej siete</string>
     <string name="compass_introduction">Túto aplikáciu môžete použiť ako navigáciu ako aj zobrazovanie súradníc, atmosférického tlaku a nadmorskej výšky.</string>
@@ -64,11 +64,11 @@
     <string name="disagreement_donnot_use_product">Ak nesúhlasíte s udelením takých oprávnení alebo zdieľaním a nahrávaním vašich osobných informácií, nebudete môcť používať tento produkt. V takých prípadoch si môžete vybrať nepoužívať tento produkt.</string>
     <string name="disagreement_donnot_use_service">Ak nesúhlasíte s udelením takých oprávnení alebo zdieľaním a nahrávaním vašich osobných informácií, nebudete môcť používať túto službu. V takých prípadoch si môžete vybrať nepoužívať túto službu.</string>
     <string name="disagreement_exit_app">Ak nesúhlasíte s udelením takých oprávnení alebo zdieľaním a nahrávaním vašich osobných informácií, nebudete môcť používať túto aplikáciu. V takých prípadoch sa môžete odhlásiť alebo zakázať oprávnenia v Nastaveniach.</string>
-    <string name="disagreement_fast_pairing_abnormal">"Ak nesúhlasíte s udelením týchto povolení, nebudete môcť túto aplikáciu používať. Túto službu môžete kedykoľvek zapnúť alebo v časti Nastavenia &gt; Bluetooth &gt; Ďalšie nastavenia &gt; Xiaomi Link."</string>
+    <string name="disagreement_fast_pairing_abnormal">"Ak nesúhlasíte s udelením týchto povolení, nebudete môcť túto aplikáciu používať. Túto službu môžete kedykoľvek zapnúť alebo v časti Nastavenia > Bluetooth > Ďalšie nastavenia > Xiaomi Link."</string>
     <string name="disagreement_function">Ak nesúhlasíte s udelením takých oprávnení alebo zdieľaním a nahrávaním vašich osobných informácií, nebudete môcť používať túto funkciu. V takých prípadoch si môžete vybrať nepoužívať túto funkciu.</string>
     <string name="disagreement_location_service">Ak nesúhlasíte s udelením takých oprávnení alebo zdieľaním a nahrávaním vašich osobných informácií, nebudete môcť používať túto službu.</string>
-    <string name="disagreement_location_service_abnormal">"Ak nesúhlasíte s udelením týchto povolení, nebudete môcť používať lokalizačné služby. Lokalizačné služby môžete kedykoľvek zapnúť alebo vypnúť v časti Nastavenia &gt; Ochrana súkromia."</string>
-    <string name="disagreement_mi_account_abnormal">"Ak nesúhlasíte s udelením týchto povolení, nebudete môcť používať služby účtu Mi. Služby účtu Xiaomi môžete kedykoľvek zapnúť alebo vypnúť v časti Nastavenia &gt; Účet Mi. "</string>
+    <string name="disagreement_location_service_abnormal">"Ak nesúhlasíte s udelením týchto povolení, nebudete môcť používať lokalizačné služby. Lokalizačné služby môžete kedykoľvek zapnúť alebo vypnúť v časti Nastavenia > Ochrana súkromia."</string>
+    <string name="disagreement_mi_account_abnormal">"Ak nesúhlasíte s udelením týchto povolení, nebudete môcť používať služby účtu Mi. Služby účtu Xiaomi môžete kedykoľvek zapnúť alebo vypnúť v časti Nastavenia > Účet Mi. "</string>
     <string name="disagreement_service_not_working_properly">„Ak nesúhlasíte s udelením týchto povolení, nebudete môcť túto aplikáciu používať.“</string>
     <string name="disagreement_terminate_bluetooth">"Ak nechcete udeliť tieto povolenia, nebudete môcť používať Bluetooth. Bluetooth môžete zapnúť a vypnúť a pridať zariadenia Bluetooth v nastaveniach."</string>
     <string name="disagreement_terminate_miuidaemon">Ak nesúhlasíte s udelením takýchto povolení alebo zdieľaním a nahraním svojich osobných údajov, nebudete môcť túto službu používať.</string>
@@ -409,7 +409,7 @@ Zobraziť Zásady ochrany osobných údajov pre vybranú klávesnicu."</string>
     <string name="service_name_screen_recording">Nahrávanie obrazovky</string>
     <string name="service_name_security">Zabezpečenie</string>
     <string name="service_name_service_framework">Framework Xiaomi Služieb</string>
-    <string name="service_policy">&lt;Data&gt;Prečítajte si a vyjadrite súhlas s našou zmluvou &lt;a href=%1$s&gt;Zásady ochrany osobných údajov&lt;/a &gt;.&lt;/Data&gt;</string>
+    <string name="service_policy">&lt;Data>Prečítajte si a vyjadrite súhlas s našou zmluvou &lt;a href=%1$s>Zásady ochrany osobných údajov&lt;/a >.&lt;/Data></string>
     <string name="service_privacy_index">Zásady ochrany osobných údajov</string>
     <string name="service_sim_activation">Aktivácia SIM karty</string>
     <string name="servicestate_title">Vyhlásenie o základných službách</string>
@@ -541,18 +541,16 @@ Pred použitím tejto funkcie musíte súhlasiť so Zásadami ochrany osobných 
     <string name="withdraw_consent">Ak svoj súhlas odvoláte, služby Dennej tapety budú deaktivované.</string>
     <string name="yesterday">Včera</string>
     <string name="zone_picker_title">Vyberte časovú zónu</string>
-    
-<string name="after_sales_support">Popredajná podpora</string>
-      <string name="after_sales_support_introduction">Táto služba vám umožňuje získať podporu a pomoc týkajúcu sa zakúpených zariadení.</string>
-      <string name="authority_introduction">Správca povolení je základná služba, ktorá vám umožňuje spravovať povolenia aplikácií na tomto zariadení.</string>
-      <string name="default_font">Predvolené</string>
-      <string name="font_settings_sub_title">Vyberte systémové písmo</string>
-      <string name="font_settings_title">Nastavenia písma</string>
-      <string name="font_use_case_text_example">Text</string>
-      <string name="font_use_case_title_example">Názov</string>
-      <string name="get_imei_information">Prístup k IMEI</string>
-
-<string name="interconnection_service_summary_china">"Služby prepojenia Xiaomi umožňujú vašim zariadeniam vzájomnú bezdrôtovú interakciu. Služby Xiaomi Interconnectivity Services môžete použiť na ovládanie zariadení, prenos zvuku a prehrávania videa, kombinovanie funkcií zariadenia alebo spúšťanie úloh na jednom zariadení a pokračovanie s nimi v rovnakej aplikácii na iných pripojených zariadeniach. Táto aplikácia sa musí pripojiť k internetu a vyžaduje nasledujúce povolenia:
+    <string name="after_sales_support">Popredajná podpora</string>
+    <string name="after_sales_support_introduction">Táto služba vám umožňuje získať podporu a pomoc týkajúcu sa zakúpených zariadení.</string>
+    <string name="authority_introduction">Správca povolení je základná služba, ktorá vám umožňuje spravovať povolenia aplikácií na tomto zariadení.</string>
+    <string name="default_font">Predvolené</string>
+    <string name="font_settings_sub_title">Vyberte systémové písmo</string>
+    <string name="font_settings_title">Nastavenia písma</string>
+    <string name="font_use_case_text_example">Text</string>
+    <string name="font_use_case_title_example">Názov</string>
+    <string name="get_imei_information">Prístup k IMEI</string>
+    <string name="interconnection_service_summary_china">"Služby prepojenia Xiaomi umožňujú vašim zariadeniam vzájomnú bezdrôtovú interakciu. Služby Xiaomi Interconnectivity Services môžete použiť na ovládanie zariadení, prenos zvuku a prehrávania videa, kombinovanie funkcií zariadenia alebo spúšťanie úloh na jednom zariadení a pokračovanie s nimi v rovnakej aplikácii na iných pripojených zariadeniach. Táto aplikácia sa musí pripojiť k internetu a vyžaduje nasledujúce povolenia:
 \u0009\u0009Mi Share:
 \u0009\u0009Pristupujte k fotografiám a súborom uloženým v zariadení
 \u0009\u0009Na odosielanie a prijímanie preneseného obsahu
@@ -625,53 +623,51 @@ Pred použitím tejto funkcie musíte súhlasiť so Zásadami ochrany osobných 
 \u0009\u0009Na odosielanie a prijímanie preneseného obsahu
 Ak s udelením týchto povolení nesúhlasíte, nebudete môcť tieto služby používať.
 Dostupné služby prepojenia sa môžu líšiť v závislosti od verzie vášho systému a modelu zariadenia. Viac informácií nájdete na %s"</string>
-<string name="permission_authority_describe">Prístup k zoznamu aplikácií nainštalovaných v tomto zariadení</string>
-      <string name="permission_authority_describe_applist_summary">Na správu povolení aplikácie</string>
-      <string name="permission_get_imei_information_summary">Na identifikáciu času aktivácie zariadenia</string>
-      <string name="permission_number">Prístupové telefónne číslo</string>
-      <string name="permission_number_introduction">Na vytvorenie spojenia Bluetooth so systémami auta a slúchadlami Bluetooth</string>
-      <string name="permission_qualcomm_describe_summary">Na dynamické prideľovanie systémových prostriedkov rôznym aplikáciám a organizovanie ich pracovných procesov</string>
-      <string name="permission_quality_describe_summary">Na zhromažďovanie informácií o zlyhaniach aplikácie</string>
-      <string name="permission_uniquely_identifiable_information">Prístup k jedinečným identifikátorom tohto zariadenia</string>
-      <string name="permission_uniquely_identifiable_information_summary">Prístup k MAC adrese a OAID zariadenia na zisťovanie, pripojenie a komunikáciu s inými zariadeniami</string>
-      <string name="permission_use_bluetooth">Použiť Bluetooth</string>
-      <string name="permission_use_bluetooth_summary">Na zisťovanie, pripojenie a komunikáciu so zariadeniami v okolí</string>
-      <string name="permission_use_wlan">Použiť Wi-Fi</string>
-      <string name="permission_use_wlan_summary">Na zisťovanie, pripojenie a komunikáciu so zariadeniami v okolí</string>
-      <string name="phone_service_introduction">Telefónia je základná služba, ktorá vášmu zariadeniu umožňuje uskutočňovať hovory, odosielať a prijímať správy a pripájať sa k sieti.</string>
-      <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier je služba, ktorá spravuje systémové procesy.</string>
-      <string name="recommend_font">MiSans</string>
-      <string name="recommended_font_mark">Odporúča sa</string>
-      <string name="require_base_authority_statement">"Na poskytovanie základných služieb sú potrebné nasledujúce povolenia:
+    <string name="permission_authority_describe">Prístup k zoznamu aplikácií nainštalovaných v tomto zariadení</string>
+    <string name="permission_authority_describe_applist_summary">Na správu povolení aplikácie</string>
+    <string name="permission_get_imei_information_summary">Na identifikáciu času aktivácie zariadenia</string>
+    <string name="permission_number">Prístupové telefónne číslo</string>
+    <string name="permission_number_introduction">Na vytvorenie spojenia Bluetooth so systémami auta a slúchadlami Bluetooth</string>
+    <string name="permission_qualcomm_describe_summary">Na dynamické prideľovanie systémových prostriedkov rôznym aplikáciám a organizovanie ich pracovných procesov</string>
+    <string name="permission_quality_describe_summary">Na zhromažďovanie informácií o zlyhaniach aplikácie</string>
+    <string name="permission_uniquely_identifiable_information">Prístup k jedinečným identifikátorom tohto zariadenia</string>
+    <string name="permission_uniquely_identifiable_information_summary">Prístup k MAC adrese a OAID zariadenia na zisťovanie, pripojenie a komunikáciu s inými zariadeniami</string>
+    <string name="permission_use_bluetooth">Použiť Bluetooth</string>
+    <string name="permission_use_bluetooth_summary">Na zisťovanie, pripojenie a komunikáciu so zariadeniami v okolí</string>
+    <string name="permission_use_wlan">Použiť Wi-Fi</string>
+    <string name="permission_use_wlan_summary">Na zisťovanie, pripojenie a komunikáciu so zariadeniami v okolí</string>
+    <string name="phone_service_introduction">Telefónia je základná služba, ktorá vášmu zariadeniu umožňuje uskutočňovať hovory, odosielať a prijímať správy a pripájať sa k sieti.</string>
+    <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier je služba, ktorá spravuje systémové procesy.</string>
+    <string name="recommend_font">MiSans</string>
+    <string name="recommended_font_mark">Odporúča sa</string>
+    <string name="require_base_authority_statement">"Na poskytovanie základných služieb sú potrebné nasledujúce povolenia:
 \u0009\u0009\u0009Prístup k IMEI a IMSI"</string>
-      <string name="require_basic_applist_and_authority_statement">Na poskytovanie základných služieb sú potrebné nasledujúce povolenia:</string>
-      <string name="select_font_modele_tips">V časti Motívy si môžete kedykoľvek vybrať nové písmo</string>
-      <string name="service_name_authority">Správca povolení</string>
-      <string name="system_update_statement">Na vykonanie aktualizácie systému potrebujeme zhromaždiť IMEI zariadenia, IMSI zariadenia, identifikátory zariadenia (OAID a šifrované Android ID), účet Xiaomi, výrobcu zariadenia, model zariadenia, prevádzkovateľa siete, zariadenie pamäť, verziu operačného systému, región, jazyk, konektivitu, typ siete a IP adresu.</string>
-      <string name="system_update_title">Aktualizácie systému</string>
-      <string name="terms_of_use_label_system_quality_monitoring">Monitorovanie kvality systému</string>          
-<string name="disagreement_service_not_working_properly_with_media_storage">"Ak sa rozhodnete neudeliť tieto povolenia, služba nebude môcť normálne fungovať."</string>
-     <string name="media_storage_devices">Zariadenia na ukladanie médií</string>
-     <string name="media_storage_introduction">Táto služba umožňuje aplikáciám pristupovať k fotkám, videám, zvukom a súborom a ukladať ich.</string>
-<string name="permission_media_storage_summary">Na kontrolu spôsobu, akým aplikácie využívajú povolenia súvisiace s ochranou osobných údajov pri prístupe k súborom</string>
-
-<string name="aquire_device_info">Prístup k informáciám o zariadení</string>
-<string name="permission_application_scope_description">"Tieto povolenia používame iba pri vykonávaní overenia zabezpečenia a nepoužijeme ich na žiadny iný účel."</string>
-     <string name="read_application_info">Prístup k informáciám o aplikácii</string>
-     <string name="safe_open_service">Zabezpečené otvorené služby</string>
-     <string name="safe_open_service_introduction">Zabezpečené otvorené služby pomáhajú vývojárom a poskytujú možnosti zabezpečenia na úrovni systému na ochranu používateľov a ich súkromia.</string>
-     <string name="verify_application_security">Na overenie zabezpečenia aplikácie</string>
-     <string name="verify_device_security">Na overenie zabezpečenia zariadenia</string>      
-	 
-<string name="access_calendar">Prístup ku kalendáru</string>
-     <string name="application_extension_service">Služby rozšírenia aplikácie</string>
-     <string name="application_extension_service_introduction">Služby rozšírenia aplikácie vám poskytnú funkcie prihlásenia a overenia. Na poskytovanie základných služieb potrebuje táto aplikácia nasledujúce povolenia:</string>
-     <string name="calendar_storage">Úložisko kalendára</string>
-<string name="disagree_unable_serve">„Ak nesúhlasíte s vyššie uvedenými povoleniami, nebudete môcť túto službu používať.“</string>
-<string name="permission_not_agree_service_not_working">"Ak nesúhlasíte s vyššie uvedenými požadovanými povoleniami, nebudete môcť túto službu používať."</string>
-<string name="permission_sms_verification_code_login">Za poskytovanie overenia SMS na rýchle prihlásenie</string>
-<string name="provide_date_management_service">Táto služba vám umožňuje kontrolovať dátum a spravovať udalosti.</string>
-     <string name="read_sms_and_mms">Prístup k SMS a MMS</string>
-     <string name="require_statement">Na poskytovanie základných služieb potrebujeme nasledujúce povolenia:</string>
-     <string name="used_date_viewing">Na kontrolu dátumu</string>	 
+    <string name="require_basic_applist_and_authority_statement">Na poskytovanie základných služieb sú potrebné nasledujúce povolenia:</string>
+    <string name="select_font_modele_tips">V časti Motívy si môžete kedykoľvek vybrať nové písmo</string>
+    <string name="service_name_authority">Správca povolení</string>
+    <string name="system_update_statement">Na vykonanie aktualizácie systému potrebujeme zhromaždiť IMEI zariadenia, IMSI zariadenia, identifikátory zariadenia (OAID a šifrované Android ID), účet Xiaomi, výrobcu zariadenia, model zariadenia, prevádzkovateľa siete, zariadenie pamäť, verziu operačného systému, región, jazyk, konektivitu, typ siete a IP adresu.</string>
+    <string name="system_update_title">Aktualizácie systému</string>
+    <string name="terms_of_use_label_system_quality_monitoring">Monitorovanie kvality systému</string>
+    <string name="disagreement_service_not_working_properly_with_media_storage">"Ak sa rozhodnete neudeliť tieto povolenia, služba nebude môcť normálne fungovať."</string>
+    <string name="media_storage_devices">Zariadenia na ukladanie médií</string>
+    <string name="media_storage_introduction">Táto služba umožňuje aplikáciám pristupovať k fotkám, videám, zvukom a súborom a ukladať ich.</string>
+    <string name="permission_media_storage_summary">Na kontrolu spôsobu, akým aplikácie využívajú povolenia súvisiace s ochranou osobných údajov pri prístupe k súborom</string>
+    <string name="aquire_device_info">Prístup k informáciám o zariadení</string>
+    <string name="permission_application_scope_description">"Tieto povolenia používame iba pri vykonávaní overenia zabezpečenia a nepoužijeme ich na žiadny iný účel."</string>
+    <string name="read_application_info">Prístup k informáciám o aplikácii</string>
+    <string name="safe_open_service">Zabezpečené otvorené služby</string>
+    <string name="safe_open_service_introduction">Zabezpečené otvorené služby pomáhajú vývojárom a poskytujú možnosti zabezpečenia na úrovni systému na ochranu používateľov a ich súkromia.</string>
+    <string name="verify_application_security">Na overenie zabezpečenia aplikácie</string>
+    <string name="verify_device_security">Na overenie zabezpečenia zariadenia</string>
+    <string name="access_calendar">Prístup ku kalendáru</string>
+    <string name="application_extension_service">Služby rozšírenia aplikácie</string>
+    <string name="application_extension_service_introduction">Služby rozšírenia aplikácie vám poskytnú funkcie prihlásenia a overenia. Na poskytovanie základných služieb potrebuje táto aplikácia nasledujúce povolenia:</string>
+    <string name="calendar_storage">Úložisko kalendára</string>
+    <string name="disagree_unable_serve">„Ak nesúhlasíte s vyššie uvedenými povoleniami, nebudete môcť túto službu používať.“</string>
+    <string name="permission_not_agree_service_not_working">"Ak nesúhlasíte s vyššie uvedenými požadovanými povoleniami, nebudete môcť túto službu používať."</string>
+    <string name="permission_sms_verification_code_login">Za poskytovanie overenia SMS na rýchle prihlásenie</string>
+    <string name="provide_date_management_service">Táto služba vám umožňuje kontrolovať dátum a spravovať udalosti.</string>
+    <string name="read_sms_and_mms">Prístup k SMS a MMS</string>
+    <string name="require_statement">Na poskytovanie základných služieb potrebujeme nasledujúce povolenia:</string>
+    <string name="used_date_viewing">Na kontrolu dátumu</string>
 </resources>

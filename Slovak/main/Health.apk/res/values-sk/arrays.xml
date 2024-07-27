@@ -1,21 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="HomePageTabTitle">
-        <item>Zdravie</item>
-        <item>Cvičenie</item>
-    </string-array>
-    <string-array name="ShareTabTitle">
-        <item>Obrázok</item>
-        <item>Trasa</item>
-        <item>Karta</item>
-    </string-array>
-    <string-array name="SportTabTitle">
-        <item> Beh </item>
-        <item> Chôdza </item>
-        <item> Cyklistika </item>
-        <item> Švihadlo </item>
-        <item> Cvičenie </item>
-    </string-array>
     <string-array name="arr_prompt_label">
         <item>Reasonable</item>
         <item>Long</item>
@@ -35,52 +19,19 @@
         <item>1 hodina</item>
         <item>2 hodiny</item>
     </string-array>
-    <string-array name="contact_relation_array">
-        <item>Not set</item>
-        <item>Parent</item>
-        <item>Sister</item>
-        <item>Brother</item>
-        <item>Spouse</item>
-        <item>Partner</item>
-        <item>Friend</item>
-        <item>Colleague</item>
-        <item>Classmate</item>
+    <string-array name="energy_unit">
+        <item>"  kcal"</item>
+        <item>"  kJ"</item>
     </string-array>
-    <string-array name="gender_array">
-        <item>Nenastavené</item>
-        <item>Muž</item>
-        <item>Žena</item>
-    </string-array>
-    <string-array name="normal_blood_array">
-        <item>Nenastavené</item>
-        <item>A</item>
-        <item>B</item>
-        <item>AB</item>
-        <item>O</item>
+    <string-array name="length_unit">
+        <item>"  cm"</item>
+        <item>"  m"</item>
+        <item>"  km"</item>
     </string-array>
     <string-array name="pager_titles">
         <item>Deň</item>
         <item>Týždeň</item>
         <item>Mesiac</item>
-    </string-array>
-    <string-array name="repeat_mode_mild_abnormal_array">
-        <item>Mon, Wed, Fri</item>
-        <item>Tue, Thu, Sat</item>
-        <item>Wed, Fri, Sun</item>
-    </string-array>
-    <string-array name="repeat_mode_week_array">
-        <item>Every Monday</item>
-        <item>Every Tuesday</item>
-        <item>Every Wednesday</item>
-        <item>Every Thursday</item>
-        <item>Every Friday</item>
-        <item>Every Saturday</item>
-        <item>Every Sunday</item>
-    </string-array>
-    <string-array name="rh_blood_array">
-        <item>Not set</item>
-        <item>Negative</item>
-        <item>Positive</item>
     </string-array>
     <string-array name="run_in_background_state">
         <item>No restrictions</item>
@@ -88,14 +39,13 @@
         <item>Stop after 10 minutes</item>
         <item>Never</item>
     </string-array>
-    <string-array name="stand_guide_page_content1">
-        <item>"Sitting down doesn't benefit your health. Even if you can't reduce the time you spend sitting, standing up every once in a while is a good idea."</item>
-        <item>This feature will remind you to spend at least 1 minute of every hour standing up. 12 hours with stand-up breaks every day will help you avoid the risks of a sedentary lifestyle.</item>
-        <item>Tap \"Continue\" to learn more and turn this feature on.</item>
+    <string-array name="speed_unit">
+        <item>"  km/h"</item>
+        <item>"  m/s"</item>
     </string-array>
-    <string-array name="stand_guide_page_content2">
-        <item>Xiaomi Health can detect and record when you stand up. You can also receive reminders to stand up after 1 hour of inactivity.</item>
-        <item>This feature tracks your movement and sends reminders based on the results.</item>
+    <string-array name="temperature_unit">
+        <item>℃</item>
+        <item>°F</item>
     </string-array>
     <string-array name="week">
         <item> Nedeľa </item>
@@ -123,6 +73,73 @@
         <item> Št </item>
         <item> Pia </item>
         <item> So </item>
+    </string-array>
+    <string-array name="HomePageTabTitle">
+        <item>Zdravie</item>
+        <item>Cvičenie</item>
+    </string-array>
+    <string-array name="ShareTabTitle">
+        <item>Obrázok</item>
+        <item>Trasa</item>
+        <item>Karta</item>
+    </string-array>
+    <string-array name="SportTabTitle">
+        <item> Beh </item>
+        <item> Chôdza </item>
+        <item> Cyklistika </item>
+        <item> Švihadlo </item>
+        <item> Cvičenie </item>
+    </string-array>
+    <string-array name="contact_relation_array">
+        <item>Not set</item>
+        <item>Parent</item>
+        <item>Sister</item>
+        <item>Brother</item>
+        <item>Spouse</item>
+        <item>Partner</item>
+        <item>Friend</item>
+        <item>Colleague</item>
+        <item>Classmate</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>Nenastavené</item>
+        <item>Muž</item>
+        <item>Žena</item>
+    </string-array>
+    <string-array name="normal_blood_array">
+        <item>Nenastavené</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="repeat_mode_mild_abnormal_array">
+        <item>Mon, Wed, Fri</item>
+        <item>Tue, Thu, Sat</item>
+        <item>Wed, Fri, Sun</item>
+    </string-array>
+    <string-array name="repeat_mode_week_array">
+        <item>Every Monday</item>
+        <item>Every Tuesday</item>
+        <item>Every Wednesday</item>
+        <item>Every Thursday</item>
+        <item>Every Friday</item>
+        <item>Every Saturday</item>
+        <item>Every Sunday</item>
+    </string-array>
+    <string-array name="rh_blood_array">
+        <item>Not set</item>
+        <item>Negative</item>
+        <item>Positive</item>
+    </string-array>
+    <string-array name="stand_guide_page_content1">
+        <item>"Sitting down doesn't benefit your health. Even if you can't reduce the time you spend sitting, standing up every once in a while is a good idea."</item>
+        <item>This feature will remind you to spend at least 1 minute of every hour standing up. 12 hours with stand-up breaks every day will help you avoid the risks of a sedentary lifestyle.</item>
+        <item>Tap \"Continue\" to learn more and turn this feature on.</item>
+    </string-array>
+    <string-array name="stand_guide_page_content2">
+        <item>Xiaomi Health can detect and record when you stand up. You can also receive reminders to stand up after 1 hour of inactivity.</item>
+        <item>This feature tracks your movement and sends reminders based on the results.</item>
     </string-array>
     <string-array name="yes_no_array">
         <item>Nenastavené</item>

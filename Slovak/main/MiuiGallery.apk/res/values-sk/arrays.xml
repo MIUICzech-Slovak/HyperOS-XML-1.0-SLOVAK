@@ -1,24 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by HyperOS CZ&SK www.HyperOS.sk-->
 <resources>
-    <string-array name="acc_category_color_description">
-        <item>Biela</item>
-        <item>Tmavomodrá</item>
-        <item>Svetlomodrá</item>
-        <item>Červená</item>
-        <item>Zelená</item>
-        <item>Ružová</item>
-        <item>Hnedá</item>
-        <item>Šedá</item>
-    </string-array>
-    <string-array name="acc_magic_matting_background_description">
-        <item>Vyberte obrázok</item>
-        <item>Priehľadne pozadie</item>
-    </string-array>
-    <string-array name="account_user_gender_name">
-        <item>Muž</item>
-        <item>Žena</item>
-    </string-array>
     <string-array name="activities_title">
         <item>Špeciálny deň</item>
         <item>Pamätný deň</item>
@@ -44,13 +25,6 @@
     <string-array name="backup_automatically_key_words">
         <item>Zálohovať fotografie</item>
         <item>Zálohovať fotografie na MiCloud</item>
-    </string-array>
-    <string-array name="card_last_week_day">
-        <item>Minulý Pondelok</item>
-        <item>Minulý Utorok</item>
-        <item>Minulá Streda</item>
-        <item>Minulý Štvrtok</item>
-        <item>Minulý Piatok</item>
     </string-array>
     <string-array name="chinese_new_year_eve_title">
         <item>Noc na zapamätanie</item>
@@ -79,20 +53,6 @@
         <item>Mestské panorámy</item>
         <item>Ulice a rohy</item>
     </string-array>
-    <string-array name="collage_month">
-        <item>Jan</item>
-        <item>Feb</item>
-        <item>Mar</item>
-        <item>Apr</item>
-        <item>Máj</item>
-        <item>Jún</item>
-        <item>Júl</item>
-        <item>Aug</item>
-        <item>Sep</item>
-        <item>Okt</item>
-        <item>Nov</item>
-        <item>Dec</item>
-    </string-array>
     <string-array name="flowers_title">
         <item>Jemné okvetné lístky</item>
         <item>V plnom kvete</item>
@@ -100,6 +60,14 @@
     <string-array name="forest_title">
         <item>Do divočiny</item>
         <item>Divoká a bezplatná</item>
+    </string-array>
+    <string-array name="global_backup_display_title">
+        <item>@string/backup_google_name</item>
+        <item>@string/backup_onedrive_single_name</item>
+    </string-array>
+    <string-array name="global_backup_display_value">
+        <item>1</item>
+        <item>2</item>
     </string-array>
     <string-array name="group_people_title">
         <item>Naše stretnutia</item>
@@ -110,20 +78,6 @@
         <item>Vaše obľúbené predmety</item>
         <item>Spriaznené duše</item>
         <item>„Svetlé chvíle života“</item>
-    </string-array>
-    <string-array name="last_month">
-        <item>Január</item>
-        <item>Február</item>
-        <item>Marec</item>
-        <item>Apríl</item>
-        <item>Máj</item>
-        <item>Jún</item>
-        <item>Júl</item>
-        <item>August</item>
-        <item>September</item>
-        <item>Október</item>
-        <item>November</item>
-        <item>December</item>
     </string-array>
     <string-array name="last_some_day_babies_title">
         <item>Zaneprázdnený dospievaním</item>
@@ -155,10 +109,189 @@
         <item>Veľký deň</item>
         <item>Dole uličkou!</item>
     </string-array>
+    <string-array name="last_week_baby_title">
+        <item>Čas na zábavu</item>
+        <item>Krpcov víkend</item>
+        <item>Krpec</item>
+    </string-array>
     <string-array name="last_weekend_title">
         <item>Moje víkendy</item>
         <item>Kúsky života</item>
         <item>Spomienky na víkend</item>
+    </string-array>
+    <string-array name="last_year_group_people">
+        <item>Noví kamaráti a starí priatelia</item>
+        <item>Minuloročná stretávka</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Presunúť</item>
+        <item>Kopírovať</item>
+        <item>Zrušiť</item>
+    </string-array>
+    <string-array name="month">
+        <item>Január</item>
+        <item>Február</item>
+        <item>Marec</item>
+        <item>Apríl</item>
+        <item>Máj</item>
+        <item>Jún</item>
+        <item>Júl</item>
+        <item>August</item>
+        <item>September</item>
+        <item>Október</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="monthly_babies_title">
+        <item>"Vyrástol si!"</item>
+        <item>"Znova si vyrástol!"</item>
+    </string-array>
+    <string-array name="monthly_foods_title">
+        <item>Moje osobné menu</item>
+        <item>Chutné spomienky</item>
+        <item>Druhá pomoc, prosím!</item>
+    </string-array>
+    <string-array name="mountain_title">
+        <item>"Najlepšie pohľady na svete"</item>
+        <item>Pokračujte v stúpaní</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>Otec</item>
+        <item>Mama</item>
+        <item>Dedko z otcovej strany</item>
+        <item>Babka z otcovej strany</item>
+        <item>Dedko z maminej strany</item>
+        <item>Babka z maminej strany</item>
+    </string-array>
+    <string-array name="parties_title">
+        <item>Spolu</item>
+        <item>Skvelé časy</item>
+        <item>V zhode</item>
+    </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>Muž</item>
+        <item>Žena</item>
+    </string-array>
+    <string-array name="people_travel_title">
+        <item>Kam nás cesta zavedie</item>
+        <item>Dobre zdieľané cesty</item>
+    </string-array>
+    <string-array name="quarterly_babies_title">
+        <item>Veselá jar</item>
+        <item>Príjemné leto</item>
+        <item>Krásnu jeseň</item>
+        <item>Príjemná zima</item>
+    </string-array>
+    <string-array name="quarterly_foods_title">
+        <item>Jarné jedlá</item>
+        <item>Letné dobroty</item>
+        <item>Jesenné hody</item>
+        <item>Zimné prikrývky</item>
+    </string-array>
+    <string-array name="recent_group_people">
+        <item>Spolu</item>
+        <item>Spolky a väzby</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>ja</item>
+        <item>dieťa</item>
+        <item>rodina</item>
+        <item>kolega</item>
+        <item>spolužiak</item>
+        <item>kamarát</item>
+        <item>Neznámy</item>
+    </string-array>
+    <string-array name="season">
+        <item>Jar</item>
+        <item>Leto</item>
+        <item>Jeseň</item>
+        <item>Zima</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>Otec</item>
+        <item>Mama</item>
+        <item>Dedko z otcovej strany</item>
+        <item>Babka z otcovej strany</item>
+        <item>Dedko z maminej strany</item>
+        <item>Babka z maminej strany</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>Napredovanie</item>
+        <item>Plný energie</item>
+    </string-array>
+    <string-array name="spring_season_title">
+        <item>Kvitne jar</item>
+        <item>Jar je vo vzduchu</item>
+        <item>Ahoj jar!</item>
+    </string-array>
+    <string-array name="summer_season_title">
+        <item>Trošku leta</item>
+        <item>Tam, kde leto nikdy nekončí</item>
+    </string-array>
+    <string-array name="sunrise_sunset_title">
+        <item>Zlaté hodiny</item>
+        <item>Lúče zlata</item>
+    </string-array>
+    <string-array name="three_month_baby_title">
+        <item>Rastú tak rýchlo</item>
+        <item>Krpcové fotografie</item>
+    </string-array>
+    <string-array name="winter_season_title">
+        <item>Zimné dni</item>
+        <item>Zimná krajina zázrakov</item>
+    </string-array>
+    <string-array name="acc_category_color_description">
+        <item>Biela</item>
+        <item>Tmavomodrá</item>
+        <item>Svetlomodrá</item>
+        <item>Červená</item>
+        <item>Zelená</item>
+        <item>Ružová</item>
+        <item>Hnedá</item>
+        <item>Šedá</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>Vyberte obrázok</item>
+        <item>Priehľadne pozadie</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Muž</item>
+        <item>Žena</item>
+    </string-array>
+    <string-array name="card_last_week_day">
+        <item>Minulý Pondelok</item>
+        <item>Minulý Utorok</item>
+        <item>Minulá Streda</item>
+        <item>Minulý Štvrtok</item>
+        <item>Minulý Piatok</item>
+    </string-array>
+    <string-array name="collage_month">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>Máj</item>
+        <item>Jún</item>
+        <item>Júl</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Okt</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="last_month">
+        <item>Január</item>
+        <item>Február</item>
+        <item>Marec</item>
+        <item>Apríl</item>
+        <item>Máj</item>
+        <item>Jún</item>
+        <item>Júl</item>
+        <item>August</item>
+        <item>September</item>
+        <item>Október</item>
+        <item>November</item>
+        <item>December</item>
     </string-array>
     <string-array name="magic_effects_audio_titles">
         <item></item>
@@ -285,25 +418,6 @@
         <item>Island</item>
         <item>Keňa</item>
     </string-array>
-    <string-array name="menu_copy_or_move">
-        <item>Presunúť</item>
-        <item>Kopírovať</item>
-        <item>Zrušiť</item>
-    </string-array>
-    <string-array name="month">
-        <item>Január</item>
-        <item>Február</item>
-        <item>Marec</item>
-        <item>Apríl</item>
-        <item>Máj</item>
-        <item>Jún</item>
-        <item>Júl</item>
-        <item>August</item>
-        <item>September</item>
-        <item>Október</item>
-        <item>November</item>
-        <item>December</item>
-    </string-array>
     <string-array name="month_last_year">
         <item>Minulý Január</item>
         <item>Minulý Február</item>
@@ -318,71 +432,11 @@
         <item>Minulý November</item>
         <item>Minulý December</item>
     </string-array>
-    <string-array name="monthly_babies_title">
-        <item>"Vyrástol si!"</item>
-        <item>"Znova si vyrástol!"</item>
-    </string-array>
-    <string-array name="monthly_foods_title">
-        <item>Moje osobné menu</item>
-        <item>Chutné spomienky</item>
-        <item>Druhá pomoc, prosím!</item>
-    </string-array>
-    <string-array name="mountain_title">
-        <item>"Najlepšie pohľady na svete"</item>
-        <item>Pokračujte v stúpaní</item>
-    </string-array>
-    <string-array name="owner_relation">
-        <item>Otec</item>
-        <item>Mama</item>
-        <item>Dedko z otcovej strany</item>
-        <item>Babka z otcovej strany</item>
-        <item>Dedko z maminej strany</item>
-        <item>Babka z maminej strany</item>
-    </string-array>
-    <string-array name="people_travel_title">
-        <item>Kam nás cesta zavedie</item>
-        <item>Dobre zdieľané cesty</item>
-    </string-array>
-    <string-array name="quarterly_babies_title">
-        <item>Veselá jar</item>
-        <item>Príjemné leto</item>
-        <item>Krásnu jeseň</item>
-        <item>Príjemná zima</item>
-    </string-array>
-    <string-array name="quarterly_foods_title">
-        <item>Jarné jedlá</item>
-        <item>Letné dobroty</item>
-        <item>Jesenné hody</item>
-        <item>Zimné prikrývky</item>
-    </string-array>
-    <string-array name="relation_with_me">
-        <item>ja</item>
-        <item>dieťa</item>
-        <item>rodina</item>
-        <item>kolega</item>
-        <item>spolužiak</item>
-        <item>kamarát</item>
-        <item>Neznámy</item>
-    </string-array>
-    <string-array name="season">
-        <item>Jar</item>
-        <item>Leto</item>
-        <item>Jeseň</item>
-        <item>Zima</item>
-    </string-array>
     <string-array name="season_last_year">
         <item>Minulá Jar</item>
         <item>Minulé Leto</item>
         <item>Minulá Jeseň</item>
         <item>Minulá Zima</item>
-    </string-array>
-    <string-array name="sharer_relation_addressive">
-        <item>Otec</item>
-        <item>Mama</item>
-        <item>Dedko z otcovej strany</item>
-        <item>Babka z otcovej strany</item>
-        <item>Dedko z maminej strany</item>
-        <item>Babka z maminej strany</item>
     </string-array>
     <string-array name="slideshow_time_entries">
         <item>5 minút</item>
@@ -391,27 +445,10 @@
         <item>1 hodina</item>
         <item>Bez limitu</item>
     </string-array>
-    <string-array name="spring_season_title">
-        <item>Kvitne jar</item>
-        <item>Jar je vo vzduchu</item>
-        <item>Ahoj jar!</item>
-    </string-array>
-    <string-array name="summer_season_title">
-        <item>Trošku leta</item>
-        <item>Tam, kde leto nikdy nekončí</item>
-    </string-array>
-    <string-array name="sunrise_sunset_title">
-        <item>Zlaté hodiny</item>
-        <item>Lúče zlata</item>
-    </string-array>
     <string-array name="weekend_title">
         <item>Minulé víkendy</item>
         <item>Pamätné dni</item>
         <item>Denné udalosti</item>
         <item>Bežné a výnimočné</item>
-    </string-array>
-    <string-array name="winter_season_title">
-        <item>Zimné dni</item>
-        <item>Zimná krajina zázrakov</item>
     </string-array>
 </resources>

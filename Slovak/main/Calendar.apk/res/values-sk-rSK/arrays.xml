@@ -38,7 +38,6 @@
         <item>P</item>
         <item>S</item>
     </string-array>
-	
     <string-array name="close_alarm_repeating_labels">
         <item>Vypnúť raz</item>
         <item>Vypnúť navždy</item>
@@ -47,5 +46,4 @@
         <item>Zapnúť raz</item>
         <item>Zapnúť navždy</item>
     </string-array>
-	
 </resources>

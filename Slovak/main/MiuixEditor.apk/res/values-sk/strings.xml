@@ -1,20 +1,28 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="add_frequent_phrases">Pridať časté frázy</string>
+    <string name="call_notification_answer_action">Prijať</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Odmietnuť</string>
+    <string name="call_notification_hang_up_action">Zložiť</string>
+    <string name="call_notification_incoming_text">Prichádzajúci hovor</string>
+    <string name="call_notification_ongoing_text">Prebiehajúci hovor</string>
+    <string name="call_notification_screening_text">Preveruje sa prichádzajúci hovor</string>
+    <string name="edit_frequent_phrases">Upraviť frázy</string>
+    <string name="frequent_phrases">Časté frázy</string>
+    <string name="query">Dopyt</string>
+    <string name="select">Vybrať</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="app_name">Časté frázy</string>
     <string name="call">Hovor</string>
-    <string name="edit_frequent_phrases">Upraviť frázy</string>
     <string name="floating_toolbar_close_overflow_description">Zatvoriť</string>
     <string name="floating_toolbar_open_overflow_description">Viac nastavení</string>
-    <string name="frequent_phrases">Časté frázy</string>
     <string name="google_call">Hovor</string>
     <string name="google_email">Email</string>
     <string name="google_map">Mapa</string>
     <string name="google_open">Otvoriť</string>
     <string name="google_translate">Preložiť</string>
     <string name="open">Prehliadať</string>
-    <string name="query">Dopyt</string>
-    <string name="select">Vybrať</string>
     <string name="translate">Preložiť</string>
     <string name="translation_more">Viac</string>
     <string name="translation_query_error">Nič sa nenašlo</string>

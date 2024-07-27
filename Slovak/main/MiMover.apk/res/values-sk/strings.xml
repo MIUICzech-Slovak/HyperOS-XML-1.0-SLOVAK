@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="account_or_password_incorrect">Nesprávne ID konta alebo heslo</string>
     <string name="antispam">Zoznam blokovaných</string>
@@ -267,7 +267,7 @@ Otvorte WeChat a prejdite na Ja > Nastavenia > Všeobecné > Zálohovať &amp; m
     <string name="international_new_trans_intro_question_8">8. Prečo nemôžu byť prenesené textové správy a údaje aplikácií niektorých tretích strán?</string>
     <string name="international_scanner_send_dialog_message">Textové správy a údaje aplikácií niektorých tretích strán nie je možné preniesť. Počas prenosu nevypínajte Wi-Fi alebo neprepínajte sa medzi jednotlivými sieťami.</string>
     <string name="label_null" />
-    <string name="lack_perm_msg">Xiaomi Mover vyžaduje nasledujúce oprávnenia:&lt;b&gt;%s&lt;/b&gt;.</string>
+    <string name="lack_perm_msg">Xiaomi Mover vyžaduje nasledujúce oprávnenia:&lt;b>%s&lt;/b>.</string>
     <string name="lack_perm_title">Vyžadujú sa povolenia</string>
     <string name="launcher">Rozloženie domovskej obrazovky</string>
     <string name="less_than_1_minute">Menej ako 1 minúta</string>
@@ -724,24 +724,21 @@ na vašom iPhone"</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
     <string name="set_app_suspend">Táto aplikácia sa práve zálohuje. Počkajte na dokončenie zálohovania a skúste to znova.</string>
-	
-<string name="cannot_use_mi_huanji_bacause_of_downloader">\"%s\" už poskytuje služby zálohovania systému. Odinštalujte ho a reštartujte zariadenie, aby ste mohli používať Mi Mover.</string>
-     <string name="receiver_finish_not_transferred">Neprenesené</string>
-     <string name="receiver_finish_transferred">Prenesené</string>	
-     
-<string name="dialog_request_all_permission_content">"Na prenos údajov zo starého zariadenia do nového sa táto aplikácia musí pripojiť k internetu a vyžaduje nasledujúce povolenia:
+    <string name="cannot_use_mi_huanji_bacause_of_downloader">\"%s\" už poskytuje služby zálohovania systému. Odinštalujte ho a reštartujte zariadenie, aby ste mohli používať Mi Mover.</string>
+    <string name="receiver_finish_not_transferred">Neprenesené</string>
+    <string name="receiver_finish_transferred">Prenesené</string>
+    <string name="dialog_request_all_permission_content">"Na prenos údajov zo starého zariadenia do nového sa táto aplikácia musí pripojiť k internetu a vyžaduje nasledujúce povolenia:
 • Prístup k fotografiám, zvuku a videám
 • Prístup k správam, kontaktom a histórii hovorov
 • Prístup k úložisku
 • Prístup k zoznamu aplikácií nainštalovaných v zariadení"</string>
-      <string name="dialog_request_all_permission_title">Vyžadujú sa povolenia</string>
-      
-<string name="permission_about_storage_pad">Vyžaduje sa povolenie na prístup k úložisku zariadenia</string>
-      <string name="provisiion_set_old_pad_summary">Použite Mi Mover na import údajov zo starého zariadenia bez pripojenia k internetu</string>
-      <string name="provision_cta_title_pad">Prenos zo starého zariadenia</string>
-      <string name="provision_select_data_one">Vyberte položky na prenos</string>
-      <string name="provision_set_new_pad">Použiť ako nové zariadenie</string>
-      <string name="provision_set_old_pad">Importovať zo starého zariadenia</string>
-      <string name="receiver_video_summary_pad">Odomknite svoje staré zariadenie, klepnite na položku \"Preniesť\" a naskenujte tento obrázok</string>
-      <string name="receiver_video_title_pad">Prenos zo starého zariadenia</string>           
+    <string name="dialog_request_all_permission_title">Vyžadujú sa povolenia</string>
+    <string name="permission_about_storage_pad">Vyžaduje sa povolenie na prístup k úložisku zariadenia</string>
+    <string name="provisiion_set_old_pad_summary">Použite Mi Mover na import údajov zo starého zariadenia bez pripojenia k internetu</string>
+    <string name="provision_cta_title_pad">Prenos zo starého zariadenia</string>
+    <string name="provision_select_data_one">Vyberte položky na prenos</string>
+    <string name="provision_set_new_pad">Použiť ako nové zariadenie</string>
+    <string name="provision_set_old_pad">Importovať zo starého zariadenia</string>
+    <string name="receiver_video_summary_pad">Odomknite svoje staré zariadenie, klepnite na položku \"Preniesť\" a naskenujte tento obrázok</string>
+    <string name="receiver_video_title_pad">Prenos zo starého zariadenia</string>
 </resources>

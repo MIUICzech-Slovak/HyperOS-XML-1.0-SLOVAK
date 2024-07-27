@@ -52,10 +52,6 @@
         <item quantity="other">Položiek: %1$s</item>
         <item quantity="one">Položiek: %1$s</item>
     </plurals>
-    <plurals name="notification_missedCallTitle">
-        <item quantity="other">Zmeškané hovory</item>
-        <item quantity="one">Zmeškaný hovor</item>
-    </plurals>
     <plurals name="notification_missedCallTitle_miui">
         <item quantity="other">Zmeškané hovory</item>
         <item quantity="one">Zmeškaný hovor</item>
@@ -63,5 +59,9 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">Pred %d minútami</item>
         <item quantity="one">Pred minútou</item>
+    </plurals>
+    <plurals name="notification_missedCallTitle">
+        <item quantity="other">Zmeškané hovory</item>
+        <item quantity="one">Zmeškaný hovor</item>
     </plurals>
 </resources>

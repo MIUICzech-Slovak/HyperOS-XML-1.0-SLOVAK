@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="alphabet">Abeceda</string>
     <string name="app_name">SIM Toolkit</string>
@@ -119,6 +119,5 @@
     <string name="wednesday_short">Str</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
-    
     <string name="lable_sim_not_ready">SIM Toolkit nie je pripravený alebo nie je podporovaný</string>
 </resources>

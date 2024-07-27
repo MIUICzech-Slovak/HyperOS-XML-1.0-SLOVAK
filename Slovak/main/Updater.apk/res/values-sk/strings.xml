@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Aktualizácia</string>
     <string name="battery_islow">Pripojte nabíjačku</string>
@@ -80,7 +80,6 @@ Vaše dáta nebudú vymazané."</string>
     <string name="version">Nainštalovaná verzia</string>
     <string name="weekly">Beta</string>
     <string name="wifi_recommended">Pripojte sa na Wi-fi sieť pre stiahnutie aktualizácie!</string>
-    
-<string name="fastboot_desc">Zariadenie sa reštartuje do Fastboot režimu. Pokračovať?</string>
-    <string name="menu_title_fastboot">Reštartovať do Fastboot režimu</string>    
+    <string name="fastboot_desc">Zariadenie sa reštartuje do Fastboot režimu. Pokračovať?</string>
+    <string name="menu_title_fastboot">Reštartovať do Fastboot režimu</string>
 </resources>

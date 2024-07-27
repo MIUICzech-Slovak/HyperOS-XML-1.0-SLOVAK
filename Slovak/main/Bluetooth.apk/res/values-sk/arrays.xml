@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by HyperOS CZ&SK www.HyperOS.sk-->
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="ble_package_names">
         <item></item>

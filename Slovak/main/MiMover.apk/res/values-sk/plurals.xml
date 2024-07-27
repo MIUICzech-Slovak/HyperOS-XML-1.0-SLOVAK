@@ -134,9 +134,8 @@
         <item quantity="few">%d minúty</item>
         <item quantity="many">%d minúty</item>
     </plurals>
-	
     <plurals name="transfer_failed_summary">
         <item quantity="other">Nebolo možné preniesť %d položiek</item>
         <item quantity="one">Nebolo možné preniesť %d položku</item>
-    </plurals>	
+    </plurals>
 </resources>

@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by HyperOS CZ&SK www.HyperOS.sk-->
 <resources>
     <string-array name="attachment_chooser">
         <item>Fotoaparát</item>
         <item>Galéria</item>
     </string-array>
-    <string-array name="common_folder_operations">
-        <item>Nová</item>
-        <item>Premenovať</item>
-        <item>Vymazať</item>
+    <string-array name="big_screen_layouts">
+        <item>@string/setting_big_screen_layout_columns</item>
+        <item>@string/setting_big_screen_layout_flat</item>
     </string-array>
     <string-array name="contact_entries">
         <item>Meno</item>
@@ -23,6 +21,25 @@
         <item>Adresa</item>
         <item>Poznámka</item>
     </string-array>
+    <string-array name="font_size_names">
+        <item>Malé</item>
+        <item>Stredné</item>
+        <item>Veľké</item>
+        <item>Obrovské</item>
+    </string-array>
+    <string-array name="note_sort_way">
+        <item>Podľa dátumu vytvorenia</item>
+        <item>Podľa dátumu úpravy</item>
+    </string-array>
+    <string-array name="setting_phone_note_layout_way">
+        <item>@string/action_mode_switcher_list_description</item>
+        <item>@string/action_mode_switcher_grid_description</item>
+    </string-array>
+    <string-array name="common_folder_operations">
+        <item>Nová</item>
+        <item>Premenovať</item>
+        <item>Vymazať</item>
+    </string-array>
     <string-array name="first_guide_contents">
         <item>Vitajte v Poznámkach!</item>
         <item>Vytvorte si poznámku</item>
@@ -36,16 +53,6 @@
     <string-array name="folder_operations">
         <item>Premenovať</item>
         <item>Vymazať</item>
-    </string-array>
-    <string-array name="font_size_names">
-        <item>Malé</item>
-        <item>Stredné</item>
-        <item>Veľké</item>
-        <item>Obrovské</item>
-    </string-array>
-    <string-array name="note_sort_way">
-        <item>Podľa dátumu vytvorenia</item>
-        <item>Podľa dátumu úpravy</item>
     </string-array>
     <string-array name="second_guide_contents">
         <item>Hlasovné poznámky</item>

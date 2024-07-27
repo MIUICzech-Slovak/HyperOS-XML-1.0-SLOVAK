@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="add_done">Pridané</string>
     <string name="add_game">Pridať</string>
@@ -322,20 +322,18 @@
     <string name="wlan_change_protection_detail">Neprepínať automaticky na Wi-Fi po pripojení na mobilné dáta</string>
     <string name="wlan_change_protection_title">Zamedziť zmene siete</string>
     <string name="yesterday">Včera</string>
-    
-    
-<string name="pc_entered_extreme_mode">Režim dlhodobého spánku je zapnutý</string>
-     <string name="pc_entered_extreme_mode_summary">"Vaše zariadenie je vybité a prešlo do režimu dlhodobého spánku. Aplikácie budú bežať na pozadí a nebudú odosielať upozornenia."</string>
-     <string name="pc_extreme_exit_and_power_off">Ukončiť</string>
-     <string name="pc_extreme_mode_bg_toast">"V režime hibernácie budú aplikácie bežať na pozadí a nebudú odosielať upozornenia"</string>
-     <string name="pc_extreme_mode_exit_risk_title">Pozor</string>
-     <string name="pc_extreme_mode_exit_risk_title_summary">Vaše zariadenie je vybité. Ak ukončíte režim hibernácie, vaše zariadenie sa vypne.</string>
-     <string name="pc_extreme_mode_find_charger">Nabite svoje zariadenie čo najskôr.</string>
-     <string name="pc_extreme_mode_runtime">Pre %1$s %2$s bol zapnutý režim dlhodobého spánku.</string>
-     <string name="pc_extreme_mode_title">Režim dlhodobého spánku</string>
-     <string name="pc_going_to_exit_extreme_mode">Ukončenie režimu dlhodobého spánku</string>
-     <string name="pc_going_to_exit_extreme_mode_summary">Vaše zariadenie sa nabíja. Režim hibernácie je vypnutý.</string>
-<string name="network_error">Vyskytla sa chyba siete.</string>
-     <string name="page_load_failed">„Stránka sa nedá otvoriť“</string>
-     <string name="retry_action">Skúste to znova</string>           
+    <string name="pc_entered_extreme_mode">Režim dlhodobého spánku je zapnutý</string>
+    <string name="pc_entered_extreme_mode_summary">"Vaše zariadenie je vybité a prešlo do režimu dlhodobého spánku. Aplikácie budú bežať na pozadí a nebudú odosielať upozornenia."</string>
+    <string name="pc_extreme_exit_and_power_off">Ukončiť</string>
+    <string name="pc_extreme_mode_bg_toast">"V režime hibernácie budú aplikácie bežať na pozadí a nebudú odosielať upozornenia"</string>
+    <string name="pc_extreme_mode_exit_risk_title">Pozor</string>
+    <string name="pc_extreme_mode_exit_risk_title_summary">Vaše zariadenie je vybité. Ak ukončíte režim hibernácie, vaše zariadenie sa vypne.</string>
+    <string name="pc_extreme_mode_find_charger">Nabite svoje zariadenie čo najskôr.</string>
+    <string name="pc_extreme_mode_runtime">Pre %1$s %2$s bol zapnutý režim dlhodobého spánku.</string>
+    <string name="pc_extreme_mode_title">Režim dlhodobého spánku</string>
+    <string name="pc_going_to_exit_extreme_mode">Ukončenie režimu dlhodobého spánku</string>
+    <string name="pc_going_to_exit_extreme_mode_summary">Vaše zariadenie sa nabíja. Režim hibernácie je vypnutý.</string>
+    <string name="network_error">Vyskytla sa chyba siete.</string>
+    <string name="page_load_failed">„Stránka sa nedá otvoriť“</string>
+    <string name="retry_action">Skúste to znova</string>
 </resources>

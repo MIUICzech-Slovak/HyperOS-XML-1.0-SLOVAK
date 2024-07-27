@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by HyperOS CZ&SK www.HyperOS.sk-->
 <resources>
     <plurals name="a_hour_ago">
         <item quantity="other">Pred hodinou</item>
@@ -36,18 +35,6 @@
     </plurals>
     <plurals name="announce_for_unread">
         <item quantity="other">%2$s neprečítaných z %1$s</item>
-    </plurals>
-    <plurals name="delete_wallpapers_message">
-        <item quantity="other">Vymazať %1$d tapiet?</item>
-        <item quantity="one">Vymazať %1$d tapetu?</item>
-    </plurals>
-    <plurals name="editing_mode_title">
-        <item quantity="other">Vybraných: %1$d</item>
-        <item quantity="zero">Vybraných: %1$d</item>
-        <item quantity="one">Vybraných: %1$d</item>
-        <item quantity="two">Vybraných: %1$d</item>
-        <item quantity="few">Vybraných: %1$d</item>
-        <item quantity="many">Vybraných: %1$d</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Pred pol hodinou</item>
@@ -88,18 +75,9 @@
         <item quantity="other">strana %1$d, %2$d apl.</item>
         <item quantity="one">strana %1$d, %2$d apl.</item>
     </plurals>
-    <plurals name="uninstall_dialog_title_format">
-        <item quantity="other">Odinštalovať \"%1$s\" a %2$d ďalšie aplikácie?</item>
-        <item quantity="one">Odinštalovať \"%s\"</item>
-    </plurals>
     <plurals name="uninstall_dialog_title_multi_format">
         <item quantity="other">Odinštalovať %1$d apl.?</item>
         <item quantity="one">Odinštalovať %1$d apl.?</item>
-    </plurals>
-    <plurals name="uninstall_result_failed">
-        <item quantity="other">"Nie je možné odinštalovať \"%1$s\" a %2$d ďalšie aplikácie"</item>
-        <item quantity="one">"Nie je možné odinštalovať"</item>
-        <item quantity="two">"Nie je možné odinštalovať \"%s\" a 1 ďalšiu aplikáciu"</item>
     </plurals>
     <plurals name="uninstall_result_multi_failed">
         <item quantity="other">Nie je možné odinštalovať %1$d apl.</item>
@@ -109,6 +87,27 @@
         <item quantity="other">%1$d apl. odinštalovaných</item>
         <item quantity="one">%1$d apl. odinštalovaná</item>
     </plurals>
+    <plurals name="delete_wallpapers_message">
+        <item quantity="other">Vymazať %1$d tapiet?</item>
+        <item quantity="one">Vymazať %1$d tapetu?</item>
+    </plurals>
+    <plurals name="editing_mode_title">
+        <item quantity="other">Vybraných: %1$d</item>
+        <item quantity="zero">Vybraných: %1$d</item>
+        <item quantity="one">Vybraných: %1$d</item>
+        <item quantity="two">Vybraných: %1$d</item>
+        <item quantity="few">Vybraných: %1$d</item>
+        <item quantity="many">Vybraných: %1$d</item>
+    </plurals>
+    <plurals name="uninstall_dialog_title_format">
+        <item quantity="other">Odinštalovať \"%1$s\" a %2$d ďalšie aplikácie?</item>
+        <item quantity="one">Odinštalovať \"%s\"</item>
+    </plurals>
+    <plurals name="uninstall_result_failed">
+        <item quantity="other">"Nie je možné odinštalovať \"%1$s\" a %2$d ďalšie aplikácie"</item>
+        <item quantity="one">"Nie je možné odinštalovať"</item>
+        <item quantity="two">"Nie je možné odinštalovať \"%s\" a 1 ďalšiu aplikáciu"</item>
+    </plurals>
     <plurals name="uninstall_result_succeeded">
         <item quantity="other">%1$d aplikácií je odinštalovaných</item>
         <item quantity="one">Aplikácia je odinštalovaná</item>
@@ -117,4 +116,3 @@
         <item quantity="many">%1$d aplikácií je odinštalovaných</item>
     </plurals>
 </resources>
-

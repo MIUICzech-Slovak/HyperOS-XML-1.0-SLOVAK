@@ -41,6 +41,10 @@
         <item quantity="other">Pred %d dňami</item>
         <item quantity="one">Pred %d dňom</item>
     </plurals>
+    <plurals name="aqi_all_city_cur_num">
+        <item quantity="other">Priemer z %1$s staníc</item>
+        <item quantity="one">Priemer zo stanice %1$s</item>
+    </plurals>
     <plurals name="daily_forcast_drawer_on_home">
         <item quantity="other">%1$s-dňová predpoveď</item>
         <item quantity="one">%1$s-dňová predpoveď</item>
@@ -49,9 +53,13 @@
         <item quantity="other">%1$s-dňová predpoveď</item>
         <item quantity="one">%1$s-dňová predpoveď</item>
     </plurals>
-    <plurals name="feedback_result_interval_time_too_short">
-        <item quantity="other">%1$s seconds after the feedback</item>
-        <item quantity="one">%1$s second after the feedback</item>
+    <plurals name="feedback_result_interval_time_too_short_minute">
+        <item quantity="other">Spätnú väzbu môžete znova odoslať o %1$s minút</item>
+        <item quantity="one">Spätnú väzbu môžete znova odoslať o %1$s minútu</item>
+    </plurals>
+    <plurals name="feedback_result_interval_time_too_short_second">
+        <item quantity="other">Spätnú väzbu môžete znova odoslať o %1$s sekúnd</item>
+        <item quantity="one">Spätnú väzbu môžete znova odoslať o %1$s sekundu</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Pred pol hodinou</item>
@@ -76,53 +84,44 @@
         <item quantity="other">Položiek: %1$s</item>
         <item quantity="one">Položiek: %1$s</item>
     </plurals>
+    <plurals name="no_vote_num">
+        <item quality="other">%1$s ľudí | </item>
+        <item quantity="one">%1$s osoba | </item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Pred %d minútami</item>
         <item quantity="one">Pred minútou</item>
+    </plurals>
+    <plurals name="total_voted_num_text">
+        <item quantity="other">"&lt;font color='#20a7ff'>%1$s&lt;/font> ľudí hlasovalo"</item>
+        <item quantity="one">"&lt;font color='#20a7ff'>%1$s&lt;/font> osoba hlasovala"</item>
+    </plurals>
+    <plurals name="tts_report_temperature_high_centigrade">
+        <item quantity="other">Najvyššia teplota: %1$s stupňov Celzia</item>
+        <item quantity="one">Najvyššia teplota: %1$s stupeň Celzia</item>
+    </plurals>
+    <plurals name="tts_report_temperature_high_fahrenheit">
+        <item quantity="other">Najvyššia teplota: %1$s stupňov Fahrenheita</item>
+        <item quantity="one">Najvyššia teplota: %1$s stupeň Fahrenheita</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_centigrade">
+        <item quantity="other">Najnižšia teplota: %1$s stupňov Celzia</item>
+        <item quantity="one">Najnižšia teplota: %1$s stupeň Celzia</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_fahrenheit">
+        <item quantity="other">Najnižšia teplota: %1$s stupňov Fahrenheita</item>
+        <item quantity="one">Najnižšia teplota: %1$s stupeň Fahrenheita</item>
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Jasno</item>
         <item quantity="one">Jasno</item>
     </plurals>
-    
-<plurals name="aqi_all_city_cur_num">
-         <item quantity="other">Priemer z %1$s staníc</item>
-         <item quantity="one">Priemer zo stanice %1$s</item>
-      </plurals>
-      <plurals name="feedback_result_interval_time_too_short_minute">
-         <item quantity="other">Spätnú väzbu môžete znova odoslať o %1$s minút</item>
-         <item quantity="one">Spätnú väzbu môžete znova odoslať o %1$s minútu</item>
-      </plurals>
-      <plurals name="feedback_result_interval_time_too_short_second">
-         <item quantity="other">Spätnú väzbu môžete znova odoslať o %1$s sekúnd</item>
-         <item quantity="one">Spätnú väzbu môžete znova odoslať o %1$s sekundu</item>
-      </plurals>
-      <plurals name="no_vote_num">
-         <item quality="other">%1$s ľudí | </item>
-         <item quantity="one">%1$s osoba | </item>
-      </plurals>
-      <plurals name="total_voted_num_text">
-         <item quantity="other">"&lt;font color='#20a7ff'>%1$s&lt;/font> ľudí hlasovalo"</item>
-         <item quantity="one">"&lt;font color='#20a7ff'>%1$s&lt;/font> osoba hlasovala"</item>
-      </plurals>
-      <plurals name="tts_report_temperature_high_centigrade">
-         <item quantity="other">Najvyššia teplota: %1$s stupňov Celzia</item>
-         <item quantity="one">Najvyššia teplota: %1$s stupeň Celzia</item>
-      </plurals>
-      <plurals name="tts_report_temperature_high_fahrenheit">
-         <item quantity="other">Najvyššia teplota: %1$s stupňov Fahrenheita</item>
-         <item quantity="one">Najvyššia teplota: %1$s stupeň Fahrenheita</item>
-      </plurals>
-      <plurals name="tts_report_temperature_low_centigrade">
-         <item quantity="other">Najnižšia teplota: %1$s stupňov Celzia</item>
-         <item quantity="one">Najnižšia teplota: %1$s stupeň Celzia</item>
-      </plurals>
-      <plurals name="tts_report_temperature_low_fahrenheit">
-         <item quantity="other">Najnižšia teplota: %1$s stupňov Fahrenheita</item>
-         <item quantity="one">Najnižšia teplota: %1$s stupeň Fahrenheita</item>
-      </plurals>
-      <plurals name="yes_vote_num">
-         <item quality="other"> | %1$s ľudí</item>
-         <item quality="one"> | %1$s osoba</item>
-      </plurals>    
+    <plurals name="yes_vote_num">
+        <item quality="other"> | %1$s ľudí</item>
+        <item quality="one"> | %1$s osoba</item>
+    </plurals>
+    <plurals name="feedback_result_interval_time_too_short">
+        <item quantity="other">%1$s seconds after the feedback</item>
+        <item quantity="one">%1$s second after the feedback</item>
+    </plurals>
 </resources>

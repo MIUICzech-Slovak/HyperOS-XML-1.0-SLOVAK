@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="acousticguitar">Akustická gitara</string>
     <string name="activity_package_delete_confirm_title">Dôležité upozornenie</string>
@@ -142,7 +142,7 @@
     <string name="file_sending">Prenos súborov...</string>
     <string name="fingerprint_double_tap">Dvakrát klepnite na snímač odtlačkov prstov</string>
     <string name="fireflies">Svetlušky</string>
-    <string name="first_back_long_press_message">"Prajete si, aby na ukončili aplikácie stlačením a podržaním tlačidla Späť? \nZapnete v Nastavenia&gt; Systém&gt; HW tlačidlá"</string>
+    <string name="first_back_long_press_message">"Prajete si, aby na ukončili aplikácie stlačením a podržaním tlačidla Späť? \nZapnete v Nastavenia> Systém> HW tlačidlá"</string>
     <string name="flip_screen_camera_tip">Pre používanie fotoaparátu otočte zariadenie</string>
     <string name="flute">Fluna</string>
     <string name="fm_record_smaple_prefix_miui">FM_Nahrávka</string>
@@ -150,7 +150,7 @@
     <string name="force_exit_message">Úspešne ukončená aplikácia \"%1$s\"</string>
     <string name="force_exit_skip_message">%1$s je systémová aplikácia a nemôže byť ukončená.</string>
     <string name="fourhours">2 hodiny</string>
-    <string name="fp_nav_center_action_choose_dlg_msg">Môžete sa vrátiť na domácu plochu podržaním tlačidla Domov. Môžete si nastaviť návrat na domácu plochu len stlačením tlačidla Domov. Túto funkciu si viete nastaviť v Nastavenia &gt; Ďalšie nastavenia &gt; Tlačidlá.</string>
+    <string name="fp_nav_center_action_choose_dlg_msg">Môžete sa vrátiť na domácu plochu podržaním tlačidla Domov. Môžete si nastaviť návrat na domácu plochu len stlačením tlačidla Domov. Túto funkciu si viete nastaviť v Nastavenia > Ďalšie nastavenia > Tlačidlá.</string>
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Nie ďakujem</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Upraviť</string>
     <string name="fp_nav_center_action_choose_dlg_title">Upraviť tlačidlo Domov</string>
@@ -510,24 +510,23 @@
     <string name="wireless_charging_notification_titile">Reverzné bezdrôtové nabíjanie je deaktivované</string>
     <string name="xspace_head">Klonovaná aplikácia</string>
     <string name="xspace_resolver_activity_title">Vybrať apl.</string>
-    
-<string name="hovermode_text_confirm">Rozumiem</string>
-      <string name="hovermode_text_doubleclick">Dvojitým klepnutím pozastavíte/prehráte</string>
-      <string name="hovermode_text_drag">Posunutím priblížite</string>
-      <string name="hovermode_text_help">Pomocník</string>
-      <string name="hovermode_text_left">Upraviť jas</string>
-      <string name="hovermode_text_prompt">Keď je zapnutý režim vznášania, používajte gestá v dolnej polovici obrazovky. Medzi aplikáciami môžu existovať rozdiely.</string>
-      <string name="hovermode_text_right">Upravte hlasitosť</string>
-      <string name="no_avaliable_application">Nie sú k dispozícii žiadne aplikácie</string>
-      <string name="open_system_optimization">Najprv zapnite optimalizáciu systému</string>
-      <string name="tof_music_support_scene_des">Podporuje ovládacie prvky prehrávača hudby</string>
-      <string name="tof_office_support_scene_des">Podporuje dokumenty programu Word a prezentácie programu PowerPoint</string>
-      <string name="tof_short_video_support_scene_des">Podporuje prepínanie medzi videami</string>
-      <string name="tof_video_support_scene_des">Podporuje ovládanie prehrávača videa na celú obrazovku</string>
-      <string name="wallpaper_geometrically_irregular_title">Abstraktná geometria</string>
-      <string name="wallpaper_neon_title">Neon</string>
-      <string name="wallpaper_overlapping_space_title">Tvar a tieň</string>
-      <string name="wallpaper_submerged_wing_title">Textúry</string>    
-      <string name="wallpaper_floral_arrangement_title">Kvetinový aranžmán</string>
-     <string name="wallpaper_gradient_title">Prechod</string>
+    <string name="hovermode_text_confirm">Rozumiem</string>
+    <string name="hovermode_text_doubleclick">Dvojitým klepnutím pozastavíte/prehráte</string>
+    <string name="hovermode_text_drag">Posunutím priblížite</string>
+    <string name="hovermode_text_help">Pomocník</string>
+    <string name="hovermode_text_left">Upraviť jas</string>
+    <string name="hovermode_text_prompt">Keď je zapnutý režim vznášania, používajte gestá v dolnej polovici obrazovky. Medzi aplikáciami môžu existovať rozdiely.</string>
+    <string name="hovermode_text_right">Upravte hlasitosť</string>
+    <string name="no_avaliable_application">Nie sú k dispozícii žiadne aplikácie</string>
+    <string name="open_system_optimization">Najprv zapnite optimalizáciu systému</string>
+    <string name="tof_music_support_scene_des">Podporuje ovládacie prvky prehrávača hudby</string>
+    <string name="tof_office_support_scene_des">Podporuje dokumenty programu Word a prezentácie programu PowerPoint</string>
+    <string name="tof_short_video_support_scene_des">Podporuje prepínanie medzi videami</string>
+    <string name="tof_video_support_scene_des">Podporuje ovládanie prehrávača videa na celú obrazovku</string>
+    <string name="wallpaper_geometrically_irregular_title">Abstraktná geometria</string>
+    <string name="wallpaper_neon_title">Neon</string>
+    <string name="wallpaper_overlapping_space_title">Tvar a tieň</string>
+    <string name="wallpaper_submerged_wing_title">Textúry</string>
+    <string name="wallpaper_floral_arrangement_title">Kvetinový aranžmán</string>
+    <string name="wallpaper_gradient_title">Prechod</string>
 </resources>

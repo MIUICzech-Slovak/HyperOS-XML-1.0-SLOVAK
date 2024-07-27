@@ -578,7 +578,7 @@ Kliknutím na Obnoviť ju znova otvorte a pokračujte v prenose svojich údajov 
     <string name="paragliding">Paraglajding</string>
     <string name="password_toggle_content_description">Zobraziť heslo</string>
     <string name="pause">Pauza</string>
-    <string name="percent" formatted="false">{value,plural, =1{1 %}few{# %}many{# %}other{# %}}</string>
+    <string formatted="false" name="percent">{value,plural, =1{1 %}few{# %}many{# %}other{# %}}</string>
     <string name="percent_long">{value,plural, =1{1 percento}few{# percentá}many{# percenta}other{# percent}}</string>
     <string name="period_day">Deň menštruácie: %1$d z %2$d</string>
     <string name="permdesc_readCaloriesBurned">Umožňuje aplikáciám čítať údaje o spálených kalóriách</string>

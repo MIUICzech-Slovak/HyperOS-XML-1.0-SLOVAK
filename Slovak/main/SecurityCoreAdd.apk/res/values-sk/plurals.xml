@@ -29,6 +29,18 @@
         <item quantity="other">Pred %d minútami</item>
         <item quantity="one">Pred minútou</item>
     </plurals>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">Nikdy nevypínať pre %d aplikácií</item>
+        <item quantity="one">Nikdy nevypínať pre %d aplikáciu</item>
+        <item quantity="few">Nikdy nevypínať pre %d aplikácie</item>
+        <item quantity="many">Nikdy nevypínať pre %d aplikácií</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">Vždy vypnuté pre %d aplikácií</item>
+        <item quantity="one">Vždy vypnuté pre %d aplikáciu</item>
+        <item quantity="few">Vždy vypnuté pre %d aplikácie</item>
+        <item quantity="many">Vždy vypnuté pre %d aplikácií</item>
+    </plurals>
     <plurals name="fileCount">
         <item quantity="other">Položiek: %d</item>
         <item quantity="one">Položiek: %d</item>
@@ -59,6 +71,12 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">Položiek: %1$s</item>
         <item quantity="one">Položiek: %1$s</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nových upozornení</item>
+        <item quantity="one">%d nové upozornenie</item>
+        <item quantity="few">%d nové upozornenia</item>
+        <item quantity="many">%d new notifications</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Pred %d minútami</item>

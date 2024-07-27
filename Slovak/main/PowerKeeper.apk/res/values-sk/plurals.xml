@@ -29,10 +29,6 @@
         <item quantity="other">Pred %d minútami</item>
         <item quantity="one">Pred minútou</item>
     </plurals>
-    <plurals name="app_list_total">
-        <item quantity="other">%d apl.</item>
-        <item quantity="one">%d apl.</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Pred pol hodinou</item>
     </plurals>
@@ -60,6 +56,14 @@
         <item quantity="other">Pred %d minútami</item>
         <item quantity="one">Pred minútou</item>
     </plurals>
+    <plurals name="search_app_count_txt_na">
+        <item quantity="other">Vyhľadať %d apl.</item>
+        <item quantity="one">Vyhľadať %d apl.</item>
+    </plurals>
+    <plurals name="app_list_total">
+        <item quantity="other">%d apl.</item>
+        <item quantity="one">%d apl.</item>
+    </plurals>
     <plurals name="power_config_ultimate_off_count">
         <item quantity="one">Ešte %1$d krokov od vypnutia Ultimate režimu</item>
         <item quantity="other">Ešte %1$d krokov od vypnutia Ultimate režimu</item>
@@ -71,10 +75,6 @@
     <plurals name="power_config_ultimate_unlock_count">
         <item quantity="one">Dokončite %1$d krokov pre odblokovanie všetkých položiek</item>
         <item quantity="other">Dokončite %1$d krokov pre odblokovanie všetkých položiek</item>
-    </plurals>
-    <plurals name="search_app_count_txt_na">
-        <item quantity="other">Vyhľadať %d apl.</item>
-        <item quantity="one">Vyhľadať %d apl.</item>
     </plurals>
     <plurals name="select_items">
         <item quantity="other">Vybraných: %1$d</item>

@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="dialog_confirm_delete_downloads_message">
-        <item quantity="other">Odstrániť %d stiahnutí?</item>
-        <item quantity="one">Odstrániť %d stiahnutie?</item>
-    </plurals>
-    <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">Stiahnuté súbory %s boli úspešne odstránené</item>
-        <item quantity="one">Sťahovanie %s bolo úspešne odstránené</item>
-    </plurals>
     <plurals name="notif_summary_active">
         <item quantity="other">Sťahuje sa: %d</item>
         <item quantity="one">Sťahuje sa: 1</item>
@@ -16,8 +8,28 @@
         <item quantity="other">Čaká na stiahnutie: %d</item>
         <item quantity="one">Čaká na stiahnutie: 1</item>
     </plurals>
+    <plurals name="notif_title_multiple_downloading">
+        <item quantity="other">Sťahuje sa %1$d súborov</item>
+        <item quantity="one">Sťahuje sa %1$d súbor</item>
+        <item quantity="few">Sťahujú sa %1$d súbory</item>
+        <item quantity="many">Sťahuje sa %1$d súboru</item>
+    </plurals>
     <plurals name="notification_download_failed_more">
         <item quantity="other">Nebolo možné stiahnuť: %1$d</item>
         <item quantity="one">Nebolo možné stiahnuť: %1$d</item>
+    </plurals>
+    <plurals name="notification_download_success_more">
+        <item quantity="other">%1$d stiahnutých</item>
+        <item quantity="one">%1$d stiahnutý</item>
+        <item quantity="few">%1$d stiahnuté</item>
+        <item quantity="many">%1$d stiahnutého</item>
+    </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Odstrániť %d stiahnutí?</item>
+        <item quantity="one">Odstrániť %d stiahnutie?</item>
+    </plurals>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">Stiahnuté súbory %s boli úspešne odstránené</item>
+        <item quantity="one">Sťahovanie %s bolo úspešne odstránené</item>
     </plurals>
 </resources>

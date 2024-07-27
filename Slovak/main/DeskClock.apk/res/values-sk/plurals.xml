@@ -33,21 +33,9 @@
         <item quantity="other">Stíšené o %d min.</item>
         <item quantity="one">Stíšené o %d min.</item>
     </plurals>
-    <plurals name="auto_silence_summary">
-        <item quantity="other">Budík bude stíšený po %d min.</item>
-        <item quantity="one">Budík bude stíšený po %d min.</item>
-    </plurals>
     <plurals name="day">
         <item quantity="other">%ddni</item>
         <item quantity="one">%ddeň</item>
-    </plurals>
-    <plurals name="delete_alarm_confirm">
-        <item quantity="other">Vymazať vybrané budíky?</item>
-        <item quantity="one">Vymazať tento budík?</item>
-    </plurals>
-    <plurals name="delete_timezone_confirm">
-        <item quantity="other">Vymazať vybrané časové zóny?</item>
-        <item quantity="one">Vymazať túto časovú zónu?</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Pred pol hodinou</item>
@@ -72,21 +60,17 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Teraz</item>
     </plurals>
-    <plurals name="life_post_wake_up_item_acumu_day">
-        <item quantity="other">%1$dd</item>
-        <item quantity="one">%1$dd</item>
-    </plurals>
     <plurals name="minute">
         <item quantity="other">%dmin</item>
         <item quantity="one">%dmin</item>
     </plurals>
-    <plurals name="minute_text">
-        <item quantity="other">" min"</item>
-        <item quantity="one">" min"</item>
-    </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">Položiek: %1$s</item>
         <item quantity="one">Položiek: %1$s</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nových upozornení</item>
+        <item quantity="one">%d nové upozornenie</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Pred %d minútami</item>
@@ -120,17 +104,9 @@
         <item quantity="other">Vypnúť %1$s krát</item>
         <item quantity="one">Vypnúť %1$s krát</item>
     </plurals>
-    <plurals name="snooze_duration_desc">
-        <item quantity="other">Každých %1$s min, vypnúť %2$s krát</item>
-        <item quantity="one">Každých %1$s min, vypnúť %2$s krát</item>
-    </plurals>
     <plurals name="snooze_duration_min">
         <item quantity="other">Každých %1$s min.</item>
         <item quantity="one">Každú %1$s min.</item>
-    </plurals>
-    <plurals name="snooze_duration_summary">
-        <item quantity="other">Budík sa vypne %2$s krát (%1$s min. každý)</item>
-        <item quantity="one">Budík sa vypne %2$s krát (%1$s min.)</item>
     </plurals>
     <plurals name="snooze_message">
         <item quantity="other">Odložiť o %d min</item>
@@ -144,14 +120,6 @@
         <item quantity="other">Stopky bežali %s hodín.</item>
         <item quantity="one">Stopky bežali %s hodinu.</item>
     </plurals>
-    <plurals name="timer_item_duration_display_minutes">
-        <item quantity="other">Minút: %1$d</item>
-        <item quantity="one">Minút: %1$d</item>
-    </plurals>
-    <plurals name="timer_item_duration_display_seconds">
-        <item quantity="other">Sekúnd: %1$d</item>
-        <item quantity="one">Sekúnd: %1$d</item>
-    </plurals>
     <plurals name="timer_message_hour">
         <item quantity="other">"%1$dh "</item>
         <item quantity="one">"%1$dh "</item>
@@ -164,14 +132,6 @@
         <item quantity="other">%1$ds</item>
         <item quantity="one">%1$ds</item>
     </plurals>
-    <plurals name="timer_message_with_minutes">
-        <item quantity="other">%1$d min</item>
-        <item quantity="one">%1$d min</item>
-    </plurals>
-    <plurals name="timer_message_with_seconds">
-        <item quantity="other">%1$d s</item>
-        <item quantity="one">%1$d s</item>
-    </plurals>
     <plurals name="worldcolock_timezone_gap_fast">
         <item quantity="other">%sh dopredu</item>
         <item quantity="one">%sh dopredu</item>
@@ -180,9 +140,48 @@
         <item quantity="other">%sh dozadu</item>
         <item quantity="one">%sh dozadu</item>
     </plurals>
-    
-<plurals name="mtrl_badge_content_description">
-         <item quantity="other">%d nových upozornení</item>
-         <item quantity="one">%d nové upozornenie</item>
-      </plurals>    
+    <plurals name="auto_silence_summary">
+        <item quantity="other">Budík bude stíšený po %d min.</item>
+        <item quantity="one">Budík bude stíšený po %d min.</item>
+    </plurals>
+    <plurals name="delete_alarm_confirm">
+        <item quantity="other">Vymazať vybrané budíky?</item>
+        <item quantity="one">Vymazať tento budík?</item>
+    </plurals>
+    <plurals name="delete_timezone_confirm">
+        <item quantity="other">Vymazať vybrané časové zóny?</item>
+        <item quantity="one">Vymazať túto časovú zónu?</item>
+    </plurals>
+    <plurals name="life_post_wake_up_item_acumu_day">
+        <item quantity="other">%1$dd</item>
+        <item quantity="one">%1$dd</item>
+    </plurals>
+    <plurals name="minute_text">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+    </plurals>
+    <plurals name="snooze_duration_desc">
+        <item quantity="other">Každých %1$s min, vypnúť %2$s krát</item>
+        <item quantity="one">Každých %1$s min, vypnúť %2$s krát</item>
+    </plurals>
+    <plurals name="snooze_duration_summary">
+        <item quantity="other">Budík sa vypne %2$s krát (%1$s min. každý)</item>
+        <item quantity="one">Budík sa vypne %2$s krát (%1$s min.)</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_minutes">
+        <item quantity="other">Minút: %1$d</item>
+        <item quantity="one">Minút: %1$d</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_seconds">
+        <item quantity="other">Sekúnd: %1$d</item>
+        <item quantity="one">Sekúnd: %1$d</item>
+    </plurals>
+    <plurals name="timer_message_with_minutes">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="timer_message_with_seconds">
+        <item quantity="other">%1$d s</item>
+        <item quantity="one">%1$d s</item>
+    </plurals>
 </resources>

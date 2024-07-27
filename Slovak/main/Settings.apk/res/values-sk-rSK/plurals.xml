@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">pred %d dňami</item>
+        <item quantity="one">pred %d dňom</item>
+        <item quantity="few">pred %d dňami</item>
+        <item quantity="many">pred %d dňa</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">pred %d min</item>
+        <item quantity="one">pred %d min</item>
+        <item quantity="few">pred %d min</item>
+        <item quantity="many">pred %d min</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">pred %d r.</item>
+        <item quantity="one">pred %d r.</item>
+        <item quantity="few">pred %d r.</item>
+        <item quantity="many">pred %d r.</item>
+    </plurals>
+    <plurals name="lockscreen_quick_affordances_summary">
+        <item quantity="other">%1$s, %2$s</item>
+        <item quantity="one">%1$s</item>
+        <item quantity="few">%1$s, %2$s</item>
+        <item quantity="many">%1$s, %2$s</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nových upozornení</item>
+        <item quantity="one">%d nové upozornenie</item>
+        <item quantity="few">%d nové upozornenia</item>
+        <item quantity="many">%d new notifications</item>
+    </plurals>
+    <plurals name="security_settings_hub_show_warnings_preference">
+        <item quantity="other">Zobraziť všetky upozornenia (%1$d)</item>
+        <item quantity="one">Zobraziť %1$d upozornenie</item>
+        <item quantity="few">Zobraziť všetky upozornenia (%1$d)</item>
+        <item quantity="many">See all warnings (%1$d)</item>
+    </plurals>
+    <plurals name="security_settings_hub_warnings_title">
+        <item quantity="other">%1$d upozornení</item>
+        <item quantity="one">%1$d upozornenie</item>
+        <item quantity="few">%1$d upozornenia</item>
+        <item quantity="many">%1$d warnings</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">Neobmedzené dáta môže používať %d aplikácií</item>
+        <item quantity="one">Neobmedzené dáta môže používať 1 aplikácia</item>
+        <item quantity="few">Neobmedzené dáta môžu používať %d aplikácie</item>
+        <item quantity="many">Neobmedzené dáta môže používať %d aplikácie</item>
+    </plurals>
+</resources>

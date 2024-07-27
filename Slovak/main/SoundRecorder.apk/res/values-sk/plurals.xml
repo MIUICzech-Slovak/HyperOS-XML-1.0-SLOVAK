@@ -92,10 +92,6 @@
         <item quantity="other">Nebolo možné obnoviť %d položiek.</item>
         <item quantity="one">Nebolo možné obnoviť %d položku.</item>
     </plurals>
-    <plurals name="search_alll_records_hint">
-        <item quantity="other">Vyhľadať medzi %d nahrávkami</item>
-        <item quantity="one">Vyhľadať medzi %d nahrávkou</item>
-    </plurals>
     <plurals name="search_app_records_hint">
         <item quantity="other">Vyhľadať medzi %d nahrávkami</item>
         <item quantity="one">Vyhľadať medzi %d nahrávkami</item>
@@ -116,10 +112,6 @@
         <item quantity="other">Nájdených: %d</item>
         <item quantity="one">Nájdených: %d</item>
     </plurals>
-    <plurals name="text_btn_list_with_message">
-        <item quantity="other">Nové nahrávky: %d</item>
-        <item quantity="one">Nové nahrávky: %d</item>
-    </plurals>
     <plurals name="time_left_for_clear_file">
         <item quantity="other">%d dní ostáva</item>
         <item quantity="one">%d deň ostáva</item>
@@ -135,5 +127,13 @@
     <plurals name="unsynced_records_count">
         <item quantity="other">Nesynchr.: %d</item>
         <item quantity="one">Nesynchr.: %d</item>
+    </plurals>
+    <plurals name="search_alll_records_hint">
+        <item quantity="other">Vyhľadať medzi %d nahrávkami</item>
+        <item quantity="one">Vyhľadať medzi %d nahrávkou</item>
+    </plurals>
+    <plurals name="text_btn_list_with_message">
+        <item quantity="other">Nové nahrávky: %d</item>
+        <item quantity="one">Nové nahrávky: %d</item>
     </plurals>
 </resources>

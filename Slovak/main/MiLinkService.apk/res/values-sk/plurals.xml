@@ -54,48 +54,6 @@
         <item quantity="few">pred %d min.</item>
         <item quantity="many">pred %d min.</item>
     </plurals>
-    <plurals name="car_map_hour">
-        <item quantity="other">%d hod.</item>
-        <item quantity="one">%d hod.</item>
-        <item quantity="few">%d hod.</item>
-        <item quantity="many">%d hod.</item>
-    </plurals>
-    <plurals name="car_map_kilometre">
-        <item quantity="other">%d km</item>
-        <item quantity="one">%d km</item>
-        <item quantity="few">%d km</item>
-        <item quantity="many">%d km</item>
-    </plurals>
-    <plurals name="car_map_kilometre_decimal">
-        <item quantity="other">%.1f km</item>
-        <item quantity="one">%.1f km</item>
-        <item quantity="few">%.1f km</item>
-        <item quantity="many">%.1f km</item>
-    </plurals>
-    <plurals name="car_map_meter">
-        <item quantity="other">%d m</item>
-        <item quantity="one">%d m</item>
-        <item quantity="few">%d m</item>
-        <item quantity="many">%d m</item>
-    </plurals>
-    <plurals name="car_map_minute">
-        <item quantity="other">%d min.</item>
-        <item quantity="one">%d min.</item>
-        <item quantity="few">%d min.</item>
-        <item quantity="many">%d min.</item>
-    </plurals>
-    <plurals name="circulate_audio_group_subtitle_format">
-        <item quantity="other">%1$d devices</item>
-        <item quantity="one">%1$d device</item>
-        <item quantity="few">%1$d devices</item>
-        <item quantity="many">%1$d devices</item>
-    </plurals>
-    <plurals name="circulate_audio_group_title_format">
-        <item quantity="other">%1$d zariadení</item>
-        <item quantity="one">%1$d zariadenie</item>
-        <item quantity="few">%1$d zariadenia</item>
-        <item quantity="many">%1$d zariadení</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Pred pol hodinou</item>
         <item quantity="one">Pred pol hodinou</item>
@@ -149,5 +107,47 @@
         <item quantity="one">Pred 1 minútou</item>
         <item quantity="few">Pred %d minútami</item>
         <item quantity="many">Pred %d minútou</item>
+    </plurals>
+    <plurals name="car_map_hour">
+        <item quantity="other">%d hod.</item>
+        <item quantity="one">%d hod.</item>
+        <item quantity="few">%d hod.</item>
+        <item quantity="many">%d hod.</item>
+    </plurals>
+    <plurals name="car_map_kilometre">
+        <item quantity="other">%d km</item>
+        <item quantity="one">%d km</item>
+        <item quantity="few">%d km</item>
+        <item quantity="many">%d km</item>
+    </plurals>
+    <plurals name="car_map_kilometre_decimal">
+        <item quantity="other">%.1f km</item>
+        <item quantity="one">%.1f km</item>
+        <item quantity="few">%.1f km</item>
+        <item quantity="many">%.1f km</item>
+    </plurals>
+    <plurals name="car_map_meter">
+        <item quantity="other">%d m</item>
+        <item quantity="one">%d m</item>
+        <item quantity="few">%d m</item>
+        <item quantity="many">%d m</item>
+    </plurals>
+    <plurals name="car_map_minute">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">%d min.</item>
+        <item quantity="few">%d min.</item>
+        <item quantity="many">%d min.</item>
+    </plurals>
+    <plurals name="circulate_audio_group_subtitle_format">
+        <item quantity="other">%1$d devices</item>
+        <item quantity="one">%1$d device</item>
+        <item quantity="few">%1$d devices</item>
+        <item quantity="many">%1$d devices</item>
+    </plurals>
+    <plurals name="circulate_audio_group_title_format">
+        <item quantity="other">%1$d zariadení</item>
+        <item quantity="one">%1$d zariadenie</item>
+        <item quantity="few">%1$d zariadenia</item>
+        <item quantity="many">%1$d zariadení</item>
     </plurals>
 </resources>

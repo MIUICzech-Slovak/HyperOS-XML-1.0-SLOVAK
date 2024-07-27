@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Result_title">Kontakt na SIM karte</string>
     <string name="accessibility_display_daltonizer_preference_subtitle">Funkcia je experimentálna a môže mať vplyv na výkonnosť.</string>
@@ -467,10 +467,10 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
     <string name="default_areacode">Default area code</string>
     <string name="default_call_type">CSVoice</string>
     <string name="default_notification_description">Predvolený zvuk (%1$s)</string>
-    <string name="default_preference_summary">&lt;Nenastavené&gt;</string>
-    <string name="default_preference_summary_domain_address">&lt;Nenastavené&gt;</string>
-    <string name="default_preference_summary_password">&lt;Nenastavené&gt;</string>
-    <string name="default_preference_summary_username">&lt;Nenastavené&gt;</string>
+    <string name="default_preference_summary">&lt;Nenastavené></string>
+    <string name="default_preference_summary_domain_address">&lt;Nenastavené></string>
+    <string name="default_preference_summary_password">&lt;Nenastavené></string>
+    <string name="default_preference_summary_username">&lt;Nenastavené></string>
     <string name="default_sim_setting">Predvolená SIM ako:</string>
     <string name="delete">Vymazať</string>
     <string name="deleteAllSimEntries">Vymazať všetky kontakty na SIM</string>
@@ -1057,7 +1057,7 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
     <string name="onscreenVideoCallText">Videohovor</string>
     <string name="open_miui">Otvoriť</string>
     <string name="operator">Operátor</string>
-    <string name="optional_summary">&lt;Voliteľné&gt;</string>
+    <string name="optional_summary">&lt;Voliteľné></string>
     <string name="ota_activate">Aktivovať</string>
     <string name="ota_call_end">Späť</string>
     <string name="ota_failure">Programming unsuccessful</string>

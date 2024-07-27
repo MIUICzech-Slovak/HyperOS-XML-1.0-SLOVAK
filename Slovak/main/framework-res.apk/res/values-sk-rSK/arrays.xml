@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by HyperOS CZ&SK www.HyperOS.sk-->
 <resources>
+    <integer-array name="maps_starting_lat_lng">
+        <item>48669026</item>
+        <item>19699024</item>
+    </integer-array>
+    <integer-array name="maps_starting_zoom">
+        <item>4</item>
+    </integer-array>
     <string-array name="app_ops_labels">
         <item>Pokus o prístup k polohe</item>
         <item>Pokus o prístup k polohe</item>

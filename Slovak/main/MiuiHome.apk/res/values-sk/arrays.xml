@@ -1,10 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by HyperOS CZ&SK www.HyperOS.sk-->
 <resources>
     <string-array name="animation_rate_entries">
         <item>Plynulá</item>
         <item>Vyvážená</item>
         <item>Rýchla</item>
+    </string-array>
+    <string-array name="editing_mode_entries">
+        <item>Tapeta</item>
+        <item>Widgety</item>
+        <item>Nastavenia</item>
+    </string-array>
+    <string-array name="monochrome_color_entries">
+        <item>Predvolené</item>
+        <item>Modrá</item>
+        <item>Zelená</item>
+        <item>Fialová</item>
+        <item>Hnedá</item>
+    </string-array>
+    <string-array name="no_word_model_entries">
+        <item>Vypnuté</item>
+        <item>Všade</item>
+        <item>Na widgetoch</item>
+    </string-array>
+    <string-array name="no_word_model_entries_not_support_only_widget_no_word">
+        <item>Vypnuté</item>
+        <item>Všade</item>
+    </string-array>
+    <string-array name="transformation_entries">
+        <item>Klasický</item>
+        <item>Prelínanie</item>
+        <item>Pretočenie</item>
+        <item>Strana</item>
+        <item>Kaskádovo</item>
+        <item>3D rotácia</item>
+        <item>3D kocka</item>
     </string-array>
     <string-array name="cell_icon_size_entries">
         <item>Najmenšie</item>
@@ -12,11 +41,6 @@
         <item>Stredné</item>
         <item>Veľké</item>
         <item>Najväčšie</item>
-    </string-array>
-    <string-array name="editing_mode_entries">
-        <item>Tapeta</item>
-        <item>Widgety</item>
-        <item>Nastavenia</item>
     </string-array>
     <string-array name="gadget_weather_image">
         <item>Jasno</item>
@@ -63,36 +87,10 @@
         <item>Asistent</item>
         <item>Google</item>
     </string-array>
-    <string-array name="monochrome_color_entries">
-        <item>Predvolené</item>
-        <item>Modrá</item>
-        <item>Zelená</item>
-        <item>Fialová</item>
-        <item>Hnedá</item>
-    </string-array>
-    <string-array name="transformation_entries">
-        <item>Klasický</item>
-        <item>Prelínanie</item>
-        <item>Pretočenie</item>
-        <item>Strana</item>
-        <item>Kaskádovo</item>
-        <item>3D rotácia</item>
-        <item>3D kocka</item>
-    </string-array>
     <string-array name="wallpaper_scroll_entries">
         <item>Podľa témy</item>
         <item>Stred</item>
         <item>Vľavo</item>
         <item>Vpravo</item>
     </string-array>
-    
-<string-array name="no_word_model_entries">
-         <item>Vypnuté</item>
-         <item>Všade</item>
-         <item>Na widgetoch</item>
-      </string-array>
-      <string-array name="no_word_model_entries_not_support_only_widget_no_word">
-         <item>Vypnuté</item>
-         <item>Všade</item>
-      </string-array>    
 </resources>

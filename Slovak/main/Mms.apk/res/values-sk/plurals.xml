@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by HyperOS CZ&SK www.HyperOS.sk-->
 <resources>
     <plurals name="a_hour_ago">
         <item quantity="other">Pred hodinou</item>
@@ -83,6 +82,12 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Teraz</item>
     </plurals>
+    <plurals name="mark_number_dialog_subtitle">
+        <item quantity="other">Označené ako %2$s %1$d osobami</item>
+        <item quantity="one">Označené ako %2$s %1$d osobou</item>
+        <item quantity="few">Označené ako %2$s %1$d osobami</item>
+        <item quantity="many">Označené ako %2$s %1$d osobou</item>
+    </plurals>
     <plurals name="message_count">
         <item quantity="other">SMS: %1$s</item>
         <item quantity="one">SMS: %1$s</item>
@@ -99,6 +104,18 @@
         <item quantity="other">Pred %d minútami</item>
         <item quantity="one">Pred minútou</item>
     </plurals>
+    <plurals name="privacy_state_revoked_revoked_1">
+        <item quantity="other">Odvolať (%d sek.)</item>
+        <item quantity="one">Odvolať (%d sek.)</item>
+        <item quantity="few">Odvolať (%d sek.)</item>
+        <item quantity="many">Odvolať (%d sek.)</item>
+    </plurals>
+    <plurals name="rcs_group_notification_invitation_receive">
+        <item quantity="other">Dostali ste pozvánku do %d skupinových chatov</item>
+        <item quantity="one">Dostali ste pozvánku do %d skupinového chatu</item>
+        <item quantity="few">Dostali ste pozvánku do %d skupinových chatov</item>
+        <item quantity="many">Dostali ste pozvánku do %d skupinového chatu</item>
+    </plurals>
     <plurals name="recipient_count">
         <item quantity="other">Ľudí: %1$s</item>
         <item quantity="one">Ľudí: 1</item>
@@ -106,6 +123,12 @@
     <plurals name="search_results_title">
         <item quantity="other">%1$s výsledkov na dotaz „%2$s”</item>
         <item quantity="one">%1$s výsledok na dotaz „%2$s”</item>
+    </plurals>
+    <plurals name="select_duration_time">
+        <item quantity="other">%d sekúnd</item>
+        <item quantity="one">%d sekunda</item>
+        <item quantity="few">%d sekundy</item>
+        <item quantity="many">%d sekundy</item>
     </plurals>
     <plurals name="send_to_count">
         <item quantity="other">Odoslaných: %1$s SMS</item>

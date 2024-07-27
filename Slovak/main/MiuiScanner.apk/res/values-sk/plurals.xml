@@ -29,10 +29,6 @@
         <item quantity="other">Pred %d minútami</item>
         <item quantity="one">Pred minútou</item>
     </plurals>
-    <plurals name="choosed">
-        <item quantity="other">Vybrané: %1$d</item>
-        <item quantity="one">Vybrané: %1$d</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Pred pol hodinou</item>
     </plurals>
@@ -59,5 +55,9 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">Pred %d minútami</item>
         <item quantity="one">Pred minútou</item>
+    </plurals>
+    <plurals name="choosed">
+        <item quantity="other">Vybrané: %1$d</item>
+        <item quantity="one">Vybrané: %1$d</item>
     </plurals>
 </resources>

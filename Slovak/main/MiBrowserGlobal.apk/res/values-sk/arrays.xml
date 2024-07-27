@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0,25 ×</item>
+        <item>0,5 ×</item>
+        <item>0,75 ×</item>
+        <item>Normálne</item>
+        <item>1,25 ×</item>
+        <item>1,5 ×</item>
+        <item>2 ×</item>
+    </string-array>
+    <string-array name="menu_theme_setting">
+        <item>Biela</item>
+        <item>Žltá</item>
+        <item>Šedá</item>
+        <item>Hnedá</item>
+        <item>Zelená</item>
+        <item>Modrá</item>
+    </string-array>
+    <string-array name="nf_ad_feedback_reason">
+        <item>Nezaujímavé</item>
+        <item>Opakuje sa</item>
+        <item>Nízka kvalita</item>
+        <item>Nevhodná fotografia</item>
+        <item>Podvodné informácie</item>
+    </string-array>
+    <string-array name="nf_feedback_reason">
+        <item>Explicitný obsah</item>
+        <item>Lož</item>
+        <item>Staré správy</item>
+        <item>Extrémne názory</item>
+        <item>Podprahová reklama</item>
+        <item>Nepáči sa mi to</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_gesture_entries">
+        <item>Prejsť naspäť/dopredu</item>
+        <item>Prepnúť karty</item>
+        <item>Žiadne</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Predvolená úvodná stránka</item>
+        <item>Iná</item>
+    </string-array>
+    <string-array name="pref_nav_mode_summary">
+        <item>Telefón</item>
+        <item>Tablet</item>
+    </string-array>
+    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Vertikálne zobrazenie</item>
+        <item>Horizontálne zobrazenie</item>
+    </string-array>
+    <string-array name="pref_security_do_not_track_keys">
+        <item>Zap.</item>
+        <item>Len v Režime inkognito</item>
+        <item>Vyp.</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>Drobná</item>
+        <item>Malá</item>
+        <item>Normálna</item>
+        <item>Veľká</item>
+        <item>Obrovská</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>PC</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="pref_web_permissions">
+        <item>Zakázať</item>
+        <item>Opýtať sa</item>
+        <item>Povoliť</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_one">
+        <item>Zakázať</item>
+        <item>Opýtať sa</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_two">
+        <item>Zakázať</item>
+        <item>Povoliť</item>
+    </string-array>
+    <string-array name="shortcut_dialog_delete">
+        <item>Vymazať</item>
+        <item>Nie, ďakujem</item>
+    </string-array>
+    <string-array name="shortcut_dialog_keep">
+        <item>OK</item>
+        <item>Sledovať</item>
+    </string-array>
+    <string-array name="shortcut_dialog_title">
+        <item>Správa z Prehliadača</item>
+        <item>Sledujte olympiádu s Mi</item>
+    </string-array>
+    <string-array name="speed_result_tips">
+        <item>Aktuálne sieťové pripojenie je veľmi pomalé. Zdá sa, že sa nachádzate v oblasti so slabým pokrytím siete.</item>
+        <item>Aktuálne sieťové pripojenie je pomalé.</item>
+        <item>Nenašli sa žiadne problémy so sieťovým pripojením.</item>
+        <item>Aktuálne sieťové pripojenie je rýchle. Dostatočne rýchle na streamovanie filmov!</item>
+        <item>Aktuálne sieťové pripojenie je veľmi rýchle! Ste pánom svojej hry.</item>
+    </string-array>
+    <string-array name="user_guide_info_array">
+        <item>Stiahnuť videá a fotografie zo sociálnych médií</item>
+        <item>Ukladať obrázky a videá z WhatsApp statusov</item>
+        <item>Spravovať súbory na vašom zariadení a urobiť z nich súkromné</item>
+    </string-array>
+    <string-array name="user_guide_title_array">
+        <item>Stiahnuť videá</item>
+        <item>Ukladanie WhatsApp statusov</item>
+        <item>Súkromné súbory</item>
+    </string-array>
+</resources>

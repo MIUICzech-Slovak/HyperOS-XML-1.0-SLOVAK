@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by HyperOS CZ&SK www.HyperOS.sk-->
 <resources>
     <plurals name="a_hour_ago">
         <item quantity="other">Pred hodinou</item>
@@ -30,9 +29,23 @@
         <item quantity="other">Pred %d minútami</item>
         <item quantity="one">Pred minútou</item>
     </plurals>
-    <plurals name="aod_dual_togother_city">
-        <item quantity="other">" %1$s Hodín %2$s"</item>
-        <item quantity="one">" %1$s Hodina %2$s"</item>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">pred %d dňami</item>
+        <item quantity="one">pred %d dňom</item>
+        <item quantity="few">pred %d dňami</item>
+        <item quantity="many">pred %d dňa</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">pred %d min</item>
+        <item quantity="one">pred %d min</item>
+        <item quantity="few">pred %d min</item>
+        <item quantity="many">pred %d min</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">pred %d r.</item>
+        <item quantity="one">pred %d r.</item>
+        <item quantity="few">pred %d r.</item>
+        <item quantity="many">pred %d r.</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">Nedeaktivovať pre %d apl.</item>
@@ -42,6 +55,12 @@
         <item quantity="other">Vždy deaktivovať pre %d apl.</item>
         <item quantity="one">Vždy deaktivovať pre 1 apl.</item>
     </plurals>
+    <plurals name="auto_startup_count">
+        <item quantity="other">%d aplikácií sa bude spúšťať pri štarte</item>
+        <item quantity="one">%d aplikácia sa bude spúšťať pri štarte</item>
+        <item quantity="few">%d aplikácie sa budú spúšťať pri štarte</item>
+        <item quantity="many">%d aplikácie sa bude spúšťať pri štarte</item>
+    </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d aplikácií sa môže pripojiť k sieti na pozadí</item>
         <item quantity="one">%d aplikácia sa môže pripojiť k sieti na pozadí</item>
@@ -50,32 +69,38 @@
         <item quantity="other">%d aplikácií sa nemôže pripojiť k sieti na pozadí</item>
         <item quantity="one">%d aplikácia sa môže pripojiť k sieti na pozadí</item>
     </plurals>
+    <plurals name="bt_usable_device_title">
+        <item quantity="other">%d dostupných zariadení</item>
+        <item quantity="one">%d dostupné zariadenie</item>
+        <item quantity="few">%d dostupné zariadenia</item>
+        <item quantity="many">%d dostupného zariadenia</item>
+    </plurals>
     <plurals name="clean_time">
         <item quantity="other">%ds</item>
         <item quantity="one">%ds</item>
+    </plurals>
+    <plurals name="color_game_led_freq_entries">
+        <item quantity="other">Každých %d sekúnd</item>
+        <item quantity="one">Každú %d sekundu</item>
+        <item quantity="few">Každé %d sekundy</item>
+        <item quantity="many">Každej %d sekundy</item>
     </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">Zariadení: %d</item>
         <item quantity="one">Zariadení: %d</item>
     </plurals>
-    <plurals name="domain_urls_apps_summary">
-        <item quantity="other">%d aplikácií môže otvárať podporované odkazy</item>
-        <item quantity="one">1 aplikácia môže otvárať podporované odkazy</item>
-        <item quantity="few">%d aplikácie môžu otvárať podporované odkazy</item>
-        <item quantity="many">%d aplikácie môže otvárať podporované odkazy</item>
-    </plurals>
     <plurals name="firewall_item_summary">
         <item quantity="other">Zakázať pripojenie pre %s aplikácií</item>
         <item quantity="one">Zakázať pripojenie pre %s aplikáciu</item>
     </plurals>
+    <plurals name="free_wifi_connected_count">
+        <item quantity="other">Pripojených %1$d osôb</item>
+        <item quantity="one">Pripojená %1$d osoba</item>
+        <item quantity="few">Pripojené %1$d osoby</item>
+        <item quantity="many">Pripojenej %1$d osoby</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Pred pol hodinou</item>
-    </plurals>
-    <plurals name="high_power_count">
-        <item quantity="other">%d aplikácií má povolené ignorovať optimalizáciu batérie</item>
-        <item quantity="one">Jedna aplikácia má povolené ignorovať optimalizáciu batérie</item>
-        <item quantity="few">%d aplikácie majú povolené ignorovať optimalizáciu batérie</item>
-        <item quantity="many">%d aplikácie má povolené ignorovať optimalizáciu batérie</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Do hodiny</item>
@@ -93,30 +118,6 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Teraz</item>
     </plurals>
-    <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">Heslo musí obsahovať písmená v počte najmenej %d</item>
-        <item quantity="one">Heslo musí obsahovať aspoň jedno písmeno</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">Heslo musí obsahovať malé písmená v rade %d</item>
-        <item quantity="one">Heslo musí obsahovať aspoň jedno malé písmeno</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">Heslo musí obsahovať znaky iné ako písmená v počte najmenej %d</item>
-        <item quantity="one">Heslo musí obsahovať aspoň jeden znak, ktorý nie je písmeno</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">Heslo musí obsahovať číslice v počte najmenej %d</item>
-        <item quantity="one">Heslo musí obsahovať aspoň jednu číslicu</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">Heslo musí obsahovať špeciálne znaky v počte najmenej %d</item>
-        <item quantity="one">Heslo musí obsahovať aspoň jeden špeciálny symbol</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">Heslo musí obsahovať len veľké písmená v počte najmenej %d</item>
-        <item quantity="one">Heslo musí obsahovať aspoň jedno veľké písmeno</item>
-    </plurals>
     <plurals name="lockpassword_password_too_long">
         <item quantity="other">Môžete zadať maximálne %d znakov</item>
         <item quantity="one">Môžete zadať maximálne %d znak</item>
@@ -124,6 +125,12 @@
     <plurals name="lockpassword_password_too_short">
         <item quantity="other">Zadajte aspoň %d znakov</item>
         <item quantity="one">Zadajte aspoň %d znak</item>
+    </plurals>
+    <plurals name="lockpassword_pin_fixed_length">
+        <item quantity="other">PIN musí byť %d čísel</item>
+        <item quantity="one">PIN musí byť %d číslo</item>
+        <item quantity="few">PIN musia byť %d čísla</item>
+        <item quantity="many">PIN musí byť %d čísla</item>
     </plurals>
     <plurals name="lockpassword_pin_too_long">
         <item quantity="other">PIN môže obsahovať až %d čísel</item>
@@ -145,23 +152,15 @@
         <item quantity="other">Počkajte aspoň %ds a skúste to znova.</item>
         <item quantity="one">Počkajte aspoň %ds a skúste to znova.</item>
     </plurals>
-    <plurals name="manage_condition_providers_summary_nonzero">
-        <item quantity="other">Počet aplikácií poskytujúcich podmienky: %d</item>
-        <item quantity="one">%d aplikácia poskytuje podmienky</item>
-    </plurals>
-    <plurals name="manage_notification_access_summary_nonzero">
-        <item quantity="other">%d aplikácií môže čítať upozornenia</item>
-        <item quantity="one">%d aplikácia môže čítať upozornenia</item>
+    <plurals name="lockscreen_quick_affordances_summary">
+        <item quantity="other">%1$s, %2$s</item>
+        <item quantity="one">%1$s</item>
+        <item quantity="few">%1$s, %2$s</item>
+        <item quantity="many">%1$s, %2$s</item>
     </plurals>
     <plurals name="max_number_of_processes">
         <item quantity="other">Maximálne %d procesov</item>
         <item quantity="one">Maximálne %d proces</item>
-    </plurals>
-    <plurals name="memory_usage_apps_summary">
-        <item quantity="other">%1$d aplikácií použilo pamäť za obdobie: %2$s</item>
-        <item quantity="one">1 aplikácia použila pamäť za obdobie: %2$s</item>
-        <item quantity="few">%1$d aplikácie použili pamäť za obdobie: %2$s</item>
-        <item quantity="many">%1$d aplikácie použilo pamäť za obdobie: %2$s</item>
     </plurals>
     <plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">%d pridané</item>
@@ -175,60 +174,27 @@
         <item quantity="other">Položiek: %1$s</item>
         <item quantity="one">Položiek: %1$s</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nových upozornení</item>
+        <item quantity="one">%d nové upozornenie</item>
+        <item quantity="few">%d nové upozornenia</item>
+        <item quantity="many">%d new notifications</item>
+    </plurals>
+    <plurals name="nrca_info">
+        <item quantity="other">Zmeny sa použijú za %d sek.</item>
+        <item quantity="one">Zmeny sa použijú za %d sek.</item>
+        <item quantity="few">Zmeny sa použijú za %d sek.</item>
+        <item quantity="many">Zmeny sa použijú za %d sek.</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Pred %d minútami</item>
         <item quantity="one">Pred minútou</item>
     </plurals>
-    <plurals name="permissions_summary">
-        <item quantity="other">Bolo udelených %d povolení</item>
-        <item quantity="one">Bolo udelené %d povolenie</item>
-        <item quantity="few">Boli udelené %d povolenia</item>
-        <item quantity="many">Bolo udeleného %d povolenia</item>
-    </plurals>
-    <plurals name="power_center_battery_day">
-        <item quantity="other">"%ddní "</item>
-        <item quantity="one">"%ddeň "</item>
-    </plurals>
-    <plurals name="power_center_battery_hour">
-        <item quantity="other">"%dh "</item>
-        <item quantity="one">"%dh "</item>
-    </plurals>
-    <plurals name="power_center_battery_minute">
-        <item quantity="other">"%dmin "</item>
-        <item quantity="one">"%dmin "</item>
-    </plurals>
-    <plurals name="print_jobs_summary">
-        <item quantity="other">%1$d tlačových úloh</item>
-        <item quantity="one">1 tlačová úloha</item>
-    </plurals>
-    <plurals name="print_search_result_count_utterance">
-        <item quantity="other">Počet nájdených tlačiarní: %1$s</item>
-        <item quantity="one">Našla sa %1$s tlačiareň</item>
-    </plurals>
-    <plurals name="runtime_permissions_additional_count">
-        <item quantity="other">%d ďalších povolení</item>
-        <item quantity="one">%d ďalšie povolenie</item>
-        <item quantity="few">%d ďalšie povolenia</item>
-        <item quantity="many">%d ďalšieho povolenia</item>
-    </plurals>
-    <plurals name="runtime_permissions_summary">
-        <item quantity="other">%1$d udelených povolení z %2$d</item>
-        <item quantity="one">%1$d udelené povolenie z %2$d</item>
-        <item quantity="few">%1$d udelené povolenia z %2$d</item>
-        <item quantity="many">%1$d udeleného povolenia z %2$d</item>
-    </plurals>
-    <plurals name="search_application_count">
-        <item quantity="other">Vyhľadať aplikácie</item>
-    </plurals>
-    <plurals name="security_settings_fingerprint_preference_summary">
-        <item quantity="other">Nastavenie %1$d odtlačkov</item>
-        <item quantity="one">Nastavenie %1$d odtlačku</item>
-        <item quantity="few">Nastavenie %1$d odtlačkov</item>
-        <item quantity="many">Nastavenie %1$d odtlačku</item>
-    </plurals>
-    <plurals name="settings_toggle_position_divider_page">
-        <item quantity="other">%1$d prepínačov nad čiarou je aktívnych</item>
-        <item quantity="one">1 prepínač nad čiarou je aktívny</item>
+    <plurals name="saved_network_checked_num">
+        <item quantity="other">Vybraných %d položiek</item>
+        <item quantity="one">Vybraná %d položka</item>
+        <item quantity="few">Vybrané %d položky</item>
+        <item quantity="many">Vybranej %d položky</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">Počet krokov od vstupu do servisného menu: %1$d.</item>
@@ -246,9 +212,11 @@
         <item quantity="other">Počet krokov od nahlásenia chyby: %1$d.</item>
         <item quantity="one">Počet krokov od nahlásenia chyby: %1$d.</item>
     </plurals>
-    <plurals name="show_reset_countdown">
-        <item quantity="other">Dokončite %1$d kroky k obnoveniu továrenských nastavení</item>
-        <item quantity="one">Dokončite %1$d krok k obnoveniu továrenských nastavení</item>
+    <plurals name="special_access_summary">
+        <item quantity="other">Neobmedzené dáta môže používať %d aplikácií</item>
+        <item quantity="one">Neobmedzené dáta môže používať 1 aplikácia</item>
+        <item quantity="few">Neobmedzené dáta môžu používať %d aplikácie</item>
+        <item quantity="many">Neobmedzené dáta môže používať %d aplikácie</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">"%d apl. nemôže zobraziť upozornenia"</item>
@@ -349,6 +317,133 @@
     <plurals name="usagestats_device_notification_des_min">
         <item quantity="other">"min"</item>
         <item quantity="one">"min"</item>
+    </plurals>
+    <plurals name="virus_scan_app_find_risk">
+        <item quantity="other">Nájdených %d hrozieb</item>
+        <item quantity="one">Nájdená %d hrozba</item>
+        <item quantity="few">Nájdené %d hrozby</item>
+        <item quantity="many">Nájdenej %d hrozby</item>
+    </plurals>
+    <plurals name="wifi_share_count">
+        <item quantity="other">Zdieľaných %d sietí</item>
+        <item quantity="one">Zdieľaná %d sieť</item>
+        <item quantity="few">Zdieľané %d siete</item>
+        <item quantity="many">Zdieľanej %d siete</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d pripojených zariadení</item>
+        <item quantity="one">%1$d pripojené zariadenie</item>
+        <item quantity="few">%1$d pripojené zariadenia</item>
+        <item quantity="many">%1$d pripojeného zariadenia</item>
+    </plurals>
+    <plurals name="aod_dual_togother_city">
+        <item quantity="other">" %1$s Hodín %2$s"</item>
+        <item quantity="one">" %1$s Hodina %2$s"</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d aplikácií môže otvárať podporované odkazy</item>
+        <item quantity="one">1 aplikácia môže otvárať podporované odkazy</item>
+        <item quantity="few">%d aplikácie môžu otvárať podporované odkazy</item>
+        <item quantity="many">%d aplikácie môže otvárať podporované odkazy</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d aplikácií má povolené ignorovať optimalizáciu batérie</item>
+        <item quantity="one">Jedna aplikácia má povolené ignorovať optimalizáciu batérie</item>
+        <item quantity="few">%d aplikácie majú povolené ignorovať optimalizáciu batérie</item>
+        <item quantity="many">%d aplikácie má povolené ignorovať optimalizáciu batérie</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Heslo musí obsahovať písmená v počte najmenej %d</item>
+        <item quantity="one">Heslo musí obsahovať aspoň jedno písmeno</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Heslo musí obsahovať malé písmená v rade %d</item>
+        <item quantity="one">Heslo musí obsahovať aspoň jedno malé písmeno</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Heslo musí obsahovať znaky iné ako písmená v počte najmenej %d</item>
+        <item quantity="one">Heslo musí obsahovať aspoň jeden znak, ktorý nie je písmeno</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Heslo musí obsahovať číslice v počte najmenej %d</item>
+        <item quantity="one">Heslo musí obsahovať aspoň jednu číslicu</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Heslo musí obsahovať špeciálne znaky v počte najmenej %d</item>
+        <item quantity="one">Heslo musí obsahovať aspoň jeden špeciálny symbol</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Heslo musí obsahovať len veľké písmená v počte najmenej %d</item>
+        <item quantity="one">Heslo musí obsahovať aspoň jedno veľké písmeno</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">Počet aplikácií poskytujúcich podmienky: %d</item>
+        <item quantity="one">%d aplikácia poskytuje podmienky</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d aplikácií môže čítať upozornenia</item>
+        <item quantity="one">%d aplikácia môže čítať upozornenia</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d aplikácií použilo pamäť za obdobie: %2$s</item>
+        <item quantity="one">1 aplikácia použila pamäť za obdobie: %2$s</item>
+        <item quantity="few">%1$d aplikácie použili pamäť za obdobie: %2$s</item>
+        <item quantity="many">%1$d aplikácie použilo pamäť za obdobie: %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">Bolo udelených %d povolení</item>
+        <item quantity="one">Bolo udelené %d povolenie</item>
+        <item quantity="few">Boli udelené %d povolenia</item>
+        <item quantity="many">Bolo udeleného %d povolenia</item>
+    </plurals>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%ddní "</item>
+        <item quantity="one">"%ddeň "</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%dh "</item>
+        <item quantity="one">"%dh "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%dmin "</item>
+        <item quantity="one">"%dmin "</item>
+    </plurals>
+    <plurals name="print_jobs_summary">
+        <item quantity="other">%1$d tlačových úloh</item>
+        <item quantity="one">1 tlačová úloha</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">Počet nájdených tlačiarní: %1$s</item>
+        <item quantity="one">Našla sa %1$s tlačiareň</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d ďalších povolení</item>
+        <item quantity="one">%d ďalšie povolenie</item>
+        <item quantity="few">%d ďalšie povolenia</item>
+        <item quantity="many">%d ďalšieho povolenia</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d udelených povolení z %2$d</item>
+        <item quantity="one">%1$d udelené povolenie z %2$d</item>
+        <item quantity="few">%1$d udelené povolenia z %2$d</item>
+        <item quantity="many">%1$d udeleného povolenia z %2$d</item>
+    </plurals>
+    <plurals name="search_application_count">
+        <item quantity="other">Vyhľadať aplikácie</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">Nastavenie %1$d odtlačkov</item>
+        <item quantity="one">Nastavenie %1$d odtlačku</item>
+        <item quantity="few">Nastavenie %1$d odtlačkov</item>
+        <item quantity="many">Nastavenie %1$d odtlačku</item>
+    </plurals>
+    <plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">%1$d prepínačov nad čiarou je aktívnych</item>
+        <item quantity="one">1 prepínač nad čiarou je aktívny</item>
+    </plurals>
+    <plurals name="show_reset_countdown">
+        <item quantity="other">Dokončite %1$d kroky k obnoveniu továrenských nastavení</item>
+        <item quantity="one">Dokončite %1$d krok k obnoveniu továrenských nastavení</item>
     </plurals>
     <plurals name="wrong_pin_code">
         <item quantity="other">Nesprávny kód PIN karty SIM. Počet zostávajúcich pokusov: %d.</item>

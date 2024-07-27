@@ -29,23 +29,11 @@
         <item quantity="other">Pred %d minútami</item>
         <item quantity="one">Pred minútou</item>
     </plurals>
-    <plurals name="age_label_days">
-        <item quantity="other">%d dní</item>
-        <item quantity="one">%d deň</item>
-        <item quantity="few">%d dni</item>
-        <item quantity="many">%d dňa</item>
-    </plurals>
-    <plurals name="age_label_months">
-        <item quantity="other">%d mesiacov</item>
-        <item quantity="one">%d mesiac</item>
-        <item quantity="few">%d mesiace</item>
-        <item quantity="many">%d mesiaca</item>
-    </plurals>
-    <plurals name="age_label_yrs">
-        <item quantity="other">rokov</item>
-        <item quantity="one">rok</item>
-        <item quantity="few">roky</item>
-        <item quantity="many">roku</item>
+    <plurals name="delete_msg">
+        <item quantity="other">Vymazať %d položiek teraz?</item>
+        <item quantity="one">Vymazať %d položku teraz?</item>
+        <item quantity="few">Vymazať %d položky teraz?</item>
+        <item quantity="many">Vymazať %d položky teraz?</item>
     </plurals>
     <plurals name="entries">
         <item quantity="other">%d položiek</item>
@@ -72,12 +60,6 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Teraz</item>
     </plurals>
-    <plurals name="loan_repayment_detail">
-        <item quantity="other">Podrobnosti o splátke (%d rokov)</item>
-        <item quantity="one">Podrobnosti o splátke (%d rok)</item>
-        <item quantity="few">Podrobnosti o splátke (%d roky)</item>
-        <item quantity="many">Podrobnosti o splátke (%d roku)</item>
-    </plurals>
     <plurals name="loan_repayment_detail_unit">
         <item quantity="other">Podrobnosti o splátke (%d rokov), CNY</item>
         <item quantity="one">Podrobnosti o splátke (%d rok), CNY</item>
@@ -98,6 +80,12 @@
         <item quantity="other">Pred %d minútami</item>
         <item quantity="one">Pred minútou</item>
     </plurals>
+    <plurals name="select_items">
+        <item quantity="other">Vybratých %d položiek</item>
+        <item quantity="one">Vybratá %d položka</item>
+        <item quantity="few">Vybraté %d položky</item>
+        <item quantity="many">Vybratej %d položky</item>
+    </plurals>
     <plurals name="tenure_months">
         <item quantity="other">%d mesiacov</item>
         <item quantity="one">%d mesiac</item>
@@ -107,5 +95,65 @@
     <plurals name="tenure_years">
         <item quantity="other">%d roky</item>
         <item quantity="one">%d rok</item>
+    </plurals>
+    <plurals name="unit_data_display_data_b">
+        <item quantity="other">Bajtov</item>
+        <item quantity="one">Bajt</item>
+        <item quantity="few">Bajty</item>
+        <item quantity="many">Bajtu</item>
+    </plurals>
+    <plurals name="unit_data_display_data_gb">
+        <item quantity="other">Gigabajtov</item>
+        <item quantity="one">Gigabajt</item>
+        <item quantity="few">Gigabajty</item>
+        <item quantity="many">Gigabajtu</item>
+    </plurals>
+    <plurals name="unit_data_display_data_kb">
+        <item quantity="other">Kilobajtov</item>
+        <item quantity="one">Kilobajt</item>
+        <item quantity="few">Kilobajty</item>
+        <item quantity="many">Kilobajtu</item>
+    </plurals>
+    <plurals name="unit_data_display_data_mb">
+        <item quantity="other">Megabajtov</item>
+        <item quantity="one">Megabajt</item>
+        <item quantity="few">Megabajty</item>
+        <item quantity="many">Megabajtu</item>
+    </plurals>
+    <plurals name="unit_data_display_data_pb">
+        <item quantity="other">Petabajtov</item>
+        <item quantity="one">Petabajt</item>
+        <item quantity="few">Petabajty</item>
+        <item quantity="many">Petabajtu</item>
+    </plurals>
+    <plurals name="unit_data_display_data_tb">
+        <item quantity="other">Terabajtov</item>
+        <item quantity="one">Terabajt</item>
+        <item quantity="few">Terabajty</item>
+        <item quantity="many">Terabajtu</item>
+    </plurals>
+    <plurals name="age_label_days">
+        <item quantity="other">%d dní</item>
+        <item quantity="one">%d deň</item>
+        <item quantity="few">%d dni</item>
+        <item quantity="many">%d dňa</item>
+    </plurals>
+    <plurals name="age_label_months">
+        <item quantity="other">%d mesiacov</item>
+        <item quantity="one">%d mesiac</item>
+        <item quantity="few">%d mesiace</item>
+        <item quantity="many">%d mesiaca</item>
+    </plurals>
+    <plurals name="age_label_yrs">
+        <item quantity="other">rokov</item>
+        <item quantity="one">rok</item>
+        <item quantity="few">roky</item>
+        <item quantity="many">roku</item>
+    </plurals>
+    <plurals name="loan_repayment_detail">
+        <item quantity="other">Podrobnosti o splátke (%d rokov)</item>
+        <item quantity="one">Podrobnosti o splátke (%d rok)</item>
+        <item quantity="few">Podrobnosti o splátke (%d roky)</item>
+        <item quantity="many">Podrobnosti o splátke (%d roku)</item>
     </plurals>
 </resources>

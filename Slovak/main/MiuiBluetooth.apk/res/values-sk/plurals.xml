@@ -37,6 +37,10 @@
         <item quantity="other">Stlačte a podržte dotykovú plochu na slúchadle %1$ds</item>
         <item quantity="one">Stlačte a podržte dotykovú plochu na slúchadle %1$ds</item>
     </plurals>
+    <plurals name="fast_connect_reset_common_seconds">
+        <item quantity="other">Stlačte a podržte %1$ds pre resetovanie</item>
+        <item quantity="one">Stlačte a podržte %1$ds pre resetovanie</item>
+    </plurals>
     <plurals name="fast_connect_reset_nzbt">
         <item quantity="other">Podržte vrchné tlačidlo %1$s sekúnd keď je vypnuté</item>
         <item quantity="one">Podržte vrchné tlačidlo %1$s sekundu keď je vypnuté</item>
@@ -68,9 +72,4 @@
         <item quantity="other">Pred %d minútami</item>
         <item quantity="one">Pred minútou</item>
     </plurals>
-    
-     <plurals name="fast_connect_reset_common_seconds">
-        <item quantity="other">Stlačte a podržte %1$ds pre resetovanie</item>
-        <item quantity="one">Stlačte a podržte %1$ds pre resetovanie</item>
-     </plurals>    
 </resources>

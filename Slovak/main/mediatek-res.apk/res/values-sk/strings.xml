@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Default_Account_Selection_Content">Voľba predvoleného účtu</string>
     <string name="MMRejectCause13">SOS/Iba tiesňové volania</string>
@@ -25,7 +25,7 @@
     <string name="callBarringFailMmi">Zlyhalo blokovania hovorov.</string>
     <string name="cfServiceNotForwarded">Nepresmerovaný</string>
     <string name="checkPwdLen">Skontrolujte, či vaše heslo obsahuje 4 až 8 číslic.</string>
-    <string name="color_picker_select">-&gt;</string>
+    <string name="color_picker_select">-></string>
     <string name="confirm_button_cancel">Zrušiť</string>
     <string name="confirm_button_no">Nie</string>
     <string name="confirm_button_ok">OK</string>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="cancel">Zrušiť</string>
     <string name="doc_photo_adjust_section_title">Prispôsobte potiahnutím</string>
@@ -167,8 +167,7 @@
     <string name="wednesday_short">Str</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
-    
-<string name="operation_original">Porovnať</string>
-     <string name="operation_redo">Znova</string>
-     <string name="operation_undo">Späť</string>    
+    <string name="operation_original">Porovnať</string>
+    <string name="operation_redo">Znova</string>
+    <string name="operation_undo">Späť</string>
 </resources>

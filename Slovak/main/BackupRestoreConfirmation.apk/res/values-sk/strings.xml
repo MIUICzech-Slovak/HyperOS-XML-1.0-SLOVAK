@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="allow_backup_button_label">Zálohovať dáta</string>
     <string name="allow_restore_button_label">Obnoviť dáta</string>

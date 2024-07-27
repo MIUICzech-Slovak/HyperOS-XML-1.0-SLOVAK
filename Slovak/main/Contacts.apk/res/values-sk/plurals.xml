@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by HyperOS CZ&SK www.HyperOS.sk-->
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Pred 1 hodinou</item>
+        <item quantity="one">Pred 1 hodinou</item>
+        <item quantity="few">Pred 1 hodinou</item>
+        <item quantity="many">Pred 1 hodinou</item>
+    </plurals>
     <plurals name="abbrev_a_hour_ago">
         <item quantity="other">Pred 1h</item>
     </plurals>
@@ -75,21 +80,19 @@
         <item quantity="other">Odblokovať tieto %1$d čísla?</item>
         <item quantity="one">Odblokovať toto číslo?</item>
     </plurals>
-    <plurals name="export_sim_contact_finish_success">
-        <item quantity="other">Skopírované kontakty: %d</item>
-        <item quantity="one">Skopírované kontakty: %d</item>
-    </plurals>
     <plurals name="export_sim_contacts_dialog_message">
         <item quantity="other">SIM karta uloží %1$d kontaktov.</item>
         <item quantity="one">SIM karta uloží %1$d kontakt.</item>
     </plurals>
+    <plurals name="foundTooManyContacts_plurals">
+        <item quantity="other">Našlo sa viac ako %d kontaktov.</item>
+        <item quantity="one">Našiel sa viac ako %d kontakt.</item>
+        <item quantity="few">Našli sa viac ako %d kontakty.</item>
+        <item quantity="many">Našlo sa viac ako %d kontaktu.</item>
+    </plurals>
     <plurals name="group_add_success_toast">
         <item quantity="other">" %1$d pridaných kontaktov"</item>
         <item quantity="one">%1$d pridaný kontakt</item>
-    </plurals>
-    <plurals name="group_copy_success_toast">
-        <item quantity="other">Skopírovaných kontaktov: %1$d</item>
-        <item quantity="one">Skopírovaných kontaktov: %1$d</item>
     </plurals>
     <plurals name="group_list_num_contacts_in_group">
         <item quantity="other">%1$d ľudí</item>
@@ -99,16 +102,14 @@
         <item quantity="other">%1$d čísel</item>
         <item quantity="one">%1$d číslo</item>
     </plurals>
-    <plurals name="group_move_success_toast">
-        <item quantity="other">Presunutých kontaktov: %1$d</item>
-        <item quantity="one">Presunutých kontaktov: %1$d</item>
+    <plurals name="group_sms_error_message">
+        <item quantity="other">SMS nemôže mať viac ako %d príjemcov.</item>
+        <item quantity="one">SMS nemôže mať viac ako %d príjemcu.</item>
+        <item quantity="few">SMS nemôže mať viac ako %d príjemcov.</item>
+        <item quantity="many">SMS nemôže mať viac ako %d príjemca.</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Pred pol hodinou</item>
-    </plurals>
-    <plurals name="hint_account_contacts">
-        <item quantity="other">Nájdených: %1$d</item>
-        <item quantity="one">Nájdených: 1</item>
     </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">Kontaktov: %1$d</item>
@@ -135,24 +136,24 @@
         <item quantity="other">o %d minút</item>
         <item quantity="one">o 1 minútu</item>
     </plurals>
+    <plurals name="label_duplicate_count_plurals">
+        <item quantity="other">(%1$d)</item>
+        <item quantity="one">(%1$d)</item>
+        <item quantity="few">(%1$d)</item>
+        <item quantity="many">(%1$d)</item>
+    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Teraz</item>
-    </plurals>
-    <plurals name="listFoundAllContacts">
-        <item quantity="other">Nájdené %d kontaktov</item>
-        <item quantity="one">Nájdený 1 kontakt</item>
     </plurals>
     <plurals name="listTotalAllContacts">
         <item quantity="other">Zobrazených %d kontaktov</item>
         <item quantity="one">Zobrazený 1 kontakt</item>
     </plurals>
-    <plurals name="listTotalPhoneContacts">
-        <item quantity="other">Zobrazených %d kontaktov s telefónnym číslom</item>
-        <item quantity="one">Zobrazený 1 kontakt s telefónnym číslom</item>
-    </plurals>
-    <plurals name="merge_info">
-        <item quantity="other">Zlúčených %0$d položiek</item>
-        <item quantity="one">Nezlúčené</item>
+    <plurals name="merge_contact_message_plurals">
+        <item quantity="other">%1$d kontaktov s podobnými informáciami</item>
+        <item quantity="one">%1$d kontakt s podobnými informáciami</item>
+        <item quantity="few">%1$d kontakty s podobnými informáciami</item>
+        <item quantity="many">%1$d kontaktu s podobnými informáciami</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">Položiek: %1$s</item>
@@ -161,10 +162,6 @@
     <plurals name="notification_missedCallsMsg">
         <item quantity="other">%d zmeškané hovory</item>
         <item quantity="one">%d zmeškaný hovor</item>
-    </plurals>
-    <plurals name="notification_voicemail_title">
-        <item quantity="other">%1$d Hlasových správ</item>
-        <item quantity="one">Hlasová správa</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">Vybraných: %1$d</item>
@@ -175,17 +172,9 @@
         <item quantity="other">%1$d ľudí z %2$s</item>
         <item quantity="one">%1$d človek z %2$s</item>
     </plurals>
-    <plurals name="num_groups_in_account">
-        <item quantity="other">%0$d skupín</item>
-        <item quantity="one">1 skupina</item>
-    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Pred %d minútami</item>
         <item quantity="one">Pred minútou</item>
-    </plurals>
-    <plurals name="number_of_items_available">
-        <item quantity="other">Ostáva: %1$d</item>
-        <item quantity="one">Ostáva: %1$d</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">Vybraných: %1$d</item>
@@ -208,18 +197,70 @@
         <item quantity="other">Posledné kontakty: %1$d</item>
         <item quantity="one">1 posledný kontakt</item>
     </plurals>
-    <plurals name="picker_multi_title">
-        <item quantity="other">Vybraných: %1$d</item>
-        <item quantity="zero">Vybraných: %1$d</item>
-        <item quantity="one">Vybraných: %1$d</item>
-    </plurals>
     <plurals name="searchFoundContacts">
         <item quantity="other">%d kontaktov</item>
         <item quantity="one">1 kontakt</item>
     </plurals>
+    <plurals name="select_all_exceed_plurals">
+        <item quantity="other">Vyberte maximálne %1$d, nie všetko</item>
+        <item quantity="one">Vyberte maximálne %1$d, nie všetko</item>
+        <item quantity="few">Vyberte maximálne %1$d, nie všetko</item>
+        <item quantity="many">Vyberte maximálne %1$d, nie všetko</item>
+    </plurals>
+    <plurals name="select_exceed_plurals">
+        <item quantity="other">Môžete vybrať maximálne %1$d</item>
+        <item quantity="one">Môžete vybrať maximálne %1$d</item>
+        <item quantity="few">Môžete vybrať maximálne %1$d</item>
+        <item quantity="many">Môžete vybrať maximálne %1$d</item>
+    </plurals>
     <plurals name="smart_group_member_count">
         <item quantity="other">%1$d ľudí</item>
         <item quantity="one">%1$d človek</item>
+    </plurals>
+    <plurals name="export_sim_contact_finish_success">
+        <item quantity="other">Skopírované kontakty: %d</item>
+        <item quantity="one">Skopírované kontakty: %d</item>
+    </plurals>
+    <plurals name="group_copy_success_toast">
+        <item quantity="other">Skopírovaných kontaktov: %1$d</item>
+        <item quantity="one">Skopírovaných kontaktov: %1$d</item>
+    </plurals>
+    <plurals name="group_move_success_toast">
+        <item quantity="other">Presunutých kontaktov: %1$d</item>
+        <item quantity="one">Presunutých kontaktov: %1$d</item>
+    </plurals>
+    <plurals name="hint_account_contacts">
+        <item quantity="other">Nájdených: %1$d</item>
+        <item quantity="one">Nájdených: 1</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Nájdené %d kontaktov</item>
+        <item quantity="one">Nájdený 1 kontakt</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">Zobrazených %d kontaktov s telefónnym číslom</item>
+        <item quantity="one">Zobrazený 1 kontakt s telefónnym číslom</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">Zlúčených %0$d položiek</item>
+        <item quantity="one">Nezlúčené</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d Hlasových správ</item>
+        <item quantity="one">Hlasová správa</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d skupín</item>
+        <item quantity="one">1 skupina</item>
+    </plurals>
+    <plurals name="number_of_items_available">
+        <item quantity="other">Ostáva: %1$d</item>
+        <item quantity="one">Ostáva: %1$d</item>
+    </plurals>
+    <plurals name="picker_multi_title">
+        <item quantity="other">Vybraných: %1$d</item>
+        <item quantity="zero">Vybraných: %1$d</item>
+        <item quantity="one">Vybraných: %1$d</item>
     </plurals>
     <plurals name="voip_contacts_count">
         <item quantity="other">Ľudí: %1$d</item>

@@ -29,6 +29,12 @@
         <item quantity="other">Pred %d minútami</item>
         <item quantity="one">Pred minútou</item>
     </plurals>
+    <plurals name="accessibility_auto_night_tip">
+        <item quantity="other">%d-sekundový časovač pre Nočný režim</item>
+        <item quantity="one">%d-sekundový časovač pre Nočný režim</item>
+        <item quantity="few">%d-sekundový časovač pre Nočný režim</item>
+        <item quantity="many">%d-sekundový časovač pre Nočný režim</item>
+    </plurals>
     <plurals name="accessibility_focus_face_detect">
         <item quantity="other">Zaostrené. Nájdených %d tvárí.</item>
         <item quantity="one">Zaostrené. Nájdená %d tvár.</item>
@@ -49,10 +55,6 @@
         <item quantity="other">Môžete vytvoriť maximálne %d klonov naraz.</item>
         <item quantity="one">Môžete vytvoriť maximálne %d klon naraz.</item>
     </plurals>
-    <plurals name="delete_selection">
-        <item quantity="other">Vymazať zvolené položky?</item>
-        <item quantity="one">Vymazať zvolenú položku?</item>
-    </plurals>
     <plurals name="exit_camera_hint">
         <item quantity="other">"&lt;Data>"Nedá sa pripojiť k fotoaparátu.&lt;br>Táto aplikácia bude zatvorená o &lt;font color=#FFCE16>&lt;b>%1$d s&lt; /b>&lt;/font>. Potom počkajte minútu alebo dve a skúste to znova."&lt;/Data>"</item>
         <item quantity="one">"&lt;Data>"Nedá sa pripojiť ku kamere.&lt;br>Táto aplikácia bude zatvorená o &lt;font color=#FFCE16>&lt;b>%1$d s&lt; /b>&lt;/font>. Potom počkajte minútu alebo dve a skúste to znova."&lt;/Data>"</item>
@@ -60,6 +62,12 @@
     <plurals name="exit_thermal_hint">
         <item quantity="other">&lt;Data>Toto zariadenie je teraz príliš horúce.&lt;br>Aplikácia sa zatvorí o &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b> &lt;/font>. Aktuálny priebeh sa automaticky uložil.&lt;/Data></item>
         <item quantity="one">&lt;Data>Toto zariadenie je teraz príliš horúce.&lt;br>Aplikácia sa zatvorí o &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b> &lt;/font>. Aktuálny priebeh sa automaticky uložil.&lt;/Data></item>
+    </plurals>
+    <plurals name="exit_version_hint">
+        <item quantity="other">&lt;Data>Verzia fotoaparátu, ktorú používate, nie je kompatibilná s modelom vášho zariadenia.&lt;br>Aplikácia sa zavrie za &lt;font color=#FFCE16>&lt;b>%1$d sekúnd&lt;/b>&lt;/font>. Odinštalujte aktualizácie fotoaparátu a skúste to znova.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Verzia fotoaparátu, ktorú používate, nie je kompatibilná s modelom vášho zariadenia.&lt;br>Aplikácia sa zavrie za &lt;font color=#FFCE16>&lt;b>%1$d sekundu&lt;/b>&lt;/font>. Odinštalujte aktualizácie fotoaparátu a skúste to znova.&lt;/Data></item>
+        <item quantity="few">&lt;Data>Verzia fotoaparátu, ktorú používate, nie je kompatibilná s modelom vášho zariadenia.&lt;br>Aplikácia sa zavrie za &lt;font color=#FFCE16>&lt;b>%1$d sekundy&lt;/b>&lt;/font>. Odinštalujte aktualizácie fotoaparátu a skúste to znova.&lt;/Data></item>
+        <item quantity="many">&lt;Data>Verzia fotoaparátu, ktorú používate, nie je kompatibilná s modelom vášho zariadenia.&lt;br>Aplikácia sa zavrie za &lt;font color=#FFCE16>&lt;b>%1$d sekundy&lt;/b>&lt;/font>. Odinštalujte aktualizácie fotoaparátu a skúste to znova.&lt;/Data></item>
     </plurals>
     <plurals name="fastmotion_pro_min_unit">
         <item quantity="other">%1$dmin</item>
@@ -124,17 +132,20 @@
         <item quantity="other">Dávkové snímanie dokončené, zhotovených %1$s snímkov</item>
         <item quantity="one">Dávkové snímanie dokončené, zhotovených %1$s snímkov</item>
     </plurals>
-    
-<plurals name="exo_controls_fastforward_by_amount_description">
-         <item quantity="other">Rýchlo vpred o %d sekúnd</item>
-         <item quantity="one">Rýchlo dopredu o %d sekundu</item>
-      </plurals>
-      <plurals name="exo_controls_rewind_by_amount_description">
-         <item quantity="other">Pretočiť dozadu %d sekundy</item>
-         <item quantity="one">Pretočenie o %d sekundu dozadu</item>
-      </plurals>
-      <plurals name="mtrl_badge_content_description">
-         <item quantity="other">%d nových upozornení</item>
-         <item quantity="one">%d nové upozornenie</item>
-      </plurals>    
+    <plurals name="delete_selection">
+        <item quantity="other">Vymazať zvolené položky?</item>
+        <item quantity="one">Vymazať zvolenú položku?</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Rýchlo vpred o %d sekúnd</item>
+        <item quantity="one">Rýchlo dopredu o %d sekundu</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Pretočiť dozadu %d sekundy</item>
+        <item quantity="one">Pretočenie o %d sekundu dozadu</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nových upozornení</item>
+        <item quantity="one">%d nové upozornenie</item>
+    </plurals>
 </resources>

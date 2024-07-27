@@ -29,13 +29,15 @@
         <item quantity="other">%d mins ago</item>
         <item quantity="one">1 min ago</item>
     </plurals>
-    <plurals name="birthday_format">
-        <item quantity="other">" (%1$d years old)"</item>
-        <item quantity="one">" (%1$d year old)"</item>
-    </plurals>
     <plurals name="count_duration_standard">
         <item quantity="other">%1$d-%2$d times</item>
         <item quantity="one">%1$d-%2$d time</item>
+    </plurals>
+    <plurals name="cousume_unit_format">
+        <item quantity="other">%1$d Cal</item>
+        <item quantity="one">%1$d Cal</item>
+        <item quantity="few">%1$d Cal</item>
+        <item quantity="many">%1$d Cal</item>
     </plurals>
     <plurals name="daily_suggestions_steps">
         <item quantity="other">Walk at least %1$d steps every day</item>
@@ -60,6 +62,12 @@
     <plurals name="dialog_delete_records_confirm">
         <item quantity="other">Delete %1$d records?</item>
         <item quantity="one">Delete %1$d record?</item>
+    </plurals>
+    <plurals name="distance_unit_kilometre">
+        <item quantity="other">%1$.1f km</item>
+        <item quantity="one">%1$.1f km</item>
+        <item quantity="few">%1$.1f km</item>
+        <item quantity="many">%1$.1f km</item>
     </plurals>
     <plurals name="dream_talk_segment">
         <item quantity="other">%1$d recordings</item>
@@ -104,10 +112,6 @@
         <item quantity="other">%1$d h</item>
         <item quantity="one">%1$d h</item>
     </plurals>
-    <plurals name="hr_fp_detect_time_remainder">
-        <item quantity="other">%1$d seconds remaining</item>
-        <item quantity="one">%1$d second remaining</item>
-    </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">In 1 hour</item>
     </plurals>
@@ -120,14 +124,6 @@
     <plurals name="in_num_minutes">
         <item quantity="other">o %d min</item>
         <item quantity="one">o 1 min</item>
-    </plurals>
-    <plurals name="last_measure_date_interval">
-        <item quantity="other">%1$d days since last weigh-in</item>
-        <item quantity="one">%1$d day since last weigh-in</item>
-    </plurals>
-    <plurals name="last_measure_day_body_weight">
-        <item quantity="other">%1$d days since last weigh-in</item>
-        <item quantity="one">%1$d day since last weigh-in</item>
     </plurals>
     <plurals name="length_unit_meter_format">
         <item quantity="other">%1$d meters</item>
@@ -164,9 +160,11 @@
         <item quantity="other">%1$d mins ago</item>
         <item quantity="one">%1$d min ago</item>
     </plurals>
-    <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d new notifications</item>
-        <item quantity="one">%d new notification</item>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Vybraných %d položiek</item>
+        <item quantity="one">Vybraná %d položka</item>
+        <item quantity="few">Vybrané %d položky</item>
+        <item quantity="many">Vybranej %d položky</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minutes ago</item>
@@ -180,73 +178,15 @@
         <item quantity="other">"Current settings won't guarantee you %1$d hours of sleep daily. You need more than that."</item>
         <item quantity="one">"Current settings won't guarantee you %1$d hour of sleep daily. You need more than that."</item>
     </plurals>
-    <plurals name="sport_tts_goal_consume">
-        <item quantity="other">%s more Calories left to burn till you reach your goal</item>
-        <item quantity="one">%s more Calorie left to burn till you reach your goal</item>
-    </plurals>
-    <plurals name="sport_tts_goal_distance">
-        <item quantity="other">%s more kilometers left till you reach your goal</item>
-        <item quantity="one">%s more kilometer left till you reach your goal</item>
-    </plurals>
-    <plurals name="sport_tts_goal_time">
-        <item quantity="other">%s more minutes left till you reach your goal</item>
-        <item quantity="one">%s more minute left till you reach your goal</item>
-    </plurals>
-    <plurals name="sport_tts_riding_distance">
-        <item quantity="other">"You've cycled %s kilometers"</item>
-        <item quantity="one">"You've cycled %s kilometer"</item>
-    </plurals>
-    <plurals name="sport_tts_running_distance">
-        <item quantity="other">"You've run %s kilometers"</item>
-        <item quantity="one">"You've run %s kilometer"</item>
-    </plurals>
-    <plurals name="sport_tts_total_consume">
-        <item quantity="other">"You've burned %s Calories"</item>
-        <item quantity="one">"You've burned %s Calorie"</item>
-    </plurals>
-    <plurals name="sport_tts_walking_distance">
-        <item quantity="other">"You've walked %s kilometers"</item>
-        <item quantity="one">"You've walked %s kilometer"</item>
-    </plurals>
-    <plurals name="sporting_content_calories">
-        <item quantity="other">"You've already walked %1$s Calories"</item>
-        <item quantity="one">"You've already burned %1$s Calorie"</item>
-    </plurals>
-    <plurals name="sporting_content_min">
-        <item quantity="other">%1$d min</item>
-        <item quantity="one">%1$d min</item>
-    </plurals>
-    <plurals name="sporting_content_riding_km">
-        <item quantity="other">"You've already cycled %1$s kilometers"</item>
-        <item quantity="one">"You've already cycled %1$s kilometer"</item>
-    </plurals>
-    <plurals name="sporting_content_running_km">
-        <item quantity="other">"You've already ran %1$s kilometers"</item>
-        <item quantity="one">"You've already ran %1$s kilometer"</item>
-    </plurals>
-    <plurals name="sporting_content_sec">
-        <item quantity="other">%1$d s</item>
-        <item quantity="one">%1$d s</item>
-    </plurals>
-    <plurals name="sporting_content_walking_km">
-        <item quantity="other">"You've already walked %1$s kilometers"</item>
-        <item quantity="one">"You've already walked %1$s kilometer"</item>
-    </plurals>
-    <plurals name="sporting_content_walking_stpe">
-        <item quantity="other">"You've already walked %1$s steps"</item>
-        <item quantity="one">"You've already walked %1$s step"</item>
-    </plurals>
-    <plurals name="sporting_unit_calories">
-        <item quantity="other">%1$d Cal</item>
-        <item quantity="one">%1$d Cal</item>
-    </plurals>
-    <plurals name="sporting_unit_step">
-        <item quantity="other">krokov</item>
-        <item quantity="one">krok</item>
-    </plurals>
     <plurals name="step_num_format">
         <item quantity="other">%1$d krokov</item>
         <item quantity="one">%1$d krok</item>
+    </plurals>
+    <plurals name="steps_format">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+        <item quantity="few">%1$d</item>
+        <item quantity="many">%1$d</item>
     </plurals>
     <plurals name="subtitle_add_record">
         <item quantity="other">"You haven't recorded for %1$d days. Record your periods to get more accurate predictions."</item>
@@ -347,5 +287,89 @@
     <plurals name="user_age_display_format_year">
         <item quantity="other">%1$d years old</item>
         <item quantity="one">%1$d year old</item>
+    </plurals>
+    <plurals name="birthday_format">
+        <item quantity="other">" (%1$d years old)"</item>
+        <item quantity="one">" (%1$d year old)"</item>
+    </plurals>
+    <plurals name="hr_fp_detect_time_remainder">
+        <item quantity="other">%1$d seconds remaining</item>
+        <item quantity="one">%1$d second remaining</item>
+    </plurals>
+    <plurals name="last_measure_date_interval">
+        <item quantity="other">%1$d days since last weigh-in</item>
+        <item quantity="one">%1$d day since last weigh-in</item>
+    </plurals>
+    <plurals name="last_measure_day_body_weight">
+        <item quantity="other">%1$d days since last weigh-in</item>
+        <item quantity="one">%1$d day since last weigh-in</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d new notifications</item>
+        <item quantity="one">%d new notification</item>
+    </plurals>
+    <plurals name="sport_tts_goal_consume">
+        <item quantity="other">%s more Calories left to burn till you reach your goal</item>
+        <item quantity="one">%s more Calorie left to burn till you reach your goal</item>
+    </plurals>
+    <plurals name="sport_tts_goal_distance">
+        <item quantity="other">%s more kilometers left till you reach your goal</item>
+        <item quantity="one">%s more kilometer left till you reach your goal</item>
+    </plurals>
+    <plurals name="sport_tts_goal_time">
+        <item quantity="other">%s more minutes left till you reach your goal</item>
+        <item quantity="one">%s more minute left till you reach your goal</item>
+    </plurals>
+    <plurals name="sport_tts_riding_distance">
+        <item quantity="other">"You've cycled %s kilometers"</item>
+        <item quantity="one">"You've cycled %s kilometer"</item>
+    </plurals>
+    <plurals name="sport_tts_running_distance">
+        <item quantity="other">"You've run %s kilometers"</item>
+        <item quantity="one">"You've run %s kilometer"</item>
+    </plurals>
+    <plurals name="sport_tts_total_consume">
+        <item quantity="other">"You've burned %s Calories"</item>
+        <item quantity="one">"You've burned %s Calorie"</item>
+    </plurals>
+    <plurals name="sport_tts_walking_distance">
+        <item quantity="other">"You've walked %s kilometers"</item>
+        <item quantity="one">"You've walked %s kilometer"</item>
+    </plurals>
+    <plurals name="sporting_content_calories">
+        <item quantity="other">"You've already walked %1$s Calories"</item>
+        <item quantity="one">"You've already burned %1$s Calorie"</item>
+    </plurals>
+    <plurals name="sporting_content_min">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="sporting_content_riding_km">
+        <item quantity="other">"You've already cycled %1$s kilometers"</item>
+        <item quantity="one">"You've already cycled %1$s kilometer"</item>
+    </plurals>
+    <plurals name="sporting_content_running_km">
+        <item quantity="other">"You've already ran %1$s kilometers"</item>
+        <item quantity="one">"You've already ran %1$s kilometer"</item>
+    </plurals>
+    <plurals name="sporting_content_sec">
+        <item quantity="other">%1$d s</item>
+        <item quantity="one">%1$d s</item>
+    </plurals>
+    <plurals name="sporting_content_walking_km">
+        <item quantity="other">"You've already walked %1$s kilometers"</item>
+        <item quantity="one">"You've already walked %1$s kilometer"</item>
+    </plurals>
+    <plurals name="sporting_content_walking_stpe">
+        <item quantity="other">"You've already walked %1$s steps"</item>
+        <item quantity="one">"You've already walked %1$s step"</item>
+    </plurals>
+    <plurals name="sporting_unit_calories">
+        <item quantity="other">%1$d Cal</item>
+        <item quantity="one">%1$d Cal</item>
+    </plurals>
+    <plurals name="sporting_unit_step">
+        <item quantity="other">krokov</item>
+        <item quantity="one">krok</item>
     </plurals>
 </resources>

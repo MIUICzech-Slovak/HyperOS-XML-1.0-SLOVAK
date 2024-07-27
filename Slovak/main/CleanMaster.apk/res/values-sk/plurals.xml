@@ -41,10 +41,6 @@
         <item quantity="other">Nebolo použité %d roky</item>
         <item quantity="one">Nebolo použité %d rok</item>
     </plurals>
-    <plurals name="clean_app_data_selected_app">
-        <item quantity="other">Vybrané aplikácie: %d</item>
-        <item quantity="one">Vybrané aplikácie: %d</item>
-    </plurals>
     <plurals name="clean_long_msg_p1">
         <item quantity="other">"Čistenie %1$d súborov,%2$d dokončené
 "</item>
@@ -54,14 +50,6 @@
     <plurals name="clean_long_msg_p2">
         <item quantity="other">%1$d%% položiek/s ostáva: %2$s</item>
         <item quantity="one">%1$d%% položiek/s ostáva: %2$s</item>
-    </plurals>
-    <plurals name="days_ago">
-        <item quantity="other">pred %1$d dňami</item>
-        <item quantity="zero">pred %1$d dňami</item>
-        <item quantity="one">pred %1$d dňom</item>
-        <item quantity="two">pred %1$d dňami</item>
-        <item quantity="few">pred %1$d dňami</item>
-        <item quantity="many">pred %1$d dňami</item>
     </plurals>
     <plurals name="dc_group_title_normal">
         <item quantity="other">%1$d krokmi uvoľníte %2$s</item>
@@ -74,10 +62,6 @@
     <plurals name="dc_item_summary_app_data">
         <item quantity="other">Môžete vymazať dáta pre %d apl.</item>
         <item quantity="one">Môžete vymazať dáta pre %d apl.</item>
-    </plurals>
-    <plurals name="dc_item_summary_app_reset">
-        <item quantity="other">%d aplikácií obsadilo veľa úložného priestoru</item>
-        <item quantity="one">%d aplikácia obsadila veľa úložného priestoru</item>
     </plurals>
     <plurals name="dc_item_summary_image">
         <item quantity="other">Môžete vymazať  %d fotografií</item>
@@ -166,14 +150,6 @@
         <item quantity="other">%1$dh</item>
         <item quantity="one">%1$dh</item>
     </plurals>
-    <plurals name="hours_ago">
-        <item quantity="other">pred %1$d hod.</item>
-        <item quantity="zero">pred %1$d hod.</item>
-        <item quantity="one">pred %1$d hod.</item>
-        <item quantity="two">pred %1$d hod.</item>
-        <item quantity="few">pred %1$d hod.</item>
-        <item quantity="many">pred %1$d hod.</item>
-    </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Do hodiny</item>
     </plurals>
@@ -202,17 +178,6 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Teraz</item>
     </plurals>
-    <plurals name="million">
-        <item quantity="other">Stiahnuté %1$d ľuďmi</item>
-    </plurals>
-    <plurals name="mins_ago">
-        <item quantity="other">pred %1$d min.</item>
-        <item quantity="zero">pred %1$d min.</item>
-        <item quantity="one">pred %1$d min.</item>
-        <item quantity="two">pred %1$d min.</item>
-        <item quantity="few">pred %1$d min.</item>
-        <item quantity="many">pred %1$d min.</item>
-    </plurals>
     <plurals name="minute">
         <item quantity="other">%1$dmin</item>
         <item quantity="one">%1$dmin</item>
@@ -220,10 +185,6 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">Položiek: %1$s</item>
         <item quantity="one">Položiek: %1$s</item>
-    </plurals>
-    <plurals name="notification_checker_installed_apk_text">
-        <item quantity="other">Vymazať %d inštalačných balíčkov</item>
-        <item quantity="one">Vymazať %d inštalačný balíček</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Pred %d minútami</item>
@@ -235,13 +196,94 @@
     <plurals name="people_million">
         <item quantity="other">Stiahnuté %1$d ľuďmi</item>
     </plurals>
-    <plurals name="reset_app_selected_app">
-        <item quantity="other">Vybrané aplikácie: %d</item>
-        <item quantity="one">Vybrané aplikácie: %d</item>
-    </plurals>
     <plurals name="resutl_function_install_app_summary">
         <item quantity="other">%d aplikácií nebolo dlho používaných.</item>
         <item quantity="one">%d aplikácia nebola dlho používaná</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%1$ds</item>
+        <item quantity="one">%1$ds</item>
+    </plurals>
+    <plurals name="view_num">
+        <item quantity="other">%1$s zobrazení</item>
+        <item quantity="one">%1$s zobrazenie</item>
+        <item quantity="few">%1$s zobrazenia</item>
+        <item quantity="many">%1$s zobrazenia</item>
+    </plurals>
+    <plurals name="wechat_copy_video_failed_dialog_msg">
+        <item quantity="other">Nepodarilo sa exportovať %d videí. Uvoľnite miesto a skúste to znova</item>
+        <item quantity="one">Nepodarilo sa exportovať %d video. Uvoľnite miesto a skúste to znovu.</item>
+        <item quantity="few">Nepodarilo sa exportovať %d videá. Uvoľnite miesto a skúste to znova</item>
+        <item quantity="many">Nepodarilo sa exportovať %d videa. Uvoľnite miesto a skúste to znova</item>
+    </plurals>
+    <plurals name="wechat_empty_files">
+        <item quantity="other">(%1$d prázdnych súborov)</item>
+        <item quantity="one">(%1$d prázdny súbor)</item>
+        <item quantity="few">(%1$d prázdne súbory)</item>
+        <item quantity="many">(%1$d prázdneho súboru)</item>
+    </plurals>
+    <plurals name="wechat_video_time_p1">
+        <item quantity="other">%1$s:</item>
+        <item quantity="one">%1$s:</item>
+        <item quantity="few">%1$s:</item>
+        <item quantity="many">%1$s:</item>
+    </plurals>
+    <plurals name="wechat_video_time_p2">
+        <item quantity="other">%1$s</item>
+        <item quantity="one">%1$s</item>
+        <item quantity="few">%1$s</item>
+        <item quantity="many">%1$s</item>
+    </plurals>
+    <plurals name="whatsapp_delete_files">
+        <item quantity="other">Vymazať súbory (%1$d)?</item>
+        <item quantity="one">Vymazať súbory (%1$d)?</item>
+    </plurals>
+    <plurals name="whatsapp_file_audio_dec">
+        <item quantity="other">Nahrávok: %1$s</item>
+        <item quantity="one">Nahrávok: %1$s</item>
+    </plurals>
+    <plurals name="clean_app_data_selected_app">
+        <item quantity="other">Vybrané aplikácie: %d</item>
+        <item quantity="one">Vybrané aplikácie: %d</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">pred %1$d dňami</item>
+        <item quantity="zero">pred %1$d dňami</item>
+        <item quantity="one">pred %1$d dňom</item>
+        <item quantity="two">pred %1$d dňami</item>
+        <item quantity="few">pred %1$d dňami</item>
+        <item quantity="many">pred %1$d dňami</item>
+    </plurals>
+    <plurals name="dc_item_summary_app_reset">
+        <item quantity="other">%d aplikácií obsadilo veľa úložného priestoru</item>
+        <item quantity="one">%d aplikácia obsadila veľa úložného priestoru</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">pred %1$d hod.</item>
+        <item quantity="zero">pred %1$d hod.</item>
+        <item quantity="one">pred %1$d hod.</item>
+        <item quantity="two">pred %1$d hod.</item>
+        <item quantity="few">pred %1$d hod.</item>
+        <item quantity="many">pred %1$d hod.</item>
+    </plurals>
+    <plurals name="million">
+        <item quantity="other">Stiahnuté %1$d ľuďmi</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">pred %1$d min.</item>
+        <item quantity="zero">pred %1$d min.</item>
+        <item quantity="one">pred %1$d min.</item>
+        <item quantity="two">pred %1$d min.</item>
+        <item quantity="few">pred %1$d min.</item>
+        <item quantity="many">pred %1$d min.</item>
+    </plurals>
+    <plurals name="notification_checker_installed_apk_text">
+        <item quantity="other">Vymazať %d inštalačných balíčkov</item>
+        <item quantity="one">Vymazať %d inštalačný balíček</item>
+    </plurals>
+    <plurals name="reset_app_selected_app">
+        <item quantity="other">Vybrané aplikácie: %d</item>
+        <item quantity="one">Vybrané aplikácie: %d</item>
     </plurals>
     <plurals name="rs_clean_size_hint_image">
         <item quantity="other">Dosť pre %d fotografií</item>
@@ -250,10 +292,6 @@
     <plurals name="rs_clean_size_hint_song">
         <item quantity="other">Dosť pre %d skladieb</item>
         <item quantity="one">Dosť pre %d skladieb</item>
-    </plurals>
-    <plurals name="second">
-        <item quantity="other">%1$ds</item>
-        <item quantity="one">%1$ds</item>
     </plurals>
     <plurals name="select_app">
         <item quantity="other">Vybrané aplikácie: %d</item>
@@ -266,13 +304,5 @@
     <plurals name="video_clean_scan_app_result">
         <item quantity="other">%d apl. s videami v cache</item>
         <item quantity="one">%d apl. s videami v cache</item>
-    </plurals>
-    <plurals name="whatsapp_delete_files">
-        <item quantity="other">Vymazať súbory (%1$d)?</item>
-        <item quantity="one">Vymazať súbory (%1$d)?</item>
-    </plurals>
-    <plurals name="whatsapp_file_audio_dec">
-        <item quantity="other">Nahrávok: %1$s</item>
-        <item quantity="one">Nahrávok: %1$s</item>
     </plurals>
 </resources>

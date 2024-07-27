@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accept_modify_call_request_prompt">Prijať požiadavku na zmenu volania?</string>
     <string name="add_vm_number_str">Pridať číslo</string>
@@ -401,33 +401,32 @@ Stlačte \"%1$s\" a potom vyberte \"%2$s\"."</string>
     <string name="wednesday_shortest">S</string>
     <string name="wifi_call">VoWi-fi hovor</string>
     <string name="yesterday">Včera</string>
-    
-<string name="align_satellite_model_exit">Ukončiť</string>
-      <string name="align_satellite_model_use">Štart</string>
-      <string name="antispam_notification_text">Klepnutím zapnete inteligentné funkcie DND</string>
-      <string name="focus_notification_on_call">Volá sa…</string>
-      <string name="miuix_appcompat_edit">Upraviť</string>
-      <string name="relay_call_unable_to_work">"Túto funkciu nie je možné použiť pre prepojené hovory"</string>
-      <string name="relay_device_local">Toto zariadenie</string>
-      <string name="relay_device_type_pc">Počítač</string>
-      <string name="relay_stop_recorder">Nahrávanie sa zastavilo</string>
-      <string name="satellite_call_failed">Signál je prerušený. Skúste to znova.</string>
-      <string name="satellite_dialog_button">Plávajúce okno</string>
-      <string name="satellite_dialog_cancel">Zrušiť</string>
-      <string name="satellite_guide_down">"Nakloňte zariadenie nadol
+    <string name="align_satellite_model_exit">Ukončiť</string>
+    <string name="align_satellite_model_use">Štart</string>
+    <string name="antispam_notification_text">Klepnutím zapnete inteligentné funkcie DND</string>
+    <string name="focus_notification_on_call">Volá sa…</string>
+    <string name="miuix_appcompat_edit">Upraviť</string>
+    <string name="relay_call_unable_to_work">"Túto funkciu nie je možné použiť pre prepojené hovory"</string>
+    <string name="relay_device_local">Toto zariadenie</string>
+    <string name="relay_device_type_pc">Počítač</string>
+    <string name="relay_stop_recorder">Nahrávanie sa zastavilo</string>
+    <string name="satellite_call_failed">Signál je prerušený. Skúste to znova.</string>
+    <string name="satellite_dialog_button">Plávajúce okno</string>
+    <string name="satellite_dialog_cancel">Zrušiť</string>
+    <string name="satellite_guide_down">"Nakloňte zariadenie nadol
 a dajte loptu do modrej oblasti"</string>
-      <string name="satellite_guide_found">Nájdený satelit</string>
-      <string name="satellite_guide_left">"Nakloňte zariadenie doľava
+    <string name="satellite_guide_found">Nájdený satelit</string>
+    <string name="satellite_guide_left">"Nakloňte zariadenie doľava
 umiestnite ikonu satelitu do modrej oblasti"</string>
-      <string name="satellite_guide_right">"Nakloňte svoje zariadenie doprava
+    <string name="satellite_guide_right">"Nakloňte svoje zariadenie doprava
 umiestnite ikonu satelitu do modrej oblasti"</string>
-      <string name="satellite_guide_searching">Hľadá sa satelit…</string>
-      <string name="satellite_guide_searching_floating">Prebieha vyhľadávanie…</string>
-      <string name="satellite_guide_up">"Nakloňte zariadenie nahor
+    <string name="satellite_guide_searching">Hľadá sa satelit…</string>
+    <string name="satellite_guide_searching_floating">Prebieha vyhľadávanie…</string>
+    <string name="satellite_guide_up">"Nakloňte zariadenie nahor
 a dajte loptu do modrej oblasti"</string>
-      <string name="satellite_incall_tip">Reproduktor je zapnutý</string>
-      <string name="satellite_service_provider">Poskytuje China Telecom</string>
-      <string name="satellite_state">Nehýbte zariadením</string>
-      <string name="satellite_state_connected">"Pripojené k satelitu. Nehýbte zariadením."</string>
-      <string name="satellite_state_connected_floating">Nehýbte zariadením</string>    
+    <string name="satellite_incall_tip">Reproduktor je zapnutý</string>
+    <string name="satellite_service_provider">Poskytuje China Telecom</string>
+    <string name="satellite_state">Nehýbte zariadením</string>
+    <string name="satellite_state_connected">"Pripojené k satelitu. Nehýbte zariadením."</string>
+    <string name="satellite_state_connected_floating">Nehýbte zariadením</string>
 </resources>

@@ -1,5 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string formatted="false" name="date_and_time">%-k:%M:%S %-e. %-m. %Y</string>
+    <string name="date_time">%2$s %1$s</string>
+    <string formatted="false" name="month_day_year">%-e. %B %Y</string>
+    <string formatted="false" name="time_of_day">%-k:%M:%S</string>
     <string name="BaMmi">Blokovanie hovorov</string>
     <string name="CLIRDefaultOffNextCallOff">V predvolenom nastavení nie je identifikácia volajúceho obmedzená. Ďalší hovor: Bez obmedzenia</string>
     <string name="CLIRDefaultOffNextCallOn">V predvolenom nastavení nie je identifikácia volajúceho obmedzená. Ďalší hovor: Obmedzené</string>
@@ -133,7 +137,7 @@ Chcete ho zavrieť?"</string>
     <string name="chooseUsbActivity">Zvoľte aplikáciu pre zariadenie USB</string>
     <string name="choose_account_label">Zvoliť účet</string>
     <string name="chooser_wallpaper">Zmeniť tapetu</string>
-    <string name="clearDefaultHintMsg">Vymazať predvolené nastavenia v sekcii Nastavenia systému &gt; Aplikácie &gt; Prevzaté položky.</string>
+    <string name="clearDefaultHintMsg">Vymazať predvolené nastavenia v sekcii Nastavenia systému > Aplikácie > Prevzaté položky.</string>
     <string name="common_name">Bežný názov:</string>
     <string name="configure_input_methods">Nastavenie metód vstupu</string>
     <string name="contentServiceSync">Synchronizovať</string>
@@ -160,7 +164,6 @@ pre %s."</string>
     <string name="data_usage_warning_title">Upozornenie o využití dát</string>
     <string name="data_usage_wifi_limit_snoozed_title">Dát. limit Wi-Fi bol prekročený</string>
     <string name="data_usage_wifi_limit_title">Prenos dát cez Wi-Fi – zakázaný</string>
-    <string formatted="false" name="date_and_time">%-k:%M:%S %-e.%-m.%Y</string>
     <string name="date_picker_decrement_day_button">Ubrať deň</string>
     <string name="date_picker_decrement_month_button">Ubrať mesiac</string>
     <string name="date_picker_decrement_year_button">Ubrať rok</string>
@@ -168,7 +171,6 @@ pre %s."</string>
     <string name="date_picker_increment_day_button">Pridať deň</string>
     <string name="date_picker_increment_month_button">Pridať mesiac</string>
     <string name="date_picker_increment_year_button">Pridať rok</string>
-    <string name="date_time">%2$s %1$s</string>
     <string name="date_time_done">Hotovo</string>
     <string name="date_time_set">Nastaviť</string>
     <string name="day">deň</string>
@@ -422,7 +424,7 @@ Naozaj chcete túto stránku opustiť?"</string>
     <string name="kg_invalid_sim_pin_hint">Zadajte kód PIN s dĺžkou 4 až 8 číslic.</string>
     <string name="kg_invalid_sim_puk_hint">Kód PUK musí obsahovať 8 alebo viac číslic.</string>
     <string name="kg_login_account_recovery_hint">"Zabudli ste svoje používateľské meno alebo heslo?
- Navštívte stránky "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
+ Navštívte stránky "&lt;b>google.com/accounts/recovery&lt;/b>.</string>
     <string name="kg_login_checking_password">Prebieha kontrola účtu...</string>
     <string name="kg_login_instructions">Ak chcete telefón odomknúť, prihláste sa pomocou svojho účtu Google.</string>
     <string name="kg_login_invalid_input">Neplatné používateľské meno alebo heslo.</string>
@@ -495,7 +497,7 @@ Ak ju chcete uvoľniť, klepnite na tlačidlo Domov a Zapínanie a podržte ho."
     <string name="lockscreen_failed_attempts_now_wiping">Telefón ste sa pokúsili odomknúť nesprávnym spôsobom %d-krát. V telefóne sa teraz obnovia predvolené továrenské nastavenia.</string>
     <string name="lockscreen_forgot_pattern_button_text">Zabudli ste vzor?</string>
     <string name="lockscreen_glogin_account_recovery_hint">"Zabudli ste používateľské meno alebo heslo?
-Navštívte stránky "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
+Navštívte stránky "&lt;b>google.com/accounts/recovery&lt;/b>.</string>
     <string name="lockscreen_glogin_checking_password">Prebieha kontrola…</string>
     <string name="lockscreen_glogin_forgot_pattern">Odomknutie účtu</string>
     <string name="lockscreen_glogin_instructions">Ak chcete telefón odomknúť, prihláste sa pomocou svojho účtu Google.</string>
@@ -666,7 +668,6 @@ Skúste to znova o %d s."</string>
     <string name="mmiComplete">Funkcia MMI bola dokončená.</string>
     <string name="mmiError">Problém s pripojením alebo neplatný kód MMI.</string>
     <string name="mmiFdnError">Operácia je obmedzená len na režim čísla pevného vytáčania.</string>
-    <string formatted="false" name="month_day_year">%-e. %B %Y</string>
     <string name="more_item_label">Viac</string>
     <string name="needPuk">Karta SIM je uzamknutá pomocou kódu PUK. Odomknite ju zadaním kódu PUK.</string>
     <string name="needPuk2">Ak chcete odblokovať kartu SIM, zadajte kód PUK2.</string>
@@ -1404,7 +1405,7 @@ Dlhodobé počúvanie pri vysokej hlasitosti môže poškodiť váš sluch."</st
     <string name="save_password_never">Nikdy</string>
     <string name="save_password_notnow">Teraz nie</string>
     <string name="save_password_remember">Zapamätať</string>
-    <string name="screen_compat_mode_hint">Povoľte to znova v sekcii Nastavenia systému &gt; Aplikácie &gt; Prevzaté súbory.</string>
+    <string name="screen_compat_mode_hint">Povoľte to znova v sekcii Nastavenia systému > Aplikácie > Prevzaté súbory.</string>
     <string name="screen_compat_mode_scale">Prispôsobiť veľkosť</string>
     <string name="screen_compat_mode_show">Vždy zobraziť</string>
     <string name="screen_lock">Uzamknutie obrazovky</string>
@@ -1481,7 +1482,7 @@ Dlhodobé počúvanie pri vysokej hlasitosti môže poškodiť váš sluch."</st
     <string name="sms_short_code_confirm_never_allow">Nikdy nepovoliť</string>
     <string name="sms_short_code_details">Môžu sa účtovať poplatky za mobilný internet</string>
     <string name="sms_short_code_remember_choice">Zapamätať si voľbu</string>
-    <string name="sms_short_code_remember_undo_instruction">Zmena v časti Nastavenia &gt; Aplikácie</string>
+    <string name="sms_short_code_remember_undo_instruction">Zmena v časti Nastavenia > Aplikácie</string>
     <string name="smv_application">Aplikácia %1$s (proces %2$s) porušila svoje vlastné vynútené pravidlá StrictMode.</string>
     <string name="smv_process">Proces %1$s porušil svoje vlastné vynútené pravidlá StrictMode.</string>
     <string name="ssl_ca_cert_noti_by_unknown">Neznámou treťou stranou</string>
@@ -1522,7 +1523,6 @@ Dlhodobé počúvanie pri vysokej hlasitosti môže poškodiť váš sluch."</st
     <string name="throttle_warning_notification_title">Vysoké využitie mobilných údajov</string>
     <string name="throttled_notification_message">Dotykom zobrazíte viac informácií o využití mobilných údajov.</string>
     <string name="throttled_notification_title">Bol prekročený limit mobilných údajov</string>
-    <string formatted="false" name="time_of_day">%-k:%M:%S</string>
     <string name="time_picker_decrement_hour_button">Ubrať hodinu</string>
     <string name="time_picker_decrement_minute_button">Ubrať minútu</string>
     <string name="time_picker_decrement_set_am_button">Nastaviť čas dopoludnia</string>
@@ -1535,7 +1535,7 @@ Dlhodobé počúvanie pri vysokej hlasitosti môže poškodiť váš sluch."</st
     <string name="turn_on_radio">Zapnúť bezdrôtové pripojenie</string>
     <string name="tutorial_double_tap_to_zoom_message_short">Ovládacie prvky lupy zobrazíte dvojitým dotknutím</string>
     <string name="unknownName">(Neznáme)</string>
-    <string name="untitled">&lt;Bez mena&gt;</string>
+    <string name="untitled">&lt;Bez mena></string>
     <string name="upload_file">Zvoliť súbor</string>
     <string name="usb_accessory_notification_title">Pripojené k periférnemu zariadeniu USB</string>
     <string name="usb_cd_installer_notification_title">Pripojené ako inštalátor</string>

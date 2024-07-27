@@ -29,14 +29,6 @@
         <item quantity="other">Pred %d minútami</item>
         <item quantity="one">Pred minútou</item>
     </plurals>
-    <plurals name="alert_dialog_exit_ecm">
-        <item quantity="other">Telefón bude v režime spätného núdzového (SOS) volania po dobu %s minút. Zrušiť?</item>
-        <item quantity="one">Telefón bude v režime spätného núdzového (SOS) volania po dobu %s minúty. Zrušiť?</item>
-    </plurals>
-    <plurals name="alert_dialog_not_avaialble_in_ecm">
-        <item quantity="other">Táto voľba nie je dostupná v režime núdzového (SOS) volania. Telefón bude v tomto režime %s minút. Zrušiť?</item>
-        <item quantity="one">Táto voľba nie je dostupná v režime núdzového (SOS) volania. Telefón bude v tomto režime %s minútu. Zrušiť?</item>
-    </plurals>
     <plurals name="auto_answer_summary_delay">
         <item quantity="other">Oneskorenie: %s s</item>
         <item quantity="one">Oneskorenie: %s s</item>
@@ -49,16 +41,24 @@
         <item quantity="other">Čísel: %d</item>
         <item quantity="one">Čísel: %d</item>
     </plurals>
-    <plurals name="call_recording_notification_complete">
-        <item quantity="other">Nahrané hovory: %d</item>
-        <item quantity="one">1 nahraný hovor</item>
-    </plurals>
     <plurals name="call_remove_exception_numbers_confirm">
         <item quantity="other">%d čísel bude vymazaných.</item>
         <item quantity="one">%d číslo bude vymazané.</item>
     </plurals>
+    <plurals name="day">
+        <item quantity="other">%s dní</item>
+        <item quantity="one">%s deň</item>
+        <item quantity="few">%s dni</item>
+        <item quantity="many">%s dňa</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Pred pol hodinou</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%s hodín</item>
+        <item quantity="one">%s hodina</item>
+        <item quantity="few">%s hodiny</item>
+        <item quantity="many">%s hodiny</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Do hodiny</item>
@@ -84,15 +84,27 @@
         <item quantity="other">Pred %d minútami</item>
         <item quantity="one">Pred minútou</item>
     </plurals>
-    <plurals name="phone_in_ecm_notification_time">
-        <item quantity="other">Žiadne dátové pripojenie po dobu %s minút</item>
-        <item quantity="one">Žiadne dátové pripojenie po dobu %s minúty</item>
-    </plurals>
     <plurals name="pin_attempts">
         <item quantity="other">"
 Ostáva %d pokusov."</item>
         <item quantity="one">"
 Ostáva %d pokus."</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Telefón bude v režime spätného núdzového (SOS) volania po dobu %s minút. Zrušiť?</item>
+        <item quantity="one">Telefón bude v režime spätného núdzového (SOS) volania po dobu %s minúty. Zrušiť?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Táto voľba nie je dostupná v režime núdzového (SOS) volania. Telefón bude v tomto režime %s minút. Zrušiť?</item>
+        <item quantity="one">Táto voľba nie je dostupná v režime núdzového (SOS) volania. Telefón bude v tomto režime %s minútu. Zrušiť?</item>
+    </plurals>
+    <plurals name="call_recording_notification_complete">
+        <item quantity="other">Nahrané hovory: %d</item>
+        <item quantity="one">1 nahraný hovor</item>
+    </plurals>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Žiadne dátové pripojenie po dobu %s minút</item>
+        <item quantity="one">Žiadne dátové pripojenie po dobu %s minúty</item>
     </plurals>
     <plurals name="remove_numbers_confirm">
         <item quantity="other">Čísla (%d) budú zmazané.</item>

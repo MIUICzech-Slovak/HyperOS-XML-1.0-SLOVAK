@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Clock_main">Budík</string>
     <string name="Clock_parent">Hodiny</string>
@@ -576,8 +576,8 @@ Pred pokračovaním si prečítajte a vyjadrite súhlas s novou verziou %s."</st
     <string name="pa_accessibility_picker_widget_detail_edit">Upraviť</string>
     <string name="pa_accessibility_picker_widget_detail_widget_add_to_desktop">Vybraná widget. Potiahnutím pridáte túto položku na domovskú obrazovku.</string>
     <string name="pa_accessibility_picker_widget_detail_widget_add_to_minus_desktop">Vybraná widget. Potiahnutím pridáte túto položku do trezoru aplikácie.</string>
-    <string name="pa_accessibility_picker_widget_group_all" formatted="false">Obchod s widgetmi. Vyberte, ak chcete zobraziť všetky widgety pre %s. Dvojitým klepnutím zobrazíte všetky widgety pre %s.</string>
-    <string name="pa_accessibility_picker_widget_group_item" formatted="false">Obchod s widgetmi. %s Vybraté. Dvojitým klepnutím otvoríte popis widgetu. Položka obsahuje widget %s.</string>
+    <string formatted="false" name="pa_accessibility_picker_widget_group_all">Obchod s widgetmi. Vyberte, ak chcete zobraziť všetky widgety pre %s. Dvojitým klepnutím zobrazíte všetky widgety pre %s.</string>
+    <string formatted="false" name="pa_accessibility_picker_widget_group_item">Obchod s widgetmi. %s Vybraté. Dvojitým klepnutím otvoríte popis widgetu. Položka obsahuje widget %s.</string>
     <string name="pa_accessibility_picker_widget_maml_detail_edit_add_to_minus_desktop">Upravte dvojitým klepnutím.</string>
     <string name="pa_announce_for_delete_gadget_and_widget">Widget</string>
     <string name="pa_app_label">Asistent</string>
@@ -792,7 +792,7 @@ na zobrazenie widgetov."</string>
     <string name="pa_setting_privacy_policy_update_agree">Súhlasím</string>
     <string name="pa_setting_privacy_policy_update_exit">Ukončiť</string>
     <string name="pa_setting_privacy_policy_update_link">Zásady ochrany osobných údajov</string>
-    <string name="pa_setting_privacy_policy_update_message" formatted="false">"Zásady ochrany osobných údajov Asistenta boli aktualizované:
+    <string formatted="false" name="pa_setting_privacy_policy_update_message">"Zásady ochrany osobných údajov Asistenta boli aktualizované:
 %s Prečítajte si a vyjadrite súhlas s novou verziou %s, než budete pokračovať."</string>
     <string name="pa_setting_privacy_policy_update_title">Aktualizované zásady ochrany osobných údajov</string>
     <string name="pa_setting_privacy_revoke_cta">Odvolanie súhlasu</string>
@@ -1058,39 +1058,34 @@ na zobrazenie widgetov."</string>
     <string name="xspace_resolver_activity_title">vyberte aplikáciu</string>
     <string name="year_month_day_all_format_en">MM.dd.yyyy HH:mm:ss</string>
     <string name="yesterday">Včera</string>
-    
-<string name="pa_picker_tab_title_fun">Objavujte</string>
-     <string name="pa_setting_personalized_recommenddation_swicth_summary">Získajte odporúčania miniaplikácií na základe vašich záujmov</string>
-     <string name="pa_setting_personalized_recommenddation_swicth_title">Prispôsobené odporúčania</string>
-     <string name="pa_sports_jump_error">Stránku sa nepodarilo otvoriť kvôli chybe.</string>
-<string name="pa_picker_detail_bt_loading">Načítavanie...</string>
-     <string name="pa_picker_detail_state_error_retry">Vyskytol sa problém. Skúste to znova.</string>
-     <string name="pa_picker_detail_suit_price_already_bought">Zakúpené</string>
-     <string name="pa_picker_detail_suit_price_placeholder">5 Mi Coin</string>
-     <string name="pa_picker_detail_theme_app_need_login">Prihlásiť sa</string>
-     <string name="pa_picker_detail_theme_app_need_login_pre">Najprv sa prihláste do svojho účtu Xiaomi.</string>
-     <string name="pa_widget_advert_loading_dialog_message">Načítavanie...</string>     
-
-<string name="pa_picker_detail_add_to_stack">Pridať do skupiny</string>
-     <string name="pa_picker_detail_app_widget_in_dev">Táto miniaplikácia zatiaľ nie je k dispozícii. Môžete si namiesto nej vyskúšať iné wifgety.</string>
-     <string name="pa_picker_detail_view_more">Zobraziť viac</string>
-     <string name="pa_picker_stack_operate_empty_title">"Zatiaľ tu nič nie je.
+    <string name="pa_picker_tab_title_fun">Objavujte</string>
+    <string name="pa_setting_personalized_recommenddation_swicth_summary">Získajte odporúčania miniaplikácií na základe vašich záujmov</string>
+    <string name="pa_setting_personalized_recommenddation_swicth_title">Prispôsobené odporúčania</string>
+    <string name="pa_sports_jump_error">Stránku sa nepodarilo otvoriť kvôli chybe.</string>
+    <string name="pa_picker_detail_bt_loading">Načítavanie...</string>
+    <string name="pa_picker_detail_state_error_retry">Vyskytol sa problém. Skúste to znova.</string>
+    <string name="pa_picker_detail_suit_price_already_bought">Zakúpené</string>
+    <string name="pa_picker_detail_suit_price_placeholder">5 Mi Coin</string>
+    <string name="pa_picker_detail_theme_app_need_login">Prihlásiť sa</string>
+    <string name="pa_picker_detail_theme_app_need_login_pre">Najprv sa prihláste do svojho účtu Xiaomi.</string>
+    <string name="pa_widget_advert_loading_dialog_message">Načítavanie...</string>
+    <string name="pa_picker_detail_add_to_stack">Pridať do skupiny</string>
+    <string name="pa_picker_detail_app_widget_in_dev">Táto miniaplikácia zatiaľ nie je k dispozícii. Môžete si namiesto nej vyskúšať iné wifgety.</string>
+    <string name="pa_picker_detail_view_more">Zobraziť viac</string>
+    <string name="pa_picker_stack_operate_empty_title">"Zatiaľ tu nič nie je.
 Ak chcete začať, pridajte widgety."</string>
-     <string name="pa_picker_stack_operate_title">Upraviť skupinu</string>
-     <string name="pa_picker_toast_count_limit_for_stack">Pridajte až 10 položiek</string>
-     <string name="pa_stack_summary">Presunúť widgety s novými informáciami nahor</string>
-     <string name="pa_stack_text">Presunúť aktualizované položky nahor</string>
-     <string name="pa_widget_menu_edit_card_in_stack">Upraviť \"%s\"</string>
-     <string name="pa_widget_menu_edit_stack">Upraviť skupinu</string>
-     <string name="pa_widget_menu_remove_card_in_stack">Odstrániť \"%s\"</string>    
-     <string name="pa_setting_new_simplify_title_bar">Asistent</string>     
-     
-<string name="pa_widget_menu_improve_edit">Upraviť</string>
-     <string name="pa_widget_menu_improve_remove">Odstrániť</string>
-     <string name="pa_widget_menu_improve_remove_card_in_stack">Odstrániť \"%s\"</string>
-     <string name="pa_widget_menu_improve_replace">Nahradiť</string>     
-     
-         <string name="search_menu_title">Vyhľadať</string>
+    <string name="pa_picker_stack_operate_title">Upraviť skupinu</string>
+    <string name="pa_picker_toast_count_limit_for_stack">Pridajte až 10 položiek</string>
+    <string name="pa_stack_summary">Presunúť widgety s novými informáciami nahor</string>
+    <string name="pa_stack_text">Presunúť aktualizované položky nahor</string>
+    <string name="pa_widget_menu_edit_card_in_stack">Upraviť \"%s\"</string>
+    <string name="pa_widget_menu_edit_stack">Upraviť skupinu</string>
+    <string name="pa_widget_menu_remove_card_in_stack">Odstrániť \"%s\"</string>
+    <string name="pa_setting_new_simplify_title_bar">Asistent</string>
+    <string name="pa_widget_menu_improve_edit">Upraviť</string>
+    <string name="pa_widget_menu_improve_remove">Odstrániť</string>
+    <string name="pa_widget_menu_improve_remove_card_in_stack">Odstrániť \"%s\"</string>
+    <string name="pa_widget_menu_improve_replace">Nahradiť</string>
+    <string name="search_menu_title">Vyhľadať</string>
     <string name="pa_global_search_description">Vyhľadať</string>
-         
 </resources>
