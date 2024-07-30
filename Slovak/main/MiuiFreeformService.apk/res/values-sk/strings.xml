@@ -211,7 +211,7 @@ potom sa presuňte ťahaním“</string>
     <string name="freeform_recommend_open_switch_summary">Prijímať návrhy na otváranie aplikácií na rozdelenej obrazovke alebo v pohyblivých oknách na základe scenárov použitia</string>
     <string name="freeform_recommend_open_switch_summary_fold">V niektorých scenároch sa odporúčané aplikácie otvoria v plávajúcom okne na vonkajšej obrazovke a v plávajúcom okne alebo v rozdelenej obrazovke na vnútornej obrazovke</string>
     <string name="freeform_recommend_open_switch_summary_phone">V niektorých scenároch sa odporúčané aplikácie otvoria v plávajúcom okne</string>
-    <string name="freeform_recommend_open_switch_title">Inteligentné odporúčania</string>
+    <string name="freeform_recommend_open_switch_title">Inteligentné návrhy</string>
     <string name="freeform_slide_to_small_freeform">Potiahnite pre zmenšenie</string>
     <string name="freeform_slide_to_small_freeform_summary">Stlačte a potiahnite do lišty plávajúceho okna v pravom hornom rohu</string>
     <string name="freeform_vedio_description">"· Stlačte a podržte, potom potiahnite upozornenie, aby ste ho otvorili v plávajúcom okne.
@@ -411,6 +411,5 @@ potom sa presuňte ťahaním“</string>
     <string name="bubble_notification">Bubliny konverzácie</string>
     <string name="bubble_notification_switch">Zobraziť bubliny konverzácií</string>
     <string name="bubble_notification_switch_desc">Keď je aplikácia na odosielanie správ v plávajúcom okne skrytá na okraji obrazovky, prichádzajúce správy sa zobrazujú v bublinách</string>
-    <string name="freeform_recom   mend_open_switch_title">Inteligentné návrhy</string>
     <string name="miuix_appcompat_edit">Upraviť</string>
 </resources>
