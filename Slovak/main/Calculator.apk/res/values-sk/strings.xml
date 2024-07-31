@@ -358,7 +358,7 @@ Ročné a päťročné ZÚS budú stanovené vždy v 20. deň v mesiaci (môžu 
     <string name="mulDesc">krát</string>
     <string name="n_a">Nedostupné</string>
     <string name="name_cgst">CGST/SGST: 2.5</string>
-    <string name="name_discount">Zľava (%)</string>
+    <string name="name_discount">Zľava (%s)</string>
     <string name="name_original">Pôvodná cena</string>
     <string name="name_price">Konečná cena</string>
     <string name="name_save">"Ušetríte "</string>
