@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="enable_screen_projection_summary_new">Prenášajte obrazovku zariadenia na externé monitory</string>
-    <string name="help_page_text_09_new_1">Potiahnutím nadol otvoríte Centrum ovládania, zapnite prenos obrazu a potom vyhľadajte zariadenia v okolí.</string>
-    <string name="help_page_text_17_content">You can project items from your Xiaomi tablet on most Xiaomi TV models with Bluetooth capabilities without turning on Miracast manually. If you need to turn on Miracast, press the [MENU] button and start casting by using the option for other Android phones.</string>
-    <string name="screen_projection_example_document_summary_miui15">Prenášajte prezentácie do televízora a pritom prepínajte snímky a kontrolujte poznámky zo zariadenia.</string>
-    <string name="screen_projection_example_game_summary_miui15">Prenášajte hry zo zariadenia do televízora.</string>
-</resources>
