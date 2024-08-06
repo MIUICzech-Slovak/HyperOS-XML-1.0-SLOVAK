@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by HyperOS CZ&SK www.HyperOS.sk-->
-<resources>
-    <string-array name="ims_call_types">
-        <item>Hlas</item>
-        <item>Video</item>
-    </string-array>
-</resources>
