@@ -13015,4 +13015,17 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="view_fingerprint_privacy_policy"><Data>Prečítajte si &lt;a href =https://privacy.mi.com/setting-fingerprint/%1$s/>\"Odtlačky prstov &amp;#038; zámka obrazovky a vyjadrite s nimi súhlas \" Vyhlásenie o ochrane osobných údajov&lt;/a> predtým, než budete pokračovať.</Data></string>
     <string name="display_notification_icon_5">%d ikon</string>
     <string name="display_notification_icon_7">%d ikon</string>
+    
+<string name="gd_setting_dock_activity_title">Bočný panel nástrojov</string>
+ <string name="gd_setting_dock_call_summary">Funkcie pre hlasové hovory a videohovory (napr. podsvietenie)</string>
+ <string name="gd_setting_dock_call_title">Panel nástrojov na volanie</string>
+ <string name="gd_setting_dock_game_summary">Vylepšenie zobrazenia a výkonu pri hraní hier</string>
+ <string name="gd_setting_dock_game_summary_new">Vylepšenie zobrazenia a výkonu pri hraní hier</string>
+ <string name="gd_setting_dock_summary">Otváranie ďalších aplikácií v plávajúcich oknách pri používaní aplikácie na celú obrazovku</string>
+ <string name="gd_setting_dock_title">Bočný panel</string>
+ <string name="gd_setting_dock_video_summary">Pri sledovaní videí používajte efekty, ako je Dolby Atmos</string>
+ <string name="gd_setting_dock_video_summary_new">Používanie nástrojov a efektov pri sledovaní videí</string>
+ <string name="gd_setting_group_custom_conversation_apps">Nahrávanie hlasových záznamov pre hovory</string>
+ <string name="gd_setting_group_custom_gtb_apps_new">Správa herných aplikácií</string>
+ <string name="gd_setting_group_custom_vtb_apps_new">Spravovať video aplikácie</string>    
 </resources>
