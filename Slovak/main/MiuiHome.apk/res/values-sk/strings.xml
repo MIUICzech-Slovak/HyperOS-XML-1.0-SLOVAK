@@ -716,8 +716,8 @@ Zvýšená bezpečnosť."</string>
     <string name="server_error">Nastala chyba servera.</string>
     <string name="service_double_attention">Funkcie vylepšeného vyhľadávania poskytuje Branch Metrics Inc. Pre správne fungovanie budú informácie o vašom vyhľadávaní, Google Ads ID a IP adresa zdieľané so spoločnosťou Branch Metrics Inc. Pred použitím tejto aplikácie vyjadrite súhlas so zmluvami <font color="#B3000000"><a href="http://url1">Pravidlá a podmienky Discovery pre koncového používateľa</a></font> a <font color="#B3000000"><a href="http://url2">Zásady ochrany osobných údajov Branch Discovery</a></font>.</string>
     <string name="setting_close">Vypnuté</string>
-    <string name="setting_no_word">Kdekoľvek</string>
-    <string name="setting_only_widget_no_word">Na miniaplikáciách</string>
+    <string name="setting_no_word">Všade</string>
+    <string name="setting_only_widget_no_word">Na widgetoch</string>
     <string name="setting_wallpaper_tip">Posuňte alebo zväčšite</string>
     <string name="settings">Nastavenia</string>
     <string name="settings_shortcut">Skratky</string>
